@@ -1,0 +1,41 @@
+body {
+    background: url('Images/Parchmentbg.jpeg') no-repeat center center/cover;
+    font-family: 'Courier New', monospace;
+    color: #222;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    background: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 70%;
+    max-width: 600px;
+    text-align: center;
+}
+
+.enter-btn {
+    background: #600;
+    color: white;
+    font-weight: bold;
+}
+
+.enter-btn:hover {
+    background: #400;
+}
+
+footer {
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+    text-align: center;
+    color: #4F0208;
+    font-size: 1em;
+}
+
