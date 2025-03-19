@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Episode>
+    <line>Oh, <name>Gail</name>.</line>
+    <line>Hey, <name>Larry</name>.</line>
+    <line>I was just doing my woodworking,</line>
+    <line>needed a break.</line>
+    <line>I'm building a bridhouse for</line>
+    <line>the tweeties on my balcony.</line>
+    <line ending="question" start="hyphen">- You want a peek?</line>
+    <line start="hyphen">- I'm in a rush.</line>
+    <line>Yeah, I'm going</line>
+    <line>for a walk anyway.</line>
+    <line>Enjoy it.</line>
+    <line>Hey, you wanna see one of</line>
+    <line ending="question">the coolest spots in Philly?</line>
+    <line>It's three blocks from</line>
+    <line>here. I discovered it.</line>
+    <line>I've got a lot of reading to do.</line>
+    <line>And <name>Bruce</name> is coming over.</line>
+    <line>Good night, <name>Larry</name>.</line>
+    <line>How's "The Miller's Tale"</line>
+    <line ending="question">gonna help me in life?</line>
+    <line>Totally unreadable.</line>
+    <line>So drop the class.</line>
+    <line>fI'm going to</line>
+    <line>med school anyway.</line>
+    <line>Hey.</line>
+    <line ending="question">What?</line>
+    <line start="hyphen">- I'm done studying.</line>
+    <line start="hyphen">- I'm not.</line>
+    <line>Yeah, you are.</line>
+    <line><name>Bruce</name>, I have</line>
+    <line>a seminar in the morning.</line>
+    <line>It's only Summer school.</line>
+    <line>Skip it.</line>
+    <line>What am I gonna have to</line>
+    <line ending="question">do, kick you out of here?</line>
+    <line>I'm getting sick of that story, too.</line>
+    <line>Came in this morning</line>
+    <line>addressed to <crime_term>Homicide</crime_term>.</line>
+    <line>I think it's one of yours.</line>
+    <line>"Number one. Kitchen floor.</line>
+    <line>She had a useless</line>
+    <line>cat who did nothing."</line>
+    <line>"Number two. <description>Brunette</description>.</line>
+    <line>At least two useless cats."</line>
+    <line><name>Ellen Curtis</name> had two cats.</line>
+    <line>"Three. This one died on me.</line>
+    <line>And her useless cat just watched."</line>
+    <line>Oh... this <swear>bastard</swear>.</line>
+    <line>"I don't like what I do,</line>
+    <line>but I can't go yet.</line>
+    <line>The days are still warm."</line>
+    <line>That's him.</line>
+    <line ending="question">Try to get <evidence>prints</evidence> off this?</line>
+    <line>This guy doesn't leave <evidence>prints</evidence>.</line>
+    <line>Where has he</line>
+    <line ending="question">been for five years?</line>
+    <line>And why is he</line>
+    <line ending="question">sending us this letter?</line>
+    <line>He's bragging. He's</line>
+    <line>telling us he's back.</line>
+    <line>And that he's gonna do it again.</line>
+    <line>Guy broke in</line>
+    <line>through the window,</line>
+    <line><censored>r*ped</censored> her like all the others,</line>
+    <line>but <name>Gail</name> he <censored>k*lled</censored>.</line>
+    <line ending="question">He got through those bars?</line>
+    <line>Guy was some kind of spider.</line>
+    <line>He could climb walls,</line>
+    <line>get in tiny windows.</line>
+    <line start="hyphen">- So he's <description>skinny</description>.</line>
+    <line start="hyphen">- He's a <description>contortionist</description>.</line>
+    <line>Boss...</line>
+    <line>I don't have the constitution</line>
+    <line>to go after him again.</line>
+    <line>Why'd he <censored><crime_term>k*ll</crime_term></censored> <name>Gail</name></line>
+    <line ending="question">and not the others?</line>
+    <line>She fought back.</line>
+    <line ending="question">Any physical <crime_term>evidence</crime_term>?</line>
+    <line>Just the <evidence>DNA</evidence> from his <evidence>sperm</evidence>,</line>
+    <line>but we never found a match.</line>
+    <line>I got <evidence>samples</evidence> from everybody--</line>
+    <line>the neighbors, plumbers,</line>
+    <line>handymen... nothing.</line>
+    <line>It was like chasing a ghost.</line>
+    <line>Boss, I can't do this.</line>
+    <line>I'm not asking you to, <name>Nick</name>.</line>
+    <line>This case became</line>
+    <line>a health issue for me.</line>
+    <line>Didn't you get any</line>
+    <line ending="question">direction where to look?</line>
+    <line>He only struck when</line>
+    <line>the weather was warm, so</line>
+    <line>I check out baseball teams, exchange</line>
+    <line>students coming in for the Summer...</line>
+    <line ending="question">Circus. <slash>/</slash> Yeah?</line>
+    <line>Yeah, yeah,</line>
+    <line>I interviewed a <swear>damn</swear> clown.</line>
+    <line ending="question">Who was the top <crime_term>suspect</crime_term>?</line>
+    <line><name>Bruce Elridge</name>.</line>
+    <line start="hyphen">- <name>Gail's</name> boyfriend.</line>
+    <line start="hyphen" ending="question">- How come?</line>
+    <line>He gave a <description>shady, hostile</description> interview.</line>
+    <line>Refused to give his <evidence>DNA</evidence>,</line>
+    <line>had not one good <crime_term>alibi</crime_term></line>
+    <line>for any of the <censored>r*pes</censored>.</line>
+    <line>Unfortunately, <name>Vera's</name> under</line>
+    <line>orders not to talk to him.</line>
+    <line start="hyphen">- That's not official.</line>
+    <line start="hyphen">- The D.A.'s office was very clear, <name>Nick</name>.</line>
+    <line>Do not approach him again.</line>
+    <line ending="question">What did you do to him?</line>
+    <line>I was on the case.</line>
+    <line>He was a serious <crime_term>suspect</crime_term>.</line>
+    <line>He put him in</line>
+    <line>the room four times.</line>
+    <line>What am I supposed to do,</line>
+    <line ending="question">start all over again?</line>
+    <line start="hyphen">- I'll start it over.</line>
+    <line start="hyphen">- Whoa, this is my job.</line>
+    <line>I'm not gonna get cut out of it.</line>
+    <line>Well, which one is it,</line>
+    <line ending="question"><name>Vera</name>? You in or out?</line>
+    <line>I don't know.</line>
+    <line>All right. <name>Lil</name> will read</line>
+    <line>the case again.</line>
+    <line>You wanna join her, okay.</line>
+    <line>But I don't want you going</line>
+    <line>to <name>Bruce</name> without new direction.</line>
+    <line>We got the letter.</line>
+    <line>Connect him to the letter,</line>
+    <line><name>Nick</name>, you can go back.</line>
+    <line>Not before.</line>
+    <line>You got an angle,</line>
+    <line ending="question">how to do that?</line>
+    <line>Yeah, I got an angle.</line>
+    <line>No. Not you again.</line>
+    <line start="hyphen">- Got some questions, <name>Larry</name>.</line>
+    <line start="hyphen">- Forget it.</line>
+    <line ending="question">You browbeat this guy, too?</line>
+    <line>He's a <crime_term>material witness</crime_term>.</line>
+    <line>I talk to him sometimes.</line>
+    <line><name>Larry</name>, it's <name>Lily Rush</name>.</line>
+    <line>With <crime_term>Homicide</crime_term>.</line>
+    <line>I need to talk to you about <name>Gail</name>.</line>
+    <line>I'll talk to you. Not him.</line>
+    <line>Grow up.</line>
+    <line>Open the door, <name>Larry</name>.</line>
+    <line>Detective <name>Vera</name></line>
+    <line>will take a little walk.</line>
+    <line ending="question">This guy's sick, huh?</line>
+    <line>Anything about it say</line>
+    <line ending="question"><name>Bruce Elridge</name> to you?</line>
+    <line>The <description>smugness</description> fits.</line>
+    <line>He was such a <description>snob</description>.</line>
+    <line>He'd never even say hello.</line>
+    <line>So you didn't know him well.</line>
+    <line>Nah.</line>
+    <line>You told that you thought</line>
+    <line><name>Gail</name> and her boyfriend were</line>
+    <line>having a fight next door.</line>
+    <line>If I may speak.</line>
+    <line>I never saw anyone else</line>
+    <line>go inside that apartment.</line>
+    <line>What was your</line>
+    <line ending="question">relationship with <name>Gail</name>?</line>
+    <line>Good neighbors.</line>
+    <line>Good friends.</line>
+    <line>Maybe something could have blossomed</line>
+    <line>if the world was laid out differently.</line>
+    <line ending="question">So now you're flirting?</line>
+    <line>You didn't say that five years ago.</line>
+    <line>You asked about the call,</line>
+    <line>not my relationship with <name>Gail</name>.</line>
+    <line>Did the noise from next</line>
+    <line ending="question">door wake you, <name>Larry</name>?</line>
+    <line>I was up, working.</line>
+    <line ending="question"><name>Gail</name>?</line>
+    <line ending="question">What's going on in there?</line>
+    <line>It sounds like</line>
+    <line>more than reading.</line>
+    <line>.</line>
+    <line>I'm at Sansom.</line>
+    <line>I'm worried about my neighbor.</line>
+    <line>That was <description>heroic</description>,</line>
+    <line>making that call, <name>Larry</name>.</line>
+    <line>It was instinct.</line>
+    <line>Anyway, uh...</line>
+    <line>the cops came,</line>
+    <line>knocked, left.</line>
+    <line>She was found</line>
+    <line>dead the next day.</line>
+    <line>Cops can't break down a door just</line>
+    <line>because some guy sense something.</line>
+    <line>I gave a <evidence>DNA</evidence> sample right off.</line>
+    <line>I'll give another one if you like.</line>
+    <line>That's not necessary.</line>
+    <line>So back to <name>Bruce</name>.</line>
+    <line ending="question">You seen him lately?</line>
+    <line>I did run into him a couple of months</line>
+    <line>ago, up on the Penn campus.</line>
+    <line>He does experiments</line>
+    <line>at med school.</line>
+    <line>Yeah, he was full of hot air</line>
+    <line>about some kind of sleep</line>
+    <line>study he's doing on cats.</line>
+    <line start="hyphen">- Thank you.</line>
+    <line start="hyphen">- Oh, yeah.</line>
+    <line>Some maybe we</line>
+    <line>should check that out.</line>
+    <line>How'd you find out</line>
+    <line ending="question">about his research?</line>
+    <line>I track this guy.</line>
+    <line>I knew it was animals, but</line>
+    <line>I always figured it was lab rats.</line>
+    <line>That's him.</line>
+    <line>You can't talk to me.</line>
+    <line>That letter you</line>
+    <line>wrote gave me cause.</line>
+    <line>Your pal here made my life</line>
+    <line>miserable five years ago.</line>
+    <line>You could have ended it at</line>
+    <line>anytime by giving a <evidence>DNA</evidence> sample.</line>
+    <line>Let's not have that</line>
+    <line>conversation again.</line>
+    <line><name>Bruce</name>,</line>
+    <line>I'm the one who</line>
+    <line>wanted to talk to you.</line>
+    <line ending="question">And who are you?</line>
+    <line>Detective <name>Rush</name>. I'm looking</line>
+    <line>back into <name>Gail</name>'s <censored>m*rder</censored>.</line>
+    <line>I was wondering about the</line>
+    <line>animal research you do.</line>
+    <line ending="question">What about it?</line>
+    <line ending="question">We're talking cats, right?</line>
+    <line>Yeah.</line>
+    <line>And I don't feel guilty about it</line>
+    <line>if that's your next question.</line>
+    <line ending="question">You <censored><crime_term>k*ll</crime_term></censored> those cats? <slash>/</slash> If need be.</line>
+    <line>If a person's got cancer</line>
+    <line>I'm not gonna worry about testing</line>
+    <line>on some useless animal.</line>
+    <line ending="question">Why are they useless?</line>
+    <line>They're <description>sub-human</description>.</line>
+    <line start="hyphen">- <description>Small brains</description>.</line>
+    <line start="hyphen">- Like women.</line>
+    <line>Women have a use.</line>
+    <line ending="question"><name>Bruce</name>, why not make this easy?</line>
+    <line>Volunteer your <evidence>DNA</evidence>.</line>
+    <line>Fourth amendment says</line>
+    <line>I got a right to privacy.</line>
+    <line>Don't you wanna be</line>
+    <line ending="question">ruled out as a <crime_term>suspect</crime_term>?</line>
+    <line>On the contrary.</line>
+    <line>I don't want <description>desperate</description> detectives</line>
+    <line>to act like it's a discovery</line>
+    <line>if they match my <evidence>DNA</evidence> to semen</line>
+    <line>that was on <name>Gail</name>'s sheets.</line>
+    <line>I was her boyfriend.</line>
+    <line>We were very active,</line>
+    <line>if you get me.</line>
+    <line>I'm sure my <evidence>DNA</evidence>'s</line>
+    <line>all over that place.</line>
+    <line>I see.</line>
+    <line>I don't need a witch hunt</line>
+    <line>just 'cause you couldn't</line>
+    <line>solve this thing.</line>
+    <line><name>Vera</name>.</line>
+    <line ending="question">What is it about this job?</line>
+    <line>You yap on all the time about the</line>
+    <line ending="question">other cases. Why not this one?</line>
+    <line>This one did things to me.</line>
+    <line ending="question">Like what?</line>
+    <line>You ever work a job</line>
+    <line ending="question">makes you feel helpless?</line>
+    <line>Yeah, I can always find</line>
+    <line>motive, direction, but...</line>
+    <line>that piece of crap, he stops.</line>
+    <line>Leaves me with nothing.</line>
+    <line>I start second guessing</line>
+    <line ending="question">everything, you know?</line>
+    <line>Maybe I'm not the</line>
+    <line>bad ass I think I am.</line>
+    <line start="hyphen">- I want this guy.</line>
+    <line start="hyphen">- So do I.</line>
+    <line>We can get him.</line>
+    <line>But I need you, <name>Vera</name>.</line>
+    <line>You know him</line>
+    <line>better than anyone.</line>
+    <line>If he's following his M.O.,</line>
+    <line>he's already hunting...</line>
+    <line>stalking someone right</line>
+    <line>now following her home.</line>
+    <line>Let's hope she's got</line>
+    <line>her windows locked.</line>
+    <line>I should have noticed</line>
+    <line>that they all had cats.</line>
+    <line>It didn't mean anything</line>
+    <line>till we got the letter.</line>
+    <line>It's a list of parolees who were locked up</line>
+    <line>the last five years and just got out.</line>
+    <line>One guy fits the time line,</line>
+    <line>but he weights pounds.</line>
+    <line ending="question">Since when?</line>
+    <line>His whole life. It ain't him.</line>
+    <line>Was worth a try. <slash>/</slash> Yeah.</line>
+    <line ending="question">Well, how'd you do today?</line>
+    <line>Found out <name>Bruce Elridge</name></line>
+    <line>tortures cats for a living.</line>
+    <line ending="question">Does he?</line>
+    <line>Talks about <description>useless</description> animals</line>
+    <line>and won't give up his <evidence>DNA</evidence>.</line>
+    <line>I gotta go sit on him.</line>
+    <line>Make sure he doesn't climb</line>
+    <line>through anybody's window tonight.</line>
+    <line>I got new addresses</line>
+    <line>on the first <evidence>two victims</evidence>.</line>
+    <line>They've both moved.</line>
+    <line>Let's go.</line>
+    <line>Wait till tomorrow.</line>
+    <line>I don't want you going to these girls</line>
+    <line>at midnight asking about their <censored><crime_term>r*pe</crime_term></censored>.</line>
+    <line>Yeah.</line>
+    <line>Tomorrow.</line>
+    <line>Good night.</line>
+    <line>My dad told me why you're here.</line>
+    <line ending="question">Can I come in?</line>
+    <line>No, I'd rather... I'd rather talk out here.</line>
+    <line>We think he's back, <name>Ellen</name>.</line>
+    <line>Oh, no.</line>
+    <line ending="question">Can I show you a picture?</line>
+    <line>A <crime_term>detective</crime_term> showed me</line>
+    <line>that five years ago.</line>
+    <line>I know.</line>
+    <line>Just look again.</line>
+    <line>Could this be the guy</line>
+    <line ending="question">who <censored>att*cked</censored> you?</line>
+    <line>I couldn't say.</line>
+    <line>I never saw him.</line>
+    <line>Did his voice sound like</line>
+    <line ending="question">anyone you know?</line>
+    <line>I told the first <crime_term>detective</crime_term> no.</line>
+    <line>I don't think so.</line>
+    <line>You said at the time you were</line>
+    <line>certain it was a stranger.</line>
+    <line>Right.</line>
+    <line>You got a different feeling</line>
+    <line ending="question">about that now?</line>
+    <line>It's okay if you do.</line>
+    <line>No.</line>
+    <line>No, I don't know him.</line>
+    <line>I really can't... I really</line>
+    <line>can't tell you anything.</line>
+    <line>The lead <crime_term>detective</crime_term> on</line>
+    <line>this case is female, <name>Ellen</name>.</line>
+    <line>Would you be more</line>
+    <line ending="question">comfortable talking to her?</line>
+    <line>Maybe.</line>
+    <line>Okay.</line>
+    <line>I gotta go to work, but, um...</line>
+    <line>I'm home every day by : .</line>
+    <line>All right.</line>
+    <line>Could be him.</line>
+    <line>Could be Yo Yo Ma.</line>
+    <line>I didn't see crap.</line>
+    <line>He covered your eyes right away.</line>
+    <line>I'm in my kitchen...</line>
+    <line>all of a sudden there's</line>
+    <line>a towel over my face.</line>
+    <line>Guy whispers that he's real</line>
+    <line>sorry... <censored>r*pes</censored> me right there...</line>
+    <line>and then stays for an hour,</line>
+    <line>talking to me.</line>
+    <line>I'm always nervous on first dates.</line>
+    <line ending="question">But we did okay, didn't we?</line>
+    <line>You were playing such</line>
+    <line>a sad song before.</line>
+    <line ending="question">You wanna play it for me?</line>
+    <line>I don't think so.</line>
+    <line>That's okay.</line>
+    <line>Those bars on your windows</line>
+    <line>are no good, honey.</line>
+    <line>They're too far apart.</line>
+    <line>You gotta be more careful.</line>
+    <line>You know what he said to</line>
+    <line ending="question">me right before he left?</line>
+    <line>"Wish that we had met under</line>
+    <line>different circumstances."</line>
+    <line>I'm sorry, <name>Niki</name>.</line>
+    <line>I just hope you finally get the guy.</line>
+    <line>I don't wanna make you</line>
+    <line>uncomportable, but, um...</line>
+    <line>you were obviously in</line>
+    <line>close contact with him.</line>
+    <line>Yeah.</line>
+    <line>He touched you. You</line>
+    <line>must have touched him.</line>
+    <line>Was there anything that you</line>
+    <line ending="question">felt that was distinctive?</line>
+    <line ending="question"><description>Scars? Moles?</description></line>
+    <line>This is kind of weird...</line>
+    <line>That's okay.</line>
+    <line>I did touch him. I didn't</line>
+    <line>do it to be intimate...</line>
+    <line>Of course not.</line>
+    <line>I was trying to get him off me.</line>
+    <line>And you noticed something.</line>
+    <line><description>Smooth skin</description>.</line>
+    <line>Legs, arms, everything.</line>
+    <line><description>Soft and smooth</description> like a woman's.</line>
+    <line>Excuse me a second, <name>Niki</name>.</line>
+    <line ending="question">What's that?</line>
+    <line><name>Bruce Elridge's</name> coffee cup.</line>
+    <line ending="question">You stole his coffee?</line>
+    <line>He abandoned it in a public place.</line>
+    <line>Now we got his precious <evidence>DNA</evidence>.</line>
+    <line>According to <name>Niki Lamas</name>,</line>
+    <line>we're looking at a guy</line>
+    <line>with <description>super smooth skin</description>.</line>
+    <line>That's new.</line>
+    <line>Maybe he shaves his</line>
+    <line>body before he <censored>att*cks</censored>.</line>
+    <line>No hair ever found at the scenes.</line>
+    <line ending="question">Anything from <name>Ellen Curtis</name>?</line>
+    <line>Jeffries got the sense she knew</line>
+    <line>something. I'll go back to her today.</line>
+    <line ending="question">And how's our boy <name>Vera</name> doing?</line>
+    <line>He's... passionate.</line>
+    <line>That passion almost compromised</line>
+    <line>this case five years ago.</line>
+    <line>I'm watching, boss.</line>
+    <line>I hate to rat a guy out,</line>
+    <line>but <name>Vera</name> just walked in with <name>Bruce Elridge</name>.</line>
+    <line start="hyphen">- I can't have this...</line>
+    <line start="hyphen">- Let me go.¡¡¡¡¡¡¡¡</line>
+    <line>You'll want to look at this first.</line>
+    <line>This isn't gonna help.</line>
+    <line>You can't keep me here.</line>
+    <line>I can keep you here for six hours.</line>
+    <line ending="question">So what's with the animal experiments?</line>
+    <line ending="question">What are you, an activist?</line>
+    <line>Lot of <censored>K*llers</censored> start off torturing animals.</line>
+    <line>But smart guy like you...</line>
+    <line>know something about that.</line>
+    <line ending="question">So what?</line>
+    <line ending="question">Is that you, <name>Bruce</name>, hmm?</line>
+    <line>Did you go from cats to</line>
+    <line ending="question">women with your viciousness?</line>
+    <line>That's a leap.</line>
+    <line>You slip into their apartments with</line>
+    <line>that wimp-boy frame of yours.</line>
+    <line>You terrorize them and you</line>
+    <line ending="question">pretend you're on a date?</line>
+    <line>I've got a girlfriend.</line>
+    <line>We're very, very happy.</line>
+    <line>Maybe you didn't mean to <censored><crime_term>k*ll</crime_term></censored> <name>Gail</name>.</line>
+    <line>Just <censored><crime_term>r*pe</crime_term></censored> her like the others.</line>
+    <line>I didn't do anything to her, so why</line>
+    <line>don't you stop acting like a thug.</line>
+    <line ending="question">What'd you just call me, you little rube?</line>
+    <line>Say it again, come on!</line>
+    <line>Say it again.</line>
+    <line>Say it again!</line>
+    <line><name>Vera</name>...</line>
+    <line>Looks like <name>Bruce</name> here</line>
+    <line>thinks I'm wasting his time.</line>
+    <line>Come out here.</line>
+    <line><name>Bruce</name> has better</line>
+    <line>things to do... <slash>/</slash> <name>Vera</name>!</line>
+    <line>We got the <evidence>DNA</evidence> back.</line>
+    <line>It's a negative match.</line>
+    <line>You bunch of thugs!</line>
+    <line ending="question"><name>Bruce</name>... what the <swear>hell's</swear> wrong with you?</line>
+    <line ending="question">What's that supposed to mean?</line>
+    <line>You knew we wouldn't</line>
+    <line ending="question">match your <evidence>DNA</evidence>. <slash>/</slash> So?</line>
+    <line>So why not give a sample five</line>
+    <line ending="question">years ago like a normal person?</line>
+    <line>I got a right to privacy.</line>
+    <line>How's giving a swab of</line>
+    <line ending="question">spit invading your privacy?</line>
+    <line>A guy's got a right to have</line>
+    <line>sex with his own girlfriend.</line>
+    <line>Okay.</line>
+    <line>Okay.</line>
+    <line>You weren't having sex with her.</line>
+    <line ending="question">Excuse me?</line>
+    <line>You didn't want us to not find your <evidence>DNA</evidence>.</line>
+    <line>It wasn't anywhere in that apartment,</line>
+    <line>'cause she was shutting you down.</line>
+    <line>We went out for seven months.</line>
+    <line>And by that time a guy's got a right.</line>
+    <line>You think I wanted all those</line>
+    <line>macho cops, all my friends,</line>
+    <line ending="question">knowing I was putting up with such a <description>prude</description>?</line>
+    <line>Hey, <name>Bruce</name>... this ain't high school.</line>
+    <line>This case died five years ago and</line>
+    <line>you could have helped us bring it in.</line>
+    <line>And you coming off to your</line>
+    <line>pals like some <description>big stud</description></line>
+    <line>isn't more important than a girl dying.</line>
+    <line>My partner got the sense you knew</line>
+    <line>we were on the wrong trail.</line>
+    <line ending="question">How would I know that?</line>
+    <line>Maybe you saw the guy.</line>
+    <line>No.</line>
+    <line ending="question">Maybe... you knew the guy?</line>
+    <line start="hyphen">- I really try not to think about this.</line>
+    <line start="hyphen">- That's understandable.¡¡¡¡¡¡¡¡</line>
+    <line>But he contacted us.</line>
+    <line>Let us know he's gonna do it again.</line>
+    <line>I can't worry about that.</line>
+    <line>If you could describe</line>
+    <line>him...</line>
+    <line>I can't. <slash>/</slash> I know that's what you've</line>
+    <line>been saying all these years,</line>
+    <line>but maybe it's because it's too painful.</line>
+    <line><name>Ellen</name>, I'm just scared</line>
+    <line>it's gonna happen again.</line>
+    <line>I never used to be scared of anything.</line>
+    <line ending="question">No?</line>
+    <line>Now I live with my parents.</line>
+    <line>I'm terrified if I'm not home before dark.</line>
+    <line>You had a life before.</line>
+    <line>You just want it back.</line>
+    <line>I don't think that's in the cards.</line>
+    <line>I do.</line>
+    <line>But you have to start by telling</line>
+    <line>me what you saw that night.</line>
+    <line>It might not be relevant.</line>
+    <line>I was at the Free Library,</line>
+    <line>outside buying a coffee</line>
+    <line>and this, um... this guy started</line>
+    <line>talking to me about books</line>
+    <line>and I can't even remember what else.</line>
+    <line>But it was only for, like, a few minutes...</line>
+    <line>and then I went home.</line>
+    <line>And that was it.</line>
+    <line ending="question">Did you get his name?</line>
+    <line>Then the <censored><crime_term>r*pe</crime_term></censored> happened that night...</line>
+    <line ending="question">Olive?</line>
+    <line ending="question">Edie?</line>
+    <line>Hey, kitty, kitty, kitty.</line>
+    <line>You scared me.</line>
+    <line>I'm so sorry.</line>
+    <line>First dates are hard.</line>
+    <line>Especially with serious girls like you.</line>
+    <line>I just wish we could met under</line>
+    <line>different circumstances.</line>
+    <line>It was so quick.</line>
+    <line>It was like a flashbulb.</line>
+    <line>And I, uh... I could be wrong, but...</line>
+    <line>the face I keep seeing</line>
+    <line>is the guy from the library.</line>
+    <line>Um... <description>dark hair</description>...</line>
+    <line>kind of <description>shaggy</description>.</line>
+    <line><description>Smooth skin</description>.</line>
+    <line>This is gonna help us a lot.</line>
+    <line>I'm sorry I didn't do it earlier.</line>
+    <line>You weren't ready earlier.</line>
+    <line>I should have told that first <crime_term>detective</crime_term>.</line>
+    <line>I was worried he'd think that</line>
+    <line>since I'd talked to the guy...</line>
+    <line>I'd let him on.</line>
+    <line ending="question">You know?</line>
+    <line>Detective <name>Vera</name> only looks</line>
+    <line>like a <description>Neanderthal</description>.</line>
+    <line>Excuse me.</line>
+    <line ending="question">What?</line>
+    <line>Sex Crimes got an <censored>ass*ault</censored>,</line>
+    <line>th and Lombard.</line>
+    <line ending="question">Same M.O.?</line>
+    <line>Crawled through the</line>
+    <line>second floor window.</line>
+    <line>Our boy is back.</line>
+    <line>(*) up the drain pipe,</line>
+    <line>climbed cross the walls,</line>
+    <line>slipped in through the bars.</line>
+    <line>Now, that's determination.</line>
+    <line ending="question">Are there prints on the bars?</line>
+    <line>Of course not.</line>
+    <line>Ah, but he did leave a token behind.</line>
+    <line>Kenfield, filter.</line>
+    <line>Left it right at the bedside.</line>
+    <line ending="question">This the victim?</line>
+    <line>Yeah. Sex Crimes took her to the hopital.</line>
+    <line>They know you want talk to her, though.</line>
+    <line ending="question">We doing this together?</line>
+    <line>Yeah.</line>
+    <line>Please.</line>
+    <line>Maybe I should have</line>
+    <line>fought or something.</line>
+    <line>There's no "should", <name>Tanya</name>.</line>
+    <line ending="question">Does, uh... this look like him?</line>
+    <line>He covered my eyes so quickly.</line>
+    <line ending="question">Did he speak to you?</line>
+    <line>Yeah.</line>
+    <line>Afterwards, he talked a lot.</line>
+    <line>He talked about art and books.</line>
+    <line>I'm in grad school for</line>
+    <line>art history, but I don't...</line>
+    <line>I don't know how he knew that.</line>
+    <line ending="question">Did you recognize his voice? <slash>/</slash> No.</line>
+    <line>He was a stranger.</line>
+    <line ending="question">You study art history?</line>
+    <line>Yeah.</line>
+    <line ending="question">Been to any museums lately?</line>
+    <line>Um... I was at the <name>Rodin</name> a few days ago.</line>
+    <line ending="question">Did you notice anything about this skin?</line>
+    <line>It was... smooth.</line>
+    <line>You know, like... <description>hairless</description>.</line>
+    <line ending="question">No hair at all?</line>
+    <line>Didn't seem like it.</line>
+    <line>Do you know what he</line>
+    <line ending="question">told me before he left?</line>
+    <line>That he wished that we had met under...</line>
+    <line>Under different circumstances.</line>
+    <line>And that he was sorry.</line>
+    <line>Does this guy stalk girls</line>
+    <line ending="question">on Ben Franklin Parkway?</line>
+    <line><name>Gail</name> worked at the Museum of Art.</line>
+    <line><name>Ellen</name> was at the Free Library</line>
+    <line>the day she was <censored>att*cked</censored>.</line>
+    <line>And <name>Tanya</name> went to the <name>Rodin</name> last week.</line>
+    <line><name>Niki</name> was on Locust.</line>
+    <line>Leaving the Academy of Music.</line>
+    <line>Maybe he targets <description>smart</description> girls.</line>
+    <line>All the victims were college types.</line>
+    <line>"<description>Serious</description> girls." He said it to <name>Ellen</name>.</line>
+    <line>Let's post this composite</line>
+    <line>all over the Parkway.</line>
+    <line>I got it.</line>
+    <line>I interviewed a woman that worked</line>
+    <line>with <name>Gail</name> at the art museum.</line>
+    <line><name>Anna</name>...</line>
+    <line><name>Anna... Berlin.</name></line>
+    <line>They had lunch together</line>
+    <line>the day of the <censored>m*rder</censored>.</line>
+    <line>We have this now.</line>
+    <line>Let's see if she knows our new friends.</line>
+    <line ending="question">Is this who <censored>k*lled</censored> <name>Gail</name>?</line>
+    <line>Could be.</line>
+    <line ending="question">Do you recognize him at all?</line>
+    <line>I don't think so.</line>
+    <line>Take your time.</line>
+    <line>I can't be sure, but...</line>
+    <line ending="question">But what?</line>
+    <line>It sort of looks like a guy we'd</line>
+    <line>see out here at lunchtime.</line>
+    <line ending="question">You and <name>Gail</name> saw him?</line>
+    <line>He'd hang out here,</line>
+    <line>smoking, watching people.</line>
+    <line>I kind of forgot about him.</line>
+    <line>He hasn't been around for years,</line>
+    <line>but he's been back lately.</line>
+    <line ending="question">Ever get a name? <slash>/</slash> No.</line>
+    <line>We only talked to him once.</line>
+    <line ending="question">How's the pre-med student?</line>
+    <line>Arrogant. Pushy.</line>
+    <line>In other words, the same.</line>
+    <line>I know, I have bad taste in men.</line>
+    <line ending="question">You ladies work here?</line>
+    <line>Yeah.</line>
+    <line ending="question">How's the new exhibit?</line>
+    <line ending="question">The Monet? It's beautiful.</line>
+    <line>I recommend it.</line>
+    <line>Maybe I'll take a look.</line>
+    <line>See you in there.</line>
+    <line>I didn't think to mention</line>
+    <line>it to you back then.</line>
+    <line>People are always asking questions.</line>
+    <line>Do you think he may have</line>
+    <line ending="question">been watching <name>Gail</name>?</line>
+    <line>He wasn't there for the art.</line>
+    <line>Got something.</line>
+    <line>Girl was with a friend and her</line>
+    <line>mom on Ben Franklin Parkway.</line>
+    <line>Saw your composite.</line>
+    <line>This is <name>Lily</name>. She's a police officer, too.</line>
+    <line>Tell her what you told me.</line>
+    <line>That's <name>Carl</name>.</line>
+    <line>My mommy's boyfriend.</line>
+    <line ending="question">What do you got?</line>
+    <line><name>Carl Heeley</name>, grew up in a trailer park</line>
+    <line>in Trenton, moved up Philly at ,</line>
+    <line>worked as a security guard in the</line>
+    <line>Franklin Institute from ' to ' .</line>
+    <line>Across from the Free Library. <slash>/</slash> Yeah.</line>
+    <line>And the last five years, he was</line>
+    <line>at an army base in Portland.</line>
+    <line>Just got back to town.</line>
+    <line ending="question">How'd he behave in Oregon?</line>
+    <line>Dishonorably discharged six weeks ago.</line>
+    <line>Breaking into a female officer's room.</line>
+    <line>Through the window.</line>
+    <line>She was trained in combat</line>
+    <line>though, unlike our girls.</line>
+    <line>She fought him, ID'd him,</line>
+    <line>and they sent him packing.</line>
+    <line>Military will have boold types.</line>
+    <line>We're getting a subpoena right now.</line>
+    <line>Pick up this soldier.</line>
+    <line ending="question">What's this about?</line>
+    <line>A woman was <censored>r*ped</censored> inOld City last night.</line>
+    <line>I'm sorry to hear that.</line>
+    <line ending="question">Where were you last night, Carl?</line>
+    <line>At home. Reading.</line>
+    <line ending="question">Can anyone verify that?</line>
+    <line>My girlfriend and her daughter.</line>
+    <line ending="question">You a big reader, <name>Carl</name>?</line>
+    <line>You could say.</line>
+    <line>You lived in the area five years</line>
+    <line>ago when three women <censored>r*ped</censored>.</line>
+    <line ending="question">Do you remember anything about that?</line>
+    <line>Not really.</line>
+    <line ending="question">But you heard about it, right?</line>
+    <line>Yeah, I think I remember something</line>
+    <line>about it, but that was a long time ago.</line>
+    <line>This looks a lot like you,</line>
+    <line ending="question">don't you think?</line>
+    <line>Sort of.</line>
+    <line>Can you arrest a man for</line>
+    <line ending="question">looking like a drawing?</line>
+    <line>We're asking guys who look like</line>
+    <line>this picture to take a <evidence>DNA</evidence> test.</line>
+    <line ending="question">Would you do that?</line>
+    <line>I'm sorry. I prefer not to.</line>
+    <line>Look, I'd love to help you out, but</line>
+    <line>I gotta get back new job and all.</line>
+    <line ending="question">So, is there anything else?</line>
+    <line>No.</line>
+    <line>Crap.</line>
+    <line>It was a Kenfield filter.</line>
+    <line><name>Carl</name> and I used to date, so...</line>
+    <line>Well, you lived together, that's a</line>
+    <line ending="question">bit different than dating, isn't it?</line>
+    <line><name>Cait</name>, honey, take <name>Dolly</name></line>
+    <line ending="question">and play in the room, okay?</line>
+    <line>We lived together five years ago.</line>
+    <line>We broke up when he moved.</line>
+    <line>If you broke up, how'd</line>
+    <line ending="question">you get this Army picture?</line>
+    <line>We kept in touch.</line>
+    <line><name>Caitlin</name> says that <name>Carl's</name></line>
+    <line>still your boyfriend.</line>
+    <line>That he's been around</line>
+    <line>the apartment a lot.</line>
+    <line>Yeah, well... maybe</line>
+    <line>I never got over him.</line>
+    <line>Do you remember those</line>
+    <line ending="question"><censored>r*pes</censored> five years ago?</line>
+    <line>Yeah.</line>
+    <line>Do you remember that</line>
+    <line ending="question">a girl was <censored>m*rder</censored>*d?</line>
+    <line ending="question">What, you trying to say that was <name>Carl</name>?</line>
+    <line>This is the guy.</line>
+    <line>You tell me, <name>Bridget</name>.</line>
+    <line><name>Carl</name> is a good person.</line>
+    <line>He is.</line>
+    <line>He is. Just should see him</line>
+    <line>with <name>Caitlin</name> and animals.</line>
+    <line ending="question">Down at that shelter you work at?</line>
+    <line>Yeah. He helps out sometimes.</line>
+    <line ending="question">You got any pets here?</line>
+    <line>No, no.</line>
+    <line><name>Carl</name> always says that dogs are for</line>
+    <line>families and cats are for single girls.</line>
+    <line start="hyphen" ending="question">- Mm. <name>Carl</name> says that, huh?</line>
+    <line start="hyphen">- Yeah, we joke about it.</line>
+    <line>You know, cats and book clubs,</line>
+    <line>two sure signs that a woman's</line>
+    <line>all alone in the world.</line>
+    <line>I'm guessing you wouldn't be</line>
+    <line>caught dead at a book club.</line>
+    <line>I noticed your Shakespeare</line>
+    <line>collection over there.</line>
+    <line>Yeah, <name>Carl</name> got that at a garage sale.</line>
+    <line ending="question">You guys read the tragedies together?</line>
+    <line>He looks at'em sometimes.</line>
+    <line>I don't like books.</line>
+    <line>Maybe that's why he</line>
+    <line>took off five years ago.</line>
+    <line ending="question">What do you mean?</line>
+    <line>Nothing.</line>
+    <line ending="question">No, what?</line>
+    <line>We talked to <name>Carl</name> earlier today</line>
+    <line>and he just wasn't, uh...</line>
+    <line>very complimentary about</line>
+    <line>your... brain power.</line>
+    <line>That's mean.</line>
+    <line>I thought so.</line>
+    <line ending="question">Was he with you last night?</line>
+    <line>Yeah, he was here.</line>
+    <line ending="question">He go out after?</line>
+    <line>He went out for a walk, late.</line>
+    <line>'Cause there was another</line>
+    <line><censored><crime_term>r*pe</crime_term></censored> last night.</line>
+    <line>Another woman who</line>
+    <line>lives alone, with a cat.</line>
+    <line ending="question"><name>Carl</name> take a lot of walks?</line>
+    <line>Yeah. He has trouble sleeping.</line>
+    <line>He always did.</line>
+    <line ending="question">Honey... what's wrong?</line>
+    <line>Nothing. Can't sleep is all.</line>
+    <line>Come back to bed.</line>
+    <line>I'm gonna get some air.</line>
+    <line>Okay.</line>
+    <line>Be careful.</line>
+    <line>You, too.</line>
+    <line>Keep the windows closed.</line>
+    <line>Yeah, he did that a lot.</line>
+    <line>He'd leave in the middle of the night.</line>
+    <line>Didn't you think it was pretty odd</line>
+    <line ending="question">that he shaved like that <name>Bridget</name>?</line>
+    <line>He always shaved,</line>
+    <line ending="question">you know? He said, um...</line>
+    <line>it had to do, you know,</line>
+    <line>with biking, for speed.</line>
+    <line ending="question">Did he always shave at midnight?</line>
+    <line>I don't know.</line>
+    <line>You remember the <censored>r*pes</censored>,</line>
+    <line ending="question">though, don't you?</line>
+    <line>Yeah.</line>
+    <line>Didn't you ever think...</line>
+    <line ending="question">That I was living with a <censored>r*pist</censored>?</line>
+    <line ending="question">No, I never thought that. Would you?</line>
+    <line ending="question">Does it make sense now?</line>
+    <line>Yeah, I guess.</line>
+    <line>With the walks and all.</line>
+    <line>Now that I think about it,</line>
+    <line>he's only ridden that bike a couple</line>
+    <line>times since I've known him.</line>
+    <line ending="question"><name>Bridget</name>?</line>
+    <line>I'm so sorry <name>Carl</name>.</line>
+    <line>You really should be more careful.</line>
+    <line>I just wish we should've met</line>
+    <line>under different circumstances.</line>
+    <line ending="question">Why are you here?</line>
+    <line>We just wanna chat. Again.</line>
+    <line>We called the base up in Oregon.</line>
+    <line>Seems you got the same</line>
+    <line>blood type as our <censored>r*pist</censored>.</line>
+    <line>Type A is pretty common.</line>
+    <line>We've got your letter, too.</line>
+    <line>I'm not much of a writer.</line>
+    <line>Plus that cigarette you left at <name>Tanya's</name>--</line>
+    <line>tells me you're just about</line>
+    <line>ready to stop this.</line>
+    <line>How'd them army boys deal with</line>
+    <line ending="question">you shaving your chest and your legs?</line>
+    <line>I cut that out up there.</line>
+    <line>Didn't wanna be on the wrong</line>
+    <line ending="question">side of "don't ask, don't tell," huh?</line>
+    <line>I just didn't get much of a</line>
+    <line>chance to bike in Oregon.</line>
+    <line>What kind of people do</line>
+    <line ending="question">you come from... <name>Carl</name>?</line>
+    <line>Nothing special.</line>
+    <line ending="question">Educated?</line>
+    <line>No.</line>
+    <line ending="question">Low rent?</line>
+    <line>You could say.</line>
+    <line>Not a lot of books in</line>
+    <line ending="question">the trailer, I take it?</line>
+    <line>My mom couldn't read.</line>
+    <line>What about that sister of yours,</line>
+    <line>the one that's in jail for</line>
+    <line ending="question">prostitution? She a... big scholar?</line>
+    <line>Yeah, you come from trash,</line>
+    <line>you end up trash.</line>
+    <line>With a trash girlfriend. You were</line>
+    <line>looking for someone better.</line>
+    <line>A <description>classy</description> girl with... education.</line>
+    <line>I like girls with culture who don't</line>
+    <line>eat their takeout right out of a box.</line>
+    <line ending="question">Hm, like <name>Bridget</name>?</line>
+    <line><name>Bridget's</name> never been to</line>
+    <line>a museum in her life.</line>
+    <line>So you went looking for a girl</line>
+    <line>with a little something upstairs.</line>
+    <line>Trolling through the</line>
+    <line>museums and libraries</line>
+    <line>till you found her, then</line>
+    <line>you followed her home.</line>
+    <line>Looked to see if there</line>
+    <line>was a cat in her window,</line>
+    <line>'cause that meant she</line>
+    <line>was all alone in there.</line>
+    <line>And you got that talent</line>
+    <line>for getting into tiny places.</line>
+    <line>Talk or don't talk.</line>
+    <line>It doesn't matter anymore.</line>
+    <line><name>Bridget</name> gave us your razor.</line>
+    <line>It's at the <evidence>DNA</evidence> lab right now. <slash>/</slash> Yep.</line>
+    <line>We're just waiting for the official word.</line>
+    <line>I used to slide down the laundry</line>
+    <line>chute at my best friend's building.</line>
+    <line>You can't believe how narrow it was.</line>
+    <line>I'd get into the neighbor's</line>
+    <line>house and steal things.</line>
+    <line>It was like the one thing that</line>
+    <line>I was really, really good at,</line>
+    <line>getting into small places.</line>
+    <line>I was, like, known for it.</line>
+    <line>That's sensational, <name>Carl</name>.</line>
+    <line>I told you... I was ready soon,</line>
+    <line>soon as the weather changed.</line>
+    <line>Yeah. You told us.</line>
+    <line>I just had these demons.</line>
+    <line ending="question">Is that why you joined the military?</line>
+    <line ending="question">To maybe get some discipline?</line>
+    <line>I kept them down for a while,</line>
+    <line>but they came back.</line>
+    <line>The... one in Oregon was a fighter,</line>
+    <line>like the other ont that... <slash>/</slash> <name>Gail</name>.</line>
+    <line>The girl you <censored>m*rder</censored>*d.</line>
+    <line>I just wanted to...</line>
+    <line>date her, you know, not hurt her.</line>
+    <line>Quiet. I am sorry.</line>
+    <line ending="question">Studying, huh?</line>
+    <line start="hyphen" ending="question">- College girl?</line>
+    <line start="hyphen">- Let me... go!</line>
+    <line>You should be more careful.</line>
+    <line>That window's wide open.</line>
+    <line><name>Gail</name>. <slash>/</slash> <beQuite>Be quite</beQuite>.</line>
+    <line ending="question">What's going on there?</line>
+    <line><beQuite>Be quite</beQuite>. <Quite>Quite</Quite>. <Quite>Quite</Quite>.</line>
+    <line>Sounds like more than</line>
+    <line>reading. <slash>/</slash> <Quite>Quite</Quite>. <Quite>Quite</Quite>.</line>
+    <line>I just wish we could've met</line>
+    <line>under different circumstances.</line>
+        <music>
+            <line>[<title>"Heroes"</title> by <artist>The wallflowers</artist>]</line>
+            <lyrics>
+                <line>♪ I, I will be king ♪</line>
+                <line>♪ And you, you will be queen ♪</line>
+                <line>♪ Though nothing, ♪</line>
+                <line>♪ Nothing will drive them away ♪</line>
+                <line>♪ We can be Heroes ♪</line>
+                <line>♪ Just for one day ♪</line>
+                <line>♪ We can be us ♪</line>
+                <line>♪ Just for one day ♪</line>
+                <line>♪ I, I can remember ♪</line>
+                <line>♪ Standing by the wall ♪</line>
+                <line>♪ And the <censored>g*ns</censored> ♪</line>
+                <line>♪ Shot above our heads ♪</line>
+                <line>♪ And we kissed ♪</line>
+                <line>♪ As though nothing could fall ♪</line>
+                <line>♪ And the shame ♪</line>
+                <line>♪ Was on the other side ♪</line>
+                <line>♪ Oh we can beat them ♪</line>
+                <line>♪ For ever and ever ♪</line>
+                <line>♪ Then we can be Heroes ♪</line>
+                <line>♪ Just for one day ♪</line>
+                <line>♪ We can be Heroes ♪</line>
+                <line>♪ We can be Heroes ♪</line>
+                <line>♪ We can be Heroes ♪</line>
+                <line>♪ We can be Heroes just for one day ♪</line>
+            </lyrics>
+        </music>
+</Episode>
