@@ -29,51 +29,69 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #d9534f;
+    color: #d9534f; 
 }
 
-body {
-    padding-top: 50px; 
-}
 
 body {
     background: url('Images/Parchmentbg.jpeg') no-repeat center center/cover;
     font-family: 'Courier New', monospace;
     color: #222;
     text-align: center;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
     margin: 0;
+    padding-top: 50px; 
 }
 
-.container {
+.contributors-container {
+    text-align: center;
+    padding: 50px 20px;
+}
+
+
+.contributors-grid {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    max-width: 600px;
+    margin: auto;
+}
+
+
+.contributor {
     background: rgba(255, 255, 255, 0.9);
     padding: 20px;
-    border: 2px solid black;
-    border-radius: 5px;
-    width: 70%;
-    max-width: 600px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     text-align: center;
+    width: 100%;
+    max-width: 500px;
 }
 
-.enter-btn {
-    background: #600;
-    color: white;
-    font-weight: bold;
+
+.contributor img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 10px;
+    border: 3px solid black;
 }
 
-.enter-btn:hover {
-    background: #400;
+.contributor h2 {
+    font-size: 1.5em;
+    margin-bottom: 5px;
+}
+
+.contributor p {
+    font-size: 1em;
+    color: #333;
 }
 
 footer {
-    position: absolute;
-    bottom: 10px;
-    width: 100%;
+    margin-top: 50px;
     text-align: center;
-    color: #4F0208;
     font-size: 1em;
+    color: #EFE7DA;
 }
 
