@@ -1,0 +1,79 @@
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    padding: 10px 0;
+    text-align: center;
+    z-index: 1000;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.2em;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+nav ul li a:hover {
+    color: #d9534f;
+}
+
+body {
+    padding-top: 50px; 
+}
+
+body {
+    background: url('Images/Parchmentbg.jpeg') no-repeat center center/cover;
+    font-family: 'Courier New', monospace;
+    color: #222;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    background: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 70%;
+    max-width: 600px;
+    text-align: center;
+}
+
+.enter-btn {
+    background: #600;
+    color: white;
+    font-weight: bold;
+}
+
+.enter-btn:hover {
+    background: #400;
+}
+
+footer {
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+    text-align: center;
+    color: #4F0208;
+    font-size: 1em;
+}
+
