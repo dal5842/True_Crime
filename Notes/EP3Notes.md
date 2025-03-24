@@ -1,5 +1,6 @@
 # EP3 "Our Boy Is Back" Notes
 
+## First run through
 1. Searched for the `&`, the `<` and `>` signs 
 1. Removed the extra blank lines
 1. Any censored had an * so I seperated those out `(\w\*\w+)` and replaced with `<censored>\1</censored>`
@@ -23,7 +24,7 @@
 1. Tagged these that could be evidence like DNA, or prints
 
 
-### Would like to update after rewatching the episode
+### Would like to update add too
 
 1. attributes of who each person is (like there title or ranking in the show)
 1. tag the places
@@ -32,3 +33,13 @@
 1. after that tag the setting(s)
 1. find any unnoticed missed patterns after just reading.
 1. get a break down of each big character in the episodes being covered in a meta data section or on the website
+
+
+## Second run through changes:
+1. removed the line tags
+1. removed the hypen and question attributes when removing line tags
+1. removed the be quite, quite, and the random slashes tags
+1. removed all the description tags
+1. adding section tags around each sentence
+1. anding speaker tags
+1. adding type="dialogue" attributes
