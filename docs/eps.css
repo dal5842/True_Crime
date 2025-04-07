@@ -1,0 +1,110 @@
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    padding: 10px 0;
+    text-align: center;
+    z-index: 1000;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.2em;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+nav ul li a:hover {
+    color: #d9534f; 
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f9f9f9;
+}
+
+/* This ensures space below the fixed nav */
+.main-content {
+  padding-top: 60px; /* Adjust if your nav height changes */
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+/* Episode Layout */
+.episode-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1000px;
+  margin: 40px auto;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.episode-info {
+  flex: 1;
+  padding-right: 20px;
+}
+
+.episode-number {
+  margin: 0;
+  color: #888;
+  font-size: 1.2em;
+}
+
+.episode-title {
+  margin: 10px 0;
+  font-size: 2em;
+  color: #333;
+}
+
+.episode-description {
+  font-size: 1em;
+  color: #555;
+}
+
+.episode-image {
+  flex-shrink: 0;
+}
+
+.episode-image img {
+  max-width: 300px;
+  border-radius: 8px;
+}
+
+/* Responsive layout */
+@media (max-width: 768px) {
+  .episode-container {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .episode-info {
+    padding-right: 0;
+    margin-bottom: 20px;
+  }
+
+  .episode-image img {
+    max-width: 100%;
+  }
+}
+
