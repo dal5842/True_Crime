@@ -1,0 +1,10 @@
+start = transcript
+transcript = element transcript {scene+}
+
+scene = element scene {type, speaker, line}
+
+type = element type {text}
+
+speaker = element speaker {text}
+
+line = element line {text}
