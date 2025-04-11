@@ -5,33 +5,45 @@
     exclude-result-prefixes="xs math"
     version="3.0">
     
-    <xsl:output method="xml" indent="yes"/>
+    <xsl:mode on-no-match="shallow-copy"/>
+
+    <xsl:variable name="textcoll" as="document-node()+" select="collection('EpisodesBasicXML/?select=*.xml')"/>
     
     <xsl:template match="/">
-        <transcript>
-            <xsl:apply-templates select="text"/>
-        </transcript>          
+        <xsl:for-each select="$textcoll">
+            <xsl:variable name="filename" as="xs:string" select="tokenize(base-uri(), '/')[last()]"/>
+            <xsl:result-document method="xml" indent="yes" href="xml-output/{$filename}">
+           <transcript>
+              <xsl:apply-templates select="descendant::line"/>
+        </transcript>
+           </xsl:result-document>
+        </xsl:for-each> 
     </xsl:template>
     
-    <xsl:template match="text">
-        <!-- Search for & and < > signs and escape them -->
-        <xsl:variable name="escapedText" select="replace(replace(replace(., '&amp;', '&amp;amp;'), '&lt;', '&amp;lt;'), '&gt;', '&amp;gt;')"/>
+    <xsl:template match="line[matches(., '^♪')] | line[who='Lyrics']">
+       <line type="music">
+           <xsl:apply-templates/>
+       </line>
+    </xsl:template>
+    
+    <!--<xsl:template match="text">
+     
         
-        <!-- Remove extra blank lines -->
+        <!-\- Remove extra blank lines -\->
         <xsl:variable name="noExtraBlankLines" select="replace('\n\n\n+', '\n\n')"/>
         
-        <!-- Combine split dialogue lines -->
+        <!-\- Combine split dialogue lines -\->
         <xsl:variable name="combinedDialogue" select="replace('(?<!\n\n)\n(?!\n)', ' ')"/>
             
-            <!-- Insert a new line after each line -->
+            <!-\- Insert a new line after each line -\->
             <xsl:variable name="linesWithBreaks" select="replace('(.+)', '$1\n')"/>
             
-            <!-- Apply XML structure to each line -->
+            <!-\- Apply XML structure to each line -\->
             <xsl:variable name="structuredText" select="replace('^(.+)$', '<scene>\n\t<type>Dialogue</type>\n\t<speaker>Unknown</speaker>\n\t<line>$1</line>\n</scene>')"/>
                 
-                <!-- Modify type to "music" if line contains ♪ -->
+                <!-\- Modify type to "music" if line contains ♪ -\->
                 <xsl:variable name="finalText" select="replace('(<scene>\s*<type>)Dialogue(</type>\s*<speaker>.*?</speaker>\s*<line>.*?♪.*?</line>\s*</scene>)', '$1music$2')"/>
                     
                     <xsl:value-of select="$finalText" disable-output-escaping="yes"/>
-    </xsl:template>
+    </xsl:template>-->
 </xsl:stylesheet>
