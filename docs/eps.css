@@ -39,14 +39,12 @@ body {
   background-color: #f9f9f9;
 }
 
-/* This ensures space below the fixed nav */
 .main-content {
-  padding-top: 60px; /* Adjust if your nav height changes */
+  padding-top: 60px;
   padding-left: 20px;
   padding-right: 20px;
 }
 
-/* Episode Layout */
 .episode-container {
   display: flex;
   flex-direction: row;
@@ -91,7 +89,13 @@ body {
   border-radius: 8px;
 }
 
-/* Responsive layout */
+footer {
+    margin-top: 50px;
+    text-align: center;
+    font-size: 1em;
+    color: #EFE7DA;
+}
+
 @media (max-width: 768px) {
   .episode-container {
     flex-direction: column;
