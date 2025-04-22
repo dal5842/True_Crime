@@ -1,0 +1,769 @@
+Verb	Named Entity	Proper Noun
+move	ten (CARDINAL)	Gwen
+live	Lorraine Lounis (PERSON)	Lorraine
+think	'83 (DATE)	Lounis
+prove	Lorraine (PERSON)	Lorraine
+make	20 years ago (DATE)	Detective
+take	Rob (PERSON)	Rush
+do	Lily Rush (PERSON)	Rob
+see	Dana Deamer (PERSON)	Gwen
+have	Albert Miller (PERSON)	Gwen
+take	Dana (PERSON)	Lily
+be	A week (DATE)	Rush
+want	16 minutes (TIME)	Dana
+stop	Miller (PERSON)	Deamer
+get	first (ORDINAL)	Albert
+go	three days (DATE)	Miller
+go	25 (DATE)	Dana
+think	Albert Miller (PERSON)	Miller
+know	Gwen (PERSON)	Lorraine
+give	only five (CARDINAL)	Albert
+send	Missy (PERSON)	Miller
+work	Missy (PERSON)	Gwen
+help	Miller (PERSON)	Missy
+need	Timmy Sanders (PERSON)	Missy
+meet	Fu Manchu (PERSON)	Miller
+have	chinese (NORP)	Gag
+have	three (CARDINAL)	Timmy
+do	Sanders (PERSON)	Sanders
+haunt	Guy (PERSON)	Fu
+talk	83 (CARDINAL)	Manchu
+obsess	'83 (DATE)	Sanders
+make	Lilly (ORG)	Guy
+do	Dana Deamer (PERSON)	Lilly
+know	Albert Miller (PERSON)	Dana
+go	Dana (PERSON)	Deamer
+do	Mmmm (GPE)	Albert
+go	the past 20 years (DATE)	Miller
+help	yesterday (DATE)	Dana
+wanna	Miller (PERSON)	Mmmm
+tell	Graterford (PERSON)	Miller
+k*lle	Sweet (PERSON)	Graterford
+testify	Dana (PERSON)	Mm
+expose	Rob (PERSON)	Dana
+go	Gwen (PERSON)	Rob
+leave	Albert Miller (PERSON)	Gwen
+die	Dana (PERSON)	Gwen
+arrest	Dana (PERSON)	Albert
+get	'83 (DATE)	Miller
+know	Dana (PERSON)	Dana
+parole	a thousand (CARDINAL)	Gwen
+track	Maria (PERSON)	headstrong
+turn	Dana (PERSON)	Dana
+die	Mom (PERSON)	Dana
+realize	Frank Lawson (PERSON)	Mom
+look	Cedarbrook (GPE)	Maria
+have	Albert Miller (PERSON)	Dana
+tell	'83 (DATE)	Mom
+call	'83 (DATE)	Frank
+make	'78 to '82 (DATE)	Lawson
+wanna	Miller (PERSON)	Cedarbrook
+do	the Iron Range (PRODUCT)	Gwen
+k*lle	Minnesota (GPE)	Albert
+go	expl*sives (ORG)	Miller
+do	the '80s (DATE)	Nexis
+remember	Albert Miller (PERSON)	Miller
+happen	Franklin (ORG)	Iron
+have	a hundred (CARDINAL)	Range
+stay	Dana Deamer (PERSON)	Minnesota
+braid	CSB (ORG)	Albert
+braid	CSB (PERSON)	Miller
+go	Albert (PERSON)	Franklin
+see	English (LANGUAGE)	parkway
+wish	expl*sives (ORG)	Dana
+do	Minnesota (GPE)	Deamer
+read	'83 (DATE)	CSB
+get	two days (DATE)	CSB
+talk	CSB (ORG)	Albert
+see	Albert (PERSON)	Minnesota
+hold	20 years ago (DATE)	su1c1de
+give	three (CARDINAL)	CSB
+do	three hours (TIME)	Albert
+try	Louie (PERSON)	Hmm
+stop	Earth (LOC)	Rush
+go	Lucy (PERSON)	Louie
+need	6000 years old (DATE)	Earth
+need	20-year-old (DATE)	Lucy
+jack	a month (DATE)	Rush
+pose	tomorrow (DATE)	huh
+pack	Daughter (PERSON)	Daughter
+run	five years old (DATE)	Louie
+pull	'83 (DATE)	Rush
+make	20 years (DATE)	Maria
+get	Louie (PERSON)	Sanchez
+know	Maria Sanchez (PERSON)	Holy
+need	first (ORDINAL)	mama
+solve	'83 (DATE)	Albert
+go	Albert Miller (PERSON)	Miller
+come	Maria (PERSON)	Maria
+play	8 o'clock (TIME)	Lied
+get	Gwen (PERSON)	Technically
+see	Mommy (PERSON)	expl*si*n
+tell	'83 (DATE)	Gwen
+threaten	Maria (PERSON)	Mommy
+castrate	Dana (PERSON)	Thanks
+come	20-year-old (DATE)	Maria
+know	Bell Atlantic (ORG)	Dana
+come	Bell of (ORG)	Bell
+wait	Pennsylvania (GPE)	Atlantic
+come	AT&T (ORG)	Bell
+wait	Verizon Four (ORG)	Pennsylvania
+leave	Frank Lawson (PERSON)	AT&T
+pick	'83 (DATE)	Verizon
+go	expl*sive (NORP)	Four
+have	all night (TIME)	Vera
+schedule	Rob Deamer's (PERSON)	Detective
+testify	Rob (PERSON)	Frank
+flash	Lawson (PERSON)	Lawson
+die	Miller (PERSON)	Charred
+live	Rob (PERSON)	Nice
+show	20 years later (DATE)	Rush
+damage	Frank Lawson (PERSON)	Rob
+happen	two (CARDINAL)	Deamer
+make	Albert Miller (PERSON)	Firemen
+place	Deamer (PERSON)	Rob
+connect	Albert (PERSON)	Lawson
+hope	Dana (PERSON)	Miller
+teach	that morning (TIME)	Rob
+do	Albert (PERSON)	expl*si*n
+fireman	Gwen (PERSON)	Frank
+look	Albert (PERSON)	Lawson
+want	three (CARDINAL)	Vera
+know	that morning (TIME)	p*stol
+get	Nine (CARDINAL)	Albert
+deal	Deamer (PERSON)	Miller
+work	the month (DATE)	Deamer
+seem	Dana (PERSON)	Albert
+shut	Frank Lawson (PERSON)	Dana
+slip	expl*sives (ORG)	Rush
+help	Rob Deamer (PERSON)	Watch
+threaten	Hmm (PERSON)	teeny
+know	'83 (DATE)	Gleen
+get	'68 (DATE)	Albert
+lose	Lawson (PERSON)	Gwen
+do	Rob Deamer (PERSON)	Albert
+try	a 40 minute (TIME)	Gwen
+look	Rob (PERSON)	Gwen
+talk	Dana (PERSON)	Baby
+go	nine (CARDINAL)	Deamer
+see	a month (DATE)	Dana
+do	Rob (PERSON)	Frank
+do	Rob (PERSON)	Lawson
+keep	Dana (PERSON)	Rob
+lock	Frank (PERSON)	Deamer
+keep	Rob (PERSON)	Hmm
+provoke	all morning (TIME)	Lawson
+thr*aten	Watching (GPE)	Rob
+do	last night (TIME)	Deamer
+insist	Rob (PERSON)	Vera
+testify	Rob (PERSON)	Rob
+call	Rob (PERSON)	Dana
+respond	Rob (PERSON)	Rob
+hear	Dana (PERSON)	Rob
+sit	that day (DATE)	Dana
+let	Dana (PERSON)	Frank
+remember	expl*sives (ORG)	Rob
+get	half (CARDINAL)	Watching
+hand	Lawson (PERSON)	Rob
+think	Rob (PERSON)	navy
+put	Lawson (PERSON)	Rob
+sneak	tonight (TIME)	Rob
+have	Love (WORK_OF_ART)	Dana
+cooperate	Lil (PERSON)	Dana
+get	a fun night (TIME)	Lawson
+get	March 10, 1979 (DATE)	Rob
+get	200 (MONEY)	Lawson
+have	April 10 (DATE)	Lil
+get	200 (MONEY)	Bye
+have	monthly (DATE)	Lil
+work	Robert Deamer (PERSON)	Bye
+work	Adrian Martin (PERSON)	Yup
+match	Spousal (PERSON)	March
+learn	Adrian Martin (PERSON)	April
+find	Lorraine (PERSON)	Robert
+need	Dana (PERSON)	Deamer
+go	first (ORDINAL)	Adrian
+know	second (ORDINAL)	Martin
+go	Rob (PERSON)	Mm
+think	Rob (PERSON)	Spousal
+meet	Las. (GPE)	Adrian
+keep	only two years (DATE)	Martin
+call	Pauline (PERSON)	Dana
+say	One night (TIME)	Rob
+go	Lilly (ORG)	Rob
+sh**t	Albert Miller (PERSON)	Las
+get	Gwen (PERSON)	Wife
+make	1,200 (MONEY)	Pauline
+regret	Albert (PERSON)	Possessive
+k*lle	Gwen (PERSON)	Lilly
+flash	Gleen (GPE)	Albert
+flash	Albert (PERSON)	Miller
+k*ll	that morning (TIME)	Gwen
+threaten	Albert (PERSON)	Albert
+threaten	Gwen (PERSON)	Albert
+have	two (CARDINAL)	Albert
+criminalize	One (CARDINAL)	Gwen
+walk	two (CARDINAL)	Gwen
+criminalize	One (CARDINAL)	constructive
+look	1983 (DATE)	Gleen
+have	Maria (PERSON)	Albert
+blow	Lorraine (GPE)	Albert
+work	Lorraine (PERSON)	Gwen
+stick	Rob (PERSON)	Maria
+push	Gwen (PERSON)	Gwen
+know	Lorraine (PERSON)	Lorraine
+make	Lorraine (PERSON)	Rob
+mention	22 year old (DATE)	Gwen
+do	Fisk (PERSON)	Lorraine
+commit	Gwen (PERSON)	Lorraine
+look	England (GPE)	Judge
+reform	England (GPE)	Fisk
+make	Gwendolyn (PERSON)	Rush
+train	Paris (GPE)	Gwen
+go	Oui (PERSON)	Gwen
+try	Wee His dad (WORK_OF_ART)	England
+get	a hundred (CARDINAL)	England
+deserve	Poconos (GPE)	Gwendolyn
+see	Lorraine (PERSON)	Ooh
+sink	Dana (PERSON)	Paris
+have	Lorraine (PERSON)	Oui
+m*rder	Rob (PERSON)	Wee
+do	Rob (PERSON)	Poconos
+check	Gwen (PERSON)	Lorraine
+have	Rob (PERSON)	Gwen
+leave	two (CARDINAL)	Detective
+need	Pauline (PERSON)	Vera
+work	Adrian (NORP)	Dana
+seem	Dana (PERSON)	Lorraine
+characterize	Rob (PERSON)	Rob
+discover	World w*r III (EVENT)	Rob
+smash	Albert Miller (PERSON)	Gwen
+get	Bryan Adams (PERSON)	Rob
+think	one (CARDINAL)	Gwen
+find	one (CARDINAL)	Gwen
+put		Pauline
+do		Adrian
+book		Dana
+suffer		Rob
+make		World
+think		w*r
+be		III
+find		Albert
+see		Miller
+blow		Bryan
+go		Adams
+look		�
+be		�
+protect		
+miss		
+preserve		
+go		
+bet		
+get		
+ask		
+walk		
+want		
+buy		
+happen		
+see		
+say		
+see		
+mean		
+help		
+do		
+see		
+let		
+stick		
+tell		
+happen		
+let		
+hear		
+mention		
+guess		
+ask		
+hang		
+remember		
+think		
+try		
+call		
+think		
+get		
+prompt		
+get		
+call		
+call		
+think		
+want		
+remember		
+find		
+discover		
+look		
+make		
+get		
+kid		
+stick		
+need		
+see		
+see		
+have		
+have		
+go		
+analyze		
+wonder		
+hear		
+think		
+do		
+wish		
+tell		
+go		
+know		
+want		
+try		
+keep		
+lock		
+look		
+see		
+contact		
+have		
+do		
+think		
+have		
+perfome		
+get		
+do		
+have		
+whip		
+deserve		
+be		
+associate		
+call		
+call		
+go		
+get		
+leave		
+threaten		
+wait		
+put		
+have		
+fit		
+look		
+look		
+look		
+look		
+look		
+look		
+make		
+do		
+clear		
+know		
+use		
+have		
+trust		
+go		
+stop		
+say		
+think		
+find		
+support		
+get		
+mean		
+drop		
+lay		
+say		
+help		
+pray		
+wish		
+pray		
+k*lle		
+walk		
+listen		
+have		
+accept		
+do		
+be		
+do		
+hear		
+make		
+trust		
+know		
+do		
+do		
+know		
+start		
+come		
+go		
+be		
+see		
+die		
+guess		
+trace		
+work		
+call		
+go		
+get		
+go		
+call		
+know		
+transfer		
+like		
+stop		
+like		
+ask		
+seem		
+drift		
+get		
+get		
+do		
+get		
+fall		
+end		
+cry		
+tell		
+talk		
+sit		
+write		
+go		
+take		
+help		
+go		
+wear		
+do		
+take		
+garden		
+forget		
+put		
+set		
+be		
+tell		
+let		
+see		
+know		
+die		
+think		
+think		
+work		
+know		
+run		
+look		
+have		
+have		
+point		
+plant		
+go		
+testify		
+do		
+call		
+remember		
+leave		
+remember		
+call		
+leave		
+have		
+do		
+love		
+k*ll		
+happen		
+go		
+mean		
+want		
+leave		
+know		
+blow		
+think		
+go		
+leave		
+laugh		
+know		
+use		
+hang		
+know		
+want		
+do		
+got		
+keep		
+look		
+get		
+go		
+have		
+solve		
+know		
+languish		
+need		
+pump		
+go		
+follow		
+check		
+stay		
+say		
+do		
+look		
+got		
+deduct		
+remit		
+know		
+mention		
+get		
+watch		
+judge		
+hold		
+show		
+end		
+talk		
+get		
+pack		
+go		
+let		
+leave		
+give		
+get		
+have		
+have		
+want		
+k*ll		
+be		
+another		
+mean		
+traumatize		
+control		
+make		
+know		
+go		
+visit		
+come		
+say		
+take		
+say		
+say		
+take		
+find		
+take		
+go		
+have		
+crush		
+put		
+figure		
+leave		
+have		
+make		
+track		
+excuse		
+pay		
+pay		
+have		
+fix		
+want		
+send		
+do		
+grow		
+look		
+think		
+do		
+do		
+look		
+want		
+arrest		
+call		
+have		
+be		
+go		
+end		
+know		
+know		
+press		
+get		
+handle		
+k*lle		
+care		
+think		
+k*ll		
+do		
+k*lle		
+k*lle		
+know		
+use		
+place		
+know		
+be		
+know		
+explain		
+want		
+get		
+punish		
+'		
+point		
+put		
+make		
+fight		
+have		
+be		
+know		
+matter		
+reveal		
+understand		
+control		
+know		
+fixate		
+get		
+devastate		
+lose		
+hunt		
+lie		
+die		
+hold		
+come		
+go		
+go		
+need		
+speak		
+leave		
+forget		
+talk		
+stay		
+listen		
+try		
+get		
+get		
+need		
+understand		
+go		
+get		
+go		
+marry		
+go		
+try		
+get		
+leave		
+want		
+see		
+like		
+do		
+look		
+think		
+see		
+forget		
+go		
+do		
+go		
+have		
+k*ll		
+do		
+turn		
+have		
+know		
+make		
+leave		
+know		
+talk		
+want		
+look		
+say		
+do		
+see		
+know		
+know		
+elope		
+have		
+arrest		
+have		
+know		
+hope		
+take		
+go		
+meet		
+find		
+know		
+think		
+find		
+have		
+go		
+sit		
+tell		
+stay		
+do		
+find		
+ask		
+brainwash		
+know		
+control		
+talk		
+bet		
+say		
+believe		
+tell		
+make		
+excuse		
+need		
+go		
+deprogram		
+piss		
+do		
+know		
+say		
+do		
+pretend		
+know		
+know		
+know		
+have		
+push		
+get		
+talk		
+do		
+know		
+do		
+do		
+get		
+piss		
+like		
+blow		
+flirt		
+insult		
+sound		
+turn		
+teach		
+put		
+deserve		
+have		
+set		
+fight		
+listen		
+get		
+do		
+notice		
+need		
+go		
+take		
+wait		
+wait		
+say		
+say		
+keep		
+come		
+give		
+tell		
+make		
+know		
+go		
+know		
+come		
+see		
+fall		
+dream		
+give		
+tell		
+make		
+know		
+go		
+know		
+come		
+tell		
+make		
+know		
+go		
+know		
+come		
+give		
+know		
+go		
+know		
+come		
