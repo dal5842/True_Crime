@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+    <!-- Styling -->
+    <style type="text/css">
+        .node { fill: #f0f0f0; stroke: #333; stroke-width: 1.5px; }
+        .text { font-family: Arial, sans-serif; font-size: 14px; text-anchor: middle; }
+        .link { stroke: #999; stroke-width: 2px; marker-end: url(#arrow); }
+        .label { font-size: 12px; fill: #555; }
+    </style>
+
+    <!-- Arrows -->
+    <defs>
+        <marker id="arrow" viewBox="0 0 10 10" refX="10" refY="5" markerUnits="strokeWidth"
+            markerWidth="6" markerHeight="6" orient="auto">
+            <path d="M 0 0 L 10 5 L 0 10 z" fill="#999"/>
+        </marker>
+    </defs>
+
+    <!-- characters -->
+    <circle id="lilly" class="node" cx="400" cy="100" r="40"/>
+    <text class="text" x="400" y="105">Lilly Rush</text>
+
+    <circle id="scotty" class="node" cx="250" cy="200" r="40"/>
+    <text class="text" x="250" y="205">Scotty Valens</text>
+
+    <circle id="nick" class="node" cx="550" cy="200" r="40"/>
+    <text class="text" x="550" y="205">Nick Vera</text>
+
+    <circle id="kat" class="node" cx="250" cy="350" r="40"/>
+    <text class="text" x="250" y="355">Kat Miller</text>
+
+    <circle id="john" class="node" cx="400" cy="450" r="40"/>
+    <text class="text" x="400" y="455">John Stillman</text>
+
+    <circle id="will" class="node" cx="550" cy="350" r="40"/>
+    <text class="text" x="550" y="355">Will Jeffries</text>
+
+    <circle id="chris" class="node" cx="400" cy="250" r="40"/>
+    <text class="text" x="400" y="255">Chris Lassing</text>
+
+    <!-- Lilly Rush connections -->
+    <line class="link" x1="400" y1="140" x2="250" y2="160"/>
+    <text class="label" x="325" y="150">Partner</text>
+
+    <line class="link" x1="400" y1="140" x2="550" y2="160"/>
+    <text class="label" x="475" y="150">Colleague</text>
+
+    <line class="link" x1="400" y1="140" x2="400" y2="210"/>
+    <text class="label" x="410" y="175">Former Partner</text>
+
+    <line class="link" x1="400" y1="140" x2="250" y2="310"/>
+    <text class="label" x="325" y="225">Colleague</text>
+
+    <line class="link" x1="400" y1="140" x2="550" y2="310"/>
+    <text class="label" x="475" y="225">Colleague</text>
+
+    <line class="link" x1="400" y1="140" x2="400" y2="410"/>
+    <text class="label" x="410" y="275">Mentor</text>
+
+    <!-- Scotty Valens connections -->
+    <line class="link" x1="250" y1="240" x2="550" y2="240"/>
+    <text class="label" x="400" y="230">Colleague</text>
+
+    <line class="link" x1="250" y1="240" x2="250" y2="310"/>
+    <text class="label" x="260" y="275">Colleague</text>
+
+    <line class="link" x1="250" y1="240" x2="550" y2="310"/>
+    <text class="label" x="400" y="275">Colleague</text>
+
+    <line class="link" x1="250" y1="240" x2="400" y2="410"/>
+    <text class="label" x="325" y="325">Mentor</text>
+
+    <!-- Nick Vera connections -->
+    <line class="link" x1="550" y1="240" x2="250" y2="310"/>
+    <text class="label" x="400" y="275">Colleague</text>
+
+    <line class="link" x1="550" y1="240" x2="550" y2="310"/>
+    <text class="label" x="560" y="275">Colleague</text>
+
+    <line class="link" x1="550" y1="240" x2="400" y2="410"/>
+    <text class="label" x="475" y="325">Mentor</text>
+
+    <!-- Kat Miller connections -->
+    <line class="link" x1="250" y1="390" x2="400" y2="410"/>
+    <text class="label" x="325" y="400">Mentor</text>
+
+    <!-- Will Jeffries connections -->
+    <line class="link" x1="550" y1="390" x2="400" y2="410"/>
+    <text class="label" x="475" y="400">Mentor</text>
+
+    <!-- Chris Lassing connections -->
+    <line class="link" x1="400" y1="290" x2="400" y2="410"/>
+    <text class="label" x="410" y="350">Supervisor</text>
+</svg>
