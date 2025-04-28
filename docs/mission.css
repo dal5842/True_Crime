@@ -37,7 +37,8 @@ body {
 }
 
 body {
-    background: url('Images/Parchmentbg.jpeg') no-repeat center center/cover;
+    /*background: url('Images/Parchmentbg.jpeg') no-repeat center center/cover;*/
+    background: url('https://media1.tenor.com/m/hWq-Ss6fkWMAAAAd/jump-court.gif') no-repeat center center/cover;
     font-family: 'Courier New', monospace;
     color: #222;
     text-align: center;
