@@ -1,0 +1,456 @@
+/* ========================= */
+/* Global Styles             */
+/* ========================= */
+
+/* Navigation Bar */
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    padding: 10px 0;
+    display: flex;
+    justify-content: center;
+    z-index: 1000;
+}
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+nav ul li {
+    margin: 0 15px;
+}
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.2em;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+nav ul li a:hover {
+    color: #d9534f;
+}
+nav ul li.dropdown {
+    position: relative;
+}
+nav ul li.dropdown:hover .dropdown-content {
+    display: block;
+}
+nav ul li .dropdown-content {
+    display: none;
+    position: absolute;
+    background: rgba(0, 0, 0, 0.8);
+    min-width: 160px;
+    padding: 10px 0;
+    border-radius: 5px;
+    text-align: left;
+    z-index: 1;
+}
+nav ul li .dropdown-content a {
+    display: block;
+    padding: 8px 16px;
+    font-size: 1em;
+    color: white;
+}
+nav ul li .dropdown-content a:hover {
+    background: #444;
+}
+
+body {
+    font-family: 'Courier New', monospace;
+    margin: 0;
+    padding: 50px 0 0; 
+    background: url('Images/Parchmentbg.jpeg') no-repeat center center fixed;
+    background-size: cover;
+    color: #222;
+    text-align: left;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+}
+
+footer {
+    margin-top: auto;
+    width: 100%;
+    background-color: rgba(0,0,0,0.6);
+    backdrop-filter: blur(5px);
+    color: white;
+    text-shadow: 1px 1px 3px black;
+    padding: 8px 0;
+    font-size: 0.9em;
+    text-align: center;
+}
+
+@media (max-width: 768px) {
+    nav ul {
+        flex-direction: column;
+    }
+    nav ul li {
+        margin: 10px 0;
+    }
+    nav ul li a {
+        font-size: 1.1em;
+    }
+
+    .episode-container,
+    .image-container {
+        flex-direction: column;
+        text-align: center;
+    }
+    .episode-info {
+        padding-right: 0;
+        margin-bottom: 20px;
+    }
+    .episode-image img,
+    .image-item img {
+        max-width: 100%;
+    }
+}
+
+/* ========================= */
+/* About Page                */
+/* ========================= */
+body.about-page .container {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    background: #fffdf2;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    text-align: left;
+}
+body.about-page h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+    color: #222;
+}
+body.about-page h2 {
+    color: #444;
+    margin-top: 30px;
+}
+body.about-page p {
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+body.about-page ul {
+    padding-left: 20px;
+    margin-top: 10px;
+}
+body.about-page li {
+    margin-bottom: 8px;
+}
+body.about-page .bottom-image {
+    display: block;
+    max-width: 100%;
+    margin-top: 30px;
+    border-radius: 8px;
+}
+
+/* ========================= */
+/* Characters Page           */
+/* ========================= */
+body.characters-page .container {
+    margin: 0 auto 30px;
+    padding: 20px 40px;
+    background: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    width: calc(100% - 80px);
+}
+body.characters-page .container figure {
+    margin: 10px 0 20px;
+    text-align: left;
+}
+body.characters-page .container img {
+    max-width: 150px;
+    display: block;
+    height: auto;
+}
+body.characters-page .container p {
+    line-height: 1.6;
+    text-align: left;
+}
+body.characters-page h2 {
+    text-align: left;
+    padding-left: 20px;
+    font-size: 1.8em;
+    color: #333;
+}
+body.characters-page figcaption {
+    font-size: 14px;
+    color: #555;
+}
+body.characters-page figcaption a {
+    color: #007bff;
+    text-decoration: none;
+}
+body.characters-page figcaption a:hover {
+    text-decoration: underline;
+}
+body.characters-page #chara-diagram {
+    display: block;
+    margin: 20px auto;
+    border: 2px solid #333;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+/* ========================= */
+/* Contributors Page         */
+/* ========================= */
+body.contributors-page .contributors-container {
+    text-align: center;
+    padding: 50px 20px;
+}
+body.contributors-page .contributors-grid {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    max-width: 600px;
+    margin: auto;
+}
+body.contributors-page .contributor {
+    background: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    width: 100%;
+    max-width: 500px;
+    text-align: center;
+}
+body.contributors-page .contributor img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 10px;
+    border: 3px solid black;
+}
+body.contributors-page .contributor h2 {
+    font-size: 1.5em;
+    margin-bottom: 5px;
+}
+body.contributors-page .contributor p {
+    font-size: 1em;
+    color: #333;
+}
+
+/* ========================= */
+/* Episodes Page             */
+/* ========================= */
+body.episodes-page .main-content {
+    padding: 60px 20px 0;
+}
+body.episodes-page .episode-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1000px;
+    margin: 40px auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+body.episodes-page .episode-info {
+    flex: 1;
+    padding-right: 20px;
+}
+body.episodes-page .episode-number {
+    margin: 0;
+    color: #888;
+    font-size: 1.2em;
+}
+body.episodes-page .episode-title {
+    margin: 10px 0;
+    font-size: 2em;
+    color: #333;
+}
+body.episodes-page .episode-description {
+    font-size: 1em;
+    color: #555;
+    text-align: left;
+}
+body.episodes-page .episode-image {
+    flex-shrink: 0;
+}
+body.episodes-page .episode-image img {
+    max-width: 300px;
+    border-radius: 8px;
+}
+
+/* ========================= */
+/* Soundtrack Page           */
+/* ========================= */
+body.soundtrack-page .playlist {
+    max-width: 800px;
+    margin: auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+body.soundtrack-page .episode {
+    border-bottom: 1px solid #ddd;
+    padding: 10px 0;
+}
+body.soundtrack-page .episode:last-child {
+    border-bottom: none;
+}
+body.soundtrack-page .episode-number {
+    color: #888;
+    font-size: 0.9em;
+    margin-bottom: 5px;
+}
+body.soundtrack-page .song-title {
+    font-size: 1.4em;
+    font-weight: bold;
+    color: #333;
+    margin: 5px 0;
+}
+body.soundtrack-page .artist {
+    font-size: 1em;
+    color: #666;
+    margin-bottom: 10px;
+}
+body.soundtrack-page .lyrics {
+    font-size: 0.9em;
+    color: #444;
+    white-space: pre-wrap;
+}
+
+/* ========================= */
+/* Kumu Page                 */
+/* ========================= */
+body.kumu-page .Container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 2rem;
+    font-family: Arial, sans-serif;
+    color: #333;
+    background-color: #f9f9f9;
+}
+body.kumu-page h1 {
+    font-size: 2.5rem;
+    text-align: center;
+    margin-bottom: 1rem;
+    color: #1a237e;
+}
+body.kumu-page h2 {
+    font-size: 1.5rem;
+    margin: 2rem 0 0.5rem;
+    color: #303f9f;
+}
+body.kumu-page p {
+    line-height: 1.6;
+    margin-bottom: 1.5rem;
+}
+body.kumu-page figure {
+    text-align: center;
+    margin: 1.5rem 0;
+}
+body.kumu-page figure img {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+}
+body.kumu-page table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5rem 0;
+    background: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+}
+body.kumu-page th,
+body.kumu-page td {
+    border: 1px solid #ddd;
+    padding: 0.75rem;
+    text-align: left;
+}
+body.kumu-page th {
+    background: #e8eaf6;
+    font-weight: bold;
+}
+body.kumu-page tr:nth-child(even) {
+    background: #f2f2f2;
+}
+body.kumu-page .image-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+body.kumu-page .image-item {
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    max-width: 300px;
+    text-align: center;
+}
+body.kumu-page .image-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+body.kumu-page .caption {
+    margin-top: 10px;
+    font-size: 0.95em;
+    color: #555;
+}
+
+/* ========================= */
+/* Cytoscape Page            */
+/* ========================= */
+body.cytoscape-page .container {
+    max-width: 1000px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+body.cytoscape-page .container h1 {
+    font-size: 2rem;
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+}
+body.cytoscape-page .image-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+body.cytoscape-page .image-item {
+    flex: 1 1 300px;
+    max-width: 300px;
+    background: white;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+body.cytoscape-page .image-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+}
+body.cytoscape-page .caption {
+    margin-top: 10px;
+    font-size: 0.95em;
+    color: #555;
+    text-align: center;
+}

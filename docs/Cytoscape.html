@@ -1,87 +1,69 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Cytoscape</title>
-        <link rel="stylesheet" href="stylesheet.css">
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Cytoscape Analysis</title>
+        <link rel="stylesheet" href="Condensed.css" />
     </head>
-    <body>
+    <body class="cytoscape-page">
         <nav>
             <ul>
                 <li>
                     <a href="index.html">Home</a>
                 </li>
                 <li>
-                    <a href="Mission.html">Our Mission</a>
-                </li>
-                <li>
                     <a href="AboutPage.html">About</a>
                 </li>
-                <li>
-                    <a href="Contributors.html">Team</a>
-                </li>
-                <li>
-                    <a href="episodes.html">Episode List</a>
-                </li>
-                <li>
-                    <a href="Characters.html">Character Breakdown</a>
-                </li>
-                <li>
-                    <a href="soundtrack.html">Soundtrack</a>
-                </li>
-                <li>
-                    <a href="Kumu.html">Antconc & Kumo</a>
-                </li>
-                <li>
-                    <a href="Cytoscape.html">Cytoscape</a>
+                <li class="dropdown">
+                    <a href="#">Pages &#9662;</a>
+                    <div class="dropdown-content">
+                        <a href="Mission.html">Mission</a>
+                        <a href="Contributors.html">Contributors</a>
+                        <a href="episodes.html">Episodes</a>
+                        <a href="Characters.html">Characters</a>
+                        <a href="soundtrack.html">Sound Track</a>
+                        <a href="Kumu.html">Kumu</a>
+                        <a href="Cytoscape.html">Cytoscape</a>
+                    </div>
                 </li>
             </ul>
         </nav>
-        <div class="cytoscape">
+        <main>
             <h1>CytoScape Comparisons</h1>
             <div class="image-container">
                 <div class="image-item">
-                    <img src="Images/musicVerbFreq.png" alt="Image 1" />
-                    <div class="caption">This is a CytoScape of the verbs throughtout in the music
+                    <img src="Images/musicVerbFreq.png" alt="Music Verb Frequency CytoScape" />
+                    <div class="caption">This CytoScape shows verb frequency in the music
                         playlist.</div>
                 </div>
                 <div class="image-item">
-                    <img src="Images/wordFreq.png" alt="Image 2" />
-                    <div class="caption">This is a CytoScape of the words frequency throught episode
-                        2 of Cold Case.</div>
+                    <img src="Images/wordFreq.png" alt="Word Frequency CytoScape" />
+                    <div class="caption">This CytoScape shows word frequency in Episode 2.</div>
                 </div>
                 <div class="image-item">
-                    <img src="Images/dialogues.tsv_1-2.png" alt="Image 3" />
-                    <div class="caption">Finally, this is a CytoScape that looks at the dialoge
-                        throught epiosdes .</div>
+                    <img src="Images/dialogues.tsv_1-2.png" alt="Dialogue CytoScape" />
+                    <div class="caption">This CytoScape analyzes dialogue patterns across episodes 1
+                        and 2.</div>
                 </div>
             </div>
-        </div>
+        </main>
         <footer>
-            <p>Gabriella Vozar | Dannika Love | Emily Kaile | Rashe Mishra</p>
+            <p>Gabriella Vozar | Dannika Love | Emily Kalie | Rashe Mishra</p>
             <p>
                 <a href="http://dal5842.github.io/True_Crime/">True Crime</a> by <a
                     href="https://github.com/dal5842/True_Crime">Dannika Love, Gabriella Vozar,
                     Emily Kalie, Rashe Mishra</a> is licensed under <a
                     href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1"
-                    target="_blank" rel="license noopener noreferrer"> CC BY-NC-ND 4.0 <img
+                    target="_blank" rel="license noopener noreferrer">CC BY-NC-ND 4.0 <img
                         src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"
-                        style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
-                        alt="CC" />
-                    <img
+                        alt="CC" /><img
                         src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"
-                        style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
-                        alt="BY" />
-                    <img
+                        alt="BY" /><img
                         src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"
-                        style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
-                        alt="NC" />
-                    <img
+                        alt="NC" /><img
                         src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1"
-                        style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
-                        alt="ND" />
-                </a>
+                        alt="ND" /></a>
             </p>
         </footer>
     </body>

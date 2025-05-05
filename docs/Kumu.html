@@ -1,154 +1,145 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>Antconc and Kumu.io</title>
-        <link rel="stylesheet" href="stylesheet.css">
+        <link rel="stylesheet" href="Condensed.css" />
     </head>
-    <body>
+    <body class="kumu-page">
         <nav>
             <ul>
                 <li>
                     <a href="index.html">Home</a>
                 </li>
                 <li>
-                    <a href="main.html">Our Mission</a>
-                </li>
-                <li>
                     <a href="AboutPage.html">About</a>
                 </li>
-                <li>
-                    <a href="contributors.html">Team</a>
-                </li>
-                <li>
-                    <a href="episodes.html">Episode List</a>
-                </li>
-                <li>
-                    <a href="Characters.html">Character Breakdown</a>
-                </li>
-                <li>
-                    <a href="soundtrack.html">Soundtrack</a>
-                </li>
-                <li>
-                    <a href="Kumu.html">Antconc & Kumo</a>
-                </li>
-                <li>
-                    <a href="Cytoscape.html">Cytoscape</a>
+                <li class="dropdown">
+                    <a href="#">Pages &#9662;</a>
+                    <div class="dropdown-content">
+                        <a href="Mission.html">Mission</a>
+                        <a href="Contributors.html">Contributors</a>
+                        <a href="episodes.html">Episodes</a>
+                        <a href="Characters.html">Characters</a>
+                        <a href="soundtrack.html">Sound Track</a>
+                        <a href="Kumu.html">Kumu</a>
+                        <a href="Cytoscape.html">Cytoscape</a>
+                    </div>
                 </li>
             </ul>
         </nav>
         <div class="Container">
             <h1>Website Kumu Network Analysis</h1>
             <h2>Summary</h2>
-            <p> The two Kumu diagrams represent structured datasets related to two different
-                searched group of words from the episodes. Each dataset consists of common words,
-                main characters names (first and last), the frequency of the amount of times
-                mentioned, and the episode mentioned in. The first Kumu (word search) has a
-                relatively simple structure, with fewer nodes and mostly direct, clear
-                relationships, suggesting a straightforward, user-friendly website or system. The
-                second Kumu (name search) is more complex, with more nodes and interconnected
-                relationships, indicating a website with a more dense navigation structure, with
-                more layers of connection between content but requiring slightly more user effort to
-                navigate. Together, these maps highlight different levels of word frequencies. </p>
+            <p>The two Kumu diagrams represent structured datasets related to two different searched
+                groups of words from the episodes. Each dataset consists of common words, main
+                characters’ names (first and last), their frequency of mentions, and the episodes in
+                which they appear. The first Kumu (word search) has a simpler structure with fewer
+                nodes and direct relationships, suggesting a straightforward, user-friendly network.
+                The second Kumu (name search) is more complex, with interconnected relationships
+                indicating a denser navigation structure that requires slightly more effort to
+                explore. Together, these maps highlight different levels of word and name
+                frequencies.</p>
             <h2>Kumu of Word Search</h2>
             <figure>
-                <img src="Images/WordSearchKumu.png" alt="KumuWordSearch" />
+                <img src="Images/WordSearchKumu.png" alt="Word Search Kumu"/>
+                <iframe src="https://embed.kumu.io/6478cdb40eab1f54463e0b3deaf22843" width="1000" height="600"></iframe>
             </figure>
             <h2>Basic Word Search</h2>
             <table>
                 <tr>
-                    <th>Words</th>
-                    <th># of uses</th>
-                    <th>Episode</th>
+                    <th>Word</th>
+                    <th>Count</th>
+                    <th>Episodes</th>
                 </tr>
                 <tr>
                     <td>attack</td>
                     <td>7</td>
-                    <td>EP18 | EP19 | EP8 | EP5 | EP4 | EP10 | EP7</td>
+                    <td>EP18, EP19, EP8, EP5, EP4, EP10, EP7</td>
                 </tr>
                 <tr>
                     <td>DNA</td>
                     <td>40</td>
-                    <td>EP3 | EP6 | EP21 | EP13 | EP11 | EP23 | EP14 | EP16 | EP12</td>
+                    <td>EP3, EP6, EP21, EP13, EP11, EP23, EP14, EP16, EP12</td>
                 </tr>
                 <tr>
                     <td>crime</td>
                     <td>26</td>
-                    <td>EP7 | EP23 | EP21 | EP12 | EP15 | EP6 | EP18 | EP9 | EP13 | EP2 | EP1 | EP8
-                        | EP10 | EP4 | EP16</td>
+                    <td>EP7, EP23, EP21, EP12, EP15, EP6, EP18, EP9, EP13, EP2, EP1, EP8, EP10, EP4,
+                        EP16</td>
                 </tr>
                 <tr>
                     <td>k*ll</td>
                     <td>6</td>
-                    <td>EP23 | EP9</td>
+                    <td>EP23, EP9</td>
                 </tr>
                 <tr>
                     <td>r*pe</td>
                     <td>3</td>
-                    <td>EP14 | EP10 | EP20</td>
+                    <td>EP14, EP10, EP20</td>
                 </tr>
                 <tr>
                     <td>sex</td>
                     <td>9</td>
-                    <td>EP3 | EP21 | EP11 | EP1</td>
+                    <td>EP3, EP21, EP11, EP1</td>
                 </tr>
                 <tr>
                     <td>knife</td>
                     <td>4</td>
-                    <td>EP15 | EP7 | EP10</td>
+                    <td>EP15, EP7, EP10</td>
                 </tr>
                 <tr>
                     <td>shame</td>
                     <td>6</td>
-                    <td>EP15 | EP20 | EP9 | EP10 | EP2 | EP3</td>
+                    <td>EP15, EP20, EP9, EP10, EP2, EP3</td>
                 </tr>
                 <tr>
                     <td>cold case</td>
                     <td>2</td>
-                    <td>EP7 | EP1</td>
+                    <td>EP7, EP1</td>
                 </tr>
                 <tr>
                     <td>love</td>
                     <td>136</td>
-                    <td>EP23 | EP7 | EP15 | EP11 | EP20 | EP10 | EP21 | EP13 | EP4 | EP14 | EP5 |
-                        EP6 | EP17 | EP16 | EP12 | EP2 | EP8 | EP18 | EP19 | EP9 | EP1 | EP3 |
-                        EP22</td>
+                    <td>EP23, EP7, EP15, EP11, EP20, EP10, EP21, EP13, EP4, EP14, EP5, EP6, EP17,
+                        EP16, EP12, EP2, EP8, EP18, EP19, EP9, EP1, EP3, EP22</td>
                 </tr>
             </table>
             <h2>Kumu of Name Search</h2>
             <figure>
-                <img src="Images/NameSearchKumu.png" alt="KumuNameSearch" />
+                <img src="Images/NameSearchKumu.png" alt="Kumu Name Search" />
+                <iframe src="https://embed.kumu.io/64973cdd65d07dfc452c666426d78b08" width="1000" height="600"></iframe>
             </figure>
             <h2>Character Name Search</h2>
             <table>
                 <tr>
-                    <th>Names</th>
-                    <th># of uses</th>
-                    <th>Episode</th>
+                    <th>Name</th>
+                    <th>Count</th>
+                    <th>Episodes</th>
                 </tr>
                 <tr>
                     <td>lilly</td>
                     <td>337</td>
-                    <td>EP1 | EP21 | EP16 | EP18 | EP9 | EP10 | EP7 | EP13 | EP5 | EP23 | EP2</td>
+                    <td>EP1, EP21, EP16, EP18, EP9, EP10, EP7, EP13, EP5, EP23, EP2</td>
                 </tr>
                 <tr>
                     <td>rush</td>
                     <td>90</td>
-                    <td>EP11 | EP5 | EP4 | EP13 | EP6 | EP16 | EP21 | EP20 | EP10 | EP19 | EP14 |
-                        EP15 | EP8 | EP2 | EP1 | EP7 | EP9 | EP3 | EP12 | EP17 | EP18 | EP22</td>
+                    <td>EP11, EP5, EP4, EP13, EP6, EP16, EP21, EP20, EP10, EP19, EP14, EP15, EP8,
+                        EP2, EP1, EP7, EP9, EP3, EP12, EP17, EP18, EP22</td>
                 </tr>
                 <tr>
                     <td>scotty</td>
                     <td>48</td>
-                    <td>EP10 | EP6 | EP20 | EP14 | EP22 | EP19 | EP13 | EP8 | EP17 | EP21 | EP18 |
-                        EP 7 | EP11 | EP23 | EP16</td>
+                    <td>EP10, EP6, EP20, EP14, EP22, EP19, EP13, EP8, EP17, EP21, EP18, EP7, EP11,
+                        EP23, EP16</td>
                 </tr>
                 <tr>
                     <td>valens</td>
                     <td>36</td>
-                    <td>EP17 | EP10 | EP21 | EP6 | EP20 | EP11 | EP23 | EP8 | EP16 | EP18 | EP22 |
-                        EP7 | EP13 | EP12 | EP19 | EP14 | EP15</td>
+                    <td>EP17, EP10, EP21, EP6, EP20, EP11, EP23, EP8, EP16, EP18, EP22, EP7, EP13,
+                        EP12, EP19, EP14, EP15</td>
                 </tr>
                 <tr>
                     <td>miller</td>
@@ -158,35 +149,34 @@
                 <tr>
                     <td>nick</td>
                     <td>23</td>
-                    <td>EP1 | EP3 | EP6</td>
+                    <td>EP1, EP3, EP6</td>
                 </tr>
                 <tr>
                     <td>vera</td>
                     <td>46</td>
-                    <td>EP4 | EP10 | EP18 | EP6 | EP12 | EP2 | EP15 | EP1 | EP3 | EP23 | EP13 | EP19
-                        | EP9 | EP8 | EP11 | EP3 | EP7 | EP20</td>
+                    <td>EP4, EP10, EP18, EP6, EP12, EP2, EP15, EP1, EP3, EP23, EP13, EP19, EP9, EP8,
+                        EP11, EP7, EP20</td>
                 </tr>
                 <tr>
                     <td>john</td>
                     <td>86</td>
-                    <td>EP1 | EP13 | EP18 | EP21 | EP17 | EP15 | EP11 | EP20 | EP22 | EP23</td>
+                    <td>EP1, EP13, EP18, EP21, EP17, EP15, EP11, EP20, EP22, EP23</td>
                 </tr>
                 <tr>
                     <td>stillman</td>
                     <td>13</td>
-                    <td>EP1 | EP23 | EP19 | EP12 | EP22 | EP11 | EP7</td>
+                    <td>EP1, EP23, EP19, EP12, EP22, EP11, EP7</td>
                 </tr>
                 <tr>
                     <td>will</td>
                     <td>57</td>
-                    <td>EP6 | EP1 | EP4 | EP15 | EP17 | EP19 | EP18 | EP11 | EP22 | EP14 | 13 |
-                        EP21</td>
+                    <td>EP6, EP1, EP4, EP15, EP17, EP19, EP18, EP11, EP22, EP14, EP13, EP21</td>
                 </tr>
                 <tr>
                     <td>jeffries</td>
                     <td>22</td>
-                    <td>EP12 | EP6 | EP13 | EP8 | EP4 | EP10 | EP15 | EP5 | EP1 | EP17 | EP9 | EP3 |
-                        EP21 | EP11 | EP18</td>
+                    <td>EP12, EP6, EP13, EP8, EP4, EP10, EP15, EP5, EP1, EP17, EP9, EP3, EP21, EP11,
+                        EP18</td>
                 </tr>
                 <tr>
                     <td>chris</td>
@@ -196,7 +186,7 @@
             </table>
         </div>
         <footer>
-            <p>Gabriella Vozar | Dannika Love | Emily Kaile | Rashe Mishra</p>
+            <p>Gabriella Vozar | Dannika Love | Emily Kalie | Rashe Mishra</p>
             <p>
                 <a href="http://dal5842.github.io/True_Crime/">True Crime</a> by <a
                     href="https://github.com/dal5842/True_Crime">Dannika Love, Gabriella Vozar,
@@ -204,21 +194,13 @@
                     href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1"
                     target="_blank" rel="license noopener noreferrer"> CC BY-NC-ND 4.0 <img
                         src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"
-                        style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
-                        alt="CC" />
-                    <img
+                        alt="CC" /><img
                         src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"
-                        style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
-                        alt="BY" />
-                    <img
+                        alt="BY" /><img
                         src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"
-                        style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
-                        alt="NC" />
-                    <img
+                        alt="NC" /><img
                         src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1"
-                        style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
-                        alt="ND" />
-                </a>
+                        alt="ND" /></a>
             </p>
         </footer>
     </body>
