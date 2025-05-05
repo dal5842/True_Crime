@@ -1,939 +1,940 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNG/TrueCrimeRelaxNG.rnc" type="application/relax-ng-compact-syntax"?>
 <transcript>
-   <line>You know that I'll never ever leave you.</line>
-   <line>I'll never ever leave you.</line>
-   <line>You know the anything me and you hear...</line>
-   <line>it's just jealous people talking.</line>
-   <line>No one has we have.</line>
-   <line>That's why they're jealous.</line>
-   <line>Can't wait for Paris until be an adult.</line>
-   <line>Can't wait either.</line>
-   <line>Wanna get in the car?</line>
-   <line>Come on!</line>
-   <line>Come on!</line>
-   <line>Who's Anna Mayes?</line>
-   <line>Don't know.</line>
-   <line>Says she knows you from West.</line>
-   <line>Oh, her.
+   <line type="dialogue">You know that I'll never ever leave you.</line>
+   <line type="dialogue">I'll never ever leave you.</line>
+   <line type="dialogue">You know the anything me and you hear...</line>
+   <line type="dialogue">it's just jealous people talking.</line>
+   <line type="dialogue">No one has we have.</line>
+   <line type="dialogue">That's why they're jealous.</line>
+   <line type="dialogue">Can't wait for Paris until be an adult.</line>
+   <line type="dialogue">Can't wait either.</line>
+   <line type="dialogue">Wanna get in the car?</line>
+   <line type="dialogue">Come on!</line>
+   <line type="dialogue">Come on!</line>
+   <line type="dialogue">Who's Anna Mayes?</line>
+   <line type="dialogue">Don't know.</line>
+   <line type="dialogue">Says she knows you from West.</line>
+   <line type="dialogue">Oh, her.
 She's detective.</line>
-   <line>Pain in the a*s.</line>
-   <line>She called Lil.
+   <line type="dialogue">Pain in the a*s.</line>
+   <line type="dialogue">She called Lil.
 She's bringing us something.</line>
-   <line>How are things going at home?</line>
-   <line>She went to her sister's.</line>
-   <line>Well, that's probably good
+   <line type="dialogue">How are things going at home?</line>
+   <line type="dialogue">She went to her sister's.</line>
+   <line type="dialogue">Well, that's probably good
 that she's, uh,</line>
-   <line>during the day, huh? / Mm.</line>
-   <line>Scotty Valens, Homicide.</line>
-   <line>Hey, Anna.</line>
-   <line>The big time looks good on you.</line>
-   <line>Anna says all your old CIs
+   <line type="dialogue">during the day, huh? / Mm.</line>
+   <line type="dialogue">Scotty Valens, Homicide.</line>
+   <line type="dialogue">Hey, Anna.</line>
+   <line type="dialogue">The big time looks good on you.</line>
+   <line type="dialogue">Anna says all your old CIs
 still ask after you.</line>
-   <line>Is that right? / They miss the
+   <line type="dialogue">Is that right? / They miss the
 steak dinners particular.</line>
-   <line>This is Lieutenant Stillman.</line>
-   <line>Detective Mayes, th District.
+   <line type="dialogue">This is Lieutenant Stillman.</line>
+   <line type="dialogue">Detective Mayes, th District.
 - Well, Detective,</line>
-   <line>you got an angle on an old one, huh?</line>
-   <line>Sam Terrence. Just arrested him
+   <line type="dialogue">you got an angle on an old one, huh?</line>
+   <line type="dialogue">Sam Terrence. Just arrested him
 on a loitering complaint.</line>
-   <line>Got to talking. Turns out he was just
+   <line type="dialogue">Got to talking. Turns out he was just
 sprung from Camp Hill after years.</line>
-   <line>What did he do?
+   <line type="dialogue">What did he do?
 - Nothing.</line>
-   <line>He was convicted of r*pe and m*rder.</line>
-   <line>DNA just showed they
+   <line type="dialogue">He was convicted of r*pe and m*rder.</line>
+   <line type="dialogue">DNA just showed they
 pinched the wrong guy.</line>
-   <line>Sam, join the party.</line>
-   <line>Hi, Sam. John Stillman.</line>
-   <line>Hey, I got to be at
+   <line type="dialogue">Sam, join the party.</line>
+   <line type="dialogue">Hi, Sam. John Stillman.</line>
+   <line type="dialogue">Hey, I got to be at
 the Budget Wash on time.</line>
-   <line>I'll get you there.</line>
-   <line>These Detectives wanna hear
+   <line type="dialogue">I'll get you there.</line>
+   <line type="dialogue">These Detectives wanna hear
 about the Eve Kendall m*rder.</line>
-   <line>Were you in the area, Sam?</line>
-   <line>I was collecting cans in the park.</line>
-   <line>Middle of the night, I get picked up
+   <line type="dialogue">Were you in the area, Sam?</line>
+   <line type="dialogue">I was collecting cans in the park.</line>
+   <line type="dialogue">Middle of the night, I get picked up
 and ID'd as a k*ller.</line>
-   <line>Who ID'd you?
+   <line type="dialogue">Who ID'd you?
 - Boyfriend of the girl.</line>
-   <line>He was also att*cked.</line>
-   <line>I did almost two dimes for it.</line>
-   <line>I was a young man
+   <line type="dialogue">He was also att*cked.</line>
+   <line type="dialogue">I did almost two dimes for it.</line>
+   <line type="dialogue">I was a young man
 when I went in there. Like you.</line>
-   <line>This was, uh, ' ?
+   <line type="dialogue">This was, uh, ' ?
 - Lover's Lane. Teenagers.</line>
-   <line>She's r*ped and k*lled,
+   <line type="dialogue">She's r*ped and k*lled,
 he's left for dead.</line>
-   <line>The least we can do is figure out
+   <line type="dialogue">The least we can do is figure out
 whose time you've been doing.</line>
-   <line>Eve Kendall, .</line>
-   <line>Died from s*ab wounds.
+   <line type="dialogue">Eve Kendall, .</line>
+   <line type="dialogue">Died from s*ab wounds.
 No w*apon recovered.</line>
-   <line>Boyfriend Mark Adams was att*cked, too.</line>
-   <line>Concussion, shallow wounds.</line>
-   <line>Found at Lover's Lane, Fairmount Park.</line>
-   <line>Big make-out place in the summertime.</line>
-   <line>So you were there a lot.</line>
-   <line>How'd Sam become
+   <line type="dialogue">Boyfriend Mark Adams was att*cked, too.</line>
+   <line type="dialogue">Concussion, shallow wounds.</line>
+   <line type="dialogue">Found at Lover's Lane, Fairmount Park.</line>
+   <line type="dialogue">Big make-out place in the summertime.</line>
+   <line type="dialogue">So you were there a lot.</line>
+   <line type="dialogue">How'd Sam become
 the whipping boy for this?</line>
-   <line>He was half homeless and a boozer.</line>
-   <line>Only person in the area
+   <line type="dialogue">He was half homeless and a boozer.</line>
+   <line type="dialogue">Only person in the area
 Mark ID'd him from a lineup.</line>
-   <line>An ID we now know is bogus.</line>
-   <line>That plus the "shallow wounds"
+   <line type="dialogue">An ID we now know is bogus.</line>
+   <line type="dialogue">That plus the "shallow wounds"
 makes me want to talk to Mark again.</line>
-   <line>Check it out.</line>
-   <line>What?</line>
-   <line>Kind of looks like you.</line>
-   <line>Sam told the cops about a couple parked</line>
-   <line>in a green Datsun a few spaces
+   <line type="dialogue">Check it out.</line>
+   <line type="dialogue">What?</line>
+   <line type="dialogue">Kind of looks like you.</line>
+   <line type="dialogue">Sam told the cops about a couple parked</line>
+   <line type="dialogue">in a green Datsun a few spaces
 away from Mark and Eve that night.</line>
-   <line>No follow-up.</line>
-   <line>They didn't believe him?</line>
-   <line>So maybe that's a job for you.</line>
-   <line>What? Tracking green Datsuns from ' ?</line>
-   <line>It's glamorous, being in Homicide.</line>
-   <line>I know I saw that guy.</line>
-   <line>You got knocked out, though, right?</line>
-   <line>But I saw him. I'm positive.</line>
-   <line>Thing is, an eyewitness being sure</line>
-   <line>has no correlation to them being right.</line>
-   <line>Sam Terrence is out of jail.</line>
-   <line>We're looking at other possibilities now.</line>
-   <line>I'll help if I can.</line>
-   <line>Remember seeing anyone else
+   <line type="dialogue">No follow-up.</line>
+   <line type="dialogue">They didn't believe him?</line>
+   <line type="dialogue">So maybe that's a job for you.</line>
+   <line type="dialogue">What? Tracking green Datsuns from ' ?</line>
+   <line type="dialogue">It's glamorous, being in Homicide.</line>
+   <line type="dialogue">I know I saw that guy.</line>
+   <line type="dialogue">You got knocked out, though, right?</line>
+   <line type="dialogue">But I saw him. I'm positive.</line>
+   <line type="dialogue">Thing is, an eyewitness being sure</line>
+   <line type="dialogue">has no correlation to them being right.</line>
+   <line type="dialogue">Sam Terrence is out of jail.</line>
+   <line type="dialogue">We're looking at other possibilities now.</line>
+   <line type="dialogue">I'll help if I can.</line>
+   <line type="dialogue">Remember seeing anyone else
 in the park that night?</line>
-   <line>It was years ago.</line>
-   <line>Maybe another couple parked nearby?</line>
-   <line>No. I don't remember that.</line>
-   <line>Were you and Eve having
+   <line type="dialogue">It was years ago.</line>
+   <line type="dialogue">Maybe another couple parked nearby?</line>
+   <line type="dialogue">No. I don't remember that.</line>
+   <line type="dialogue">Were you and Eve having
 any problem before she died?</line>
-   <line>We were completely happy.</line>
-   <line>Recent fights...?</line>
-   <line>I just said we were completely happy.</line>
-   <line>Was she worried about any unwanted attention?</line>
-   <line>Eve got all kinds of attention,
+   <line type="dialogue">We were completely happy.</line>
+   <line type="dialogue">Recent fights...?</line>
+   <line type="dialogue">I just said we were completely happy.</line>
+   <line type="dialogue">Was she worried about any unwanted attention?</line>
+   <line type="dialogue">Eve got all kinds of attention,
 but it didn't worry her.</line>
-   <line>We'll live in Paris, like expatriates.</line>
-   <line>You'll write plays for me.</line>
-   <line>And poem.</line>
-   <line>And I'll read them out loud at cafes.</line>
-   <line>We'll live in a garret.
+   <line type="dialogue">We'll live in Paris, like expatriates.</line>
+   <line type="dialogue">You'll write plays for me.</line>
+   <line type="dialogue">And poem.</line>
+   <line type="dialogue">And I'll read them out loud at cafes.</line>
+   <line type="dialogue">We'll live in a garret.
 - What's that?</line>
-   <line>It's where artists live.</line>
-   <line>With no heat.</line>
-   <line>Someone's staring at you.</line>
-   <line>Come on.</line>
-   <line>Everyone stares,
+   <line type="dialogue">It's where artists live.</line>
+   <line type="dialogue">With no heat.</line>
+   <line type="dialogue">Someone's staring at you.</line>
+   <line type="dialogue">Come on.</line>
+   <line type="dialogue">Everyone stares,
 'cause you're so pretty.</line>
-   <line>What do we do for money?</line>
-   <line>Nothing. We hate money.</line>
-   <line>See you later? / Okay.</line>
-   <line>Bye.</line>
-   <line>What happened to you being a writer?</line>
-   <line>Family business.</line>
-   <line>Ever got you upset,</line>
-   <line>all that attention she got?</line>
-   <line>No. I felt lucky I was her guy.</line>
-   <line>Eve was the heartbreak of my life.</line>
-   <line>We were gonna be together forever.</line>
-   <line>First love?</line>
-   <line>It broke me losing her.</line>
-   <line>It's weird how much you look like her.</line>
-   <line>Wayne Larkin?</line>
-   <line>Is it about the trash?</line>
-   <line>It's about Eve Kendall.</line>
-   <line>She was m*rder*d...
+   <line type="dialogue">What do we do for money?</line>
+   <line type="dialogue">Nothing. We hate money.</line>
+   <line type="dialogue">See you later? / Okay.</line>
+   <line type="dialogue">Bye.</line>
+   <line type="dialogue">What happened to you being a writer?</line>
+   <line type="dialogue">Family business.</line>
+   <line type="dialogue">Ever got you upset,</line>
+   <line type="dialogue">all that attention she got?</line>
+   <line type="dialogue">No. I felt lucky I was her guy.</line>
+   <line type="dialogue">Eve was the heartbreak of my life.</line>
+   <line type="dialogue">We were gonna be together forever.</line>
+   <line type="dialogue">First love?</line>
+   <line type="dialogue">It broke me losing her.</line>
+   <line type="dialogue">It's weird how much you look like her.</line>
+   <line type="dialogue">Wayne Larkin?</line>
+   <line type="dialogue">Is it about the trash?</line>
+   <line type="dialogue">It's about Eve Kendall.</line>
+   <line type="dialogue">She was m*rder*d...
 .</line>
-   <line>Oh, yeah.</line>
-   <line>Trying to watch the program.</line>
-   <line>It's the cops, Dad.</line>
-   <line>Outside.</line>
-   <line>Diabetes and gout.</line>
-   <line>So how did you know Eve?</line>
-   <line>We both worked at the mall.</line>
-   <line>We were sort of weekend friends.</line>
-   <line>In our write-up, it says you
+   <line type="dialogue">Oh, yeah.</line>
+   <line type="dialogue">Trying to watch the program.</line>
+   <line type="dialogue">It's the cops, Dad.</line>
+   <line type="dialogue">Outside.</line>
+   <line type="dialogue">Diabetes and gout.</line>
+   <line type="dialogue">So how did you know Eve?</line>
+   <line type="dialogue">We both worked at the mall.</line>
+   <line type="dialogue">We were sort of weekend friends.</line>
+   <line type="dialogue">In our write-up, it says you
 saw her the day she died.</line>
-   <line>Uh... around : after work.</line>
-   <line>Saw her at the bus stop.</line>
-   <line>Her boyfriend Mark didn't
+   <line type="dialogue">Uh... around : after work.</line>
+   <line type="dialogue">Saw her at the bus stop.</line>
+   <line type="dialogue">Her boyfriend Mark didn't
 pick her up after work?</line>
-   <line>Oh, he dropped her off a lot,
+   <line type="dialogue">Oh, he dropped her off a lot,
 but she took the bus home.</line>
-   <line>She talk about her boyfriend to you?</line>
-   <line>Yeah. I guess he was pretty possessive.</line>
-   <line>Really? / Yeah, but I don't think
+   <line type="dialogue">She talk about her boyfriend to you?</line>
+   <line type="dialogue">Yeah. I guess he was pretty possessive.</line>
+   <line type="dialogue">Really? / Yeah, but I don't think
 the feeling was mutual.</line>
-   <line>She was still, uh,</line>
-   <line>you know, looking around.</line>
-   <line>You work till : ?</line>
-   <line>Yeah, 'cause after the movie,
+   <line type="dialogue">She was still, uh,</line>
+   <line type="dialogue">you know, looking around.</line>
+   <line type="dialogue">You work till : ?</line>
+   <line type="dialogue">Yeah, 'cause after the movie,
 I got to sweep up all
 the popcorn and leftover junk.</line>
-   <line>That's so late.</line>
-   <line>You're a Summer.
+   <line type="dialogue">That's so late.</line>
+   <line type="dialogue">You're a Summer.
 You should wear baby pink.</line>
-   <line>I don't mind.
+   <line type="dialogue">I don't mind.
 I like being at work.</line>
-   <line>You know, I-I can get you in free.</line>
-   <line>Yeah?</line>
-   <line>Yeah. Tonight even,
+   <line type="dialogue">You know, I-I can get you in free.</line>
+   <line type="dialogue">Yeah?</line>
+   <line type="dialogue">Yeah. Tonight even,
 if you want.</line>
-   <line>Top g*n. : and : .</line>
-   <line>Maybe.</line>
-   <line>Remember me?</line>
-   <line>Yeah.</line>
-   <line>Peach-banana, well-blended.</line>
-   <line>You move pretty good.</line>
-   <line>Thanks.</line>
-   <line>You sing, too?</line>
-   <line>Yeah, I sing.</line>
-   <line>So you ever gonna take me up on my offer?</line>
-   <line>You mean about - - ?</line>
-   <line>Yeah. It's a hot place.</line>
-   <line>I don't have I.D.</line>
-   <line>I'll get you in.</line>
-   <line>Can my friend come?</line>
-   <line>Sure.</line>
-   <line>How's tonight?</line>
-   <line>My mom leaves for work at : .</line>
-   <line>So, who was this guy?</line>
-   <line>Worked in the music store.</line>
-   <line>I guess they met at the food court.</line>
-   <line>Do you remember a name?</line>
-   <line>You know, I want to say Max, uh...</line>
-   <line>but it was a pretty long time ago.</line>
-   <line>Mark has this girl up on a pedestal.</line>
-   <line>She was everything to him, his one and only.</line>
-   <line>But he apparently wasn't hers.</line>
-   <line>Sounds like the older dude
+   <line type="dialogue">Top g*n. : and : .</line>
+   <line type="dialogue">Maybe.</line>
+   <line type="dialogue">Remember me?</line>
+   <line type="dialogue">Yeah.</line>
+   <line type="dialogue">Peach-banana, well-blended.</line>
+   <line type="dialogue">You move pretty good.</line>
+   <line type="dialogue">Thanks.</line>
+   <line type="dialogue">You sing, too?</line>
+   <line type="dialogue">Yeah, I sing.</line>
+   <line type="dialogue">So you ever gonna take me up on my offer?</line>
+   <line type="dialogue">You mean about - - ?</line>
+   <line type="dialogue">Yeah. It's a hot place.</line>
+   <line type="dialogue">I don't have I.D.</line>
+   <line type="dialogue">I'll get you in.</line>
+   <line type="dialogue">Can my friend come?</line>
+   <line type="dialogue">Sure.</line>
+   <line type="dialogue">How's tonight?</line>
+   <line type="dialogue">My mom leaves for work at : .</line>
+   <line type="dialogue">So, who was this guy?</line>
+   <line type="dialogue">Worked in the music store.</line>
+   <line type="dialogue">I guess they met at the food court.</line>
+   <line type="dialogue">Do you remember a name?</line>
+   <line type="dialogue">You know, I want to say Max, uh...</line>
+   <line type="dialogue">but it was a pretty long time ago.</line>
+   <line type="dialogue">Mark has this girl up on a pedestal.</line>
+   <line type="dialogue">She was everything to him, his one and only.</line>
+   <line type="dialogue">But he apparently wasn't hers.</line>
+   <line type="dialogue">Sounds like the older dude
 took her out at least once.</line>
-   <line>Hmm, a week before she bought it.</line>
-   <line>So, either Mark was totally in the dark,</line>
-   <line>or he knew about the extracurriculars.</line>
-   <line>And maybe did something about it.</line>
-   <line>Him being possessive.</line>
-   <line>Oh, years old, I find out
+   <line type="dialogue">Hmm, a week before she bought it.</line>
+   <line type="dialogue">So, either Mark was totally in the dark,</line>
+   <line type="dialogue">or he knew about the extracurriculars.</line>
+   <line type="dialogue">And maybe did something about it.</line>
+   <line type="dialogue">Him being possessive.</line>
+   <line type="dialogue">Oh, years old, I find out
 my girl's stepping out on me?</line>
-   <line>That feels like the end of the world.</line>
-   <line>Pretty vicious crime for a teenage doer.</line>
-   <line>Wouldn't set any records, Lil.</line>
-   <line>Must be Eve's mom.</line>
-   <line>She was a super nice kid.</line>
-   <line>No enemies.</line>
-   <line>Any strange behavior from
+   <line type="dialogue">That feels like the end of the world.</line>
+   <line type="dialogue">Pretty vicious crime for a teenage doer.</line>
+   <line type="dialogue">Wouldn't set any records, Lil.</line>
+   <line type="dialogue">Must be Eve's mom.</line>
+   <line type="dialogue">She was a super nice kid.</line>
+   <line type="dialogue">No enemies.</line>
+   <line type="dialogue">Any strange behavior from
 her those last few weeks?</line>
-   <line>Strange behavior was constant.</line>
-   <line>One thing was a little off.</line>
-   <line>She wanted to borrow $ .</line>
-   <line>Wouldn't say why.</line>
-   <line>What did you think of
+   <line type="dialogue">Strange behavior was constant.</line>
+   <line type="dialogue">One thing was a little off.</line>
+   <line type="dialogue">She wanted to borrow $ .</line>
+   <line type="dialogue">Wouldn't say why.</line>
+   <line type="dialogue">What did you think of
 her boyfriend Mark?</line>
-   <line>Nice. Especially for a rich kid.</line>
-   <line>He treat Eve okay?</line>
-   <line>Yes, called about four times a night.</line>
-   <line>Like he was checking up on her?</line>
-   <line>I just took it as kids in love.</line>
-   <line>Did you ever hear of a guy named Max?</line>
-   <line>Oh, you bet I did.</line>
-   <line>That jerk came to my house!</line>
-   <line>Don't forget to call before you go to sleep.</line>
-   <line>What?
+   <line type="dialogue">Nice. Especially for a rich kid.</line>
+   <line type="dialogue">He treat Eve okay?</line>
+   <line type="dialogue">Yes, called about four times a night.</line>
+   <line type="dialogue">Like he was checking up on her?</line>
+   <line type="dialogue">I just took it as kids in love.</line>
+   <line type="dialogue">Did you ever hear of a guy named Max?</line>
+   <line type="dialogue">Oh, you bet I did.</line>
+   <line type="dialogue">That jerk came to my house!</line>
+   <line type="dialogue">Don't forget to call before you go to sleep.</line>
+   <line type="dialogue">What?
 You tummy hurt?</line>
-   <line>No. I don't know.</line>
-   <line>Need me to stay home, baby?
+   <line type="dialogue">No. I don't know.</line>
+   <line type="dialogue">Need me to stay home, baby?
 - No, Mom, go.</line>
-   <line>Uh... Good evening.</line>
-   <line>Yes?</line>
-   <line>Is Eve here?</line>
-   <line>Who are you?</line>
-   <line>I'm Max... Tanning.</line>
-   <line>Well, turn around Max.</line>
-   <line>Mom!</line>
-   <line>How old are you?</line>
-   <line>Um...</line>
-   <line>cause she's !</line>
-   <line>Ok, no harm, no foul.</line>
-   <line>Walk away.</line>
-   <line>Mother!</line>
-   <line>You can wait makeup... / Why?</line>
-   <line>You don't know how you look to the world!</line>
-   <line>What are you talking about?</line>
-   <line>Cause you're young.</line>
-   <line>But not so young that people
+   <line type="dialogue">Uh... Good evening.</line>
+   <line type="dialogue">Yes?</line>
+   <line type="dialogue">Is Eve here?</line>
+   <line type="dialogue">Who are you?</line>
+   <line type="dialogue">I'm Max... Tanning.</line>
+   <line type="dialogue">Well, turn around Max.</line>
+   <line type="dialogue">Mom!</line>
+   <line type="dialogue">How old are you?</line>
+   <line type="dialogue">Um...</line>
+   <line type="dialogue">cause she's !</line>
+   <line type="dialogue">Ok, no harm, no foul.</line>
+   <line type="dialogue">Walk away.</line>
+   <line type="dialogue">Mother!</line>
+   <line type="dialogue">You can wait makeup... / Why?</line>
+   <line type="dialogue">You don't know how you look to the world!</line>
+   <line type="dialogue">What are you talking about?</line>
+   <line type="dialogue">Cause you're young.</line>
+   <line type="dialogue">But not so young that people
 don't see you and think things.</line>
-   <line>I can handle it, Mom.
+   <line type="dialogue">I can handle it, Mom.
 - And want things.</line>
-   <line>You don't even understand.
+   <line type="dialogue">You don't even understand.
 - I can handle it!</line>
-   <line>Did Mark know about this guy?</line>
-   <line>I don't know.</line>
-   <line>There was a lot
+   <line type="dialogue">Did Mark know about this guy?</line>
+   <line type="dialogue">I don't know.</line>
+   <line type="dialogue">There was a lot
 I didn't know with Eve.</line>
-   <line>She was in that hard teenage stage.</line>
-   <line>I'm familiar.</line>
-   <line>I was just waiting till
+   <line type="dialogue">She was in that hard teenage stage.</line>
+   <line type="dialogue">I'm familiar.</line>
+   <line type="dialogue">I was just waiting till
 she got... to her twenties.</line>
-   <line>We could be friends again.</line>
-   <line>Right.</line>
-   <line>But we never got there.</line>
-   <line>If I'm -year-old girl,</line>
-   <line>why do I need $ ?</line>
-   <line>And why not get it from
+   <line type="dialogue">We could be friends again.</line>
+   <line type="dialogue">Right.</line>
+   <line type="dialogue">But we never got there.</line>
+   <line type="dialogue">If I'm -year-old girl,</line>
+   <line type="dialogue">why do I need $ ?</line>
+   <line type="dialogue">And why not get it from
 the rich boyfriend?</line>
-   <line>Maybe it had something
+   <line type="dialogue">Maybe it had something
 to do with this older guy.</line>
-   <line>You mean some she didn't
+   <line type="dialogue">You mean some she didn't
 want Mark knowing about?</line>
-   <line>Her mom said Eve was feeling
+   <line type="dialogue">Her mom said Eve was feeling
 queasy that night creepo came over?</line>
-   <line>Pregnant?</line>
-   <line>Maybe he knocked her up.</line>
-   <line>She can't tell her mom
+   <line type="dialogue">Pregnant?</line>
+   <line type="dialogue">Maybe he knocked her up.</line>
+   <line type="dialogue">She can't tell her mom
 or home-sliced Mark.</line>
-   <line>Autopsy didn't show that.</line>
-   <line>Well, let's double check.</line>
-   <line>Well, that would give motive
+   <line type="dialogue">Autopsy didn't show that.</line>
+   <line type="dialogue">Well, let's double check.</line>
+   <line type="dialogue">Well, that would give motive
 to the older guy...</line>
-   <line>say she wanted to keep it.</line>
-   <line>Or Mark, same motive.</line>
-   <line>Let me go back to him.
+   <line type="dialogue">say she wanted to keep it.</line>
+   <line type="dialogue">Or Mark, same motive.</line>
+   <line type="dialogue">Let me go back to him.
 Solo.</line>
-   <line>I'd better zip.
+   <line type="dialogue">I'd better zip.
 I'll go down with you.</line>
-   <line>My boss sends his regards.
+   <line type="dialogue">My boss sends his regards.
 Lieutenant Doherty.</line>
-   <line>Yeah, we worked the streets together.</line>
-   <line>And if you got an extra desk around here,</line>
-   <line>he'll recommend me for keeps.</line>
-   <line>Subtle, Mayes.</line>
-   <line>You two want her to find Creepo?</line>
-   <line>So, Eve being pregnant?</line>
-   <line>It's impossible.</line>
-   <line>How come?</line>
-   <line>We hadn't gone all the way yet.</line>
-   <line>That garret in Paris,
+   <line type="dialogue">Yeah, we worked the streets together.</line>
+   <line type="dialogue">And if you got an extra desk around here,</line>
+   <line type="dialogue">he'll recommend me for keeps.</line>
+   <line type="dialogue">Subtle, Mayes.</line>
+   <line type="dialogue">You two want her to find Creepo?</line>
+   <line type="dialogue">So, Eve being pregnant?</line>
+   <line type="dialogue">It's impossible.</line>
+   <line type="dialogue">How come?</line>
+   <line type="dialogue">We hadn't gone all the way yet.</line>
+   <line type="dialogue">That garret in Paris,
 that was gonna be the place.</line>
-   <line>But if there was another
+   <line type="dialogue">But if there was another
 guy in the pictures... / No, no.</line>
-   <line>There was, Mark.
+   <line type="dialogue">There was, Mark.
 Someone named Max.</line>
-   <line>There was no other guy.</line>
-   <line>Yeah, you don't... didn't know Eve.</line>
-   <line>I know what it's like being .</line>
-   <line>How flattering it is to have
+   <line type="dialogue">There was no other guy.</line>
+   <line type="dialogue">Yeah, you don't... didn't know Eve.</line>
+   <line type="dialogue">I know what it's like being .</line>
+   <line type="dialogue">How flattering it is to have
 an older guy giving you attention?</line>
-   <line>Eve wouldn't have cheated on me.
+   <line type="dialogue">Eve wouldn't have cheated on me.
 - And what if she did?</line>
-   <line>What would you have done to her?</line>
-   <line>I didn't k*ll her.</line>
-   <line>I loved her.</line>
-   <line>People k*ll people they love.</line>
-   <line>I got att*cked myself,
+   <line type="dialogue">What would you have done to her?</line>
+   <line type="dialogue">I didn't k*ll her.</line>
+   <line type="dialogue">I loved her.</line>
+   <line type="dialogue">People k*ll people they love.</line>
+   <line type="dialogue">I got att*cked myself,
 for God's sake.</line>
-   <line>She was m*rder*d.
+   <line type="dialogue">She was m*rder*d.
 You had minor wounds.</line>
-   <line>Do you have a soul mate?</line>
-   <line>Cause if you did,
+   <line type="dialogue">Do you have a soul mate?</line>
+   <line type="dialogue">Cause if you did,
 you would understand Eve and me.</line>
-   <line>I understand you were
+   <line type="dialogue">I understand you were
 controlling with her.</line>
-   <line>So you've never been in love like that.</line>
-   <line>Mark?</line>
-   <line>You'll picked them up? / Yeah.</line>
-   <line>Five O'clock.</line>
-   <line>Uh... we've been having a rocky time.</line>
-   <line>She senses the truth.</line>
-   <line>Which is?</line>
-   <line>That I loved Eve more than anyone.</line>
-   <line>Vaguely familiar.</line>
-   <line>Worked at the Smoothie Spot.</line>
-   <line>You went to her house one night,</line>
-   <line>her mom made you for the sleazebag
+   <line type="dialogue">So you've never been in love like that.</line>
+   <line type="dialogue">Mark?</line>
+   <line type="dialogue">You'll picked them up? / Yeah.</line>
+   <line type="dialogue">Five O'clock.</line>
+   <line type="dialogue">Uh... we've been having a rocky time.</line>
+   <line type="dialogue">She senses the truth.</line>
+   <line type="dialogue">Which is?</line>
+   <line type="dialogue">That I loved Eve more than anyone.</line>
+   <line type="dialogue">Vaguely familiar.</line>
+   <line type="dialogue">Worked at the Smoothie Spot.</line>
+   <line type="dialogue">You went to her house one night,</line>
+   <line type="dialogue">her mom made you for the sleazebag
 you were kicked your a*s out.</line>
-   <line>Oh, her.</line>
-   <line>One of the many youngsters in your past?</line>
-   <line>I met her at the food court.</line>
-   <line>Struck up a conversation,
+   <line type="dialogue">Oh, her.</line>
+   <line type="dialogue">One of the many youngsters in your past?</line>
+   <line type="dialogue">I met her at the food court.</line>
+   <line type="dialogue">Struck up a conversation,
 and eventually</line>
-   <line>I asked her
+   <line type="dialogue">I asked her
 did she wanna go dancing.</line>
-   <line>Is that all you were after,
+   <line type="dialogue">Is that all you were after,
 a dance partner?</line>
-   <line>Did I find her attractive?</line>
-   <line>Yes.</line>
-   <line>Did I know she was ?
+   <line type="dialogue">Did I find her attractive?</line>
+   <line type="dialogue">Yes.</line>
+   <line type="dialogue">Did I know she was ?
 No.</line>
-   <line>So you made a date with her.</line>
-   <line>Hey, let's not make her
+   <line type="dialogue">So you made a date with her.</line>
+   <line type="dialogue">Hey, let's not make her
 the babe in the woods</line>
-   <line>and me the Big Bad Wolf here, okay?</line>
-   <line>Sounds accurate to me.</line>
-   <line>I made an honest mistake.</line>
-   <line>Her mom flew in on
+   <line type="dialogue">and me the Big Bad Wolf here, okay?</line>
+   <line type="dialogue">Sounds accurate to me.</line>
+   <line type="dialogue">I made an honest mistake.</line>
+   <line type="dialogue">Her mom flew in on
 the broomstick, I split.</line>
-   <line>Hour later, who shows up at the club...</line>
-   <line>Max.</line>
-   <line>Hi.</line>
-   <line>Well, look at that.</line>
-   <line>You made it.</line>
-   <line>Yeah.</line>
-   <line>My mom finally left.</line>
-   <line>No problems getting in?</line>
-   <line>They didn't even ask.</line>
-   <line>The world smiles on pretty girls.</line>
-   <line>Uh, you remember my friend Carrie.</line>
-   <line>How you doing? / Hi.</line>
-   <line>Let me ask you something.</line>
-   <line>You ever think about making a video?</line>
-   <line>What do you mean?</line>
-   <line>You've seen MTV, right?</line>
-   <line>Cyndi Lauper, Madonna.</line>
-   <line>Belinda Carlisle.</line>
-   <line>Cause I think you got something.</line>
-   <line>Really?</line>
-   <line>My store in Atlantic City,</line>
-   <line>we have this sound booth.</line>
-   <line>We could book some time,
+   <line type="dialogue">Hour later, who shows up at the club...</line>
+   <line type="dialogue">Max.</line>
+   <line type="dialogue">Hi.</line>
+   <line type="dialogue">Well, look at that.</line>
+   <line type="dialogue">You made it.</line>
+   <line type="dialogue">Yeah.</line>
+   <line type="dialogue">My mom finally left.</line>
+   <line type="dialogue">No problems getting in?</line>
+   <line type="dialogue">They didn't even ask.</line>
+   <line type="dialogue">The world smiles on pretty girls.</line>
+   <line type="dialogue">Uh, you remember my friend Carrie.</line>
+   <line type="dialogue">How you doing? / Hi.</line>
+   <line type="dialogue">Let me ask you something.</line>
+   <line type="dialogue">You ever think about making a video?</line>
+   <line type="dialogue">What do you mean?</line>
+   <line type="dialogue">You've seen MTV, right?</line>
+   <line type="dialogue">Cyndi Lauper, Madonna.</line>
+   <line type="dialogue">Belinda Carlisle.</line>
+   <line type="dialogue">Cause I think you got something.</line>
+   <line type="dialogue">Really?</line>
+   <line type="dialogue">My store in Atlantic City,</line>
+   <line type="dialogue">we have this sound booth.</line>
+   <line type="dialogue">We could book some time,
 make a demo, see how it go.</line>
-   <line>I've never been to Atlantic City.</line>
-   <line>I'm going next weekend.
+   <line type="dialogue">I've never been to Atlantic City.</line>
+   <line type="dialogue">I'm going next weekend.
 I'm staying with my cousin.</line>
-   <line>Think about it.</line>
-   <line>Come on, let's dance.</line>
-   <line>Danced a few dances,
+   <line type="dialogue">Think about it.</line>
+   <line type="dialogue">Come on, let's dance.</line>
+   <line type="dialogue">Danced a few dances,
 then I lost her.</line>
-   <line>She left with her friend.</line>
-   <line>You didn't take her to Atlantic City?</line>
-   <line>Nah.</line>
-   <line>That was just dumb talk.
+   <line type="dialogue">She left with her friend.</line>
+   <line type="dialogue">You didn't take her to Atlantic City?</line>
+   <line type="dialogue">Nah.</line>
+   <line type="dialogue">That was just dumb talk.
 - Did she know that?</line>
-   <line>Hey, how much did it cost,
+   <line type="dialogue">Hey, how much did it cost,
 renting that sound booth?</line>
-   <line>bucks a session.</line>
-   <line>The autopsy's conclusive.</line>
-   <line>Eve wasn't pregnant. In fact,</line>
-   <line>she was probably
+   <line type="dialogue">bucks a session.</line>
+   <line type="dialogue">The autopsy's conclusive.</line>
+   <line type="dialogue">Eve wasn't pregnant. In fact,</line>
+   <line type="dialogue">she was probably
 a virgin before the r*pe.</line>
-   <line>Well, that backs up Mark's claim.</line>
-   <line>And, I guess, Max's.
+   <line type="dialogue">Well, that backs up Mark's claim.</line>
+   <line type="dialogue">And, I guess, Max's.
 - What's his story?</line>
-   <line>Well, he and Eve talked about making
+   <line type="dialogue">Well, he and Eve talked about making
 a demo video, price tag, bucks.</line>
-   <line>Oh. What kind of video?</line>
-   <line>Singing and dancing, 'cause maybe
+   <line type="dialogue">Oh. What kind of video?</line>
+   <line type="dialogue">Singing and dancing, 'cause maybe
 she was the new Madonna.</line>
-   <line>Oh, that'll work on a -year-old.</line>
-   <line>Vera found Eve's friend Carrie.</line>
-   <line>He's upstairs with her now.</line>
-   <line>Well, maybe she knows where Eve
+   <line type="dialogue">Oh, that'll work on a -year-old.</line>
+   <line type="dialogue">Vera found Eve's friend Carrie.</line>
+   <line type="dialogue">He's upstairs with her now.</line>
+   <line type="dialogue">Well, maybe she knows where Eve
 came down on Max versus Mark.</line>
-   <line>I remember Max from the music store.</line>
-   <line>Him and Eve have something going on?</line>
-   <line>She had a boyfriend, Mark.</line>
-   <line>We've met him.</line>
-   <line>Yeah, she really loved him.</line>
-   <line>So why's she sneaking out at night
+   <line type="dialogue">I remember Max from the music store.</line>
+   <line type="dialogue">Him and Eve have something going on?</line>
+   <line type="dialogue">She had a boyfriend, Mark.</line>
+   <line type="dialogue">We've met him.</line>
+   <line type="dialogue">Yeah, she really loved him.</line>
+   <line type="dialogue">So why's she sneaking out at night
 to go meet Max?</line>
-   <line>We were kids, you know.</line>
-   <line>Max says he never saw
+   <line type="dialogue">We were kids, you know.</line>
+   <line type="dialogue">Max says he never saw
 Eve after that night at - - .</line>
-   <line>He didn't mention Atlantic City?</line>
-   <line>Said that idea never took off.</line>
-   <line>No, they were going.</line>
-   <line>It was all she talked
+   <line type="dialogue">He didn't mention Atlantic City?</line>
+   <line type="dialogue">Said that idea never took off.</line>
+   <line type="dialogue">No, they were going.</line>
+   <line type="dialogue">It was all she talked
 about the next day.</line>
-   <line>Thanks, Wayne.</line>
-   <line>And don't tell about Atlantic City.</line>
-   <line>I don't think it's a good idea, Eve.
+   <line type="dialogue">Thanks, Wayne.</line>
+   <line type="dialogue">And don't tell about Atlantic City.</line>
+   <line type="dialogue">I don't think it's a good idea, Eve.
 I don't trust that Max guy.</line>
-   <line>Me, neither.</line>
-   <line>Well, he wants me to make a video.</line>
-   <line>You know what he really wants.</line>
-   <line>Come on. / Personally,
+   <line type="dialogue">Me, neither.</line>
+   <line type="dialogue">Well, he wants me to make a video.</line>
+   <line type="dialogue">You know what he really wants.</line>
+   <line type="dialogue">Come on. / Personally,
 I think he's sleazy.</line>
-   <line>Why do you want to do
+   <line type="dialogue">Why do you want to do
 that to Mark, anyway?</line>
-   <line>I'm not doing anything to Mark.</line>
-   <line>I think he just wants
+   <line type="dialogue">I'm not doing anything to Mark.</line>
+   <line type="dialogue">I think he just wants
 to make a move on you.</line>
-   <line>Well, I wouldn't let that happen, okay?</line>
-   <line>You want to go do something...</line>
-   <line>the three of us?</line>
-   <line>Well, I'm meeting Mark.</line>
-   <line>But you and Carrie should go.</line>
-   <line>Her boyfriend's like the
+   <line type="dialogue">Well, I wouldn't let that happen, okay?</line>
+   <line type="dialogue">You want to go do something...</line>
+   <line type="dialogue">the three of us?</line>
+   <line type="dialogue">Well, I'm meeting Mark.</line>
+   <line type="dialogue">But you and Carrie should go.</line>
+   <line type="dialogue">Her boyfriend's like the
 nicest guy in the whole school.</line>
-   <line>Yeah, I've seen him.
+   <line type="dialogue">Yeah, I've seen him.
 He brings her to work sometimes.</line>
-   <line>I could get us free into the movies.
+   <line type="dialogue">I could get us free into the movies.
 Top g*n.</line>
-   <line>I already saw it.</line>
-   <line>Me, too.</line>
-   <line>You ever just want to leave?</line>
-   <line>Just go away, forever?</line>
-   <line>Drive, and drive,
+   <line type="dialogue">I already saw it.</line>
+   <line type="dialogue">Me, too.</line>
+   <line type="dialogue">You ever just want to leave?</line>
+   <line type="dialogue">Just go away, forever?</line>
+   <line type="dialogue">Drive, and drive,
 till you get to California?</line>
-   <line>Not really.</line>
-   <line>Wanna hang out?</line>
-   <line>Okay.</line>
-   <line>We both told Eve not to go,</line>
-   <line>but, well, she kept saying
+   <line type="dialogue">Not really.</line>
+   <line type="dialogue">Wanna hang out?</line>
+   <line type="dialogue">Okay.</line>
+   <line type="dialogue">We both told Eve not to go,</line>
+   <line type="dialogue">but, well, she kept saying
 she could handle it.</line>
-   <line>Well, what kind of car
+   <line type="dialogue">Well, what kind of car
 did Wayne drive?</line>
-   <line>This beat-up old Datsun.</line>
-   <line>Carrie said that Wayne from the mall
+   <line type="dialogue">This beat-up old Datsun.</line>
+   <line type="dialogue">Carrie said that Wayne from the mall
 drove a green Datsun in ' .</line>
-   <line>A ' B- was registered to
+   <line type="dialogue">A ' B- was registered to
 a Jim Larkin. Probably his dad.</line>
-   <line>The same type of car Sam thought
+   <line type="dialogue">The same type of car Sam thought
 he saw the night Eve was k*lled.</line>
-   <line>Hey.</line>
-   <line>Don't look so wonderful,
+   <line type="dialogue">Hey.</line>
+   <line type="dialogue">Don't look so wonderful,
 cops comin' here for me.</line>
-   <line>I badged the boss.
+   <line type="dialogue">I badged the boss.
 Told him what it's about.</line>
-   <line>Want you to look at some pictures, Sam.</line>
-   <line>That's the guy in the Datsun.</line>
-   <line>You sure?</line>
-   <line>I mean, I don't wanna say definitely but...</line>
-   <line>You think you saw him before.</line>
-   <line>That night.</line>
-   <line>It's what my mind is telling me,</line>
-   <line>but I wouldn't swear to it.</line>
-   <line>But your gut reaction is
+   <line type="dialogue">Want you to look at some pictures, Sam.</line>
+   <line type="dialogue">That's the guy in the Datsun.</line>
+   <line type="dialogue">You sure?</line>
+   <line type="dialogue">I mean, I don't wanna say definitely but...</line>
+   <line type="dialogue">You think you saw him before.</line>
+   <line type="dialogue">That night.</line>
+   <line type="dialogue">It's what my mind is telling me,</line>
+   <line type="dialogue">but I wouldn't swear to it.</line>
+   <line type="dialogue">But your gut reaction is
 this kid was there that night.</line>
-   <line>With a heavy-looking girl.</line>
-   <line>Heavy, huh? / But I couldn't put
+   <line type="dialogue">With a heavy-looking girl.</line>
+   <line type="dialogue">Heavy, huh? / But I couldn't put
 my hand on a Bible and say it.</line>
-   <line>I better jump back in here.</line>
-   <line>An eyewitnesses puts you
+   <line type="dialogue">I better jump back in here.</line>
+   <line type="dialogue">An eyewitnesses puts you
 at the scene, Wayne.</line>
-   <line>What do you mean?
+   <line type="dialogue">What do you mean?
 - Lover's Lane.</line>
-   <line>You were there that night...</line>
-   <line>in your Datsun with a girl.</line>
-   <line>No.</line>
-   <line>A big girl.
+   <line type="dialogue">You were there that night...</line>
+   <line type="dialogue">in your Datsun with a girl.</line>
+   <line type="dialogue">No.</line>
+   <line type="dialogue">A big girl.
 Like Carrie.</line>
-   <line>That's crazy.</line>
-   <line>See, I think you had it bad for Eve.</line>
-   <line>But you didn't have a shot there,</line>
-   <line>That's common enough.</line>
-   <line>I gotta be at the airport.
+   <line type="dialogue">That's crazy.</line>
+   <line type="dialogue">See, I think you had it bad for Eve.</line>
+   <line type="dialogue">But you didn't have a shot there,</line>
+   <line type="dialogue">That's common enough.</line>
+   <line type="dialogue">I gotta be at the airport.
 - So, you go parking with Carrie.</line>
-   <line>But she's not really rocking your world.</line>
-   <line>After a few Tall Boys,
+   <line type="dialogue">But she's not really rocking your world.</line>
+   <line type="dialogue">After a few Tall Boys,
 you're feeling pretty loose.</line>
-   <line>And there's Eve with Mark
+   <line type="dialogue">And there's Eve with Mark
 just a few spaces over,</line>
-   <line>to Wayne Larkin.</line>
-   <line>I was never at Lover's Lane with Carrie.</line>
-   <line>You can polygraph me.</line>
-   <line>You hung out with her the weekend before.</line>
-   <line>Carrie told us.</line>
-   <line>We watched  TV.</line>
-   <line>I didn't dig her,
+   <line type="dialogue">to Wayne Larkin.</line>
+   <line type="dialogue">I was never at Lover's Lane with Carrie.</line>
+   <line type="dialogue">You can polygraph me.</line>
+   <line type="dialogue">You hung out with her the weekend before.</line>
+   <line type="dialogue">Carrie told us.</line>
+   <line type="dialogue">We watched  TV.</line>
+   <line type="dialogue">I didn't dig her,
 she didn't dig me.</line>
-   <line>It was a nonevent.</line>
-   <line>Were you pissed off about Eve
+   <line type="dialogue">It was a nonevent.</line>
+   <line type="dialogue">Were you pissed off about Eve
 going to Atlantic City, Wayne?</line>
-   <line>I thought it was a bad idea,
+   <line type="dialogue">I thought it was a bad idea,
 but it was her life.</line>
-   <line>So you didn't try to stop her?
+   <line type="dialogue">So you didn't try to stop her?
 - I helped her.</line>
-   <line>She borrowed bucks,
+   <line type="dialogue">She borrowed bucks,
 so she could run off
 with that statutory r*pist.</line>
-   <line>You loaned Eve the money?</line>
-   <line>And that guy Max was so sleazy,</line>
-   <line>he wouldn't give it
+   <line type="dialogue">You loaned Eve the money?</line>
+   <line type="dialogue">And that guy Max was so sleazy,</line>
+   <line type="dialogue">he wouldn't give it
 back to me after she died.</line>
-   <line>There was no trip to Atlantic City.</line>
-   <line>Yeah, but there was supposed to be.</line>
-   <line>Eve even gave you the money.</line>
-   <line>She was a kid.
+   <line type="dialogue">There was no trip to Atlantic City.</line>
+   <line type="dialogue">Yeah, but there was supposed to be.</line>
+   <line type="dialogue">Eve even gave you the money.</line>
+   <line type="dialogue">She was a kid.
 - That wasn't stopping you.</line>
-   <line>You had it all set up
+   <line type="dialogue">You had it all set up
 for a Saturday night score in A.C.</line>
-   <line>I'm telling you, she was a kid.</line>
-   <line>You liked kids.</line>
-   <line>That's why you hung out at - - .</line>
-   <line>Too bad that joint got shut
+   <line type="dialogue">I'm telling you, she was a kid.</line>
+   <line type="dialogue">You liked kids.</line>
+   <line type="dialogue">That's why you hung out at - - .</line>
+   <line type="dialogue">Too bad that joint got shut
 down for serving to minors.</line>
-   <line>Where do you hang out now,
+   <line type="dialogue">Where do you hang out now,
 high schools?</line>
-   <line>I didn't do anything to that girl.</line>
-   <line>I'm the one who called it off.</line>
-   <line>You ready?</line>
-   <line>I'm ready.</line>
-   <line>What's the sleeping bag for?</line>
-   <line>Well, we're staying over, right?</line>
-   <line>Yeah, you're not gonna need that.</line>
-   <line>Is there a guest room?</line>
-   <line>No.</line>
-   <line>Then...</line>
-   <line>where am I sleeping?</line>
-   <line>Eve, we're going on a trip here.</line>
-   <line>Together.</line>
-   <line>Yeah, I know.</line>
-   <line>Okay, you a grown-up or not?</line>
-   <line>Cause if not, you should stay here.</line>
-   <line>Go have hot fudge sundaes with
+   <line type="dialogue">I didn't do anything to that girl.</line>
+   <line type="dialogue">I'm the one who called it off.</line>
+   <line type="dialogue">You ready?</line>
+   <line type="dialogue">I'm ready.</line>
+   <line type="dialogue">What's the sleeping bag for?</line>
+   <line type="dialogue">Well, we're staying over, right?</line>
+   <line type="dialogue">Yeah, you're not gonna need that.</line>
+   <line type="dialogue">Is there a guest room?</line>
+   <line type="dialogue">No.</line>
+   <line type="dialogue">Then...</line>
+   <line type="dialogue">where am I sleeping?</line>
+   <line type="dialogue">Eve, we're going on a trip here.</line>
+   <line type="dialogue">Together.</line>
+   <line type="dialogue">Yeah, I know.</line>
+   <line type="dialogue">Okay, you a grown-up or not?</line>
+   <line type="dialogue">Cause if not, you should stay here.</line>
+   <line type="dialogue">Go have hot fudge sundaes with
 your girlfriend, you know. Play dolls.</line>
-   <line>You wanna go with me,
+   <line type="dialogue">You wanna go with me,
 you gotta be an adult.</line>
-   <line>So you tell me.</line>
-   <line>You a kid?</line>
-   <line>Or are you a grown-up?</line>
-   <line>I guess I'm gonna need
+   <line type="dialogue">So you tell me.</line>
+   <line type="dialogue">You a kid?</line>
+   <line type="dialogue">Or are you a grown-up?</line>
+   <line type="dialogue">I guess I'm gonna need
 my bucks back.</line>
-   <line>The money's already spent.</line>
-   <line>But...</line>
-   <line>It's spent.</line>
-   <line>Didn't get the booty you wanted,
+   <line type="dialogue">The money's already spent.</line>
+   <line type="dialogue">But...</line>
+   <line type="dialogue">It's spent.</line>
+   <line type="dialogue">Didn't get the booty you wanted,
 figured you were owed something?</line>
-   <line>Sounds more like pretty
+   <line type="dialogue">Sounds more like pretty
 theft than calling it off.</line>
-   <line>The point is, we didn't
+   <line type="dialogue">The point is, we didn't
 go anywhere that day.</line>
-   <line>And that was the last I ever saw her.</line>
-   <line>So the D.A.'s really enjoying</line>
-   <line>blowing the Kendall case.</line>
-   <line>That's his problem.</line>
-   <line>Yeah, and mine,</line>
-   <line>if he ships me off to Welfare Fraud.</line>
-   <line>For what?</line>
-   <line>For associating with the troublemaker.</line>
-   <line>What, your dealer?</line>
-   <line>Hi.</line>
-   <line>Hi. / I'm sorry.</line>
-   <line>I just needed to...</line>
-   <line>I looked you up.</line>
-   <line>I-I keep thinking about her.</line>
-   <line>I'll just be five minutes.</line>
-   <line>She'd hate who I am now.</line>
-   <line>Workaday.</line>
-   <line>Bourgeois.</line>
-   <line>Practical.</line>
-   <line>Yeah.</line>
-   <line>But we wanted...
+   <line type="dialogue">And that was the last I ever saw her.</line>
+   <line type="dialogue">So the D.A.'s really enjoying</line>
+   <line type="dialogue">blowing the Kendall case.</line>
+   <line type="dialogue">That's his problem.</line>
+   <line type="dialogue">Yeah, and mine,</line>
+   <line type="dialogue">if he ships me off to Welfare Fraud.</line>
+   <line type="dialogue">For what?</line>
+   <line type="dialogue">For associating with the troublemaker.</line>
+   <line type="dialogue">What, your dealer?</line>
+   <line type="dialogue">Hi.</line>
+   <line type="dialogue">Hi. / I'm sorry.</line>
+   <line type="dialogue">I just needed to...</line>
+   <line type="dialogue">I looked you up.</line>
+   <line type="dialogue">I-I keep thinking about her.</line>
+   <line type="dialogue">I'll just be five minutes.</line>
+   <line type="dialogue">She'd hate who I am now.</line>
+   <line type="dialogue">Workaday.</line>
+   <line type="dialogue">Bourgeois.</line>
+   <line type="dialogue">Practical.</line>
+   <line type="dialogue">Yeah.</line>
+   <line type="dialogue">But we wanted...
 we wanted exciting lives.</line>
-   <line>Like yours.</line>
-   <line>Oh, it's, uh, not so exciting. / No?</line>
-   <line>No. It's more like I watch other
+   <line type="dialogue">Like yours.</line>
+   <line type="dialogue">Oh, it's, uh, not so exciting. / No?</line>
+   <line type="dialogue">No. It's more like I watch other
 people's lives from a front row seat.</line>
-   <line>Are you who you thought you'd be?</line>
-   <line>I mean, when you were ?</line>
-   <line>No. No, I...</line>
-   <line>I had a whole other plan for
+   <line type="dialogue">Are you who you thought you'd be?</line>
+   <line type="dialogue">I mean, when you were ?</line>
+   <line type="dialogue">No. No, I...</line>
+   <line type="dialogue">I had a whole other plan for
 what I wanted.</line>
-   <line>And?</line>
-   <line>It was impossible.</line>
-   <line>Well, I'm glad you came along.</line>
-   <line>I mean, I feel... I feel awake again.</line>
-   <line>You've been living a life...</line>
-   <line>No...</line>
-   <line>I've been going through paces.</line>
-   <line>Like it was all forgotten,
+   <line type="dialogue">And?</line>
+   <line type="dialogue">It was impossible.</line>
+   <line type="dialogue">Well, I'm glad you came along.</line>
+   <line type="dialogue">I mean, I feel... I feel awake again.</line>
+   <line type="dialogue">You've been living a life...</line>
+   <line type="dialogue">No...</line>
+   <line type="dialogue">I've been going through paces.</line>
+   <line type="dialogue">Like it was all forgotten,
 buried away with her, but</line>
-   <line>now...</line>
-   <line>I remember everything.
+   <line type="dialogue">now...</line>
+   <line type="dialogue">I remember everything.
 - Floods back, huh?</line>
-   <line>Like it was yesterday.</line>
-   <line>I still love her.</line>
-   <line>Mark...</line>
-   <line>Wendy knows and I-I...</line>
-   <line>I couldn't stay there tonight.</line>
-   <line>I just, I just wanted to be with...</line>
-   <line>with her.</line>
-   <line>And I found myself coming to you.</line>
-   <line>Oh, crap.
+   <line type="dialogue">Like it was yesterday.</line>
+   <line type="dialogue">I still love her.</line>
+   <line type="dialogue">Mark...</line>
+   <line type="dialogue">Wendy knows and I-I...</line>
+   <line type="dialogue">I couldn't stay there tonight.</line>
+   <line type="dialogue">I just, I just wanted to be with...</line>
+   <line type="dialogue">with her.</line>
+   <line type="dialogue">And I found myself coming to you.</line>
+   <line type="dialogue">Oh, crap.
 It's... it's : .</line>
-   <line>Yeah, I'm gonna go.</line>
-   <line>I.I lost... I lost track of time.
+   <line type="dialogue">Yeah, I'm gonna go.</line>
+   <line type="dialogue">I.I lost... I lost track of time.
 - Well, you're busy.</line>
-   <line>You're busy, so I'll see you
+   <line type="dialogue">You're busy, so I'll see you
 tomorrow. / Kite...</line>
-   <line>I'll see you tomorrow.</line>
-   <line>We got a new theory, Carrie.</line>
-   <line>You and Wayne.</line>
-   <line>Me and Wayne, what?</line>
-   <line>You were both nursing
+   <line type="dialogue">I'll see you tomorrow.</line>
+   <line type="dialogue">We got a new theory, Carrie.</line>
+   <line type="dialogue">You and Wayne.</line>
+   <line type="dialogue">Me and Wayne, what?</line>
+   <line type="dialogue">You were both nursing
 some hard feelings towards Eve.</line>
-   <line>Him 'cause he was so hung up on her,</line>
-   <line>and you 'cause she got all that attention.</line>
-   <line>Maybe you too got tired of her
+   <line type="dialogue">Him 'cause he was so hung up on her,</line>
+   <line type="dialogue">and you 'cause she got all that attention.</line>
+   <line type="dialogue">Maybe you too got tired of her
 being the queen bee all the time.</line>
-   <line>Started talking revenge.</line>
-   <line>I didn't talk to Wayne about anything.</line>
-   <line>I know what it's like being
+   <line type="dialogue">Started talking revenge.</line>
+   <line type="dialogue">I didn't talk to Wayne about anything.</line>
+   <line type="dialogue">I know what it's like being
 the fat kid in high school, Carrie.</line>
-   <line>It's a misery.</line>
-   <line>It's not great.</line>
-   <line>Changing for gym class
+   <line type="dialogue">It's a misery.</line>
+   <line type="dialogue">It's not great.</line>
+   <line type="dialogue">Changing for gym class
 in front of everybody.</line>
-   <line>Going to pool parties
+   <line type="dialogue">Going to pool parties
 and wearing your shirt the whole time.</line>
-   <line>Girls like Eve prancing around
+   <line type="dialogue">Girls like Eve prancing around
 in bikinis, getting ogled.</line>
-   <line>Always their friend,
+   <line type="dialogue">Always their friend,
 never the girlfriend, right?</line>
-   <line>That could lead to some dark thoughts.</line>
-   <line>Maybe Wayne did something...
+   <line type="dialogue">That could lead to some dark thoughts.</line>
+   <line type="dialogue">Maybe Wayne did something...
 but not me.</line>
-   <line>His car was seen at Lover's Lane,
+   <line type="dialogue">His car was seen at Lover's Lane,
 night of the m*rder.</line>
-   <line>Two people inside.</line>
-   <line>We were thinking it was you with him.</line>
-   <line>You must be joking.</line>
-   <line>I hated Wayne.</line>
-   <line>Oh, what was to hate?</line>
-   <line>I love this part when the pizza
+   <line type="dialogue">Two people inside.</line>
+   <line type="dialogue">We were thinking it was you with him.</line>
+   <line type="dialogue">You must be joking.</line>
+   <line type="dialogue">I hated Wayne.</line>
+   <line type="dialogue">Oh, what was to hate?</line>
+   <line type="dialogue">I love this part when the pizza
 comes to Mr. Hen's class.</line>
-   <line>Yeah, it's funny.</line>
-   <line>Oh, Dad, I thought you were asleep.</line>
-   <line>How's it going?</line>
-   <line>Good.</line>
-   <line>You seen this before.</line>
-   <line>Yeah.</line>
-   <line>Come in here.</line>
-   <line>I got something better on.</line>
-   <line>I don't know.
+   <line type="dialogue">Yeah, it's funny.</line>
+   <line type="dialogue">Oh, Dad, I thought you were asleep.</line>
+   <line type="dialogue">How's it going?</line>
+   <line type="dialogue">Good.</line>
+   <line type="dialogue">You seen this before.</line>
+   <line type="dialogue">Yeah.</line>
+   <line type="dialogue">Come in here.</line>
+   <line type="dialogue">I got something better on.</line>
+   <line type="dialogue">I don't know.
 - Brings the beers with you.</line>
-   <line>No big deal.</line>
-   <line>Are you coming?</line>
-   <line>I really wanna watch this.</line>
-   <line>Can't you ever bring a good one?</line>
-   <line>What happened in the bedroom?</line>
-   <line>What do you think?</line>
-   <line>And you didn't report it?</line>
-   <line>Mom, could we call the cops?</line>
-   <line>Cause I got drunk with some guy,</line>
-   <line>and then his dad said
+   <line type="dialogue">No big deal.</line>
+   <line type="dialogue">Are you coming?</line>
+   <line type="dialogue">I really wanna watch this.</line>
+   <line type="dialogue">Can't you ever bring a good one?</line>
+   <line type="dialogue">What happened in the bedroom?</line>
+   <line type="dialogue">What do you think?</line>
+   <line type="dialogue">And you didn't report it?</line>
+   <line type="dialogue">Mom, could we call the cops?</line>
+   <line type="dialogue">Cause I got drunk with some guy,</line>
+   <line type="dialogue">and then his dad said
 to come into his room..."</line>
-   <line>Right.</line>
-   <line>And there's the humiliation factor.</line>
-   <line>After he finished,</line>
-   <line>he told me to get my giant a*s out.</line>
-   <line>You bring girls home to your dad
+   <line type="dialogue">Right.</line>
+   <line type="dialogue">And there's the humiliation factor.</line>
+   <line type="dialogue">After he finished,</line>
+   <line type="dialogue">he told me to get my giant a*s out.</line>
+   <line type="dialogue">You bring girls home to your dad
 as a regular thing, Wayne?</line>
-   <line>We've been talking to Carrie Plummer again.</line>
-   <line>I should be working.
+   <line type="dialogue">We've been talking to Carrie Plummer again.</line>
+   <line type="dialogue">I should be working.
 - Forget work.</line>
-   <line>He made me.</line>
-   <line>Made you what?</line>
-   <line>Get girls. / You were , Wayne.
+   <line type="dialogue">He made me.</line>
+   <line type="dialogue">Made you what?</line>
+   <line type="dialogue">Get girls. / You were , Wayne.
 That's an adult.</line>
-   <line>He terrorized me my whole life.
+   <line type="dialogue">He terrorized me my whole life.
 He still does.</line>
-   <line>You still go strolling for girls,
+   <line type="dialogue">You still go strolling for girls,
 bring 'em home to dad?</line>
-   <line>No. That stopped.</line>
-   <line>When?</line>
-   <line>After Eve.</line>
-   <line>You brought Eve home?</line>
-   <line>My dad's gonna k*ll me.</line>
-   <line>Come on, Wayne.</line>
-   <line>The right thing is to tell.</line>
-   <line>Win or lose, I should tell.</line>
-   <line>That day, when I saw her
+   <line type="dialogue">No. That stopped.</line>
+   <line type="dialogue">When?</line>
+   <line type="dialogue">After Eve.</line>
+   <line type="dialogue">You brought Eve home?</line>
+   <line type="dialogue">My dad's gonna k*ll me.</line>
+   <line type="dialogue">Come on, Wayne.</line>
+   <line type="dialogue">The right thing is to tell.</line>
+   <line type="dialogue">Win or lose, I should tell.</line>
+   <line type="dialogue">That day, when I saw her
 at the bus stop.</line>
-   <line>Thought you left already.</line>
-   <line>Yeah.</line>
-   <line>What about Atlantic City?</line>
-   <line>I didn't go.</line>
-   <line>So you're not gonna make that video?</line>
-   <line>I gotta make it up to Mark.</line>
-   <line>Do I tell him and ask to be forgiven?</line>
-   <line>Or do I never let him know
+   <line type="dialogue">Thought you left already.</line>
+   <line type="dialogue">Yeah.</line>
+   <line type="dialogue">What about Atlantic City?</line>
+   <line type="dialogue">I didn't go.</line>
+   <line type="dialogue">So you're not gonna make that video?</line>
+   <line type="dialogue">I gotta make it up to Mark.</line>
+   <line type="dialogue">Do I tell him and ask to be forgiven?</line>
+   <line type="dialogue">Or do I never let him know
 how stupid I was?</line>
-   <line>Don't ask me.</line>
-   <line>Could you give me a ride, Wayne?</line>
-   <line>I gotta be home.
+   <line type="dialogue">Don't ask me.</line>
+   <line type="dialogue">Could you give me a ride, Wayne?</line>
+   <line type="dialogue">I gotta be home.
 My dad's medication time is soon.</line>
-   <line>Okay, I'll go with you
+   <line type="dialogue">Okay, I'll go with you
 and then you can drop me off.</line>
-   <line>I have to change to meet Mark.</line>
-   <line>It's probably not a good idea.</line>
-   <line>Why not?</line>
-   <line>How about we go away?</line>
-   <line>What?</line>
-   <line>Drive and drive, as far away as
+   <line type="dialogue">I have to change to meet Mark.</line>
+   <line type="dialogue">It's probably not a good idea.</line>
+   <line type="dialogue">Why not?</line>
+   <line type="dialogue">How about we go away?</line>
+   <line type="dialogue">What?</line>
+   <line type="dialogue">Drive and drive, as far away as
 we can go towards California.</line>
-   <line>What are you talking about, Wayne?</line>
-   <line>Taking you to California.</line>
-   <line>Wouldn't you like that?</line>
-   <line>Cause I would.
+   <line type="dialogue">What are you talking about, Wayne?</line>
+   <line type="dialogue">Taking you to California.</line>
+   <line type="dialogue">Wouldn't you like that?</line>
+   <line type="dialogue">Cause I would.
 I would love that.</line>
-   <line>That's crazy.</line>
-   <line>Yeah, 'course it is.</line>
-   <line>Hop in.</line>
-   <line>After Carrie,
+   <line type="dialogue">That's crazy.</line>
+   <line type="dialogue">Yeah, 'course it is.</line>
+   <line type="dialogue">Hop in.</line>
+   <line type="dialogue">After Carrie,
 Dad wanted a good one.</line>
-   <line>So you brought him Eve.</line>
-   <line>Usually I could only get
+   <line type="dialogue">So you brought him Eve.</line>
+   <line type="dialogue">Usually I could only get
 girls from the theater to come back.</line>
-   <line>Girls I let in for free, you know?</line>
-   <line>They were mostly homely and all.</line>
-   <line>But dad got real excitied
+   <line type="dialogue">Girls I let in for free, you know?</line>
+   <line type="dialogue">They were mostly homely and all.</line>
+   <line type="dialogue">But dad got real excitied
 when he saw Eve.</line>
-   <line>And he did to her what he did to Carrie.</line>
-   <line>He tried.</line>
-   <line>She called him names,</line>
-   <line>ran out of there,
+   <line type="dialogue">And he did to her what he did to Carrie.</line>
+   <line type="dialogue">He tried.</line>
+   <line type="dialogue">She called him names,</line>
+   <line type="dialogue">ran out of there,
 said she would tell the cops.</line>
-   <line>And that got him mad like I never seen.</line>
-   <line>So what did he do about it?</line>
-   <line>I can't say any more.</line>
-   <line>He'd k*ll me.
+   <line type="dialogue">And that got him mad like I never seen.</line>
+   <line type="dialogue">So what did he do about it?</line>
+   <line type="dialogue">I can't say any more.</line>
+   <line type="dialogue">He'd k*ll me.
 I don't wanna talk anymore.</line>
-   <line>Remember that fat girl,
+   <line type="dialogue">Remember that fat girl,
 Sam thought he saw with Wayne?</line>
-   <line>We think it was actually Pops Larkin.</line>
-   <line>The guy is Jabba the Hut with a mullet.</line>
-   <line>From the back, at night...</line>
-   <line>And you think they were targeting the Eve?</line>
-   <line>Wayne brought her home earlier that day.</line>
-   <line>Jabba tried to grope her,
+   <line type="dialogue">We think it was actually Pops Larkin.</line>
+   <line type="dialogue">The guy is Jabba the Hut with a mullet.</line>
+   <line type="dialogue">From the back, at night...</line>
+   <line type="dialogue">And you think they were targeting the Eve?</line>
+   <line type="dialogue">Wayne brought her home earlier that day.</line>
+   <line type="dialogue">Jabba tried to grope her,
 she didn't go for it.</line>
-   <line>Sassed him pretty good.
+   <line type="dialogue">Sassed him pretty good.
 Said she'd rat him out.</line>
-   <line>So he and Wayne went driving
+   <line type="dialogue">So he and Wayne went driving
 that night, found Eve and Mark.</line>
-   <line>Where is this Jabba?</line>
-   <line>Drunk in front of the tube probably.</line>
-   <line>He don't leave the hut.</line>
-   <line>He does now.</line>
-   <line>You guys go ahead.</line>
-   <line>So, thanks and sorry about the...</line>
-   <line>That's okay.</line>
-   <line>I've made a mess of my marriage,
+   <line type="dialogue">Where is this Jabba?</line>
+   <line type="dialogue">Drunk in front of the tube probably.</line>
+   <line type="dialogue">He don't leave the hut.</line>
+   <line type="dialogue">He does now.</line>
+   <line type="dialogue">You guys go ahead.</line>
+   <line type="dialogue">So, thanks and sorry about the...</line>
+   <line type="dialogue">That's okay.</line>
+   <line type="dialogue">I've made a mess of my marriage,
 and your situation.</line>
-   <line>I said it's okay.</line>
-   <line>And I don't know what I'm going to do.</line>
-   <line>Cause this-this Eve thing...</line>
-   <line>Mark, she was as sweet as
+   <line type="dialogue">I said it's okay.</line>
+   <line type="dialogue">And I don't know what I'm going to do.</line>
+   <line type="dialogue">Cause this-this Eve thing...</line>
+   <line type="dialogue">Mark, she was as sweet as
 you remember.</line>
-   <line>But she was mixed up, too.</line>
-   <line>Like any -year-old.</line>
-   <line>You're talking about that older guy.</line>
-   <line>I'm just saying even if she had lived,</line>
-   <line>you still might not have
+   <line type="dialogue">But she was mixed up, too.</line>
+   <line type="dialogue">Like any -year-old.</line>
+   <line type="dialogue">You're talking about that older guy.</line>
+   <line type="dialogue">I'm just saying even if she had lived,</line>
+   <line type="dialogue">you still might not have
 the life you talked about.</line>
-   <line>Cause you were kids
+   <line type="dialogue">Cause you were kids
 when you dreamed it up.</line>
-   <line>Maybe.</line>
-   <line>Or maybe...</line>
-   <line>maybe she was the best thing
+   <line type="dialogue">Maybe.</line>
+   <line type="dialogue">Or maybe...</line>
+   <line type="dialogue">maybe she was the best thing
 that ever came my way,</line>
-   <line>and nothing that good is possible.</line>
-   <line>Now, let's say that's true.</line>
-   <line>But you are here.</line>
-   <line>She's not.</line>
-   <line>No. But...</line>
-   <line>I'm not her.</line>
-   <line>No.</line>
-   <line>I gotta be someplace.</line>
-   <line>I'm really sorry.</line>
-   <line>Yeah, yeah, me, too.</line>
-   <line>What happened with that guy?</line>
-   <line>Oh, he left.
+   <line type="dialogue">and nothing that good is possible.</line>
+   <line type="dialogue">Now, let's say that's true.</line>
+   <line type="dialogue">But you are here.</line>
+   <line type="dialogue">She's not.</line>
+   <line type="dialogue">No. But...</line>
+   <line type="dialogue">I'm not her.</line>
+   <line type="dialogue">No.</line>
+   <line type="dialogue">I gotta be someplace.</line>
+   <line type="dialogue">I'm really sorry.</line>
+   <line type="dialogue">Yeah, yeah, me, too.</line>
+   <line type="dialogue">What happened with that guy?</line>
+   <line type="dialogue">Oh, he left.
 Five minutes after you did.</line>
-   <line>You got a funny definition of five minutes.</line>
-   <line>It was work, Kite. / Really?</line>
-   <line>Was he, was he, um. confession?</line>
-   <line>You know how the job is.</line>
-   <line>Yeah, the job.</line>
-   <line>The job.</line>
-   <line>That's always going to be the thing.</line>
-   <line>What does that mean?</line>
-   <line>We all got jobs.</line>
-   <line>We don't all put them ahead of
+   <line type="dialogue">You got a funny definition of five minutes.</line>
+   <line type="dialogue">It was work, Kite. / Really?</line>
+   <line type="dialogue">Was he, was he, um. confession?</line>
+   <line type="dialogue">You know how the job is.</line>
+   <line type="dialogue">Yeah, the job.</line>
+   <line type="dialogue">The job.</line>
+   <line type="dialogue">That's always going to be the thing.</line>
+   <line type="dialogue">What does that mean?</line>
+   <line type="dialogue">We all got jobs.</line>
+   <line type="dialogue">We don't all put them ahead of
 every other things in our lives.</line>
-   <line>Look, this guy left his wife.</line>
-   <line>And came to you.</line>
-   <line>And there you were.</line>
-   <line>He was in a crisis. / Look, Lilly.</line>
-   <line>You want save people at :
+   <line type="dialogue">Look, this guy left his wife.</line>
+   <line type="dialogue">And came to you.</line>
+   <line type="dialogue">And there you were.</line>
+   <line type="dialogue">He was in a crisis. / Look, Lilly.</line>
+   <line type="dialogue">You want save people at :
 in the morning, great.</line>
-   <line>God bless.</line>
-   <line>I know I screwed up.</line>
-   <line>It's just who you are, you know,</line>
-   <line>and-and I admire it.</line>
-   <line>I do.</line>
-   <line>But, uh,</line>
-   <line>I don't wanna live like that.</line>
-   <line>I'll see you, okay?</line>
-   <line>Wayne's in trouble?</line>
-   <line>You're both in trouble.</line>
-   <line>What did I do?</line>
-   <line>I don't leave my place,
+   <line type="dialogue">God bless.</line>
+   <line type="dialogue">I know I screwed up.</line>
+   <line type="dialogue">It's just who you are, you know,</line>
+   <line type="dialogue">and-and I admire it.</line>
+   <line type="dialogue">I do.</line>
+   <line type="dialogue">But, uh,</line>
+   <line type="dialogue">I don't wanna live like that.</line>
+   <line type="dialogue">I'll see you, okay?</line>
+   <line type="dialogue">Wayne's in trouble?</line>
+   <line type="dialogue">You're both in trouble.</line>
+   <line type="dialogue">What did I do?</line>
+   <line type="dialogue">I don't leave my place,
 I got the gout.</line>
-   <line>This dates back to when you
+   <line type="dialogue">This dates back to when you
 did leave, once in a while.</line>
-   <line>August, ' .
+   <line type="dialogue">August, ' .
 Lover's Lane.</line>
-   <line>I don't know what you're talking about.</line>
-   <line>The r*pe and m*rder of Eve Kendall.</line>
-   <line>Your boy's been talking.</line>
-   <line>Wayne is a liar.</line>
-   <line>Carrie Pummer's been talking, too.</line>
-   <line>About you raping her when she was .</line>
-   <line>A lot of girls been around here.</line>
-   <line>Anything that happened was voluntary.</line>
-   <line>Really? / They were cows.</line>
-   <line>Should'be thanked me.</line>
-   <line>Who else was gonna give it to 'em?</line>
-   <line>You got personality plus there, Jimbo?</line>
-   <line>Lay of the land, Jim.</line>
-   <line>We got sperm from whoever
+   <line type="dialogue">I don't know what you're talking about.</line>
+   <line type="dialogue">The r*pe and m*rder of Eve Kendall.</line>
+   <line type="dialogue">Your boy's been talking.</line>
+   <line type="dialogue">Wayne is a liar.</line>
+   <line type="dialogue">Carrie Pummer's been talking, too.</line>
+   <line type="dialogue">About you raping her when she was .</line>
+   <line type="dialogue">A lot of girls been around here.</line>
+   <line type="dialogue">Anything that happened was voluntary.</line>
+   <line type="dialogue">Really? / They were cows.</line>
+   <line type="dialogue">Should'be thanked me.</line>
+   <line type="dialogue">Who else was gonna give it to 'em?</line>
+   <line type="dialogue">You got personality plus there, Jimbo?</line>
+   <line type="dialogue">Lay of the land, Jim.</line>
+   <line type="dialogue">We got sperm from whoever
 r*ped and k*lled Eve.</line>
-   <line>We got three bags of your
+   <line type="dialogue">We got three bags of your
 beer bottles in the hall out there.</line>
-   <line>We compare DNA from your saliva
+   <line type="dialogue">We compare DNA from your saliva
 on them bottles to the spunk?</line>
-   <line>End of you being free to sit
+   <line type="dialogue">End of you being free to sit
 your fat a*s on that couch all day.</line>
-   <line>Where the hell is Wayne?
+   <line type="dialogue">Where the hell is Wayne?
 - Locked up.</line>
-   <line>I'm gonna k*ll that stupid kid.</line>
-   <line>Might as well give it up, Jim
+   <line type="dialogue">I'm gonna k*ll that stupid kid.</line>
+   <line type="dialogue">Might as well give it up, Jim
 Curtain's falling.</line>
-   <line>They both should have died.</line>
-   <line>But Wayne, he was so weak.</line>
-   <line>He couldn't pull off his part.</line>
-   <line>Call me disgusting?</line>
-   <line>I'll show her disgusting.</line>
-   <line>Let's just go home, Dad. / Oh, no.</line>
-   <line>Girls thinks so much of herself.</line>
-   <line>We're gonna pull her down off
+   <line type="dialogue">They both should have died.</line>
+   <line type="dialogue">But Wayne, he was so weak.</line>
+   <line type="dialogue">He couldn't pull off his part.</line>
+   <line type="dialogue">Call me disgusting?</line>
+   <line type="dialogue">I'll show her disgusting.</line>
+   <line type="dialogue">Let's just go home, Dad. / Oh, no.</line>
+   <line type="dialogue">Girls thinks so much of herself.</line>
+   <line type="dialogue">We're gonna pull her down off
 her high horse.</line>
-   <line>Then we're gonna give it to her good.</line>
-   <line>Can't you just forget it?</line>
-   <line>I'll meet another girl...</line>
-   <line>No, no, we're getting this one.</line>
-   <line>Here.</line>
-   <line>Take care of the kid.</line>
-   <line>What the hell?</line>
-   <line>Remember us,
+   <line type="dialogue">Then we're gonna give it to her good.</line>
+   <line type="dialogue">Can't you just forget it?</line>
+   <line type="dialogue">I'll meet another girl...</line>
+   <line type="dialogue">No, no, we're getting this one.</line>
+   <line type="dialogue">Here.</line>
+   <line type="dialogue">Take care of the kid.</line>
+   <line type="dialogue">What the hell?</line>
+   <line type="dialogue">Remember us,
 you haughty little b*tch?</line>
-   <line>Wayne?
+   <line type="dialogue">Wayne?
 - k*ll the kid, Wayne.</line>
-   <line>Wayne, what are you doing?
+   <line type="dialogue">Wayne, what are you doing?
 - Take the bottle and k*ll him.</line>
-   <line>Come on, Dad... / Shut up!</line>
-   <line>I got the girl.
+   <line type="dialogue">Come on, Dad... / Shut up!</line>
+   <line type="dialogue">I got the girl.
 Deal with him.</line>
-   <line>Mark! No, Wayne. No!
+   <line type="dialogue">Mark! No, Wayne. No!
 - Shut your mouth!</line>
-   <line>k*ll him, Wayne.</line>
-   <line>Don't you hear me?
+   <line type="dialogue">k*ll him, Wayne.</line>
+   <line type="dialogue">Don't you hear me?
 Don't be weak!</line>
-   <line>Mark!
+   <line type="dialogue">Mark!
 No! No!</line>
    <line type="music">♪ Steve NicksÀÇ 'Leather and Lace' ♪</line>
    <line type="music">♪ Is love so fragile... ♪</line>

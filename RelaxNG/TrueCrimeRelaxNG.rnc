@@ -1,10 +1,8 @@
 start = transcript
-transcript = element transcript {scene+}
+transcript = element transcript {line+}
 
-scene = element scene {type, speaker, line}
+line = element line {who*, type*, text}
 
-type = element type {text}
+who = attribute who {text}
 
-speaker = element speaker {text}
-
-line = element line {text}
+type = attribute type {"dialogue" | "music" | "directions"}

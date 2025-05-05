@@ -1,103 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNG/TrueCrimeRelaxNG.rnc" type="application/relax-ng-compact-syntax"?>
 <transcript>
-   <line>Open on two girls, Jill Shelby and Melanie walking down a road. They are laughing. Legend: Philadelphia, 1976. They stop and Jill moves her hair behind her ear and shows her face to Melanie.
+   <line type="directions">Open on two girls, Jill Shelby and Melanie walking down a road. They are laughing. Legend: Philadelphia, 1976. They stop and Jill moves her hair behind her ear and shows her face to Melanie.
 More Than a Feeling by Boston plays over the scene.</line>
    <line who="Melanie"> You can barely tell.</line>
-   <line>She gets her powder out and dabs it on Jill’s face.</line>
+   <line type="directions">She gets her powder out and dabs it on Jill’s face.</line>
    <line who="Jill"> I’m flying.</line>
-   <line>They laugh.</line>
+   <line type="directions">They laugh.</line>
    <line who="Melanie"> Good as new.</line>
-   <line>She finishes applying the powder.</line>
+   <line type="directions">She finishes applying the powder.</line>
    <line who="Melanie"> Look.</line>
-   <line>She shows her the mirror of the compact.</line>
+   <line type="directions">She shows her the mirror of the compact.</line>
    <line who="Jill"> Todd’s sick of me.</line>
    <line who="Melanie"> So maybe you’re sick of him.</line>
    <line who="Jill"> Let’s go back to Tim’s room. He’s cooler than any of them.</line>
    <line who="Melanie"> You really want to?</line>
-   <line>Jill laughs.</line>
+   <line type="directions">Jill laughs.</line>
    <line who="Jill"> Maybe later.</line>
-   <line>Melanie laughs at her. They carry on walking and cross the road to a big house on the other side.</line>
-   <line>Cut to the back of the house. Todd Whitley  watches people at his party. His brother, Eric walks up to him. The maid, Bonita Rafaela walks up behind them.</line>
+   <line type="directions">Melanie laughs at her. They carry on walking and cross the road to a big house on the other side.</line>
+   <line type="directions">Cut to the back of the house. Todd Whitley  watches people at his party. His brother, Eric walks up to him. The maid, Bonita Rafaela walks up behind them.</line>
    <line who="Bonita"> You’re not supposed to have people here.</line>
    <line who="Todd"> Who says?</line>
    <line who="Bonita"> Your mom and dad.</line>
    <line who="Todd"> You’re gonna call them in Jakarta?</line>
    <line who="Charlie"> (Behind the bar) Give the lady a beer for her silence.</line>
-   <line>Bonita looks at him.</line>
+   <line type="directions">Bonita looks at him.</line>
    <line who="Eric"> Is Jill coming?</line>
    <line who="Todd"> What do you think?</line>
    <line who="Eric"> I saw her today she said maybe, maybe not.</line>
    <line who="Todd"> Please. She’s coming.</line>
-   <line>He has a drink of his beer.</line>
+   <line type="directions">He has a drink of his beer.</line>
    <line who="Bonita"> Who’s gonna clean this up in the morning?</line>
    <line who="Todd"> Go  watch TV Bonita.</line>
-   <line>Bonita walks off. Jill and Melanie walk out of the house behind the two boys. Eric turns and sees them.</line>
+   <line type="directions">Bonita walks off. Jill and Melanie walk out of the house behind the two boys. Eric turns and sees them.</line>
    <line who="Eric"> There she is.</line>
-   <line>Jill walks up to Todd. He turns.</line>
+   <line type="directions">Jill walks up to Todd. He turns.</line>
    <line who="Todd"> Hi gorgeous.</line>
-   <line>They kiss. Melanie looks at them. They pull apart and look out over the back garden.</line>
-   <line>Cut to later. The party’s over. The camera pans over the swimming pool and back garden and over to the tennis court. The camera closes in on Jill at the bottom of the court. She is dead, with blood around her mouth.</line>
-   <line>Cut to present day Philadelphia. Legend: Philadelphia 2003. Soul Searching by Soul Hooligan plays over the scene. The camera pans over various neighbourhoods, mainly rough areas, with houses boarded up. ‘Cold Case’ appears over the scene.</line>
-   <line>Cut to a certain area of the bad lands, outside a small restaurant. The area is a crime scene. There is yellow tape around the restaurant and police cars all around. Detective Lilly Rush walks under the tape and stands outside. An unmarked car shows up with its sirens wailing. Detective Chris Lassing exits the car and looks around. He walks over to Lilly. The music fades.</line>
+   <line type="directions">They kiss. Melanie looks at them. They pull apart and look out over the back garden.</line>
+   <line type="directions">Cut to later. The party’s over. The camera pans over the swimming pool and back garden and over to the tennis court. The camera closes in on Jill at the bottom of the court. She is dead, with blood around her mouth.</line>
+   <line type="directions">Cut to present day Philadelphia. Legend: Philadelphia 2003. Soul Searching by Soul Hooligan plays over the scene. The camera pans over various neighbourhoods, mainly rough areas, with houses boarded up. ‘Cold Case’ appears over the scene.</line>
+   <line type="directions">Cut to a certain area of the bad lands, outside a small restaurant. The area is a crime scene. There is yellow tape around the restaurant and police cars all around. Detective Lilly Rush walks under the tape and stands outside. An unmarked car shows up with its sirens wailing. Detective Chris Lassing exits the car and looks around. He walks over to Lilly. The music fades.</line>
    <line who="Chris"> What’d we get?</line>
    <line who="Lilly"> A triple.</line>
-   <line>They walk into the restaurant.</line>
+   <line type="directions">They walk into the restaurant.</line>
    <line who="Lilly"> You writing?</line>
    <line who="Chris"> Yeah.</line>
-   <line>There is a police officer stood by the bar area.</line>
+   <line type="directions">There is a police officer stood by the bar area.</line>
    <line who="Officer"> Hey. How you doing detectives?</line>
-   <line>Lilly comments on what she sees as they slowly make their way to the back of the place. Chris writes what she comments on.</line>
+   <line type="directions">Lilly comments on what she sees as they slowly make their way to the back of the place. Chris writes what she comments on.</line>
    <line who="Lilly"> Trash still here. Chairs on the floor, they hadn’t closed yet.</line>
-   <line>Detective Nick Vera has walked in behind them.</line>
+   <line type="directions">Detective Nick Vera has walked in behind them.</line>
    <line who="Nick"> Eight years on the line, never had a trip.</line>
    <line who="Lilly"> Last store(?) gets the action.</line>
    <line who="Nick"> This an overnighter?</line>
-   <line>The camera pans over the bar area, which hasn’t been cleared.</line>
+   <line type="directions">The camera pans over the bar area, which hasn’t been cleared.</line>
    <line who="Lilly"> The kid who opens up found them this morning.</line>
    <line who="Officer"> It looked like a steady robbery.</line>
    <line who="Nick"> I’ll talk to the scene man kid.</line>
    <line who="Lilly"> Register’s raided, let’s get it dusted.</line>
-   <line>Nick and Lilly stop in a doorway at the back of the restaurant.</line>
+   <line type="directions">Nick and Lilly stop in a doorway at the back of the restaurant.</line>
    <line who="Lilly"> It’s a bad case of death.</line>
-   <line>The camera turns and we see a woman, a man and a young man all dead in a bathroom stall. The man and woman are lay on the floor; the young man is slumped against the wall. There are blood streaks all over the white walls.</line>
+   <line type="directions">The camera turns and we see a woman, a man and a young man all dead in a bathroom stall. The man and woman are lay on the floor; the young man is slumped against the wall. There are blood streaks all over the white walls.</line>
    <line who="Nick"> All three shot, her throat’s cut.</line>
-   <line>Lilly nods.</line>
+   <line type="directions">Lilly nods.</line>
    <line who="Lilly"> Doers got a g*n, why’s he gotta slit her throat too?</line>
    <line who="Officer"> Um, detective?</line>
-   <line>Nick turns to look at him, exasperated.</line>
+   <line type="directions">Nick turns to look at him, exasperated.</line>
    <line who="Officer"> When you dust the register…</line>
-   <line>Lilly turns to him.</line>
+   <line type="directions">Lilly turns to him.</line>
    <line who="Lilly"> We might find your prints?</line>
-   <line>He swallows and nods slightly. Nick starts walking towards him.</line>
+   <line type="directions">He swallows and nods slightly. Nick starts walking towards him.</line>
    <line who="Nick"> That’s why we keep our hands full. Alright I’m knocking on some doors.</line>
    <line who="Lilly"> We boring you in here?</line>
-   <line>Nick laughs.</line>
+   <line type="directions">Nick laughs.</line>
    <line who="Nick"> Stillman called, uh, there’s a civilian down at Central wants to talk to you.</line>
    <line who="Lilly"> Me?</line>
-   <line>Nick shrugs.</line>
+   <line type="directions">Nick shrugs.</line>
    <line who="Nick"> Asked for a lady in homicide.</line>
-   <line>Chris smiles a little at Lilly. She looks at them then looks down.</line>
-   <line>Cut to outside Philadelphia police department.</line>
-   <line>Cut to inside. Lilly holds her badge up to the security guard as she walks past. As she walks in Lieutenant John Stillman joins her.</line>
+   <line type="directions">Chris smiles a little at Lilly. She looks at them then looks down.</line>
+   <line type="directions">Cut to outside Philadelphia police department.</line>
+   <line type="directions">Cut to inside. Lilly holds her badge up to the security guard as she walks past. As she walks in Lieutenant John Stillman joins her.</line>
    <line who="John"> I hear you were in the badlands?</line>
    <line who="Lilly"> Della’s Chicken and Ribs. What’s the deal with this civilian?</line>
-   <line>John looks at her.</line>
+   <line type="directions">John looks at her.</line>
    <line who="John"> Civilian?</line>
-   <line>Lilly takes the cup of coffee that John’s holding.</line>
+   <line type="directions">Lilly takes the cup of coffee that John’s holding.</line>
    <line who="Lilly"> Probably some nut job. Vera said that she uh…</line>
    <line who="John"> (interrupts) I told Vera to deal with her.</line>
-   <line>They stop walking.</line>
+   <line type="directions">They stop walking.</line>
    <line who="Lilly"> I’ve been on since midnight, I’ve got three murders to solve and he’s pawning his dog calls off on me?</line>
-   <line>She has a drink of the coffee.</line>
+   <line type="directions">She has a drink of the coffee.</line>
    <line who="John"> I know Lil.</line>
-   <line>She hands the cup back to him.</line>
+   <line type="directions">She hands the cup back to him.</line>
    <line who="Lilly"> He is one pain in the ass, boss.</line>
    <line who="John"> Yeah, look she’s right outside. Just chase her demons away, you’re triple’s not gonna go anywhere alright?</line>
    <line who="Lilly"> You better give Vera some hell.</line>
-   <line>She walks off.</line>
+   <line type="directions">She walks off.</line>
    <line who="John"> Like it would do any good.</line>
-   <line>He smiles and walks off.</line>
-   <line>Cut to outside the police department. Lilly walks up to an older Bonita.</line>
+   <line type="directions">He smiles and walks off.</line>
+   <line type="directions">Cut to outside the police department. Lilly walks up to an older Bonita.</line>
    <line who="Lilly"> Detective Rush, homicide.</line>
    <line who="Bonita"> You do murders?</line>
    <line who="Lilly"> I investigate murders.</line>
@@ -108,31 +109,31 @@ More Than a Feeling by Boston plays over the scene.</line>
    <line who="Bonita"> Helps with the pain. I’ve got cancer.</line>
    <line who="Lilly"> Sorry.</line>
    <line who="Bonita"> I saw a m*rder.</line>
-   <line>Lilly just stares at her.</line>
+   <line type="directions">Lilly just stares at her.</line>
    <line who="Bonita"> A girl was k*lled on a tennis court.</line>
    <line who="Lilly"> Where’s the court?</line>
    <line who="Bonita"> Chestnut Hill. At the house where I used to work.</line>
-   <line>Flashback to a younger Bonita sat on her bed, drinking out of a class.</line>
+   <line type="directions">Flashback to a younger Bonita sat on her bed, drinking out of a class.</line>
    <line who="Bonita"> (Voiceover) The boys were having a party.</line>
-   <line>She hears a boy shouting outside and then a girl screaming. She walks to the window and sees a boy hitting something on the ground. She puts her hand over her mouth in shock.</line>
+   <line type="directions">She hears a boy shouting outside and then a girl screaming. She walks to the window and sees a boy hitting something on the ground. She puts her hand over her mouth in shock.</line>
    <line who="Bonita"> (Voiceover) He hit her over and over and over and over.</line>
-   <line>End of flashback. Resume to present.</line>
+   <line type="directions">End of flashback. Resume to present.</line>
    <line who="Lilly"> You didn’t call the police?</line>
    <line who="Bonita"> I went to bed. I thought it wasn’t my business.</line>
    <line who="Lilly"> A girl dying wasn’t your business?</line>
-   <line>Bonita shakes her head.</line>
+   <line type="directions">Bonita shakes her head.</line>
    <line who="Lilly"> And when did this happen?</line>
    <line who="Bonita"> In 1976.</line>
    <line who="Lilly"> 1976 Bonita?</line>
-   <line>Bonita nods.</line>
+   <line type="directions">Bonita nods.</line>
    <line who="Lilly"> Twenty seven years ago and you’re just telling this now?</line>
    <line who="Bonita"> I had a son. I needed to work. But now I have this cancer.</line>
-   <line>Cut to the storage room. The camera pans along all the old box files of previous cases until it rests on Lilly looking at the box of the case. John walks in. He rubs his hand over the top of an old box and looks at the dust that comes off.</line>
+   <line type="directions">Cut to the storage room. The camera pans along all the old box files of previous cases until it rests on Lilly looking at the box of the case. John walks in. He rubs his hand over the top of an old box and looks at the dust that comes off.</line>
    <line who="John"> Something die in here?</line>
-   <line>Lilly looks round.</line>
+   <line type="directions">Lilly looks round.</line>
    <line who="Lilly"> These cases. The timing adds up. Jill Shelby beaten at a neighbour’s house, found the next morning, case was never solved.</line>
    <line who="John"> Like the rest of these jobs.</line>
-   <line>Lilly sighs.</line>
+   <line type="directions">Lilly sighs.</line>
    <line who="Lilly"> But now we got a witness.</line>
    <line who="John"> Are you saying we should open a twenty seven year old case, Lil?</line>
    <line who="Lilly"> There’s new direction.</line>
@@ -142,280 +143,280 @@ More Than a Feeling by Boston plays over the scene.</line>
    <line who="Lilly"> I mean time passes, people’s loyalties and circumstances change.</line>
    <line who="John"> Do you believe this maid?</line>
    <line who="Lilly"> Yeah. I do.</line>
-   <line>The camera moves up so that we’re looking down on Lilly and John from an upper level, through the floor. John puts his glasses on and looks at the file.</line>
+   <line type="directions">The camera moves up so that we’re looking down on Lilly and John from an upper level, through the floor. John puts his glasses on and looks at the file.</line>
    <line who="John"> I don’t know the assigned detective.</line>
-   <line>He flips a page and finds the name.</line>
+   <line type="directions">He flips a page and finds the name.</line>
    <line who="John"> Britt.</line>
    <line who="Lilly"> I bet Jeffries does.</line>
-   <line>We see the front of the file with H 76 – 391 Shelby, J. written on the front.</line>
-   <line>Cut to Lilly looking at a picture of Jill Shelby at her desk. Detective Will Jeffries is stood over her.</line>
+   <line type="directions">We see the front of the file with H 76 – 391 Shelby, J. written on the front.</line>
+   <line type="directions">Cut to Lilly looking at a picture of Jill Shelby at her desk. Detective Will Jeffries is stood over her.</line>
    <line who="Will"> Britt was top shelf. Got k*lled in Camden trying to pick up a fugitive.</line>
-   <line>John is stood next to them.</line>
+   <line type="directions">John is stood next to them.</line>
    <line who="John"> So he’s not the reason the job went cold?</line>
-   <line>Will shakes his head.</line>
+   <line type="directions">Will shakes his head.</line>
    <line who="Will"> Uh-uh.</line>
-   <line>He is looking at a picture of her alive and a crime scene photo of her dead.</line>
+   <line type="directions">He is looking at a picture of her alive and a crime scene photo of her dead.</line>
    <line who="Will"> I remember this one. Made him crazy. The girl’s mother would come in year after year. Britt never had anything for her.</line>
-   <line>Lilly nods.</line>
+   <line type="directions">Lilly nods.</line>
    <line who="Lilly"> Who’d he look at for the doer?</line>
    <line who="Will"> The two brothers. One being her boyfriend. Uh, live in cook made the list.</line>
-   <line>We see a picture of a young Todd.</line>
+   <line type="directions">We see a picture of a young Todd.</line>
    <line who="Will"> And of course some folks thought a g*ng of black kids must of come up to Chestnut Hill that night.</line>
    <line who="John"> The boyfriend is top pick?</line>
    <line who="Will"> It was rumoured that he had been violent with her.</line>
-   <line>Lilly holds a picture up of him.</line>
+   <line type="directions">Lilly holds a picture up of him.</line>
    <line who="Lilly"> Uh, Todd Whitley?</line>
    <line who="Will"> Oh yeah. Cocky little jerk as I recall. From a society family.</line>
-   <line>Lilly turns the photo round and looks at it.</line>
+   <line type="directions">Lilly turns the photo round and looks at it.</line>
    <line who="Will"> No-one would talk about those boys. No man is too powerful. Put up walls a brick couldn’t even get past.</line>
    <line who="Lilly"> Someone should read the job again. Maybe those walls are shakier now.</line>
-   <line>John nods and looks at Lilly.</line>
+   <line type="directions">John nods and looks at Lilly.</line>
    <line who="John"> How about you?</line>
    <line who="Lilly"> I got a job. But Vera might get a sense of achievement out of it.</line>
    <line who="John"> You spoke to the maid, Lil.</line>
    <line who="Lilly"> Only ‘cause he stuck me with her.</line>
-   <line>John leans over to her.</line>
+   <line type="directions">John leans over to her.</line>
    <line who="John"> This job deserves another look. Now Vera doesn’t have the type of personality to get anywhere with society people.</line>
-   <line>Lilly sighs and looks again at the picture of the dead girl.</line>
+   <line type="directions">Lilly sighs and looks again at the picture of the dead girl.</line>
    <line who="Lilly"> You give Vera my triple, you’re gonna find him in Della’s freezer.</line>
-   <line>Cut to the picture of Jill alive.</line>
-   <line>Cut to Lilly walking into a house. We get glimpses of different children doing different activities. A woman walks past Lilly.</line>
+   <line type="directions">Cut to the picture of Jill alive.</line>
+   <line type="directions">Cut to Lilly walking into a house. We get glimpses of different children doing different activities. A woman walks past Lilly.</line>
    <line who="Lilly"> Excuse me is Evelyn Shelby here?</line>
-   <line>The woman shrugs and walks off. An older woman walks out of a room.</line>
+   <line type="directions">The woman shrugs and walks off. An older woman walks out of a room.</line>
    <line who="Evelyn"> I’m Evelyn.</line>
-   <line>Lilly walks over to her.</line>
+   <line type="directions">Lilly walks over to her.</line>
    <line who="Lilly"> Hi.</line>
-   <line>She holds her hand out.</line>
+   <line type="directions">She holds her hand out.</line>
    <line who="Lilly"> Lilly Rush.</line>
-   <line>They shake hands.</line>
+   <line type="directions">They shake hands.</line>
    <line who="Evelyn"> How’d you find this house?</line>
    <line who="Lilly"> Well I’m a detective.</line>
-   <line>She shows her her badge.</line>
+   <line type="directions">She shows her her badge.</line>
    <line who="Lilly"> Homicide.</line>
    <line who="Evelyn"> Is it about someone who stayed here?</line>
-   <line>She walks over to put the box she’s carrying on a table.</line>
+   <line type="directions">She walks over to put the box she’s carrying on a table.</line>
    <line who="Lilly"> No, uh, it’s about your daughter.</line>
-   <line>Evelyn looks up and turns round to Lilly. She smiles slightly.</line>
+   <line type="directions">Evelyn looks up and turns round to Lilly. She smiles slightly.</line>
    <line who="Lilly"> A witness has come forward in her case, someone who worked in the neighbourhood.</line>
-   <line>Evelyn nods.</line>
+   <line type="directions">Evelyn nods.</line>
    <line who="Evelyn"> So you don’t know anything?</line>
-   <line>She starts to walk away.</line>
+   <line type="directions">She starts to walk away.</line>
    <line who="Lilly"> We have new direction.</line>
-   <line>Evelyn turns back to her.</line>
+   <line type="directions">Evelyn turns back to her.</line>
    <line who="Evelyn"> Look, I came into homicide every August for over twenty years. Eventually I figured out that Detective Britt was too much of a gentleman to tell me to stop coming. That her case would never be solved. You can only hope so long.</line>
    <line who="Lilly"> So I should just forget about Jill?</line>
-   <line>Lilly starts walking towards the door. She turns back to Evelyn.</line>
+   <line type="directions">Lilly starts walking towards the door. She turns back to Evelyn.</line>
    <line who="Lilly"> How about Todd Whitley? Should I forget him too?</line>
    <line who="Evelyn"> Todd was lovely to Jill.</line>
-   <line>She walks toward Lilly. Lilly turns away from her.</line>
+   <line type="directions">She walks toward Lilly. Lilly turns away from her.</line>
    <line who="Lilly"> Really? I hear he knocked her around.</line>
-   <line>She faces Evelyn.</line>
+   <line type="directions">She faces Evelyn.</line>
    <line who="Lilly"> What’s lovely about that?</line>
    <line who="Evelyn"> I still see Todd Whitley. And Melanie. They’re married now.</line>
    <line who="Lilly"> Melanie?</line>
-   <line>She opens her folder.</line>
+   <line type="directions">She opens her folder.</line>
    <line who="Lilly"> Jill’s best friend?</line>
    <line who="Evelyn"> They became close after she died. And I’m not interested in stirring up more accusations against him.</line>
-   <line>Lilly smiles.</line>
+   <line type="directions">Lilly smiles.</line>
    <line who="Lilly"> Well I’m re-opening the case.</line>
    <line who="Evelyn"> I’m not saying don’t do your job. It’s just that no-one's been able to solve it after all these years. And, and, and I just can’t get pulled in again.</line>
-   <line>She walks away leaving Lilly to stare after her.</line>
-   <line>Cut to the American flag flying on top of the police department.</line>
-   <line>Cut to Homicide.</line>
+   <line type="directions">She walks away leaving Lilly to stare after her.</line>
+   <line type="directions">Cut to the American flag flying on top of the police department.</line>
+   <line type="directions">Cut to Homicide.</line>
    <line who="Lilly"> What kind of person doesn’t want to solve her daughter’s m*rder?</line>
    <line who="John"> Someone in a lot of pain.</line>
    <line who="Lilly"> Well she won’t help me with Todd, she thinks he’s a golden boy and the best friend’s married to him.</line>
    <line who="John"> That’s a tight inner circle.</line>
    <line who="Lilly"> So if Jill’s own mom isn’t on board, who’s this for?</line>
-   <line>John holds up the picture of Jill. Chris steps into frame putting his coat on.</line>
+   <line type="directions">John holds up the picture of Jill. Chris steps into frame putting his coat on.</line>
    <line who="Chris"> (To Lilly) You working a dead case instead of our triple?</line>
-   <line>Lilly points to John.</line>
+   <line type="directions">Lilly points to John.</line>
    <line who="Lilly"> Talk to him.</line>
-   <line>Chris looks at John.</line>
+   <line type="directions">Chris looks at John.</line>
    <line who="John"> Unsolved isn’t dead, Lass. And she’s got direction, don’t you?</line>
-   <line>Chris walks to his desk.</line>
+   <line type="directions">Chris walks to his desk.</line>
    <line who="Lilly"> Yeah I also got three murders at this restaurant.</line>
    <line who="John"> Alright, who else can you go to on this?</line>
    <line who="Lilly"> Well not Melanie. So I guess that leaves the brothers.</line>
    <line who="John"> And what was the party line on the abuse?</line>
    <line who="Lilly"> The party line was don’t talk to the cops.</line>
-   <line>Nick walks past.</line>
+   <line type="directions">Nick walks past.</line>
    <line who="Nick"> We’re out on the street boss.</line>
    <line who="John"> Right.</line>
    <line who="Chris"> (To Lilly) Neighbourhood survey on Della’s. You coming or not?</line>
    <line who="Lilly"> Let me just work with this one for one more interview, then I’m back.</line>
-   <line>She smiles.</line>
+   <line type="directions">She smiles.</line>
    <line who="Chris"> Great.</line>
-   <line>He leaves.</line>
+   <line type="directions">He leaves.</line>
    <line who="John"> Alright, what’s your play with the brothers?</line>
    <line who="Lilly"> Well Todd’s a superstar lawyer now. Eric is more of a fringe case. Divorced, drinking problem, doesn’t exactly work.</line>
    <line who="John"> Sounds like he’s your first stop.</line>
-   <line>He gets up and walks away. The camera pans over Lilly’s shoulder and we see a picture of a young Eric.</line>
-   <line>Cut to outside Eric’s house, day. There is a black Mercedes parked outside. Lilly walks up and looks inside the car. Eric walks out of the house with a briefcase and sees Lilly. Lilly looks at him. When we go back to Eric, younger Eric is stood there. There’s a small flash and older Eric’s back.</line>
+   <line type="directions">He gets up and walks away. The camera pans over Lilly’s shoulder and we see a picture of a young Eric.</line>
+   <line type="directions">Cut to outside Eric’s house, day. There is a black Mercedes parked outside. Lilly walks up and looks inside the car. Eric walks out of the house with a briefcase and sees Lilly. Lilly looks at him. When we go back to Eric, younger Eric is stood there. There’s a small flash and older Eric’s back.</line>
    <line who="Lilly"> Eric?</line>
    <line who="Eric"> Yeah.</line>
-   <line>Lilly holds her badge up.</line>
+   <line type="directions">Lilly holds her badge up.</line>
    <line who="Lilly"> Detective Rush.</line>
    <line who="Eric"> I’m heading out, I have a meeting.</line>
-   <line>He starts walking to his car.</line>
+   <line type="directions">He starts walking to his car.</line>
    <line who="Lilly"> Uh, there’s a one o’clock in Old City.</line>
-   <line>He stops.</line>
+   <line type="directions">He stops.</line>
    <line who="Eric"> It’s not that kinda meeting.</line>
    <line who="Lilly"> Oh.</line>
-   <line>He starts walking again.</line>
+   <line type="directions">He starts walking again.</line>
    <line who="Lilly"> Um, uh, it’ll just take a few minutes. It’s about Jill Shelby.</line>
-   <line>He stops again.</line>
+   <line type="directions">He stops again.</line>
    <line who="Lilly"> You were in school with her right? Chelsea Day?</line>
-   <line>He turns back to her.</line>
+   <line type="directions">He turns back to her.</line>
    <line who="Eric"> I can’t talk to you.</line>
    <line who="Lilly"> How come?</line>
    <line who="Eric"> They treated me and my brothers like suspects back then.</line>
    <line who="Lilly"> Well it was an open secret Todd was hitting Jill.</line>
    <line who="Eric"> He loved Jill.</line>
-   <line>Lilly sighs.</line>
+   <line type="directions">Lilly sighs.</line>
    <line who="Lilly"> Well people hit people they love.</line>
-   <line>She shrugs. Eric shakes his head.</line>
+   <line type="directions">She shrugs. Eric shakes his head.</line>
    <line who="Eric"> I shouldn’t say anymore.</line>
-   <line>He walks to his car door.</line>
+   <line type="directions">He walks to his car door.</line>
    <line who="Lilly"> Maybe you could just tell me what she was like.</line>
-   <line>Eric looks at her.</line>
+   <line type="directions">Eric looks at her.</line>
    <line who="Eric"> She was nice. When you were alone with her at least.</line>
    <line who="Lilly"> When you weren’t alone?</line>
    <line who="Eric"> I don’t wanna speak ill of the dead.</line>
    <line who="Lilly"> Aw, it’s okay I hear it everyday.</line>
-   <line>Eric shrugs.</line>
+   <line type="directions">Eric shrugs.</line>
    <line who="Eric"> She’d ignore you.</line>
    <line who="Lilly"> She ignore you that night?</line>
    <line who="Eric"> She was at her worse at parties.</line>
-   <line>Flashback to the party. A group of people are playing spin the bottle including Jill, Melanie and Eric. Melanie spins the bottle and it lands on a boy named Charlie. You Sexy Thing by Hot Chocolate plays over the scene.</line>
+   <line type="directions">Flashback to the party. A group of people are playing spin the bottle including Jill, Melanie and Eric. Melanie spins the bottle and it lands on a boy named Charlie. You Sexy Thing by Hot Chocolate plays over the scene.</line>
    <line who="Melanie"> I see dollar signs already Charlie.</line>
-   <line>They kiss. Eric  watches Jill watching Melanie and Charlie. Melanie pulls away.</line>
+   <line type="directions">They kiss. Eric  watches Jill watching Melanie and Charlie. Melanie pulls away.</line>
    <line who="Melanie"> That was a fifty dollar value.</line>
-   <line>She laughs.</line>
+   <line type="directions">She laughs.</line>
    <line who="Charlie"> Thank you.</line>
-   <line>Jill spins and it lands on Eric.</line>
+   <line type="directions">Jill spins and it lands on Eric.</line>
    <line who="Melanie"> C’mon Jill, tell us what a kiss from Eric’s worth.</line>
-   <line>Jill looks at Eric.</line>
+   <line type="directions">Jill looks at Eric.</line>
    <line who="Jill"> I can’t. He’s Todd’s brother.</line>
    <line who="Eric"> You’ve already kissed two other guys.</line>
    <line who="Jill"> I’m not into it.</line>
-   <line>Melanie looks at Eric.</line>
+   <line type="directions">Melanie looks at Eric.</line>
    <line who="Melanie"> Come here Eric.</line>
-   <line>She crawls over and kisses him. He looks at Jill throughout the kiss. Melanie moves away. Jill smiles and laughs. The music fades. End of flashback. Resume to present.</line>
+   <line type="directions">She crawls over and kisses him. He looks at Jill throughout the kiss. Melanie moves away. Jill smiles and laughs. The music fades. End of flashback. Resume to present.</line>
    <line who="Lilly"> So she was kind of a b*tch to you that night?</line>
-   <line>Eric shakes his head.</line>
+   <line type="directions">Eric shakes his head.</line>
    <line who="Eric"> She didn’t mean it.</line>
-   <line>He shrugs.</line>
+   <line type="directions">He shrugs.</line>
    <line who="Eric"> It’s just the way she got sometimes.</line>
-   <line>Lilly nods.</line>
+   <line type="directions">Lilly nods.</line>
    <line who="Eric"> Anyway, um, I need to go.</line>
    <line who="Lilly"> Oh.</line>
-   <line>He opens his car door.</line>
+   <line type="directions">He opens his car door.</line>
    <line who="Lilly"> Did you letter in high school? You look kind of athletic.</line>
    <line who="Eric"> One year. Wrestling.</line>
-   <line>He gets in his car and closes the door.</line>
-   <line>Cut to the outside of an old building.</line>
-   <line>Cut to Todd’s office inside the building. Lilly meets with Todd Whitley.</line>
+   <line type="directions">He gets in his car and closes the door.</line>
+   <line type="directions">Cut to the outside of an old building.</line>
+   <line type="directions">Cut to Todd’s office inside the building. Lilly meets with Todd Whitley.</line>
    <line who="Todd"> Todd Whitley.</line>
    <line who="Lilly"> Lilly Rush.</line>
-   <line>They shake hands.</line>
+   <line type="directions">They shake hands.</line>
    <line who="Todd"> Have a seat Lilly.</line>
-   <line>She looks at some medals on the wall and some pictures of people rowing.</line>
+   <line type="directions">She looks at some medals on the wall and some pictures of people rowing.</line>
    <line who="Lilly"> Who’d you row for?</line>
-   <line>They sit down.</line>
+   <line type="directions">They sit down.</line>
    <line who="Todd"> Uh, Chelsea Day then Penn. I’m still in the water most mornings.</line>
    <line who="Lilly"> Impressive.</line>
-   <line>She opens her folder.</line>
+   <line type="directions">She opens her folder.</line>
    <line who="Todd"> This is about Eric I assume?</line>
-   <line>Lilly goes with it.</line>
+   <line type="directions">Lilly goes with it.</line>
    <line who="Lilly"> You don’t seem too shocked he might be in trouble.</line>
    <line who="Todd"> Patterns of behaviour, right?</line>
-   <line>Lilly smiles. She puts the picture of Jill on the table.</line>
+   <line type="directions">Lilly smiles. She puts the picture of Jill on the table.</line>
    <line who="Lilly"> Recognise her?</line>
-   <line>He looks at the picture.</line>
+   <line type="directions">He looks at the picture.</line>
    <line who="Todd"> What is this?</line>
    <line who="Lilly"> A homicide investigation.</line>
    <line who="Todd"> Look that was painful for a lot of people. I suggest you leave it alone.</line>
    <line who="Lilly"> I can’t do that. It’s an open case.</line>
    <line who="Todd"> Why did someone like you become a cop?</line>
-   <line>Lilly sighs.</line>
+   <line type="directions">Lilly sighs.</line>
    <line who="Lilly"> Oh bad education, limited talent…</line>
-   <line>She smiles. He smiles back at her.</line>
+   <line type="directions">She smiles. He smiles back at her.</line>
    <line who="Todd"> You should be married.</line>
-   <line>He smiles widely.</line>
+   <line type="directions">He smiles widely.</line>
    <line who="Todd"> Living the good life.</line>
-   <line>Lilly laughs.</line>
+   <line type="directions">Lilly laughs.</line>
    <line who="Lilly"> Well no-one ever asked.</line>
-   <line>Todd nods.</line>
+   <line type="directions">Todd nods.</line>
    <line who="Lilly"> So here I am working a homicide.</line>
    <line who="Todd"> Well as I told the cops at the time I was with my brother all night.</line>
    <line who="Lilly"> Actually a lawyer told them that in a statement three weeks later.</line>
-   <line>Young Todd is now sat in Todd’s seat.</line>
+   <line type="directions">Young Todd is now sat in Todd’s seat.</line>
    <line who="Young Todd"> So?</line>
-   <line>Flash back to Todd. Lilly shrugs.</line>
+   <line type="directions">Flash back to Todd. Lilly shrugs.</line>
    <line who="Todd"> Look my father owned half of Philadelphia.</line>
-   <line>He laughs and Lilly nods for him to go on.</line>
+   <line type="directions">He laughs and Lilly nods for him to go on.</line>
    <line who="Todd"> People liked to see families like ours in trouble. We hired a lawyer. Maybe your kind of people don’t do that. Mine do.</line>
-   <line>Lilly blinks, smiles a little and looks down before looking back at Todd.</line>
+   <line type="directions">Lilly blinks, smiles a little and looks down before looking back at Todd.</line>
    <line who="Lilly"> Even if there’s nothing to hide?</line>
    <line who="Todd"> I can’t help you anymore.</line>
-   <line>He gets up and walks back to his desk.</line>
+   <line type="directions">He gets up and walks back to his desk.</line>
    <line who="Lilly"> I, uh, understand you’re married to Melanie now.</line>
    <line who="Todd"> She can’t help you either.</line>
    <line who="Lilly"> Do you still have a problem with v*olence?</line>
-   <line>She stands up.</line>
+   <line type="directions">She stands up.</line>
    <line who="Lilly"> I know you once hit Jill hard enough to give her, uh, three stitches in all.</line>
    <line who="Todd"> Everyone knew the cops had it in for me over Jill. They were wrong then, you are wrong now.</line>
    <line who="Lilly"> Ever hit Melanie?</line>
    <line who="Todd"> Alright Lilly.</line>
-   <line>He walks up close to her.</line>
+   <line type="directions">He walks up close to her.</line>
    <line who="Todd"> You’re right. Someone did beat the crap out of Jill on a regular basis but it wasn’t me. Her father was a real son of a b*tch.</line>
-   <line>Lilly stares at him. After a beat he walks back to his desk as he walks away Lilly looks him up and down.</line>
-   <line>Cut to Evelyn walking to her house. Lilly is stood outside.</line>
+   <line type="directions">Lilly stares at him. After a beat he walks back to his desk as he walks away Lilly looks him up and down.</line>
+   <line type="directions">Cut to Evelyn walking to her house. Lilly is stood outside.</line>
    <line who="Evelyn"> You sure know how to find people.</line>
    <line who="Lilly"> I thought you’d still be living in Chestnut Hill.</line>
    <line who="Evelyn"> I like the city.</line>
-   <line>Lilly smiles.</line>
+   <line type="directions">Lilly smiles.</line>
    <line who="Evelyn"> Did you find something?</line>
    <line who="Lilly"> Autopsy reports and medical records.</line>
    <line who="Evelyn"> And?</line>
    <line who="Lilly"> I just don’t understand these injuries Jill had before she died.</line>
    <line who="Evelyn"> Injuries?</line>
    <line who="Lilly"> Broken rib when she was twelve, uh, a concussion, a jaw fracture at nine years old? What’s the deal?</line>
-   <line>Evelyn smiles.</line>
+   <line type="directions">Evelyn smiles.</line>
    <line who="Evelyn"> Well she played field hockey and soccer.</line>
-   <line>Lilly looks at her disbelievingly.</line>
+   <line type="directions">Lilly looks at her disbelievingly.</line>
    <line who="Lilly"> Uh-huh.</line>
    <line who="Evelyn"> She was very active.</line>
    <line who="Lilly"> Evelyn my ex-husband was a mean drunk. I know the difference between a soccer injury and a trip down the stairs. Did your husband beat your daughter?</line>
    <line who="Evelyn"> He was in Houston the night she died.</line>
    <line who="Lilly"> That wasn’t my question.</line>
    <line who="Evelyn"> He’s been dead nine years.</line>
-   <line>Lilly looks at her pad.</line>
+   <line type="directions">Lilly looks at her pad.</line>
    <line who="Lilly"> And now you work at a shelter for battered women and children.</line>
-   <line>Evelyn sees the picture of Jill in Lilly’s hand.</line>
+   <line type="directions">Evelyn sees the picture of Jill in Lilly’s hand.</line>
    <line who="Evelyn"> Where did you get that?</line>
-   <line>Lilly hands it to her.</line>
+   <line type="directions">Lilly hands it to her.</line>
    <line who="Lilly"> The case file.</line>
-   <line>Evelyn looks at the picture for a beat before looking up at Lilly.</line>
+   <line type="directions">Evelyn looks at the picture for a beat before looking up at Lilly.</line>
    <line who="Evelyn"> I took this picture.</line>
-   <line>She sits down on the step outside her front door.</line>
+   <line type="directions">She sits down on the step outside her front door.</line>
    <line who="Lilly"> I don’t see how you can just forget her Evelyn.</line>
    <line who="Evelyn"> Forget? I think about her everyday. This ruined my life.</line>
    <line who="Lilly"> Then it still matters.</line>
-   <line>Evelyn shakes her head.</line>
+   <line type="directions">Evelyn shakes her head.</line>
    <line who="Evelyn"> I-I can’t look back it’s too hard.</line>
-   <line>She hands the photo back to Lilly.</line>
+   <line type="directions">She hands the photo back to Lilly.</line>
    <line who="Lilly"> So, so you sell your Chestnut Hill house, pack up your old life and-and think you can just walk away? You can’t walk away from her Evelyn. She’s a part of you. There’s new hope now.</line>
    <line who="Evelyn"> And what if you don’t solve it? Where does that leave me?</line>
    <line who="Lilly"> What if I do solve it?</line>
-   <line>The two women simply stare at each other.</line>
-   <line>Cut to Todd and Melanie’s house. Evelyn and Lilly walk up to the front door. Evelyn opens the outer gate and knocks. We see Melanie arranging flowers. She turns to open the door. When the door opens, it is younger Melanie at the door. There is a flash and older Melanie is back.</line>
+   <line type="directions">The two women simply stare at each other.</line>
+   <line type="directions">Cut to Todd and Melanie’s house. Evelyn and Lilly walk up to the front door. Evelyn opens the outer gate and knocks. We see Melanie arranging flowers. She turns to open the door. When the door opens, it is younger Melanie at the door. There is a flash and older Melanie is back.</line>
    <line who="Melanie"> My husband doesn’t want me talking to you.</line>
    <line who="Lilly"> Todd doesn’t want you helping with your best friend’s m*rder investigation?</line>
    <line who="Melanie"> I thought we put this to rest.</line>
    <line who="Evelyn"> It’s important to me Melanie.</line>
-   <line>Short time cut to inside Todd’s house. Lilly interviews Evelyn and Melanie.</line>
+   <line type="directions">Short time cut to inside Todd’s house. Lilly interviews Evelyn and Melanie.</line>
    <line who="Lilly"> So you came to the party with Jill but left alone?</line>
    <line who="Melanie"> I drank too much. I had to go home and I couldn’t find her.</line>
    <line who="Lilly"> You made a big point in your interview that you were sure it wasn’t Todd.</line>
@@ -424,48 +425,48 @@ More Than a Feeling by Boston plays over the scene.</line>
    <line who="Lilly"> This is the cook?</line>
    <line who="Evelyn"> He lived in our guest house and he was with the girls that night.</line>
    <line who="Melanie"> When we left for the party he told Jill she should come by later if she wanted. When I heard she was missing the next day Tim was the first person I thought of.</line>
-   <line>Cut to outside the police department.</line>
-   <line>Cut to homicide.</line>
+   <line type="directions">Cut to outside the police department.</line>
+   <line type="directions">Cut to homicide.</line>
    <line who="Lilly"> All this information and I got one page on the guy the mother and best friend think did it.</line>
    <line who="Chris"> You gotta listen to the best friend. Teenage girls tell each other everything.</line>
-   <line>He rolls his shirt up and injects himself with something.</line>
+   <line type="directions">He rolls his shirt up and injects himself with something.</line>
    <line who="Lilly"> Well Britt wrote two sentences on him then blew him off.</line>
-   <line>Chris looks up at her. She shows him the pad she’s reading.</line>
+   <line type="directions">Chris looks up at her. She shows him the pad she’s reading.</line>
    <line who="Chris"> It’s hard to tell if he even worked the mard(?) note.</line>
    <line who="Lilly"> Especially when he had it out for Todd.</line>
-   <line>Chris nods and Lilly sighs.</line>
+   <line type="directions">Chris nods and Lilly sighs.</line>
    <line who="Lilly"> Dorn’s up in Frackville.</line>
    <line who="Chris"> Locked up?</line>
-   <line>Lilly puts her coat on.</line>
+   <line type="directions">Lilly puts her coat on.</line>
    <line who="Chris"> Why do you think he’s gonna talk to you?</line>
-   <line>She shrugs.</line>
+   <line type="directions">She shrugs.</line>
    <line who="Lilly"> I’m an optimist.</line>
    <line who="Chris"> Lil I got a wife at home.</line>
    <line who="Lilly"> You don’t have to come. You think it’s a dead case.</line>
-   <line>He looks at the clock.</line>
+   <line type="directions">He looks at the clock.</line>
    <line who="Chris"> Let me just call her.</line>
-   <line>Cut to Frackville. Lilly and Chris interview Tim Dorn.</line>
+   <line type="directions">Cut to Frackville. Lilly and Chris interview Tim Dorn.</line>
    <line who="Chris"> Five years for forgery.</line>
    <line who="Tim"> I got a facility for it, gets me into trouble.</line>
    <line who="Lilly"> You ever dabble in more serious crime?</line>
    <line who="Tim"> Like the v*olence done to Jill Shelby? No ma’am. I’m strictly a cerebral criminal.</line>
    <line who="Chris"> Pretty attractive wasn’t she?</line>
    <line who="Tim"> She was pretty cute for a girl.</line>
-   <line>He looks at Chris seductively.</line>
+   <line type="directions">He looks at Chris seductively.</line>
    <line who="Lilly"> You did tell her to come over that night.</line>
    <line who="Tim"> She came over a lot. To get high. She and her little vixen friend, that Melanie.</line>
    <line who="Lilly"> So that little vixen thinks that you k*lled Jill.</line>
-   <line>Tim scoffs.</line>
+   <line type="directions">Tim scoffs.</line>
    <line who="Tim"> Well if you marry the prime suspect I guess you better point to someone else.</line>
    <line who="Chris"> Jill’s mom also thinks you did it.</line>
    <line who="Tim"> A woman lives in a certain world, if the shining neighbour boy k*lled her daughter, that world’s a lie.</line>
    <line who="Lilly"> Britt has your alibi down here as going to bed at ten o’clock.</line>
    <line who="Tim"> I guess he must of kept his word.</line>
-   <line>He laughs a little.</line>
+   <line type="directions">He laughs a little.</line>
    <line who="Tim"> Actually I was with a, uh, friend that night.</line>
    <line who="Chris"> What friend?</line>
    <line who="Tim"> Bobby Jordan. This big luscious college boy down the street.</line>
-   <line>Lilly looks at Chris.</line>
+   <line type="directions">Lilly looks at Chris.</line>
    <line who="Tim"> Neither of us was exactly out and proud at the time so we asked Britt not to document the sleepover.</line>
    <line who="Chris"> Bobby’s gonna confirm that?</line>
    <line who="Tim"> Well I imagine he’s come to terms by now.</line>
@@ -473,66 +474,66 @@ More Than a Feeling by Boston plays over the scene.</line>
    <line who="Tim"> Oh sure, those girls told me everything.</line>
    <line who="Chris"> Like what?</line>
    <line who="Tim"> Teenage drama. They even told me things they didn’t tell each other. Like all the while Jill was fretting that Todd doesn’t treat her right, Melanie was doing him on the side.</line>
-   <line>He looks at Lilly. Lilly thinks about it and looks at Chris.</line>
-   <line>Fade Out.</line>
-   <line>Fade in on a statue in Todd Whitley’s front garden. Lilly and Chris walk in through the gate. Melanie is sat on the grass playing with two children, when she sees Chris and Lilly walking towards her she stands up.</line>
+   <line type="directions">He looks at Lilly. Lilly thinks about it and looks at Chris.</line>
+   <line type="directions">Fade Out.</line>
+   <line type="directions">Fade in on a statue in Todd Whitley’s front garden. Lilly and Chris walk in through the gate. Melanie is sat on the grass playing with two children, when she sees Chris and Lilly walking towards her she stands up.</line>
    <line who="Melanie"> You can’t be here.</line>
    <line who="Lilly"> Gate was open. My partner Chris Lassing.</line>
    <line who="Chris"> How you doing?</line>
    <line who="Melanie"> Todd is furious at you.</line>
-   <line>Lilly looks at Chris and back.</line>
+   <line type="directions">Lilly looks at Chris and back.</line>
    <line who="Lilly"> Uh-oh.</line>
    <line who="Melanie"> Thanks to you his brother came here last night. Drunk. After six years being sober.</line>
-   <line>Chris and Lilly share a glance.</line>
+   <line type="directions">Chris and Lilly share a glance.</line>
    <line who="Lilly"> Eric did?</line>
    <line who="Melanie"> Look I’ve told you about Tim Dorn, why do you have to keep bothering us?</line>
    <line who="Chris"> Dorn’s alibi checked out. We know about you and Todd stepping out on Jill back then.</line>
    <line who="Melanie"> I-I-I don’t have to talk to you.</line>
-   <line>She turns and starts walking back to the house.</line>
+   <line type="directions">She turns and starts walking back to the house.</line>
    <line who="Lilly"> We have to arrest you?</line>
-   <line>Melanie stops.</line>
+   <line type="directions">Melanie stops.</line>
    <line who="Chris"> You don’t want that lady. You should see our holding cell; your headband’ll get all dirty.</line>
-   <line>He smirks. She turns to them.</line>
+   <line type="directions">He smirks. She turns to them.</line>
    <line who="Melanie"> Why does this matter?</line>
    <line who="Lilly"> ‘Cause when you tell us one lie Melanie, even if it’s small, that makes us think you’re hiding other things.</line>
    <line who="Chris"> Like whatever Todd did to Jill that night.</line>
    <line who="Melanie"> It wasn’t Todd, okay? I know because I was with him that night.</line>
-   <line>Flashback to Melanie, Todd, Eric and Jill sat round the Whitley’s pool. I’m Not in Love by 10CC plays over the scene.</line>
+   <line type="directions">Flashback to Melanie, Todd, Eric and Jill sat round the Whitley’s pool. I’m Not in Love by 10CC plays over the scene.</line>
    <line who="Todd"> (To Jill) That is some top.</line>
-   <line>Jill flips her hair back so he can look at it better. It is a halter-top.</line>
+   <line type="directions">Jill flips her hair back so he can look at it better. It is a halter-top.</line>
    <line who="Jill"> It’s new.</line>
    <line who="Todd"> You look like a, uh…</line>
-   <line>Jill smiles.</line>
+   <line type="directions">Jill smiles.</line>
    <line who="Jill"> What?</line>
    <line who="Todd"> A patriotic streetwalker.</line>
-   <line>Todd laughs.</line>
+   <line type="directions">Todd laughs.</line>
    <line who="Jill"> It was in Seventeen.</line>
-   <line>She scoffs, looks away, then gets up and walks away. Eric gets up off his chair to  watch her go. He looks down at Todd.</line>
+   <line type="directions">She scoffs, looks away, then gets up and walks away. Eric gets up off his chair to  watch her go. He looks down at Todd.</line>
    <line who="Eric"> Why do you have to be a jerk?</line>
    <line who="Todd"> Why don’t you go and comfort her?</line>
-   <line>Eric walks off the way Jill went, leaving Melanie and Todd alone.</line>
+   <line type="directions">Eric walks off the way Jill went, leaving Melanie and Todd alone.</line>
    <line who="Melanie"> You know you could use some time in charm school.</line>
    <line who="Todd"> Could I?</line>
    <line who="Melanie"> I could give you a tutorial.</line>
-   <line>She looks at him.</line>
+   <line type="directions">She looks at him.</line>
    <line who="Melanie"> Upstairs.</line>
    <line who="Todd"> What about Jill?</line>
-   <line>Melanie looks away and raises her eyebrows.</line>
+   <line type="directions">Melanie looks away and raises her eyebrows.</line>
    <line who="Melanie"> What about her?</line>
-   <line>She smirks. The music fades. End of flashback. Resume to present.</line>
+   <line type="directions">She smirks. The music fades. End of flashback. Resume to present.</line>
    <line who="Melanie"> I’m obviously not proud of it.</line>
    <line who="Chris"> It sounds like Eric had pretty strong feelings for Jill.</line>
    <line who="Melanie"> So?</line>
    <line who="Chris"> So why’d he fall off the wagon just cause Jill’s name came up?</line>
-   <line>Cut to a rowing club in a park.</line>
-   <line>Cut to Lilly hiding behind a tree. She peeps out looking for somebody. She sees Todd Whitley leaving the rowing club. Lilly has a drink of her water and starts breathing really fast. She dabs some water on her chest and face. She starts running and throws the water away as she passes a bin. She runs over to Todd. He stops walking when he sees her.</line>
+   <line type="directions">Cut to a rowing club in a park.</line>
+   <line type="directions">Cut to Lilly hiding behind a tree. She peeps out looking for somebody. She sees Todd Whitley leaving the rowing club. Lilly has a drink of her water and starts breathing really fast. She dabs some water on her chest and face. She starts running and throws the water away as she passes a bin. She runs over to Todd. He stops walking when he sees her.</line>
    <line who="Lilly"> Two million people in this city, I gotta run into you.</line>
    <line who="Todd"> You think I’m thrilled seeing you?</line>
-   <line>Lilly holds her hands up.</line>
+   <line type="directions">Lilly holds her hands up.</line>
    <line who="Lilly"> Alright look I’m sorry if I was obnoxious at all in your office.</line>
    <line who="Todd"> More than obnoxious.</line>
    <line who="Lilly"> It’s just the way that you were looking out for Eric it was…</line>
-   <line>She keeps breathing like she’s out of breath and makes it look like she’s trying to catch her breath.</line>
+   <line type="directions">She keeps breathing like she’s out of breath and makes it look like she’s trying to catch her breath.</line>
    <line who="Lilly"> I hear he’s drinking again.</line>
    <line who="Todd"> Don’t talk about Eric.</line>
    <line who="Lilly"> Todd I know that you were with Melanie that night.</line>
@@ -540,7 +541,7 @@ More Than a Feeling by Boston plays over the scene.</line>
    <line who="Lilly"> Which doesn’t add up with you saying you were with Eric so I figure that you just said that to protect him.</line>
    <line who="Todd"> Okay let’s say that I was with Melanie that night; you can understand why I wouldn’t want the entire world knowing that, right?</line>
    <line who="Lilly"> Right.</line>
-   <line>She nods.</line>
+   <line type="directions">She nods.</line>
    <line who="Lilly"> So why not just say that you were sleeping? Why give Eric an alibi?</line>
    <line who="Todd"> You should drop this.</line>
    <line who="Lilly"> Eric did it. That’s why you can sleep at night and have a normal life and he’s a mess.</line>
@@ -550,21 +551,21 @@ More Than a Feeling by Boston plays over the scene.</line>
    <line who="Lilly"> Eric kills Jill, you clean up after him, brother’s keeper ever since. Am I close?</line>
    <line who="Todd"> Tell me something Lilly. What is the point of all of this? After so many years?</line>
    <line who="Lilly"> People shouldn’t be forgotten. Even if they are my kind of people. Maybe they don’t have a lotta money, they don’t have lawyers but they matter. They should get justice too.</line>
-   <line>Todd nods.</line>
+   <line type="directions">Todd nods.</line>
    <line who="Todd"> I see. You’re a crusader.</line>
    <line who="Lilly"> I guess I am.</line>
-   <line>Todd laughs.</line>
+   <line type="directions">Todd laughs.</line>
    <line who="Todd"> Good luck.</line>
-   <line>He walks away leaving Lilly to stare after him.</line>
-   <line>Cut to outside the Philadelphia police department. It fades to night.</line>
+   <line type="directions">He walks away leaving Lilly to stare after him.</line>
+   <line type="directions">Cut to outside the Philadelphia police department. It fades to night.</line>
    <line who="John"> (Voiceover) So is sleep like an optional thing for you?</line>
-   <line>Cut to homicide. Lilly is sat at her desk.</line>
+   <line type="directions">Cut to homicide. Lilly is sat at her desk.</line>
    <line who="Lilly"> I’m not tired.</line>
-   <line>John nods.</line>
+   <line type="directions">John nods.</line>
    <line who="John"> Guess who weighed in on your case today.</line>
-   <line>Lilly thinks for a minute.</line>
+   <line type="directions">Lilly thinks for a minute.</line>
    <line who="Lilly"> Uh… the Commissioner?</line>
-   <line>John doesn’t say anything. Lilly is stunned.</line>
+   <line type="directions">John doesn’t say anything. Lilly is stunned.</line>
    <line who="Lilly"> The Commissioner?</line>
    <line who="John"> Apparently he and the Whitley’s father were college pals.</line>
    <line who="Lilly"> Todd called Bradley to tattle on me? What a baby.</line>
@@ -572,203 +573,203 @@ More Than a Feeling by Boston plays over the scene.</line>
    <line who="Lilly"> He couldn’t pick me out of a line-up suddenly he’s tracking my career? Screw him.</line>
    <line who="John"> Don’t say that too loud in this building.</line>
    <line who="Lilly"> Yeah, yeah, yeah.</line>
-   <line>Nick Vera walks up to her desk. He gives her a cup of coffee.</line>
+   <line type="directions">Nick Vera walks up to her desk. He gives her a cup of coffee.</line>
    <line who="Nick"> Rush your boyfriend’s downstairs.</line>
    <line who="Lilly"> I’m single. You sure it’s not your boyfriend?</line>
-   <line>She has a drink of her coffee.</line>
+   <line type="directions">She has a drink of her coffee.</line>
    <line who="Nick"> One of the Whitley’s. Booked for DUI.</line>
-   <line>Lilly looks from Nick to John. She gets up and walks out.</line>
-   <line>Cut to another part of the building. Lilly meets with Eric who is starting to leave.</line>
+   <line type="directions">Lilly looks from Nick to John. She gets up and walks out.</line>
+   <line type="directions">Cut to another part of the building. Lilly meets with Eric who is starting to leave.</line>
    <line who="Lilly"> You crash that nice car of yours Eric?</line>
    <line who="Eric"> Thanks to you.</line>
-   <line>Lilly scoffs.</line>
+   <line type="directions">Lilly scoffs.</line>
    <line who="Lilly"> I had something to do with it? All I did was bring up Jill, why’s that send you on a bender?</line>
    <line who="Eric"> My brother called our lawyer who called the Commissioner.</line>
-   <line>Lilly nods.</line>
+   <line type="directions">Lilly nods.</line>
    <line who="Eric"> He’s a very close family friend.</line>
    <line who="Lilly"> I heard all about it.</line>
    <line who="Eric"> Then why don’t you take a hint and back off?</line>
-   <line>He walks away. Lilly calls after him.</line>
+   <line type="directions">He walks away. Lilly calls after him.</line>
    <line who="Lilly"> ‘Cause something tells me you and I are one scotch away from a good conversation.</line>
-   <line>Lilly walks away in the opposite direction to Eric.</line>
-   <line>Cut to a police car pulling up outside the building the next day.</line>
-   <line>Cut to Lilly walking into homicide. Will is stood near the door looking through a filing cabinet.</line>
+   <line type="directions">Lilly walks away in the opposite direction to Eric.</line>
+   <line type="directions">Cut to a police car pulling up outside the building the next day.</line>
+   <line type="directions">Cut to Lilly walking into homicide. Will is stood near the door looking through a filing cabinet.</line>
    <line who="Will"> Hey Lil.</line>
    <line who="Lilly"> Hey.</line>
    <line who="Will"> Hey. Lassing’s in with Evelyn Shelby.</line>
    <line who="Lilly"> Huh.</line>
-   <line>She walks further into homicide towards the interview room, putting her bag on a chair as she walks past.</line>
-   <line>Cut to the interview room. Lilly and Chris are sat with Evelyn. Evelyn is opening a box.</line>
+   <line type="directions">She walks further into homicide towards the interview room, putting her bag on a chair as she walks past.</line>
+   <line type="directions">Cut to the interview room. Lilly and Chris are sat with Evelyn. Evelyn is opening a box.</line>
    <line who="Evelyn"> I kept my own box on Jill. It’s been packed away for years. I thought maybe it could help.</line>
    <line who="Lilly"> Good.</line>
    <line who="Evelyn"> Melanie told me about her and Todd in high school, behind Jill’s back.</line>
-   <line>Lilly pulls some pictures out of the box of Melanie and Jill.</line>
+   <line type="directions">Lilly pulls some pictures out of the box of Melanie and Jill.</line>
    <line who="Lilly"> Well she was only fifteen.</line>
-   <line>Evelyn smiles at Lilly.</line>
+   <line type="directions">Evelyn smiles at Lilly.</line>
    <line who="Chris"> Mrs. Shelby it looks like we’re closing in on Eric Whitley.</line>
    <line who="Evelyn"> The younger one?</line>
    <line who="Chris"> Yeah. Well he doesn’t have an alibi for that night and, uh, he was pretty sick in love with your daughter.</line>
    <line who="Evelyn"> I was looking at her yearbook and I remember this boy.</line>
-   <line>She opens the yearbook to a certain page with a picture of a boy on.</line>
+   <line type="directions">She opens the yearbook to a certain page with a picture of a boy on.</line>
    <line who="Evelyn"> Ann Winters' son. A few years after Jill died; he said something to Ann about the Whitley’s getting away with m*rder.</line>
-   <line>Chris looks at Lilly. Lilly sighs.</line>
+   <line type="directions">Chris looks at Lilly. Lilly sighs.</line>
    <line who="Lilly"> Why isn’t this in the file?</line>
    <line who="Evelyn"> Well it should be. John told it to the police.</line>
    <line who="Chris"> What’s the kid’s name?</line>
    <line who="Evelyn"> Charlie Winters.</line>
-   <line>Chris scratches his head.</line>
+   <line type="directions">Chris scratches his head.</line>
    <line who="Lilly"> If Britt talked to him I’d have a record of it. He was meticulous.</line>
    <line who="Chris"> Well are you sure your husband mentioned it to Britt?</line>
    <line who="Evelyn"> He told me he did.</line>
    <line who="Lilly"> Could he have lied Evelyn?</line>
    <line who="Evelyn"> Well I don’t know I mean I hounded him about it. He said it came to nothing, that I should stop bringing it up, stop pointing fingers at the Whitley’s.</line>
    <line who="Chris"> They were a powerful family.</line>
-   <line>Evelyn smiles and nods slightly. She looks at Lilly.</line>
+   <line type="directions">Evelyn smiles and nods slightly. She looks at Lilly.</line>
    <line who="Evelyn"> I guess we both know what it’s like to have a husband fail you.</line>
-   <line>Chris looks at Lilly, surprised. Lilly smiles and looks at Chris out of the corner of her eye. Lilly leans forward and grasps Evelyn’s hand.</line>
+   <line type="directions">Chris looks at Lilly, surprised. Lilly smiles and looks at Chris out of the corner of her eye. Lilly leans forward and grasps Evelyn’s hand.</line>
    <line who="Lilly"> We’ll find Charlie Winters, Evelyn. We’ll talk to him and we’ll let you know what he says.</line>
-   <line>Evelyn nods. Chris looks at Lilly and Lilly leans back in her chair.</line>
-   <line>Fade Out.</line>
-   <line>Fade In on a car driving up through woodland. It passes a sign that reads:</line>
-   <line>Clear Vista</line>
-   <line>Meditation Retreat</line>
-   <line>Quiet Please.</line>
-   <line>Cut to a clearing in the woods. People are doing meditation exercises. Lilly and Chris walk into the clearing and up to the group. Charlie Winters is stood observing the group. He turns, sees Lilly and Chris and walks over to them. The camera shows Lilly and Chris walking to meet him. The camera goes back and a younger Charlie is walking to them. There is a flash and present day Charlie is back.</line>
+   <line type="directions">Evelyn nods. Chris looks at Lilly and Lilly leans back in her chair.</line>
+   <line type="directions">Fade Out.</line>
+   <line type="directions">Fade In on a car driving up through woodland. It passes a sign that reads:</line>
+   <line type="directions">Clear Vista</line>
+   <line type="directions">Meditation Retreat</line>
+   <line type="directions">Quiet Please.</line>
+   <line type="directions">Cut to a clearing in the woods. People are doing meditation exercises. Lilly and Chris walk into the clearing and up to the group. Charlie Winters is stood observing the group. He turns, sees Lilly and Chris and walks over to them. The camera shows Lilly and Chris walking to meet him. The camera goes back and a younger Charlie is walking to them. There is a flash and present day Charlie is back.</line>
    <line who="Charlie"> Uh, thanks for coming out. I can’t really leave the retreat.</line>
-   <line>Lilly nods and smiles.</line>
+   <line type="directions">Lilly nods and smiles.</line>
    <line who="Lilly"> Sure. It’s about Jill Shelby.</line>
    <line who="Charlie"> So now you wanna hear?</line>
-   <line>Lilly nods.</line>
+   <line type="directions">Lilly nods.</line>
    <line who="Lilly"> Yeah. You told the cops you didn’t see anything.</line>
    <line who="Charlie"> Yeah at first.</line>
-   <line>He glances behind him.</line>
+   <line type="directions">He glances behind him.</line>
    <line who="Charlie"> And then I came to the Shelby’s with some good information. And I got the brush off.</line>
    <line who="Chris"> Did you come stoned in your VW van?</line>
    <line who="Charlie"> So?</line>
    <line who="Lilly"> Charlie, Evelyn Shelby’s the one who told us about you.</line>
    <line who="Charlie"> Screw Evelyn Shelby okay? I tried to help her years ago. She wouldn’t hear it.</line>
    <line who="Lilly"> Your right Charlie but she’s not afraid now and we wanna hear.</line>
-   <line>Charlie sighs and nods.</line>
+   <line type="directions">Charlie sighs and nods.</line>
    <line who="Charlie"> Okay.</line>
    <line who="Charlie"> I was um…</line>
-   <line>Flashback to the night of the party.</line>
+   <line type="directions">Flashback to the night of the party.</line>
    <line who="Charlie"> (Voiceover) …kinda passed out on a lounge chair.</line>
-   <line>Eric and Todd walk in behind a passed out Charlie.</line>
+   <line type="directions">Eric and Todd walk in behind a passed out Charlie.</line>
    <line who="Todd"> Shut up.</line>
    <line who="Eric"> (Upset) How could this happen?</line>
    <line who="Todd"> Just shut up.</line>
    <line who="Eric"> Why’d you have to wear this?</line>
    <line who="Todd"> What?</line>
    <line who="Eric"> It’s ruined.</line>
-   <line>We see Charlie watching them from under his hat. The brothers are arguing about a jacket that they’re both holding.</line>
+   <line type="directions">We see Charlie watching them from under his hat. The brothers are arguing about a jacket that they’re both holding.</line>
    <line who="Todd"> That’s what you were thinking about, that stupid jacket? Just leave things to me.</line>
-   <line>Todd walks off and we see a tennis racket in his hand. Eric is holding the jacket to his face, it has blood on it.</line>
+   <line type="directions">Todd walks off and we see a tennis racket in his hand. Eric is holding the jacket to his face, it has blood on it.</line>
    <line who="Charlie"> (Voiceover) So they got in their car and left.</line>
-   <line>End of flashback. Resume to present.</line>
+   <line type="directions">End of flashback. Resume to present.</line>
    <line who="Charlie"> And I just got the hell out of there.</line>
    <line who="Lilly"> Why did Eric care so much about the jacket?</line>
    <line who="Charlie"> There was this, uh, one year that Eric did wrestling and Todd couldn’t wrestle to save his life.</line>
-   <line>He laughs a little.</line>
+   <line type="directions">He laughs a little.</line>
    <line who="Charlie"> I think it was the only thing that he could do better than Todd.</line>
-   <line>Lilly nods.</line>
-   <line>Cut to Lilly walking up to a school, where parents are picking their children up. She walks up to Melanie putting her children in her car.</line>
+   <line type="directions">Lilly nods.</line>
+   <line type="directions">Cut to Lilly walking up to a school, where parents are picking their children up. She walks up to Melanie putting her children in her car.</line>
    <line who="Lilly"> I need a couple of minutes. I, I have to tell you something that is gonna be hard to here. Todd was seen with the m*rder w*apon that night.</line>
    <line who="Melanie"> But I was with him.</line>
    <line who="Lilly"> You were asleep after drinking all night. He could of got out of bed later.</line>
    <line who="Melanie"> This is the father of my children.</line>
    <line who="Lilly"> He was involved with the m*rder Melanie. That’s someone that you don’t know very well.</line>
-   <line>Melanie shakes her head.</line>
+   <line type="directions">Melanie shakes her head.</line>
    <line who="Melanie"> Well maybe he was just covering up for Eric.</line>
    <line who="Lilly"> Even if that’s all he did, that’s accessory to m*rder.</line>
-   <line>Melanie thinks about it. She looks away for a minute and then looks back.</line>
+   <line type="directions">Melanie thinks about it. She looks away for a minute and then looks back.</line>
    <line who="Melanie"> I wanna tell you something. But if I do I can’t go home.</line>
-   <line>Lilly nods.</line>
+   <line type="directions">Lilly nods.</line>
    <line who="Lilly"> I can help you with that.</line>
    <line who="Melanie"> They’re talking every night. They’re arguing. Todd keeps telling Eric to stay away from Tabby’s.</line>
    <line who="Lilly"> What’s that?</line>
    <line who="Melanie"> They have an aunt, Tabitha. She has a house in Chestnut Hill. It was-it was close to where we all used to live.</line>
    <line who="Lilly"> Pack a bag for you and the kids. You’re coming with me.</line>
-   <line>Cut to Lilly walking through the police car park later that night. She gets her car keys out of her pocket. Todd steps out in front of her.</line>
+   <line type="directions">Cut to Lilly walking through the police car park later that night. She gets her car keys out of her pocket. Todd steps out in front of her.</line>
    <line who="Todd"> Hey.</line>
-   <line>Lilly is startled.</line>
+   <line type="directions">Lilly is startled.</line>
    <line who="Todd"> Where’s my wife?</line>
-   <line>Lilly walks close to him.</line>
+   <line type="directions">Lilly walks close to him.</line>
    <line who="Lilly"> Safe.</line>
-   <line>She starts to walk past him but he grabs her arm. She jumps away from him.</line>
+   <line type="directions">She starts to walk past him but he grabs her arm. She jumps away from him.</line>
    <line who="Todd"> You b*tch. You tell me where she is.</line>
-   <line>Lilly laughs.</line>
+   <line type="directions">Lilly laughs.</line>
    <line who="Lilly"> Is this how you handle women you can’t control? Is this supposed to scare me?</line>
    <line who="Todd"> It’s supposed to make you think.</line>
    <line who="Lilly"> I’m not like the girls you’re used to, Todd. You can’t try to charm me, then when that doesn’t work talk down to me. Then when that doesn’t work get aggressive. I’m not Jill or Melanie. I’m the police and we’re at the police headquarters you moron.</line>
-   <line>Todd steps close to her.</line>
+   <line type="directions">Todd steps close to her.</line>
    <line who="Todd"> You’re gonna talk to me like that?</line>
    <line who="Lilly"> What’re you gonna do? k*ll me in the parking lot of Central? You think you’ll get away with it again? (Whispers) I know about Tabby’s. (Normal) I’ll have a warrant tomorrow and guys are sitting on it right now. Whatever you hid there, we’re about to find it. (Whispers) So it’s over.</line>
    <line who="Todd"> Okay.</line>
-   <line>He takes a step away from her. He pauses for a moment.</line>
+   <line type="directions">He takes a step away from her. He pauses for a moment.</line>
    <line who="Todd"> I can’t protect him anymore.</line>
-   <line>He shakes his head.</line>
+   <line type="directions">He shakes his head.</line>
    <line who="Todd"> I did as much as I could.</line>
-   <line>He shrugs.</line>
+   <line type="directions">He shrugs.</line>
    <line who="Lilly"> Why don’t you come in, give me a statement?</line>
    <line who="Todd"> Okay.</line>
-   <line>They start walking towards the police building.</line>
-   <line>Cut to Todd sat in an interview room. Lilly and John  watch him in the observation room. Lilly sighs.</line>
+   <line type="directions">They start walking towards the police building.</line>
+   <line type="directions">Cut to Todd sat in an interview room. Lilly and John  watch him in the observation room. Lilly sighs.</line>
    <line who="Lilly"> Flipped on his brother.</line>
-   <line>John looks at Todd.</line>
+   <line type="directions">John looks at Todd.</line>
    <line who="John"> Do you believe him?</line>
-   <line>She sighs.</line>
+   <line type="directions">She sighs.</line>
    <line who="Lilly"> I don’t know. I’ve gotta find Eric.</line>
-   <line>Cut to a bar. Eric is sat there having a drink. Lilly walks up next to him and sits down. Eric looks at her and then does a double take as he realises who it is.</line>
+   <line type="directions">Cut to a bar. Eric is sat there having a drink. Lilly walks up next to him and sits down. Eric looks at her and then does a double take as he realises who it is.</line>
    <line who="Lilly"> No meeting tonight, huh?</line>
    <line who="Eric"> Screw the meetings.</line>
-   <line>He nods to the bartender.</line>
+   <line type="directions">He nods to the bartender.</line>
    <line who="Lilly"> (To the bartender) Scotch and soda.</line>
    <line who="Eric"> Look I can’t talk to you. My brother chewed me out the day you came by.</line>
-   <line>Lilly bites her lip.</line>
+   <line type="directions">Lilly bites her lip.</line>
    <line who="Lilly"> Really? ‘Cause he’s been talking to me a lot.</line>
    <line who="Eric"> Yeah well I guess he puts himself in a different category.</line>
    <line who="Lilly"> Oh, he told me about you and Jill. How you were in love with her.</line>
    <line who="Eric"> She was his girlfriend.</line>
-   <line>The bartender hands Lilly her drink. She picks it up.</line>
+   <line type="directions">The bartender hands Lilly her drink. She picks it up.</line>
    <line who="Lilly"> Oh she’d hang around with you when uh...</line>
-   <line>She has a drink.</line>
+   <line type="directions">She has a drink.</line>
    <line who="Lilly"> …no-one was around but drop you at the second Todd showed up.</line>
    <line who="Eric"> Look I already told you that she was like that.</line>
    <line who="Lilly"> And then he found you two together that night.</line>
-   <line>They stare at each other for a beat.</line>
+   <line type="directions">They stare at each other for a beat.</line>
    <line who="Eric"> Look I said that I couldn’t talk to you.</line>
-   <line>He has a drink.</line>
+   <line type="directions">He has a drink.</line>
    <line who="Lilly"> What happened to your letter jacket, Eric?</line>
    <line who="Eric"> I don’t know. (To bartender) Another.</line>
    <line who="Lilly"> I don’t think there’s time for another. I have to arrest you.</line>
-   <line>Eric looks at her.</line>
+   <line type="directions">Eric looks at her.</line>
    <line who="Lilly"> He told me you did it and that you came to him for help afterwards and you two buried the jacket at your aunt’s house.</line>
    <line who="Eric"> Why would I k*ll her?</line>
    <line who="Lilly"> Because she humiliated you. She accused you of watching them.</line>
    <line who="Eric"> Oh my God. So he’s pinning it on me now?</line>
    <line who="Lilly"> It’s his story against yours. And you’re the problem drunk who never got his life together so if you have anything to give me, you should do it now.</line>
    <line who="Eric"> Look he ruined my jacket. He got his blood all over it. Hers too.</line>
-   <line>Lilly stares at him, thinking.</line>
+   <line type="directions">Lilly stares at him, thinking.</line>
    <line who="Lilly"> You didn’t throw it out, did you?</line>
-   <line>He shakes his head.</line>
+   <line type="directions">He shakes his head.</line>
    <line who="Eric"> And Jill didn’t humiliate me. He did.</line>
-   <line>Flashback to Jill and Eric kissing on a bench in the tennis court, the night of the party. Todd walks on to the court wearing Eric’s jacket. He walks behind them and leans in next to Jill’s ear.</line>
+   <line type="directions">Flashback to Jill and Eric kissing on a bench in the tennis court, the night of the party. Todd walks on to the court wearing Eric’s jacket. He walks behind them and leans in next to Jill’s ear.</line>
    <line who="Todd"> Hi gorgeous.</line>
-   <line>Jill jumps up off the bench.</line>
+   <line type="directions">Jill jumps up off the bench.</line>
    <line who="Jill"> Where were you?</line>
    <line who="Todd"> Well you can’t really ask me that.</line>
    <line who="Eric"> That’s my jacket.</line>
-   <line>He stands up.</line>
+   <line type="directions">He stands up.</line>
    <line who="Todd"> So you finally got a taste of her, huh? Now you have something real to jack off to.</line>
    <line who="Jill"> Todd!</line>
    <line who="Todd"> Have you seen him in the window watching us have sex?</line>
-   <line>Jill looks at Eric.</line>
+   <line type="directions">Jill looks at Eric.</line>
    <line who="Eric"> That’s crazy.</line>
    <line who="Todd"> Up in the tree with his hand down his pants.</line>
    <line who="Jill"> Stop. Please.</line>
    <line who="Todd"> Well you’re the one who just screwed him.</line>
    <line who="Jill"> I didn’t screw him. Give me some credit.</line>
-   <line>Todd and Eric both walk towards Jill and she backs away.</line>
+   <line type="directions">Todd and Eric both walk towards Jill and she backs away.</line>
    <line who="Todd"> I saw you all pressed up to him.</line>
    <line who="Jill"> Only because you were off with Melanie.</line>
    <line who="Todd"> Just stop talking.</line>
@@ -776,50 +777,50 @@ More Than a Feeling by Boston plays over the scene.</line>
    <line who="Todd"> b*tch.</line>
    <line who="Eric"> Don’t.</line>
    <line who="Todd"> (To Eric) Shut up! You’re so pathetic.</line>
-   <line>He turns back to Jill.</line>
+   <line type="directions">He turns back to Jill.</line>
    <line who="Jill"> And you’re such a prick.</line>
    <line who="Todd"> You shut your mouth.</line>
    <line who="Jill"> Screw you.</line>
    <line who="Todd"> Hey sl*t! I said shut your mouth!</line>
-   <line>She gives him the finger. He backhands her across the face; she gasps and falls to the ground. She gets up and pushes her into the chain link fence. She falls over and curls up in a ball. He picks the tennis racket up at his feet and hits her repeatedly. Eric stands there watching him, shocked. End of flashback. Resume to present.</line>
-   <line>Cut to Eric in an interview room giving Lilly his statement. Have You Ever Seen the Rain? by Creedence Clearwater Revival plays over the following scenes.</line>
-   <line>Cut to the back garden of Tabitha’s house. Lilly, John and a photographer stand over a man kneeling over a hole in the ground. He pulls out the tennis racket.</line>
+   <line type="directions">She gives him the finger. He backhands her across the face; she gasps and falls to the ground. She gets up and pushes her into the chain link fence. She falls over and curls up in a ball. He picks the tennis racket up at his feet and hits her repeatedly. Eric stands there watching him, shocked. End of flashback. Resume to present.</line>
+   <line type="directions">Cut to Eric in an interview room giving Lilly his statement. Have You Ever Seen the Rain? by Creedence Clearwater Revival plays over the following scenes.</line>
+   <line type="directions">Cut to the back garden of Tabitha’s house. Lilly, John and a photographer stand over a man kneeling over a hole in the ground. He pulls out the tennis racket.</line>
    <line who="Lyrics"> Someone told me long ago</line>
-   <line>Lilly and John look down at the racket covered in blood.</line>
+   <line type="directions">Lilly and John look down at the racket covered in blood.</line>
    <line who="Lyrics"> There’s a calm before the storm I know</line>
-   <line>Cut to Todd in handcuffs being led out of his house by Lilly.</line>
+   <line type="directions">Cut to Todd in handcuffs being led out of his house by Lilly.</line>
    <line who="Lyrics"> It’s been coming for some time / when it’s over so they say / it’ll rain a sunny day I know</line>
-   <line>Cut to outside police headquarters. There are lots of people outside. It’s pouring rain. The car pulls up with Todd in the back. This scene is all in slow motion.</line>
+   <line type="directions">Cut to outside police headquarters. There are lots of people outside. It’s pouring rain. The car pulls up with Todd in the back. This scene is all in slow motion.</line>
    <line who="Lyrics"> Shining down like water</line>
-   <line>Lilly gets out of the car.</line>
+   <line type="directions">Lilly gets out of the car.</line>
    <line who="Lyrics"> I wanna know / have you ever seen the rain?</line>
-   <line>She opens the back door and pulls a young Todd out.</line>
+   <line type="directions">She opens the back door and pulls a young Todd out.</line>
    <line who="Lyrics"> I wanna know / have you ever seen the rain?</line>
-   <line>We see the flash of cameras as reporters take his picture.</line>
+   <line type="directions">We see the flash of cameras as reporters take his picture.</line>
    <line who="Lyrics"> Coming down a sunny day.</line>
-   <line>The camera cuts a little and present day Todd is back. He looks over and sees young Eric being helped out of another car by Chris.</line>
+   <line type="directions">The camera cuts a little and present day Todd is back. He looks over and sees young Eric being helped out of another car by Chris.</line>
    <line who="Lyrics"> Yesterday and days before</line>
-   <line>They walk up to Lilly and Todd and present day Eric is back.</line>
+   <line type="directions">They walk up to Lilly and Todd and present day Eric is back.</line>
    <line who="Lyrics"> Sun is cold and rain is hard I know</line>
-   <line>They lead the brothers into Central.</line>
+   <line type="directions">They lead the brothers into Central.</line>
    <line who="Lyrics"> Been that way for all my time.</line>
-   <line>Lilly looks up at people stood on a little ledge watching the scene holding umbrellas. We see Bonita.</line>
+   <line type="directions">Lilly looks up at people stood on a little ledge watching the scene holding umbrellas. We see Bonita.</line>
    <line who="Lyrics"> Till forever on it goes</line>
-   <line>We go back to Lilly and Chris.</line>
+   <line type="directions">We go back to Lilly and Chris.</line>
    <line who="Lyrics"> Through the circle fast and slow I know</line>
-   <line>When Lilly looks back it is young Bonita watching her.</line>
+   <line type="directions">When Lilly looks back it is young Bonita watching her.</line>
    <line who="Lyrics"> It can’t stop I wonder</line>
-   <line>Lilly continues to lead Todd inside. We see young Melanie watching him.</line>
+   <line type="directions">Lilly continues to lead Todd inside. We see young Melanie watching him.</line>
    <line who="Lyrics"> I wanna know</line>
-   <line>Someone walks in front of her. When they move, older Melanie is back.</line>
+   <line type="directions">Someone walks in front of her. When they move, older Melanie is back.</line>
    <line who="Lyrics"> Have you ever seen the rain? / I wanna know</line>
-   <line>Eric looks through the crowd and sees Evelyn watching him.</line>
+   <line type="directions">Eric looks through the crowd and sees Evelyn watching him.</line>
    <line who="Lyrics"> Have you ever seen the rain? / Coming down a sunny day</line>
-   <line>Lilly hands Todd to a police officer who takes him inside. Lilly looks at the crowd and sees Melanie and Evelyn stood together.</line>
+   <line type="directions">Lilly hands Todd to a police officer who takes him inside. Lilly looks at the crowd and sees Melanie and Evelyn stood together.</line>
    <line who="Lyrics"> I wanna know / Have you ever seen the rain? / I wanna know / Have you ever seen the rain?</line>
-   <line>Lilly looks at another part of the crowd and sees Jill Shelby in the middle of some police officers.</line>
+   <line type="directions">Lilly looks at another part of the crowd and sees Jill Shelby in the middle of some police officers.</line>
    <line who="Lyrics"> Coming down a sunny day</line>
-   <line>Lilly blinks and looks back at her.</line>
-   <line>Fade to Blac</line>
-   <line>End Credits.</line>
+   <line type="directions">Lilly blinks and looks back at her.</line>
+   <line type="directions">Fade to Blac</line>
+   <line type="directions">End Credits.</line>
 </transcript>

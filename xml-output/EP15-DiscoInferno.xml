@@ -1,1028 +1,1029 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNG/TrueCrimeRelaxNG.rnc" type="application/relax-ng-compact-syntax"?>
 <transcript>
-   <line>contest South Philly's ever seen.</line>
-   <line>So get those platforms polished
+   <line type="dialogue">contest South Philly's ever seen.</line>
+   <line type="dialogue">So get those platforms polished
 'cause it's gonna be far out.</line>
-   <line>The Bell's giving one
+   <line type="dialogue">The Bell's giving one
 thousand bucks to the winner.</line>
-   <line>You heard me.
+   <line type="dialogue">You heard me.
 One thousand big ones!</line>
-   <line>Outta sight!</line>
-   <line>Gas and Power guys
+   <line type="dialogue">Outta sight!</line>
+   <line type="dialogue">Gas and Power guys
 were fixing a leak,</line>
-   <line>found partial remains
+   <line type="dialogue">found partial remains
 about six feet down.</line>
-   <line>In an old disco?</line>
-   <line>Was an old disco, The Bell.</line>
-   <line>Off Lansing Boulevard, real eyesore?</line>
-   <line>That's the spot.</line>
-   <line>people were k*lled
+   <line type="dialogue">In an old disco?</line>
+   <line type="dialogue">Was an old disco, The Bell.</line>
+   <line type="dialogue">Off Lansing Boulevard, real eyesore?</line>
+   <line type="dialogue">That's the spot.</line>
+   <line type="dialogue">people were k*lled
 there in a fire, .</line>
-   <line>Ruled as arson.</line>
-   <line>rd was presumed dead,
+   <line type="dialogue">Ruled as arson.</line>
+   <line type="dialogue">rd was presumed dead,
 remains were never found.</line>
-   <line>You thinking this must be the guy?</line>
-   <line>John Doe.</line>
-   <line>That's all that's left of him?</line>
-   <line>Skull's all I need to get an ID.
+   <line type="dialogue">You thinking this must be the guy?</line>
+   <line type="dialogue">John Doe.</line>
+   <line type="dialogue">That's all that's left of him?</line>
+   <line type="dialogue">Skull's all I need to get an ID.
 Man had excellent teeth.</line>
-   <line>If he burned up in the fire, why
+   <line type="dialogue">If he burned up in the fire, why
 didn't we find him back then?</line>
-   <line>Well, apprently he was deep
+   <line type="dialogue">Well, apprently he was deep
 underground where the VIP room was.</line>
-   <line>Plus, what is that?</line>
-   <line>Slug's been rolling
+   <line type="dialogue">Plus, what is that?</line>
+   <line type="dialogue">Slug's been rolling
 around in his brain pan.</line>
-   <line>Right between the eyes.</line>
-   <line>sh**t must have been close up.</line>
-   <line>Can we get rifling off this slug?</line>
-   <line>My guess is it's a . .
+   <line type="dialogue">Right between the eyes.</line>
+   <line type="dialogue">sh**t must have been close up.</line>
+   <line type="dialogue">Can we get rifling off this slug?</line>
+   <line type="dialogue">My guess is it's a . .
 Should have distinct markings.</line>
-   <line>This guy was probably shot
+   <line type="dialogue">This guy was probably shot
 before the fire ever got to him.</line>
-   <line>Well, maybe our doer started
+   <line type="dialogue">Well, maybe our doer started
 the blaze, covered his tracks.</line>
-   <line>Hide one m*rder, cause others.</line>
-   <line>We don't got a cold one here.</line>
-   <line>We got of them.</line>
-   <line>Dental records were conclusive.</line>
-   <line>This is our John Doe.</line>
-   <line>Benjamin Issac Rosen.</line>
-   <line>Twenty-two.</line>
-   <line>I remember the news
+   <line type="dialogue">Hide one m*rder, cause others.</line>
+   <line type="dialogue">We don't got a cold one here.</line>
+   <line type="dialogue">We got of them.</line>
+   <line type="dialogue">Dental records were conclusive.</line>
+   <line type="dialogue">This is our John Doe.</line>
+   <line type="dialogue">Benjamin Issac Rosen.</line>
+   <line type="dialogue">Twenty-two.</line>
+   <line type="dialogue">I remember the news
 coverage of The Bell fire.</line>
-   <line>Cryin' families, burned bodies.</line>
-   <line>Bulldozers come in quick,
+   <line type="dialogue">Cryin' families, burned bodies.</line>
+   <line type="dialogue">Bulldozers come in quick,
 demolish the place?</line>
-   <line>Yeah. What was left standing
+   <line type="dialogue">Yeah. What was left standing
 was considered a safety hazard.</line>
-   <line>So maybe they did a rush
+   <line type="dialogue">So maybe they did a rush
 job finding all the remains.</line>
-   <line>Explains why they didn't find him.</line>
-   <line>You, uh, ever hang out
+   <line type="dialogue">Explains why they didn't find him.</line>
+   <line type="dialogue">You, uh, ever hang out
 at this disco, boss?</line>
-   <line>Oh, not me.</line>
-   <line>But I think Jeffries was a beat
+   <line type="dialogue">Oh, not me.</line>
+   <line type="dialogue">But I think Jeffries was a beat
 cop in South at the time.</line>
-   <line>I wonder what he did Saturday nights.</line>
-   <line>The Bell wasn't just a disco,
+   <line type="dialogue">I wonder what he did Saturday nights.</line>
+   <line type="dialogue">The Bell wasn't just a disco,
 it was the disco.</line>
-   <line>Lines around the block to get in.</line>
-   <line>Lot of feathered hair,
+   <line type="dialogue">Lines around the block to get in.</line>
+   <line type="dialogue">Lot of feathered hair,
 gold chains, polyester...</line>
-   <line>Sounds like you got
+   <line type="dialogue">Sounds like you got
 some familiarity there, Will.</line>
-   <line>I was there once.</line>
-   <line>William Disco Jeffries.</line>
-   <line>Come on, Will, bust a move for us.</line>
-   <line>Yeah, do the hustle, baby.</line>
-   <line>You know, if it's all the
+   <line type="dialogue">I was there once.</line>
+   <line type="dialogue">William Disco Jeffries.</line>
+   <line type="dialogue">Come on, Will, bust a move for us.</line>
+   <line type="dialogue">Yeah, do the hustle, baby.</line>
+   <line type="dialogue">You know, if it's all the
 same, I'd rather not.</line>
-   <line>Those were regrettable times.</line>
-   <line>The arson report says the
+   <line type="dialogue">Those were regrettable times.</line>
+   <line type="dialogue">The arson report says the
 blaze started in the White Room.</line>
-   <line>Do you know what that was?</line>
-   <line>VIP lounge, where all the
+   <line type="dialogue">Do you know what that was?</line>
+   <line type="dialogue">VIP lounge, where all the
 cocaine was snorted.</line>
-   <line>And where's Ben Rosen's
+   <line type="dialogue">And where's Ben Rosen's
 remains were found.</line>
-   <line>So, maybe he started the fire.
+   <line type="dialogue">So, maybe he started the fire.
 - Right after he got shot in the face.</line>
-   <line>That's a point.</line>
-   <line>So who was with Ben
+   <line type="dialogue">That's a point.</line>
+   <line type="dialogue">So who was with Ben
 in the White Room?</line>
-   <line>Chief suspect in the arson
+   <line type="dialogue">Chief suspect in the arson
 was the owner of the place.</line>
-   <line>Neil Chaney.</line>
-   <line>Torched his own club
+   <line type="dialogue">Neil Chaney.</line>
+   <line type="dialogue">Torched his own club
 for the insurance?</line>
-   <line>You'd think he'd wait
+   <line type="dialogue">You'd think he'd wait
 till after hours.</line>
-   <line>Looks like they dug, but
+   <line type="dialogue">Looks like they dug, but
 didn't get far with that theory.</line>
-   <line>We got partial rifling
+   <line type="dialogue">We got partial rifling
 on the b*llet.</line>
-   <line>It was a . . / Good
+   <line type="dialogue">It was a . . / Good
 enough to find a match?</line>
-   <line>Yep. We find the g*n
+   <line type="dialogue">Yep. We find the g*n
 that matches this slug,</line>
-   <line>could lead us to the doer.</line>
-   <line>I'd call that new direction.</line>
-   <line>Vera, Disco Will, have a
+   <line type="dialogue">could lead us to the doer.</line>
+   <line type="dialogue">I'd call that new direction.</line>
+   <line type="dialogue">Vera, Disco Will, have a
 conversation with Neil Chaney.</line>
-   <line>Meantime...
+   <line type="dialogue">Meantime...
 - We'll go to the Rosens.</line>
-   <line>You found Benny,
+   <line type="dialogue">You found Benny,
 after all these years?</line>
-   <line>I always hoped, prayed, he got
+   <line type="dialogue">I always hoped, prayed, he got
 out of that conflagration somehow.</line>
-   <line>Ran away or something.</line>
-   <line>Foolish. I know.</line>
-   <line>Benny lived at home with you?</line>
-   <line>He was going to go to dental school.</line>
-   <line>Top of his class.</line>
-   <line>Smart. Sweet.</line>
-   <line>He have any enemies you know of?</line>
-   <line>I thought he died in the fire.</line>
-   <line>I'm afraid he was m*rder*d,
+   <line type="dialogue">Ran away or something.</line>
+   <line type="dialogue">Foolish. I know.</line>
+   <line type="dialogue">Benny lived at home with you?</line>
+   <line type="dialogue">He was going to go to dental school.</line>
+   <line type="dialogue">Top of his class.</line>
+   <line type="dialogue">Smart. Sweet.</line>
+   <line type="dialogue">He have any enemies you know of?</line>
+   <line type="dialogue">I thought he died in the fire.</line>
+   <line type="dialogue">I'm afraid he was m*rder*d,
 Mrs. Rogen, before the fire started.</line>
-   <line>m*rder*d?</line>
-   <line>Was he in any kind of trouble?</line>
-   <line>How should we know?</line>
-   <line>Benny was an open book before he
+   <line type="dialogue">m*rder*d?</line>
+   <line type="dialogue">Was he in any kind of trouble?</line>
+   <line type="dialogue">How should we know?</line>
+   <line type="dialogue">Benny was an open book before he
 started playing that so-called music.</line>
-   <line>After, he shut us out.</line>
-   <line>He knew we disapproved.</line>
-   <line>Why shouldn't I have disapproved?</line>
-   <line>That disco ruined his life.</line>
-   <line>We, uh, kept some of
+   <line type="dialogue">After, he shut us out.</line>
+   <line type="dialogue">He knew we disapproved.</line>
+   <line type="dialogue">Why shouldn't I have disapproved?</line>
+   <line type="dialogue">That disco ruined his life.</line>
+   <line type="dialogue">We, uh, kept some of
 his things in his room.</line>
-   <line>Maybe you'd like to see?</line>
-   <line>Salutatorian of
+   <line type="dialogue">Maybe you'd like to see?</line>
+   <line type="dialogue">Salutatorian of
 his high school class.</line>
-   <line>Adorable, right?</line>
-   <line>There something you
+   <line type="dialogue">Adorable, right?</line>
+   <line type="dialogue">There something you
 wanna tell us, Myra?</line>
-   <line>Something you didn't want
+   <line type="dialogue">Something you didn't want
 your husband to hear?</line>
-   <line>No, of course not.</line>
-   <line>Cause I got the feeling there was.</line>
-   <line>We know this is difficult.</line>
-   <line>Doesn't have to leave this room.</line>
-   <line>There was something.</line>
-   <line>It's something I never told my husband.</line>
-   <line>What was that?</line>
-   <line>I came home from temple early
+   <line type="dialogue">No, of course not.</line>
+   <line type="dialogue">Cause I got the feeling there was.</line>
+   <line type="dialogue">We know this is difficult.</line>
+   <line type="dialogue">Doesn't have to leave this room.</line>
+   <line type="dialogue">There was something.</line>
+   <line type="dialogue">It's something I never told my husband.</line>
+   <line type="dialogue">What was that?</line>
+   <line type="dialogue">I came home from temple early
 one night, on account of my arthritis.</line>
-   <line>This was a week before the fire.</line>
-   <line>And, uh...</line>
-   <line>I saw them together.</line>
-   <line>My Benny, and a shiksa.</line>
-   <line>Like you.</line>
-   <line>Mmm, not here, baby. / Come on.
+   <line type="dialogue">This was a week before the fire.</line>
+   <line type="dialogue">And, uh...</line>
+   <line type="dialogue">I saw them together.</line>
+   <line type="dialogue">My Benny, and a shiksa.</line>
+   <line type="dialogue">Like you.</line>
+   <line type="dialogue">Mmm, not here, baby. / Come on.
 My folks won't be back for hours.</line>
-   <line>But if we want to win this
+   <line type="dialogue">But if we want to win this
 competition, we got to practice.</line>
-   <line>I don't got the rhythm like you do.</line>
-   <line>You got it where it counts, baby.
+   <line type="dialogue">I don't got the rhythm like you do.</line>
+   <line type="dialogue">You got it where it counts, baby.
 You're far out.</line>
-   <line>When you gonna tell your
+   <line type="dialogue">When you gonna tell your
 parents we're engaged?</line>
-   <line>Soon.</line>
-   <line>You are such a foxy mama.</line>
-   <line>Benny...</line>
-   <line>Hey, you know I wanna marry you,</line>
-   <line>spend my whole life
+   <line type="dialogue">Soon.</line>
+   <line type="dialogue">You are such a foxy mama.</line>
+   <line type="dialogue">Benny...</line>
+   <line type="dialogue">Hey, you know I wanna marry you,</line>
+   <line type="dialogue">spend my whole life
 dancing with you.</line>
-   <line>We don't have to make it
+   <line type="dialogue">We don't have to make it
 now if you don't want to.</line>
-   <line>We'll practice,
+   <line type="dialogue">We'll practice,
 then we'll make it, huh?</line>
-   <line>I love you, hot stuff.</line>
-   <line>They were in love.</line>
-   <line>At least my Benny had
+   <line type="dialogue">I love you, hot stuff.</line>
+   <line type="dialogue">They were in love.</line>
+   <line type="dialogue">At least my Benny had
 that before he died.</line>
-   <line>Did Benny ever talk about
+   <line type="dialogue">Did Benny ever talk about
 his wedding plans?</line>
-   <line>He was probably afraid to.
+   <line type="dialogue">He was probably afraid to.
 His father would have hit the roof.</line>
-   <line>You know what happened
+   <line type="dialogue">You know what happened
 to this girl, Sonya?</line>
-   <line>She got burned in the fire.</line>
-   <line>I visited her once
+   <line type="dialogue">She got burned in the fire.</line>
+   <line type="dialogue">I visited her once
 at Saint Ignatius,</line>
-   <line>Never knew I was there.</line>
-   <line>And your husband still
+   <line type="dialogue">Never knew I was there.</line>
+   <line type="dialogue">And your husband still
 doesn't know about her?</line>
-   <line>He needs more heartache?</line>
-   <line>It's bad enough feeling his son
+   <line type="dialogue">He needs more heartache?</line>
+   <line type="dialogue">It's bad enough feeling his son
 betrayed him over disco.</line>
-   <line>Sonya Witkowski?</line>
-   <line>Yes.</line>
-   <line>Detectives Rush and Valens.</line>
-   <line>We're here about Benjamin Rosen.</line>
-   <line>Benny?</line>
-   <line>I'll be right back.</line>
-   <line>I lost Benny in The Bell fire.</line>
-   <line>Part of his remains were
+   <line type="dialogue">Sonya Witkowski?</line>
+   <line type="dialogue">Yes.</line>
+   <line type="dialogue">Detectives Rush and Valens.</line>
+   <line type="dialogue">We're here about Benjamin Rosen.</line>
+   <line type="dialogue">Benny?</line>
+   <line type="dialogue">I'll be right back.</line>
+   <line type="dialogue">I lost Benny in The Bell fire.</line>
+   <line type="dialogue">Part of his remains were
 recently found, Sonya.</line>
-   <line>It appears he was k*lled
+   <line type="dialogue">It appears he was k*lled
 before the fire started.</line>
-   <line>Someone k*lled him?</line>
-   <line>I'm afraid so.</line>
-   <line>We understand you two were engaged.</line>
-   <line>We were gonna get married
+   <line type="dialogue">Someone k*lled him?</line>
+   <line type="dialogue">I'm afraid so.</line>
+   <line type="dialogue">We understand you two were engaged.</line>
+   <line type="dialogue">We were gonna get married
 after the dance competition.</line>
-   <line>That was such a long time ago.</line>
-   <line>Was there anything unusual going on
+   <line type="dialogue">That was such a long time ago.</line>
+   <line type="dialogue">Was there anything unusual going on
 in Benny's life, right around then?</line>
-   <line>Fights? A threat?</line>
-   <line>No. I mean...</line>
-   <line>You sure he was m*rder*d?</line>
-   <line>Anything you can tell
+   <line type="dialogue">Fights? A threat?</line>
+   <line type="dialogue">No. I mean...</line>
+   <line type="dialogue">You sure he was m*rder*d?</line>
+   <line type="dialogue">Anything you can tell
 us could really help.</line>
-   <line>A couple of days before
+   <line type="dialogue">A couple of days before
 the dance contest,</line>
-   <line>I got there early to practice...</line>
-   <line>Hey, foxy mama, let's hustle.</line>
-   <line>What did Chaney want?</line>
-   <line>Nothing.</line>
-   <line>Didn't look like nothing.
+   <line type="dialogue">I got there early to practice...</line>
+   <line type="dialogue">Hey, foxy mama, let's hustle.</line>
+   <line type="dialogue">What did Chaney want?</line>
+   <line type="dialogue">Nothing.</line>
+   <line type="dialogue">Didn't look like nothing.
 - Are we talking or are we dancing?</line>
-   <line>You deal blow for Chaney,
+   <line type="dialogue">You deal blow for Chaney,
 Benny, I'll dump your a*s.</line>
-   <line>I'm not dealin' blow.</line>
-   <line>I swear.</line>
-   <line>You wouldn't lie to me?</line>
-   <line>I'd rather die.</line>
-   <line>Hey, after we win that
+   <line type="dialogue">I'm not dealin' blow.</line>
+   <line type="dialogue">I swear.</line>
+   <line type="dialogue">You wouldn't lie to me?</line>
+   <line type="dialogue">I'd rather die.</line>
+   <line type="dialogue">Hey, after we win that
 thousand bucks, baby,</line>
-   <line>We'll go to the Manhattan,</line>
-   <line>get married at Studio .</line>
-   <line>We gotta win first.</line>
-   <line>We'll win. You're the best
+   <line type="dialogue">We'll go to the Manhattan,</line>
+   <line type="dialogue">get married at Studio .</line>
+   <line type="dialogue">We gotta win first.</line>
+   <line type="dialogue">We'll win. You're the best
 disco dancer in Philly.</line>
-   <line>Philly? Is that all?</line>
-   <line>In America. The whole world.</line>
-   <line>He was the love of my life,
+   <line type="dialogue">Philly? Is that all?</line>
+   <line type="dialogue">In America. The whole world.</line>
+   <line type="dialogue">He was the love of my life,
 you know?</line>
-   <line>The real deal.</line>
-   <line>What were Benny and
+   <line type="dialogue">The real deal.</line>
+   <line type="dialogue">What were Benny and
 Mr. Chaney fighting about?</line>
-   <line>I don't know.</line>
-   <line>Benny used to give private dance
+   <line type="dialogue">I don't know.</line>
+   <line type="dialogue">Benny used to give private dance
 lessons to some of Chaney's clients,</line>
-   <line>but it seemed like
+   <line type="dialogue">but it seemed like
 something more serious.</line>
-   <line>Are you sure it ain't possible
+   <line type="dialogue">Are you sure it ain't possible
 Benny was dealing for him?</line>
-   <line>He said he wasn't.</line>
-   <line>On the off chance that he was, Sonya,</line>
-   <line>you think Chaney was the kind of
+   <line type="dialogue">He said he wasn't.</line>
+   <line type="dialogue">On the off chance that he was, Sonya,</line>
+   <line type="dialogue">you think Chaney was the kind of
 man who could m*rder someone?</line>
-   <line>I know he had a g*n.</line>
-   <line>Used to show it off,
+   <line type="dialogue">I know he had a g*n.</line>
+   <line type="dialogue">Used to show it off,
 like some kind of big shot.</line>
-   <line>We're still looking for Neil Chaney,
+   <line type="dialogue">We're still looking for Neil Chaney,
 but he did have a permit for a . .</line>
-   <line>Which he fired in ' .
+   <line type="dialogue">Which he fired in ' .
 Shot a burglar at The Bell.</line>
-   <line>A year before Benny was shot.
+   <line type="dialogue">A year before Benny was shot.
 - File's coming over from South.</line>
-   <line>We find the slug
+   <line type="dialogue">We find the slug
 he shot at the burglar,</line>
-   <line>match it to the one
+   <line type="dialogue">match it to the one
 we got on this job...</line>
-   <line>Makes Chaney a good bet for the doer.</line>
-   <line>We're talking about finding a b*llet
+   <line type="dialogue">Makes Chaney a good bet for the doer.</line>
+   <line type="dialogue">We're talking about finding a b*llet
 fired years ago from a g*n</line>
-   <line>we don't even know exists anymore.</line>
-   <line>Registered to a man we can't find.</line>
-   <line>Yeah.</line>
-   <line>The word "longshot" comes to mind.</line>
-   <line>We like a challenge.</line>
-   <line>Well, you got one.</line>
-   <line>File from South IDs this guy
+   <line type="dialogue">we don't even know exists anymore.</line>
+   <line type="dialogue">Registered to a man we can't find.</line>
+   <line type="dialogue">Yeah.</line>
+   <line type="dialogue">The word "longshot" comes to mind.</line>
+   <line type="dialogue">We like a challenge.</line>
+   <line type="dialogue">Well, you got one.</line>
+   <line type="dialogue">File from South IDs this guy
 Chaney shot as Mark Rigley.</line>
-   <line>Tried to rob a disco at closing.
+   <line type="dialogue">Tried to rob a disco at closing.
 Chaney popped him.</line>
-   <line>sh**ting was ruled self-defense.</line>
-   <line>Maybe Rigley knows what
+   <line type="dialogue">sh**ting was ruled self-defense.</line>
+   <line type="dialogue">Maybe Rigley knows what
 happened to the slug.</line>
-   <line>He doin' time someplace?</line>
-   <line>Uh-uh. Custodial detail at
+   <line type="dialogue">He doin' time someplace?</line>
+   <line type="dialogue">Uh-uh. Custodial detail at
 the River Rink, Penn's Landing.</line>
-   <line>Know how we been having
+   <line type="dialogue">Know how we been having
 trouble findin' Chaney?</line>
-   <line>It's 'cause County's six months
+   <line type="dialogue">It's 'cause County's six months
 behind processing death certificates.</line>
-   <line>Chaney's dead?</line>
-   <line>Three months ago.
+   <line type="dialogue">Chaney's dead?</line>
+   <line type="dialogue">Three months ago.
 Cirrhosis of the liver.</line>
-   <line>Crap.</line>
-   <line>So what?
+   <line type="dialogue">Crap.</line>
+   <line type="dialogue">So what?
 We still have unsolved murders.</line>
-   <line>We can't talk to the father,
+   <line type="dialogue">We can't talk to the father,
 we'll settle for the son.</line>
-   <line>He's not dead, is he?</line>
-   <line>No. Paul Chaney owns
+   <line type="dialogue">He's not dead, is he?</line>
+   <line type="dialogue">No. Paul Chaney owns
 a shop in Center City.</line>
-   <line>Good.</line>
-   <line>Out on the street, boss.</line>
-   <line>Excuse me just one second.
+   <line type="dialogue">Good.</line>
+   <line type="dialogue">Out on the street, boss.</line>
+   <line type="dialogue">Excuse me just one second.
 Enjoy yourselves.</line>
-   <line>Whassup, folks?</line>
-   <line>You want a pipe?</line>
-   <line>Depends what's in it.</line>
-   <line>Tobacco, the new marijuana.</line>
-   <line>That's far out, Paul.</line>
-   <line>Tobacco's legal, remember?</line>
-   <line>Hey, you wanna check
+   <line type="dialogue">Whassup, folks?</line>
+   <line type="dialogue">You want a pipe?</line>
+   <line type="dialogue">Depends what's in it.</line>
+   <line type="dialogue">Tobacco, the new marijuana.</line>
+   <line type="dialogue">That's far out, Paul.</line>
+   <line type="dialogue">Tobacco's legal, remember?</line>
+   <line type="dialogue">Hey, you wanna check
 the pipes, be my guest.</line>
-   <line>We ain't narcs.
+   <line type="dialogue">We ain't narcs.
 - We're homicide.</line>
-   <line>Homicide?</line>
-   <line>What do you want with me?</line>
-   <line>Your father.
+   <line type="dialogue">Homicide?</line>
+   <line type="dialogue">What do you want with me?</line>
+   <line type="dialogue">Your father.
 He had a permit for a . .</line>
-   <line>We thought you might know
+   <line type="dialogue">We thought you might know
 where that g*n is now.</line>
-   <line>Uh, excuse me. You mind just
+   <line type="dialogue">Uh, excuse me. You mind just
 stepping over here for a second?</line>
-   <line>Why? What's this about?</line>
-   <line>The Bell.</line>
-   <line>A man was k*lled there that
+   <line type="dialogue">Why? What's this about?</line>
+   <line type="dialogue">The Bell.</line>
+   <line type="dialogue">A man was k*lled there that
 night before the fire broke out.</line>
-   <line>And you want to pin it on my old
+   <line type="dialogue">And you want to pin it on my old
 man who's trying to rest in peace?</line>
-   <line>We're trying to solve a m*rder.
+   <line type="dialogue">We're trying to solve a m*rder.
 - Don't you mean murders?</line>
-   <line>I been through this a hundred times.</line>
-   <line>Everybody blamed my dad for it.</line>
-   <line>That's why he drank himself to death.</line>
-   <line>You don't think he was responsible?</line>
-   <line>My father loved The Bell.</line>
-   <line>The idea of his torching
+   <line type="dialogue">I been through this a hundred times.</line>
+   <line type="dialogue">Everybody blamed my dad for it.</line>
+   <line type="dialogue">That's why he drank himself to death.</line>
+   <line type="dialogue">You don't think he was responsible?</line>
+   <line type="dialogue">My father loved The Bell.</line>
+   <line type="dialogue">The idea of his torching
 it is just craziness.</line>
-   <line>So what about that . , Paul?</line>
-   <line>I threw it into the Delaware,
+   <line type="dialogue">So what about that . , Paul?</line>
+   <line type="dialogue">I threw it into the Delaware,
 like, a decade ago.</line>
-   <line>I was worried my dad was
+   <line type="dialogue">I was worried my dad was
 going to turn it on himself.</line>
-   <line>You remember a guy
+   <line type="dialogue">You remember a guy
 named Benny Rosen?</line>
-   <line>Yeah, yeah, sure.
+   <line type="dialogue">Yeah, yeah, sure.
 Benny the Rose.</line>
-   <line>Everybody knew him.</line>
-   <line>Someone k*lled him that night.</line>
-   <line>Shot him.</line>
-   <line>No.</line>
-   <line>Well, come on.
+   <line type="dialogue">Everybody knew him.</line>
+   <line type="dialogue">Someone k*lled him that night.</line>
+   <line type="dialogue">Shot him.</line>
+   <line type="dialogue">No.</line>
+   <line type="dialogue">Well, come on.
 It wasn't my dad.</line>
-   <line>I was by his side the whole
+   <line type="dialogue">I was by his side the whole
 night, at the judge's table.</line>
-   <line>Who else at that disco
+   <line type="dialogue">Who else at that disco
 had it in for Benny?</line>
-   <line>Benny was king.</line>
-   <line>People worshipped him.
+   <line type="dialogue">Benny was king.</line>
+   <line type="dialogue">People worshipped him.
 'Specially the women.</line>
-   <line>The guy was a real Don Juan stein.</line>
-   <line>He caught up in any
+   <line type="dialogue">The guy was a real Don Juan stein.</line>
+   <line type="dialogue">He caught up in any
 romantic triangles?</line>
-   <line>Nah, ha got a serious girl.</line>
-   <line>But you know, them two
+   <line type="dialogue">Nah, ha got a serious girl.</line>
+   <line type="dialogue">But you know, them two
 had a fight that day.</line>
-   <line>Now I know about this 'cause I was
+   <line type="dialogue">Now I know about this 'cause I was
 doing something you might think unsavory,</line>
-   <line>but try to remember, I was
+   <line type="dialogue">but try to remember, I was
 just a horny kid at the time.</line>
-   <line>Oh, yeah,</line>
-   <line>do it for me, foxy fox.</line>
-   <line>This is the ladies room, Benny.
+   <line type="dialogue">Oh, yeah,</line>
+   <line type="dialogue">do it for me, foxy fox.</line>
+   <line type="dialogue">This is the ladies room, Benny.
 Get the hell out! / Sonya, don't cry.</line>
-   <line>You're a jerk, you know?</line>
-   <line>I'm just having second thoughts
+   <line type="dialogue">You're a jerk, you know?</line>
+   <line type="dialogue">I'm just having second thoughts
 about eloping. / Yeah, yeah.</line>
-   <line>It's putting too much
+   <line type="dialogue">It's putting too much
 pressure on winning.</line>
-   <line>I don't want it to effect our dancing.</line>
-   <line>You don't wanna elope 'cause
+   <line type="dialogue">I don't want it to effect our dancing.</line>
+   <line type="dialogue">You don't wanna elope 'cause
 you're afraid to marry a shiksa.</line>
-   <line>That ain't true.</line>
-   <line>I thought you said you'd rather did than
+   <line type="dialogue">That ain't true.</line>
+   <line type="dialogue">I thought you said you'd rather did than
 lie to me? / You know how my father is.</line>
-   <line>It's , for God's sake.
+   <line type="dialogue">It's , for God's sake.
 We can do what we want.</line>
-   <line>I know, but he'd k*ll me.</line>
-   <line>Well, waiting is k*lling me.</line>
-   <line>So you got a choice to make.
+   <line type="dialogue">I know, but he'd k*ll me.</line>
+   <line type="dialogue">Well, waiting is k*lling me.</line>
+   <line type="dialogue">So you got a choice to make.
 It's either him or me.</line>
-   <line>I should k*ll you,
+   <line type="dialogue">I should k*ll you,
 making a sl*t out of me.</line>
-   <line>I was a virgin before I met you!</line>
-   <line>Oh, men, what an idiot that guy was.
+   <line type="dialogue">I was a virgin before I met you!</line>
+   <line type="dialogue">Oh, men, what an idiot that guy was.
 Turning away a piece of a*s like that?</line>
-   <line>Believe me, I wouldn't have.</line>
-   <line>I believe you, Paul.</line>
-   <line>Mark Rigley?</line>
-   <line>Who's askin'?
+   <line type="dialogue">Believe me, I wouldn't have.</line>
+   <line type="dialogue">I believe you, Paul.</line>
+   <line type="dialogue">Mark Rigley?</line>
+   <line type="dialogue">Who's askin'?
 - Philly P.D.</line>
-   <line>Your parole officer said
+   <line type="dialogue">Your parole officer said
 we might find you here.</line>
-   <line>My crummy boss telling lies again?</line>
-   <line>What?</line>
-   <line>This is about him and that
+   <line type="dialogue">My crummy boss telling lies again?</line>
+   <line type="dialogue">What?</line>
+   <line type="dialogue">This is about him and that
 borrowed car incident, right?</line>
-   <line>That was two months ago.</line>
-   <line>It was an emergency.
+   <line type="dialogue">That was two months ago.</line>
+   <line type="dialogue">It was an emergency.
 - No, it's not about that.</line>
-   <line>Just walkin' the straight
+   <line type="dialogue">Just walkin' the straight
 and narrow here, man.</line>
-   <line>Pushing a broom for minimun wage.</line>
-   <line>Mark, in you were
+   <line type="dialogue">Pushing a broom for minimun wage.</line>
+   <line type="dialogue">Mark, in you were
 shot at The Bell disco?</line>
-   <line>Yeah. So?</line>
-   <line>We were kinda hoping that you kept that
+   <line type="dialogue">Yeah. So?</line>
+   <line type="dialogue">We were kinda hoping that you kept that
 slug maybe as a suvenior or something.</line>
-   <line>We're trying to match it to
+   <line type="dialogue">We're trying to match it to
 a b*llet on another case.</line>
-   <line>You bet I know where that slug is.</line>
-   <line>Right here.
+   <line type="dialogue">You bet I know where that slug is.</line>
+   <line type="dialogue">Right here.
 For years.</line>
-   <line>Sets off metal detectors like crazy.</line>
-   <line>The docs couldn't take it out?</line>
-   <line>Not back then.
+   <line type="dialogue">Sets off metal detectors like crazy.</line>
+   <line type="dialogue">The docs couldn't take it out?</line>
+   <line type="dialogue">Not back then.
 Maybe now, modern medicine.</line>
-   <line>You'd be willing to give it a go?</line>
-   <line>I'm civic-minded.</line>
-   <line>There's nothing I wouldn't
+   <line type="dialogue">You'd be willing to give it a go?</line>
+   <line type="dialogue">I'm civic-minded.</line>
+   <line type="dialogue">There's nothing I wouldn't
 do to assist Philly's finest.</line>
-   <line>Course, Philly's finest gotta assist me.</line>
-   <line>Assist how?</line>
-   <line>How much you think it's
+   <line type="dialogue">Course, Philly's finest gotta assist me.</line>
+   <line type="dialogue">Assist how?</line>
+   <line type="dialogue">How much you think it's
 worth going under the knife?</line>
-   <line>A couple grand?</line>
-   <line>That's mighty civic-minded of you, Mark.</line>
-   <line>Capitalism made this
+   <line type="dialogue">A couple grand?</line>
+   <line type="dialogue">That's mighty civic-minded of you, Mark.</line>
+   <line type="dialogue">Capitalism made this
 country great, my friend.</line>
-   <line>That two grand?</line>
-   <line>That ain't gonna happen.</line>
-   <line>Then no deal.</line>
-   <line>You guys wanna buy my a*s
+   <line type="dialogue">That two grand?</line>
+   <line type="dialogue">That ain't gonna happen.</line>
+   <line type="dialogue">Then no deal.</line>
+   <line type="dialogue">You guys wanna buy my a*s
 b*llet, you know where I work.</line>
-   <line>You lied to us, Sonya.</line>
-   <line>Lied?</line>
-   <line>You said you and Benny
+   <line type="dialogue">You lied to us, Sonya.</line>
+   <line type="dialogue">Lied?</line>
+   <line type="dialogue">You said you and Benny
 were gettin' married,</line>
-   <line>but you broke up with him that night.</line>
-   <line>In the ladies room.</line>
-   <line>No.</line>
-   <line>I mean,</line>
-   <line>we would have worked it out.</line>
-   <line>I should k*ll you,
+   <line type="dialogue">but you broke up with him that night.</line>
+   <line type="dialogue">In the ladies room.</line>
+   <line type="dialogue">No.</line>
+   <line type="dialogue">I mean,</line>
+   <line type="dialogue">we would have worked it out.</line>
+   <line type="dialogue">I should k*ll you,
 makin' a sl*t outta me."</line>
-   <line>Two hours later, Benny ends
+   <line type="dialogue">Two hours later, Benny ends
 up with a b*llet in his head.</line>
-   <line>Benny was the love of my life.</line>
-   <line>How do you know what I said, anyway?</line>
-   <line>Where were you when
+   <line type="dialogue">Benny was the love of my life.</line>
+   <line type="dialogue">How do you know what I said, anyway?</line>
+   <line type="dialogue">Where were you when
 the fire started, Sonya?</line>
-   <line>On the floor.</line>
-   <line>It was Doreen blabbin', wasn't it?</line>
-   <line>That nosy b*tch knew
+   <line type="dialogue">On the floor.</line>
+   <line type="dialogue">It was Doreen blabbin', wasn't it?</line>
+   <line type="dialogue">That nosy b*tch knew
 everything 'bout everything.</line>
-   <line>Who's Doreen?</line>
-   <line>Doreen Di Nova.</line>
-   <line>Had a real thing for Benny.</line>
-   <line>Always trying to steal him for me.
+   <line type="dialogue">Who's Doreen?</line>
+   <line type="dialogue">Doreen Di Nova.</line>
+   <line type="dialogue">Had a real thing for Benny.</line>
+   <line type="dialogue">Always trying to steal him for me.
 - That right?</line>
-   <line>She was competitive
+   <line type="dialogue">She was competitive
 with me over everything.</line>
-   <line>Benny, dancing, you name it.</line>
-   <line>She in the dance contest that night?</line>
-   <line>Yeah. Her and her partner Ken
+   <line type="dialogue">Benny, dancing, you name it.</line>
+   <line type="dialogue">She in the dance contest that night?</line>
+   <line type="dialogue">Yeah. Her and her partner Ken
 were our main competition.</line>
-   <line>She would have done anything to win.</line>
-   <line>Last chance for a practice dance.</line>
-   <line>One hour till starting time.</line>
-   <line>You heard of me, baby, one hour.</line>
-   <line>Oh, my heels.</line>
-   <line>That's okay.
+   <line type="dialogue">She would have done anything to win.</line>
+   <line type="dialogue">Last chance for a practice dance.</line>
+   <line type="dialogue">One hour till starting time.</line>
+   <line type="dialogue">You heard of me, baby, one hour.</line>
+   <line type="dialogue">Oh, my heels.</line>
+   <line type="dialogue">That's okay.
 I got another pair.</line>
-   <line>Come on, Benny.
+   <line type="dialogue">Come on, Benny.
 Dance with me.</line>
-   <line>No. I got a partner.
+   <line type="dialogue">No. I got a partner.
 - It's not too late to switch.</line>
-   <line>We won last year. We
+   <line type="dialogue">We won last year. We
 could do it again this year.</line>
-   <line>I'm with Sonya now, Doreen.
+   <line type="dialogue">I'm with Sonya now, Doreen.
 - I'm better than her.¡¡¡¡¡¡¡¡¡¡</line>
-   <line>That don't matter.
+   <line type="dialogue">That don't matter.
 I love Sonya.</line>
-   <line>And I love Kenny.
+   <line type="dialogue">And I love Kenny.
 But you and me, we could go places,</line>
-   <line>Manhattan and the like.</line>
-   <line>Get it outta your head.</line>
-   <line>It's not gonna happen.</line>
-   <line>Hey, Doreen.</line>
-   <line>Got your headlights on, I see.</line>
-   <line>Why you got to be so selfish, Sonya?</line>
-   <line>You already got Benny in the sack.</line>
-   <line>Why can't I have him
+   <line type="dialogue">Manhattan and the like.</line>
+   <line type="dialogue">Get it outta your head.</line>
+   <line type="dialogue">It's not gonna happen.</line>
+   <line type="dialogue">Hey, Doreen.</line>
+   <line type="dialogue">Got your headlights on, I see.</line>
+   <line type="dialogue">Why you got to be so selfish, Sonya?</line>
+   <line type="dialogue">You already got Benny in the sack.</line>
+   <line type="dialogue">Why can't I have him
 on the dance floor?</line>
-   <line>Why should I?</line>
-   <line>Cause you can't keep
+   <line type="dialogue">Why should I?</line>
+   <line type="dialogue">Cause you can't keep
 up with him and I can.</line>
-   <line>I ain't heard no complaints.
+   <line type="dialogue">I ain't heard no complaints.
 - I ain't made any.¡¡¡¡¡¡¡¡¡¡</line>
-   <line>Fine, be that way.</line>
-   <line>You're not gonna be
+   <line type="dialogue">Fine, be that way.</line>
+   <line type="dialogue">You're not gonna be
 the king forever, Benny.</line>
-   <line>A lot could happen between
+   <line type="dialogue">A lot could happen between
 now and the contest.</line>
-   <line>What is that supposed to mean?</line>
-   <line>It means I'm going
+   <line type="dialogue">What is that supposed to mean?</line>
+   <line type="dialogue">It means I'm going
 home wearing that tiara.</line>
-   <line>Problem, baby?
+   <line type="dialogue">Problem, baby?
 - No, there's no problem here.</line>
-   <line>Come on, hot stuff.
+   <line type="dialogue">Come on, hot stuff.
 You're too foxy to fight.</line>
-   <line>Polack.
+   <line type="dialogue">Polack.
 - sl*t.</line>
-   <line>A lot could happen between
+   <line type="dialogue">A lot could happen between
 now and the contest."</line>
-   <line>And that's a quote.
+   <line type="dialogue">And that's a quote.
 - You think it was a threat?</line>
-   <line>I just know she was dying to be
+   <line type="dialogue">I just know she was dying to be
 dancing queen two years running.</line>
-   <line>Doreen Di Nova?
+   <line type="dialogue">Doreen Di Nova?
 - Yeah?</line>
-   <line>We need to talk to you
+   <line type="dialogue">We need to talk to you
 about Benny Rosen.</line>
-   <line>Benny the Rose? Ooh.</line>
-   <line>That's a blast from the past.</line>
-   <line>You remember threatening him?</line>
-   <line>What?</line>
-   <line>Gloria, hang on a second.</line>
-   <line>I need a smoke.</line>
-   <line>You been talking to
+   <line type="dialogue">Benny the Rose? Ooh.</line>
+   <line type="dialogue">That's a blast from the past.</line>
+   <line type="dialogue">You remember threatening him?</line>
+   <line type="dialogue">What?</line>
+   <line type="dialogue">Gloria, hang on a second.</line>
+   <line type="dialogue">I need a smoke.</line>
+   <line type="dialogue">You been talking to
 Sonya, huh? Right?</line>
-   <line>She a fatty now or what?</line>
-   <line>You make good on that threat, Doreen?
+   <line type="dialogue">She a fatty now or what?</line>
+   <line type="dialogue">You make good on that threat, Doreen?
 - 'Cause Benny was m*rder*d that night.</line>
-   <line>Oh, yeah? Well, that's news to me.</line>
-   <line>Where were you when the fire started?</line>
-   <line>On the floor, with my partner Ken.</line>
-   <line>What, did Sonya tell you I whacked Benny?</line>
-   <line>You denying you made a threat?</line>
-   <line>I might have said
+   <line type="dialogue">Oh, yeah? Well, that's news to me.</line>
+   <line type="dialogue">Where were you when the fire started?</line>
+   <line type="dialogue">On the floor, with my partner Ken.</line>
+   <line type="dialogue">What, did Sonya tell you I whacked Benny?</line>
+   <line type="dialogue">You denying you made a threat?</line>
+   <line type="dialogue">I might have said
 something as a psychout.</line>
-   <line>To win the contest?</line>
-   <line>Yeah. A thousand bucks was
+   <line type="dialogue">To win the contest?</line>
+   <line type="dialogue">Yeah. A thousand bucks was
 like a million to us back then.</line>
-   <line>And Ken needed that money, bad.</line>
-   <line>Why's that?</line>
-   <line>This is ancient history, right?</line>
-   <line>I can't get in trouble for
+   <line type="dialogue">And Ken needed that money, bad.</line>
+   <line type="dialogue">Why's that?</line>
+   <line type="dialogue">This is ancient history, right?</line>
+   <line type="dialogue">I can't get in trouble for
 breakin' any narcotics laws?</line>
-   <line>We're homicide.</line>
-   <line>Well, back then, coke
+   <line type="dialogue">We're homicide.</line>
+   <line type="dialogue">Well, back then, coke
 was the drug of choice.</line>
-   <line>Hey, Hoover, save a bump for me.</line>
-   <line>Don't worry, baby, I got more.</line>
-   <line>Damn!</line>
-   <line>You're out.</line>
-   <line>You snorted it all?</line>
-   <line>Crap!</line>
-   <line>I'm in trouble, baby.
+   <line type="dialogue">Hey, Hoover, save a bump for me.</line>
+   <line type="dialogue">Don't worry, baby, I got more.</line>
+   <line type="dialogue">Damn!</line>
+   <line type="dialogue">You're out.</line>
+   <line type="dialogue">You snorted it all?</line>
+   <line type="dialogue">Crap!</line>
+   <line type="dialogue">I'm in trouble, baby.
 Real trouble.</line>
-   <line>What do you mean?</line>
-   <line>I was supposed to deal that all that blow.
+   <line type="dialogue">What do you mean?</line>
+   <line type="dialogue">I was supposed to deal that all that blow.
 I'm into Chaney for thousands.</line>
-   <line>Well, you should have thought of that
+   <line type="dialogue">Well, you should have thought of that
 before you snorted up all his merchandise.</line>
-   <line>I'm screwed.
+   <line type="dialogue">I'm screwed.
 Chaney's gonna k*ll me.</line>
-   <line>You guys got the studio upstairs reserved?</line>
-   <line>That's right.</line>
-   <line>Well, if you ain't gonna use it,
+   <line type="dialogue">You guys got the studio upstairs reserved?</line>
+   <line type="dialogue">That's right.</line>
+   <line type="dialogue">Well, if you ain't gonna use it,
 I thought maybe I'd get in some practicing.</line>
-   <line>We're gonna use it.</line>
-   <line>Doreen, that stuff throws off
+   <line type="dialogue">We're gonna use it.</line>
+   <line type="dialogue">Doreen, that stuff throws off
 your timing, makes you sloppy.</line>
-   <line>If I were you, I'd be worried
+   <line type="dialogue">If I were you, I'd be worried
 about Sonya's two left hoofs</line>
-   <line>and not my timing.</line>
-   <line>You used to be good... dedicated.</line>
-   <line>How come you don't practice
+   <line type="dialogue">and not my timing.</line>
+   <line type="dialogue">You used to be good... dedicated.</line>
+   <line type="dialogue">How come you don't practice
 no more like you used to?</line>
-   <line>What do you care, Bagleboy?</line>
-   <line>We're still gonna wipe the
+   <line type="dialogue">What do you care, Bagleboy?</line>
+   <line type="dialogue">We're still gonna wipe the
 floor with you and Sonya.</line>
-   <line>I guess I should've realized
+   <line type="dialogue">I guess I should've realized
 Ken was an addict, but...</line>
-   <line>at the time everybody was snorting
+   <line type="dialogue">at the time everybody was snorting
 like there was no tomorrow.</line>
-   <line>You still in contact with Ken?</line>
-   <line>Nah. Fire busted us all apart.</line>
-   <line>Burning of The Bell was the
+   <line type="dialogue">You still in contact with Ken?</line>
+   <line type="dialogue">Nah. Fire busted us all apart.</line>
+   <line type="dialogue">Burning of The Bell was the
 day disco died in South Philly.</line>
-   <line>Was Ken an anti-Semite
+   <line type="dialogue">Was Ken an anti-Semite
 along with being an addict?</line>
-   <line>Instead of Benny the Rose,
+   <line type="dialogue">Instead of Benny the Rose,
 he called him Benny the Nose, so...</line>
-   <line>So, Ken could have done
+   <line type="dialogue">So, Ken could have done
 something to Benny that night.</line>
-   <line>Maybe to knock him out of the contest,
+   <line type="dialogue">Maybe to knock him out of the contest,
 win that grand to pay off his coke debt?</line>
-   <line>Though Sonya says you were the
+   <line type="dialogue">Though Sonya says you were the
 one who was so desperate to win.</line>
-   <line>Well, that figures.</line>
-   <line>I mean, me and the Polish American
+   <line type="dialogue">Well, that figures.</line>
+   <line type="dialogue">I mean, me and the Polish American
 Princess weren't exactly soul sisters.</line>
-   <line>But I wasn't a coke fiend like Ken,</line>
-   <line>and I wasn't into Chaney
+   <line type="dialogue">But I wasn't a coke fiend like Ken,</line>
+   <line type="dialogue">and I wasn't into Chaney
 for thousands of dollars.</line>
-   <line>The b*llet's still in him?</line>
-   <line>Says it's a pain in his a*s, literally.</line>
-   <line>He'll only cooperate for a price.
+   <line type="dialogue">The b*llet's still in him?</line>
+   <line type="dialogue">Says it's a pain in his a*s, literally.</line>
+   <line type="dialogue">He'll only cooperate for a price.
 - What price?</line>
-   <line>Neighborhood of two grand.
+   <line type="dialogue">Neighborhood of two grand.
 - We don't live in that neighborhood.</line>
-   <line>Can't we compel him to
+   <line type="dialogue">Can't we compel him to
 give us the b*llet?</line>
-   <line>Get a search warrant?
+   <line type="dialogue">Get a search warrant?
 - Check with the lawyers.</line>
-   <line>Doreen's partner, Ken Mazzacone,</line>
-   <line>served a stint at Camp Hill
+   <line type="dialogue">Doreen's partner, Ken Mazzacone,</line>
+   <line type="dialogue">served a stint at Camp Hill
 in ' for dealing coke.</line>
-   <line>Went straight, got a license
+   <line type="dialogue">Went straight, got a license
 with the city, drives a cab now.</line>
-   <line>Want to go see him?</line>
-   <line>Where are you with Doreen and Sonya?
+   <line type="dialogue">Want to go see him?</line>
+   <line type="dialogue">Where are you with Doreen and Sonya?
 - Both got motive, both got alibis.</line>
-   <line>They say they were on the dance
+   <line type="dialogue">They say they were on the dance
 floor when the fire broke out.</line>
-   <line>Witness statements
+   <line type="dialogue">Witness statements
 from ' back that up?</line>
-   <line>Yeah, I'm on it.</line>
-   <line>You two, see if you can
+   <line type="dialogue">Yeah, I'm on it.</line>
+   <line type="dialogue">You two, see if you can
 find this cab dirver.</line>
-   <line>Lil, go visit ADA Kite</line>
-   <line>warrant for Mr. Rigley's backside.</line>
-   <line>Gotta take the first hack in line.</line>
-   <line>You're the hack we want, Ken.</line>
-   <line>Do us a favor, step on out of there.</line>
-   <line>You remember "Benny the Nose", Ken?</line>
-   <line>From The Bell?
+   <line type="dialogue">Lil, go visit ADA Kite</line>
+   <line type="dialogue">warrant for Mr. Rigley's backside.</line>
+   <line type="dialogue">Gotta take the first hack in line.</line>
+   <line type="dialogue">You're the hack we want, Ken.</line>
+   <line type="dialogue">Do us a favor, step on out of there.</line>
+   <line type="dialogue">You remember "Benny the Nose", Ken?</line>
+   <line type="dialogue">From The Bell?
 Yeah, I remember Benny.</line>
-   <line>Turns out he was m*rder*d
+   <line type="dialogue">Turns out he was m*rder*d
 before the fire broke out.</line>
-   <line>That's a shame.
+   <line type="dialogue">That's a shame.
 - Ain't it?</line>
-   <line>What's it got to do with me?
+   <line type="dialogue">What's it got to do with me?
 - We heard you didn't like him.</line>
-   <line>That a crime? He was uppity.</line>
-   <line>Cause he was a jew?</line>
-   <line>Cause he was a drag.
+   <line type="dialogue">That a crime? He was uppity.</line>
+   <line type="dialogue">Cause he was a jew?</line>
+   <line type="dialogue">Cause he was a drag.
 A real Goody Two-shoes.</line>
-   <line>Wouldn't deal coke for Chaney, right?</line>
-   <line>Relax. This isn't drug bust.</line>
-   <line>Well, yeah.</line>
-   <line>Chaney didn't like a lot
+   <line type="dialogue">Wouldn't deal coke for Chaney, right?</line>
+   <line type="dialogue">Relax. This isn't drug bust.</line>
+   <line type="dialogue">Well, yeah.</line>
+   <line type="dialogue">Chaney didn't like a lot
 of people telling him no.</line>
-   <line>He liked you, though.</line>
-   <line>Hey, I ain't denying I
+   <line type="dialogue">He liked you, though.</line>
+   <line type="dialogue">Hey, I ain't denying I
 made a little extra cash,</line>
-   <line>selling merchandise for Mr. Chaney.</line>
-   <line>Except you used more than you sold.</line>
-   <line>Ended up owing Chaney a lot of moeny.</line>
-   <line>Heard you had a real love affair
+   <line type="dialogue">selling merchandise for Mr. Chaney.</line>
+   <line type="dialogue">Except you used more than you sold.</line>
+   <line type="dialogue">Ended up owing Chaney a lot of moeny.</line>
+   <line type="dialogue">Heard you had a real love affair
 going with the nose candy.</line>
-   <line>Yeah, well, I'm off of that particular
+   <line type="dialogue">Yeah, well, I'm off of that particular
 diet plan now, as you can see.</line>
-   <line>Thousand bucks, though.</line>
-   <line>Go a long way to paying off your debt.</line>
-   <line>All you had to do was
+   <line type="dialogue">Thousand bucks, though.</line>
+   <line type="dialogue">Go a long way to paying off your debt.</line>
+   <line type="dialogue">All you had to do was
 eliminate the competition.</line>
-   <line>I've eliminated nobody.
+   <line type="dialogue">I've eliminated nobody.
 Didn't need to.</line>
-   <line>I was just as good a
+   <line type="dialogue">I was just as good a
 dancer as Benny was.</line>
-   <line>We heard Benny was the king.</line>
-   <line>Then you heard wrong.</line>
-   <line>Where were you when
+   <line type="dialogue">We heard Benny was the king.</line>
+   <line type="dialogue">Then you heard wrong.</line>
+   <line type="dialogue">Where were you when
 the fire broke out, Ken?</line>
-   <line>I was on the floor,
+   <line type="dialogue">I was on the floor,
 warming up with Doreen.</line>
-   <line>Who's the rabbi?</line>
-   <line>That's Benny's dad.</line>
-   <line>You sure?
+   <line type="dialogue">Who's the rabbi?</line>
+   <line type="dialogue">That's Benny's dad.</line>
+   <line type="dialogue">You sure?
 - Yeah, Mr. Rosen.</line>
-   <line>He comes into the cleaners sometimes.</line>
-   <line>I'm gonna go say hello.
+   <line type="dialogue">He comes into the cleaners sometimes.</line>
+   <line type="dialogue">I'm gonna go say hello.
 - Why?</line>
-   <line>Because he's looking for Benny,</line>
-   <line>and I'm gonna point him
+   <line type="dialogue">Because he's looking for Benny,</line>
+   <line type="dialogue">and I'm gonna point him
 in the right direction.</line>
-   <line>Mess with The Nose's head.</line>
-   <line>Mr. Rosen, Doreen Di Nova,
+   <line type="dialogue">Mess with The Nose's head.</line>
+   <line type="dialogue">Mr. Rosen, Doreen Di Nova,
 from the Fluff and Fold.</line>
-   <line>Have you seen my son?
+   <line type="dialogue">Have you seen my son?
 - Sure,</line>
-   <line>he's in the White Room. Come on.</line>
-   <line>Know why they call it the
+   <line type="dialogue">he's in the White Room. Come on.</line>
+   <line type="dialogue">Know why they call it the
 White Room, Mr.Rosen?</line>
-   <line>Cause that's where they do the blow.</line>
-   <line>Cocaine.</line>
-   <line>You'd better stop talking, young man.</line>
-   <line>Or?</line>
-   <line>You don't wanna know "or".</line>
-   <line>Right in there.</line>
-   <line>Yeah, say shalomy to Benny for us.</line>
-   <line>Man was pissed going into that room.</line>
-   <line>I wouldn't wanna be
+   <line type="dialogue">Cause that's where they do the blow.</line>
+   <line type="dialogue">Cocaine.</line>
+   <line type="dialogue">You'd better stop talking, young man.</line>
+   <line type="dialogue">Or?</line>
+   <line type="dialogue">You don't wanna know "or".</line>
+   <line type="dialogue">Right in there.</line>
+   <line type="dialogue">Yeah, say shalomy to Benny for us.</line>
+   <line type="dialogue">Man was pissed going into that room.</line>
+   <line type="dialogue">I wouldn't wanna be
 Benny at that moment.</line>
-   <line>And you're positive
+   <line type="dialogue">And you're positive
 it was Benny's father.</line>
-   <line>Hey, who else would be at The Bell,
+   <line type="dialogue">Hey, who else would be at The Bell,
 hanging out with a Frisbee on his head?</line>
-   <line>Not a chance.
+   <line type="dialogue">Not a chance.
 - Don't say that, Kite.</line>
-   <line>No judge is gonna sign a search warrant</line>
-   <line>a b*llet. Just won't happen.</line>
-   <line>So that's it?
+   <line type="dialogue">No judge is gonna sign a search warrant</line>
+   <line type="dialogue">a b*llet. Just won't happen.</line>
+   <line type="dialogue">So that's it?
 - That's it. No sale.</line>
-   <line>Out of luck.
+   <line type="dialogue">Out of luck.
 - Try again tomorrow.</line>
-   <line>Just like the exhumation.</line>
-   <line>You're still smarting about that?</line>
-   <line>We're supposed to be on the same
+   <line type="dialogue">Just like the exhumation.</line>
+   <line type="dialogue">You're still smarting about that?</line>
+   <line type="dialogue">We're supposed to be on the same
 team here. / We are.</line>
-   <line>And my job, as your teammate, is to
+   <line type="dialogue">And my job, as your teammate, is to
 let you know what's legally plausible.</line>
-   <line>This isn't.</line>
-   <line>How about the city offering
+   <line type="dialogue">This isn't.</line>
+   <line type="dialogue">How about the city offering
 some cash as incentive?</line>
-   <line>What i... what is this case anyway?</line>
-   <line>It's a... disco m*rder.</line>
-   <line>Disco? / Mm-hmm.</line>
-   <line>Lookit.</line>
+   <line type="dialogue">What i... what is this case anyway?</line>
+   <line type="dialogue">It's a... disco m*rder.</line>
+   <line type="dialogue">Disco? / Mm-hmm.</line>
+   <line type="dialogue">Lookit.</line>
    <line type="music">♪ Well, you can tell by
 the way I use my walk ♪</line>
    <line type="music">♪ I'm a woman's man, no time to talk...♪</line>
-   <line>Stop that, Kite.¡¡¡¡¡¡¡¡
+   <line type="dialogue">Stop that, Kite.¡¡¡¡¡¡¡¡
 - We should go dancing.</line>
-   <line>We should go dancing.</line>
-   <line>No... no.</line>
-   <line>I'll take that as a maybe.
+   <line type="dialogue">We should go dancing.</line>
+   <line type="dialogue">No... no.</line>
+   <line type="dialogue">I'll take that as a maybe.
 Huh? Whoo!¡¡¡¡¡¡¡¡¡¡¡¡</line>
-   <line>- # Huh, huh, huh, huh... #
+   <line type="dialogue">- # Huh, huh, huh, huh... #
 - Kite, honestly...¡¡¡¡¡¡¡¡¡¡</line>
-   <line>- # In love... #
+   <line type="dialogue">- # In love... #
 - this could be a deal breaker.</line>
-   <line>Eh, this, uh...</line>
-   <line>this guy, the, uh...
+   <line type="dialogue">Eh, this, uh...</line>
+   <line type="dialogue">this guy, the, uh...
 with the slug in his a*s,</line>
-   <line>is he in any trouble with the law?</line>
-   <line>Out an parole for a B and E.</line>
-   <line>Let me talk to his parole officer.</line>
-   <line>See if he'll go for reduced parole in
+   <line type="dialogue">is he in any trouble with the law?</line>
+   <line type="dialogue">Out an parole for a B and E.</line>
+   <line type="dialogue">Let me talk to his parole officer.</line>
+   <line type="dialogue">See if he'll go for reduced parole in
 exchange for getting that slug taken out.</line>
-   <line>Do I have to do anything in return?</line>
-   <line>Dance.</line>
-   <line>Why didn't you tell us you were
+   <line type="dialogue">Do I have to do anything in return?</line>
+   <line type="dialogue">Dance.</line>
+   <line type="dialogue">Why didn't you tell us you were
 at the disco that night, Mr.Rosen?</line>
-   <line>I didn't see how it mattered.</line>
-   <line>Your wife know you went
+   <line type="dialogue">I didn't see how it mattered.</line>
+   <line type="dialogue">Your wife know you went
 to see Benny that night?</line>
-   <line>In orthodox temples,
+   <line type="dialogue">In orthodox temples,
 men and women sit apart.</line>
-   <line>I was gone and back
+   <line type="dialogue">I was gone and back
 before the service was over.</line>
-   <line>She didn't know.</line>
-   <line>What did you say to your son?</line>
-   <line>That's private.
+   <line type="dialogue">She didn't know.</line>
+   <line type="dialogue">What did you say to your son?</line>
+   <line type="dialogue">That's private.
 - Not good enough, Mr.Rosen.</line>
-   <line>Don't you wanna know who k*lled
+   <line type="dialogue">Don't you wanna know who k*lled
 your boy? The other people?</line>
-   <line>Unless you already know.
+   <line type="dialogue">Unless you already know.
 - We know you got a temper.</line>
-   <line>And how betrayed you felt by Benny.</line>
-   <line>You think I k*lled my own son?</line>
-   <line>You had opportunity and motive.</line>
-   <line>You disapproved of him.
+   <line type="dialogue">And how betrayed you felt by Benny.</line>
+   <line type="dialogue">You think I k*lled my own son?</line>
+   <line type="dialogue">You had opportunity and motive.</line>
+   <line type="dialogue">You disapproved of him.
 You said so yourself.</line>
-   <line>For good reason.</line>
-   <line>Dad.</line>
-   <line>What are you doing here?</line>
-   <line>How can you pray in this cesspool?</line>
-   <line>What's it matter where I pray,
+   <line type="dialogue">For good reason.</line>
+   <line type="dialogue">Dad.</line>
+   <line type="dialogue">What are you doing here?</line>
+   <line type="dialogue">How can you pray in this cesspool?</line>
+   <line type="dialogue">What's it matter where I pray,
 huh, as long as I pray?</line>
-   <line>And what are you praying for?</line>
-   <line>To win a ridiculous dance contest?</line>
-   <line>Or to get your hands on more blow?</line>
-   <line>I don't do that, Dad.</line>
-   <line>Come to temple with me.
+   <line type="dialogue">And what are you praying for?</line>
+   <line type="dialogue">To win a ridiculous dance contest?</line>
+   <line type="dialogue">Or to get your hands on more blow?</line>
+   <line type="dialogue">I don't do that, Dad.</line>
+   <line type="dialogue">Come to temple with me.
 It's Friday night. The Sabbath.</line>
-   <line>I'm not gonna temple.</line>
-   <line>I'm not gonna
+   <line type="dialogue">I'm not gonna temple.</line>
+   <line type="dialogue">I'm not gonna
 dental school either, Dad.</line>
-   <line>You choose this degradation
+   <line type="dialogue">You choose this degradation
 over your heritage?</line>
-   <line>This is my heritage now, Dad.</line>
-   <line>Disco. / Disco's a fad.</line>
-   <line>Your family, the temple,
+   <line type="dialogue">This is my heritage now, Dad.</line>
+   <line type="dialogue">Disco. / Disco's a fad.</line>
+   <line type="dialogue">Your family, the temple,
 that's your life.</line>
-   <line>Disco's my life, Dad.</line>
-   <line>All right? It's not a fad.</line>
-   <line>It's here to stay.</line>
-   <line>And so am I.</line>
-   <line>In fact...</line>
-   <line>I'm gonna marry my dance partner,</line>
-   <line>the girl I love.</line>
-   <line>The shiksa.</line>
-   <line>You do and you'll never
+   <line type="dialogue">Disco's my life, Dad.</line>
+   <line type="dialogue">All right? It's not a fad.</line>
+   <line type="dialogue">It's here to stay.</line>
+   <line type="dialogue">And so am I.</line>
+   <line type="dialogue">In fact...</line>
+   <line type="dialogue">I'm gonna marry my dance partner,</line>
+   <line type="dialogue">the girl I love.</line>
+   <line type="dialogue">The shiksa.</line>
+   <line type="dialogue">You do and you'll never
 step foot in my house again.</line>
-   <line>Fine.</line>
-   <line>Fine.</line>
-   <line>Then you're no longer my son.</line>
-   <line>I renounce you.</line>
-   <line>It's why I didn't tell you.</line>
-   <line>Why I never told my wife.</line>
-   <line>Those were the last words
+   <line type="dialogue">Fine.</line>
+   <line type="dialogue">Fine.</line>
+   <line type="dialogue">Then you're no longer my son.</line>
+   <line type="dialogue">I renounce you.</line>
+   <line type="dialogue">It's why I didn't tell you.</line>
+   <line type="dialogue">Why I never told my wife.</line>
+   <line type="dialogue">Those were the last words
 I ever spoke to my son.</line>
-   <line>I... renounce... you."</line>
-   <line>Where'd you go after you left
+   <line type="dialogue">I... renounce... you."</line>
+   <line type="dialogue">Where'd you go after you left
 the White Room, Mr.Rosen?</line>
-   <line>I went back to the temple.</line>
-   <line>And while I was praying,
+   <line type="dialogue">I went back to the temple.</line>
+   <line type="dialogue">And while I was praying,
 my son was m*rder*d,</line>
-   <line>burned to death.</line>
-   <line>Kite did us a solid, swinging
+   <line type="dialogue">burned to death.</line>
+   <line type="dialogue">Kite did us a solid, swinging
 that deal with Rigley.</line>
-   <line>Rigley went for it pretty quick</line>
-   <line>when he found out he
+   <line type="dialogue">Rigley went for it pretty quick</line>
+   <line type="dialogue">when he found out he
 could miss a day of work.</line>
-   <line>Sweeping up cigarette
+   <line type="dialogue">Sweeping up cigarette
 butts in -degree weather</line>
-   <line>I can see taking curtain number two.</line>
-   <line>Slug's in pretty good
+   <line type="dialogue">I can see taking curtain number two.</line>
+   <line type="dialogue">Slug's in pretty good
 condition, considering.</line>
-   <line>Is it a match to Benny's b*llet?</line>
-   <line>Congratulations, Detectives.</line>
-   <line>You have twins.</line>
-   <line>Nice.</line>
-   <line>Chaney was at the judges' table,</line>
-   <line>all the way up until the fire.</line>
-   <line>His g*n, but he didn't use it.</line>
-   <line>What about our two dancing
+   <line type="dialogue">Is it a match to Benny's b*llet?</line>
+   <line type="dialogue">Congratulations, Detectives.</line>
+   <line type="dialogue">You have twins.</line>
+   <line type="dialogue">Nice.</line>
+   <line type="dialogue">Chaney was at the judges' table,</line>
+   <line type="dialogue">all the way up until the fire.</line>
+   <line type="dialogue">His g*n, but he didn't use it.</line>
+   <line type="dialogue">What about our two dancing
 queens, Sonya and Doreen,</line>
-   <line>and the cabbie, Ken Mazzacone?</line>
-   <line>Alibi's held up. People saw
+   <line type="dialogue">and the cabbie, Ken Mazzacone?</line>
+   <line type="dialogue">Alibi's held up. People saw
 them all on the dance floor.</line>
-   <line>And we verified David Rosen was back
+   <line type="dialogue">And we verified David Rosen was back
 in temple before the fire broke out.</line>
-   <line>Who are we overlooking?</line>
-   <line>Witnesses put Chaney at the judges'
+   <line type="dialogue">Who are we overlooking?</line>
+   <line type="dialogue">Witnesses put Chaney at the judges'
 table, but what about his son, Paul?</line>
-   <line>No statements about his whereabouts.</line>
-   <line>Just his own, right? Said he
+   <line type="dialogue">No statements about his whereabouts.</line>
+   <line type="dialogue">Just his own, right? Said he
 was with his father all night.</line>
-   <line>A father who's conveniently dead.</line>
-   <line>Little weasel like him, he'd know
+   <line type="dialogue">A father who's conveniently dead.</line>
+   <line type="dialogue">Little weasel like him, he'd know
 where his dad kept his g*n.</line>
-   <line>And he'd have access to the White Room.</line>
-   <line>Only one problem, motive.</line>
-   <line>Why would Paul wanna
+   <line type="dialogue">And he'd have access to the White Room.</line>
+   <line type="dialogue">Only one problem, motive.</line>
+   <line type="dialogue">Why would Paul wanna
 k*ll Benny Rosen?</line>
-   <line>Paul Chaney was a little perv.</line>
-   <line>He have any beef with Benny?</line>
-   <line>Paul kind idolized Benny.</line>
-   <line>Wanted to dance like him.</line>
-   <line>He any good?</line>
-   <line>Total klutz.</line>
-   <line>He was always showing
+   <line type="dialogue">Paul Chaney was a little perv.</line>
+   <line type="dialogue">He have any beef with Benny?</line>
+   <line type="dialogue">Paul kind idolized Benny.</line>
+   <line type="dialogue">Wanted to dance like him.</line>
+   <line type="dialogue">He any good?</line>
+   <line type="dialogue">Total klutz.</line>
+   <line type="dialogue">He was always showing
 off for Benny, "Watch me"</line>
-   <line>like an annoying kid brother, you know?</line>
-   <line>He show off for Benny
+   <line type="dialogue">like an annoying kid brother, you know?</line>
+   <line type="dialogue">He show off for Benny
 the night of the fire?</line>
-   <line>Earlier that day he did.</line>
-   <line>We were rehearsing a number...</line>
-   <line>Hey, Benny, can I cut in?</line>
-   <line>We're kind of working
+   <line type="dialogue">Earlier that day he did.</line>
+   <line type="dialogue">We were rehearsing a number...</line>
+   <line type="dialogue">Hey, Benny, can I cut in?</line>
+   <line type="dialogue">We're kind of working
 on a move here, Paul.</line>
-   <line>I know, the Argentinean Tango.</line>
-   <line>I can do it.</line>
-   <line>Watch me.</line>
-   <line>That's not bad.</line>
-   <line>Really?</line>
-   <line>Think I could dancer one
+   <line type="dialogue">I know, the Argentinean Tango.</line>
+   <line type="dialogue">I can do it.</line>
+   <line type="dialogue">Watch me.</line>
+   <line type="dialogue">That's not bad.</line>
+   <line type="dialogue">Really?</line>
+   <line type="dialogue">Think I could dancer one
 day like you, Benny?</line>
-   <line>Yeah, Paul. Just keep practicing.</line>
-   <line>I will. 'Cause, one day,
+   <line type="dialogue">Yeah, Paul. Just keep practicing.</line>
+   <line type="dialogue">I will. 'Cause, one day,
 I'm gonna be the king like you.</line>
-   <line>Hey, Doreen.</line>
-   <line>Benny says I'm a good dancer.</line>
-   <line>Don't let it go to your head.
+   <line type="dialogue">Hey, Doreen.</line>
+   <line type="dialogue">Benny says I'm a good dancer.</line>
+   <line type="dialogue">Don't let it go to your head.
 He thinks Sonya's good, too.</line>
-   <line>Dance with me, Doreen.</line>
-   <line>Yeah, all right.</line>
-   <line>Come with me.</line>
-   <line>Why would a disco queen like
+   <line type="dialogue">Dance with me, Doreen.</line>
+   <line type="dialogue">Yeah, all right.</line>
+   <line type="dialogue">Come with me.</line>
+   <line type="dialogue">Why would a disco queen like
 Doreen let Paul feel her up?</line>
-   <line>Owner's son, maybe.</line>
-   <line>Where was Doreen taking the kid?</line>
-   <line>Toward the White Room.</line>
-   <line>Me and that little twerp?</line>
-   <line>What, are you nuts?</line>
-   <line>According to Sonya, you guys
+   <line type="dialogue">Owner's son, maybe.</line>
+   <line type="dialogue">Where was Doreen taking the kid?</line>
+   <line type="dialogue">Toward the White Room.</line>
+   <line type="dialogue">Me and that little twerp?</line>
+   <line type="dialogue">What, are you nuts?</line>
+   <line type="dialogue">According to Sonya, you guys
 were all over each other.</line>
-   <line>He was all over me, more like it.</line>
-   <line>Why'd you let Paul grope you like that?</line>
-   <line>I fet sorry for him.
+   <line type="dialogue">He was all over me, more like it.</line>
+   <line type="dialogue">Why'd you let Paul grope you like that?</line>
+   <line type="dialogue">I fet sorry for him.
 - You take him back to the White Room?</line>
-   <line>We talked to your dancing partner Ken.</line>
-   <line>Oh, yeah?</line>
-   <line>How's he?</line>
-   <line>Fat.</line>
-   <line>Ken says he can't remember</line>
-   <line>you being on the dance floor
+   <line type="dialogue">We talked to your dancing partner Ken.</line>
+   <line type="dialogue">Oh, yeah?</line>
+   <line type="dialogue">How's he?</line>
+   <line type="dialogue">Fat.</line>
+   <line type="dialogue">Ken says he can't remember</line>
+   <line type="dialogue">you being on the dance floor
 with him before the fire started.</line>
-   <line>I don't believe this.</line>
-   <line>You're trying to pin
+   <line type="dialogue">I don't believe this.</line>
+   <line type="dialogue">You're trying to pin
 Benny's m*rder on me?</line>
-   <line>You got motive.</line>
-   <line>And without an alibi,
+   <line type="dialogue">You got motive.</line>
+   <line type="dialogue">And without an alibi,
 you got opportunity.</line>
-   <line>Unless you give us
+   <line type="dialogue">Unless you give us
 good reason not to...</line>
-   <line>We're gonna have to arrest you.</line>
-   <line>The hell you are.
+   <line type="dialogue">We're gonna have to arrest you.</line>
+   <line type="dialogue">The hell you are.
 I didn't k*ll Benny.</line>
-   <line>Then who did?</line>
-   <line>I don't know.</line>
-   <line>I swear.</line>
-   <line>I just wanted to win.</line>
-   <line>Here's the deal, you little horndog.</line>
-   <line>I'm listening.</line>
-   <line>Benny always comes in here
+   <line type="dialogue">Then who did?</line>
+   <line type="dialogue">I don't know.</line>
+   <line type="dialogue">I swear.</line>
+   <line type="dialogue">I just wanted to win.</line>
+   <line type="dialogue">Here's the deal, you little horndog.</line>
+   <line type="dialogue">I'm listening.</line>
+   <line type="dialogue">Benny always comes in here
 right before dancing, right?</line>
-   <line>Right.</line>
-   <line>While he's doing whatever he does,</line>
-   <line>you sneak in wearing a ski mask,</line>
-   <line>whack him one on the knee.</line>
-   <line>Use a baseball bat, a tire iron,
+   <line type="dialogue">Right.</line>
+   <line type="dialogue">While he's doing whatever he does,</line>
+   <line type="dialogue">you sneak in wearing a ski mask,</line>
+   <line type="dialogue">whack him one on the knee.</line>
+   <line type="dialogue">Use a baseball bat, a tire iron,
 anything that'll do the job.</line>
-   <line>And you'll let me make it with you?</line>
-   <line>You knock Benny out of the contest,
+   <line type="dialogue">And you'll let me make it with you?</line>
+   <line type="dialogue">You knock Benny out of the contest,
 I'll let you do whatever you want.</line>
-   <line>The only thing the little twerp
+   <line type="dialogue">The only thing the little twerp
 was supposed to do</line>
-   <line>was wallop Benny on the leg,</line>
-   <line>put him out of commission.</line>
-   <line>But instead he k*lled him.</line>
-   <line>Then torched the place.</line>
-   <line>I don't know what
+   <line type="dialogue">was wallop Benny on the leg,</line>
+   <line type="dialogue">put him out of commission.</line>
+   <line type="dialogue">But instead he k*lled him.</line>
+   <line type="dialogue">Then torched the place.</line>
+   <line type="dialogue">I don't know what
 Paul did or didn't do.</line>
-   <line>I was on the dance floor
+   <line type="dialogue">I was on the dance floor
 like I told you.</line>
-   <line>Oh, God.</line>
-   <line>I didn't want any permanent
+   <line type="dialogue">Oh, God.</line>
+   <line type="dialogue">I didn't want any permanent
 harm to come to Benny.</line>
-   <line>But the thought of that
+   <line type="dialogue">But the thought of that
 talentless b*tch Sonya</line>
-   <line>winning the contest
+   <line type="dialogue">winning the contest
 and wearing the tiara.</line>
-   <line>I couldn't let that happen.</line>
-   <line>You gotta understand</line>
-   <line>I was better than her.</line>
-   <line>Way better.</line>
-   <line>in the first degree, Paul.</line>
-   <line>I want a lawyer.</line>
-   <line>I don't blame you.</line>
-   <line>Won't make a difference.</line>
-   <line>We got physical evidence.</line>
-   <line>That's the slug from
+   <line type="dialogue">I couldn't let that happen.</line>
+   <line type="dialogue">You gotta understand</line>
+   <line type="dialogue">I was better than her.</line>
+   <line type="dialogue">Way better.</line>
+   <line type="dialogue">in the first degree, Paul.</line>
+   <line type="dialogue">I want a lawyer.</line>
+   <line type="dialogue">I don't blame you.</line>
+   <line type="dialogue">Won't make a difference.</line>
+   <line type="dialogue">We got physical evidence.</line>
+   <line type="dialogue">That's the slug from
 Benny Rosen's skull.</line>
-   <line>That's the slug from your dad's g*n,
+   <line type="dialogue">That's the slug from your dad's g*n,
 one you threw in the Delaware.</line>
-   <line>Maybe you forgot,
+   <line type="dialogue">Maybe you forgot,
 you shot a burglar back in ' .</line>
-   <line>They're a perfect match, Paul.</line>
-   <line>So?</line>
-   <line>So we know the b*llet that k*lled
+   <line type="dialogue">They're a perfect match, Paul.</line>
+   <line type="dialogue">So?</line>
+   <line type="dialogue">So we know the b*llet that k*lled
 Benny came from your dad's g*n.</line>
-   <line>Which you had access to.</line>
-   <line>Plus Doreen told us
+   <line type="dialogue">Which you had access to.</line>
+   <line type="dialogue">Plus Doreen told us
 about your little deal</line>
-   <line>knock Benny out of the contest,
+   <line type="dialogue">knock Benny out of the contest,
 get some action in returen</line>
-   <line>except you knocked him out permanently.</line>
-   <line>How do you live with yourself, Paul?</line>
-   <line>Knowing you k*lled the
+   <line type="dialogue">except you knocked him out permanently.</line>
+   <line type="dialogue">How do you live with yourself, Paul?</line>
+   <line type="dialogue">Knowing you k*lled the
 disco king you worshipped,</line>
-   <line>not to mention other people?</line>
-   <line>if you count your dad
+   <line type="dialogue">not to mention other people?</line>
+   <line type="dialogue">if you count your dad
 who drank himself to death.</line>
-   <line>I didn't k*ll those people.</line>
-   <line>Forensics says you did.</line>
-   <line>So does Doreen.</line>
-   <line>It wasn't my fault.</line>
-   <line>Whose was it?</line>
-   <line>It was...</line>
-   <line>it was Benny's fault.</line>
-   <line>Paul, what the hell?</line>
-   <line>Benny, I can explain.</line>
-   <line>Get off of me, you little twerp,
+   <line type="dialogue">I didn't k*ll those people.</line>
+   <line type="dialogue">Forensics says you did.</line>
+   <line type="dialogue">So does Doreen.</line>
+   <line type="dialogue">It wasn't my fault.</line>
+   <line type="dialogue">Whose was it?</line>
+   <line type="dialogue">It was...</line>
+   <line type="dialogue">it was Benny's fault.</line>
+   <line type="dialogue">Paul, what the hell?</line>
+   <line type="dialogue">Benny, I can explain.</line>
+   <line type="dialogue">Get off of me, you little twerp,
 before I kick your a*s.</line>
-   <line>What are you calling me that for, Benny?</line>
-   <line>All I ever wanted to do was be like you.</line>
-   <line>You, like me?</line>
-   <line>You're the worst disco dancer in Philly.</line>
-   <line>You think you're such hot stuff,
+   <line type="dialogue">What are you calling me that for, Benny?</line>
+   <line type="dialogue">All I ever wanted to do was be like you.</line>
+   <line type="dialogue">You, like me?</line>
+   <line type="dialogue">You're the worst disco dancer in Philly.</line>
+   <line type="dialogue">You think you're such hot stuff,
 hogging up all the foxes for yourself.</line>
-   <line>Well, you ain't such
+   <line type="dialogue">Well, you ain't such
 hot stuff now, are you?</line>
    <line type="music">♪ Donna SummerÀÇ "Last Dance" ♪</line>
    <line type="music">♪ Last dance, ♪</line>

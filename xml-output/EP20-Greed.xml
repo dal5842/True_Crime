@@ -1,1149 +1,1150 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNG/TrueCrimeRelaxNG.rnc" type="application/relax-ng-compact-syntax"?>
 <transcript>
-   <line>Well. To boys,</line>
-   <line>Here's to
+   <line type="dialogue">Well. To boys,</line>
+   <line type="dialogue">Here's to
 buying cheap and</line>
-   <line>selling dear.</line>
-   <line>Selling?</line>
-   <line>I sold our positions in Navrax</line>
-   <line>right before the plummet.</line>
-   <line>Why didn't you tell us?
+   <line type="dialogue">selling dear.</line>
+   <line type="dialogue">Selling?</line>
+   <line type="dialogue">I sold our positions in Navrax</line>
+   <line type="dialogue">right before the plummet.</line>
+   <line type="dialogue">Why didn't you tell us?
 - Couldn't risk the leak.</line>
-   <line>Timing is everything.</line>
-   <line>Had to get out
+   <line type="dialogue">Timing is everything.</line>
+   <line type="dialogue">Had to get out
 before the lemmings.</line>
-   <line>There he is.
+   <line type="dialogue">There he is.
 - The Kipster.</line>
-   <line>We have a problem.
+   <line type="dialogue">We have a problem.
 - What now, kiddo?</line>
-   <line>We're celebrating.
+   <line type="dialogue">We're celebrating.
 - It's important.</line>
-   <line>Everything's important to you, Kip.</line>
-   <line>And nothing is important to you.</line>
-   <line>The mouse roars.</line>
-   <line>People are losing their
+   <line type="dialogue">Everything's important to you, Kip.</line>
+   <line type="dialogue">And nothing is important to you.</line>
+   <line type="dialogue">The mouse roars.</line>
+   <line type="dialogue">People are losing their
 shirts on Navrax.</line>
-   <line>Well, I got my shirt.</line>
-   <line>Ascot Chang, it's tailor-made.</line>
-   <line>Please, Charlie.</line>
-   <line>We have to talk.
+   <line type="dialogue">Well, I got my shirt.</line>
+   <line type="dialogue">Ascot Chang, it's tailor-made.</line>
+   <line type="dialogue">Please, Charlie.</line>
+   <line type="dialogue">We have to talk.
 - All right, all right.</line>
-   <line>Sit down.
+   <line type="dialogue">Sit down.
 Take a load off.</line>
-   <line>Keep 'em coming, Vicky.</line>
-   <line>Yes, sir, Mr. Danville.</line>
-   <line>Nice tail on that one.</line>
-   <line>To lives of quiet desperation</line>
-   <line>and not leading them.</line>
-   <line>Thanks for coming.</line>
-   <line>You could've just
+   <line type="dialogue">Keep 'em coming, Vicky.</line>
+   <line type="dialogue">Yes, sir, Mr. Danville.</line>
+   <line type="dialogue">Nice tail on that one.</line>
+   <line type="dialogue">To lives of quiet desperation</line>
+   <line type="dialogue">and not leading them.</line>
+   <line type="dialogue">Thanks for coming.</line>
+   <line type="dialogue">You could've just
 cancelled over the phone.</line>
-   <line>Cancel? And miss the chance
+   <line type="dialogue">Cancel? And miss the chance
 of seeing Tripod and Cyclops?</line>
-   <line>Who says you're gonna see them?</line>
-   <line>I'm an optimist.</line>
-   <line>So, um, this guy is a friend of
+   <line type="dialogue">Who says you're gonna see them?</line>
+   <line type="dialogue">I'm an optimist.</line>
+   <line type="dialogue">So, um, this guy is a friend of
 my older brother's, Randy Price.</line>
-   <line>Got in the jam with the SEC, FBI.</line>
-   <line>Enron type scandal.
+   <line type="dialogue">Got in the jam with the SEC, FBI.</line>
+   <line type="dialogue">Enron type scandal.
 Now he wants to cut a deal.</line>
-   <line>He's got something
+   <line type="dialogue">He's got something
 on the homicide?</line>
-   <line>Charles Danville, .</line>
-   <line>Never heard of him.
+   <line type="dialogue">Charles Danville, .</line>
+   <line type="dialogue">Never heard of him.
 - Big financial wizard back in the day.</line>
-   <line>Now Randy is in danger of going
+   <line type="dialogue">Now Randy is in danger of going
 the way of Martha Stewart.</line>
-   <line>What are you talking about?</line>
-   <line>Get your feet off my desk and
+   <line type="dialogue">What are you talking about?</line>
+   <line type="dialogue">Get your feet off my desk and
 your a*s out of my chair, Randy.</line>
-   <line>Geez, Kite.</line>
-   <line>Is that any way to
+   <line type="dialogue">Geez, Kite.</line>
+   <line type="dialogue">Is that any way to
 treat an old pal?</line>
-   <line>Detective Rush,
+   <line type="dialogue">Detective Rush,
 Randy Price.</line>
-   <line>You're a homicide detective?</line>
-   <line>I gotta start committing
+   <line type="dialogue">You're a homicide detective?</line>
+   <line type="dialogue">I gotta start committing
 some real crimes.</line>
-   <line>Enough of this white collar crap.</line>
-   <line>You got something
+   <line type="dialogue">Enough of this white collar crap.</line>
+   <line type="dialogue">You got something
 you wanna tell me, Randy?</line>
-   <line>I've got something amazing.</line>
-   <line>I know who k*lled Charles Danville.</line>
-   <line>Okay, fine.</line>
-   <line>You don't wanna solve the m*rder of
+   <line type="dialogue">I've got something amazing.</line>
+   <line type="dialogue">I know who k*lled Charles Danville.</line>
+   <line type="dialogue">Okay, fine.</line>
+   <line type="dialogue">You don't wanna solve the m*rder of
 one of the biggest names on Market Street,</line>
-   <line>I can take this
+   <line type="dialogue">I can take this
 info elsewhere.</line>
-   <line>Door's that way.</line>
-   <line>You told me this lady was
+   <line type="dialogue">Door's that way.</line>
+   <line type="dialogue">You told me this lady was
 top notch, Kite.</line>
-   <line>She is.</line>
-   <line>Look, detective.</line>
-   <line>Before all this unpleasantness
+   <line type="dialogue">She is.</line>
+   <line type="dialogue">Look, detective.</line>
+   <line type="dialogue">Before all this unpleasantness
 with SEC occurred,</line>
-   <line>I was senior vice president
+   <line type="dialogue">I was senior vice president
 of mergers and aquisitions.</line>
-   <line>I'm really busy, Randy.</line>
-   <line>Two weeks before Danville was k*lled,
+   <line type="dialogue">I'm really busy, Randy.</line>
+   <line type="dialogue">Two weeks before Danville was k*lled,
 I was in the john of this hotel.</line>
-   <line>Son of a b*tch,
+   <line type="dialogue">Son of a b*tch,
 you lost it all.</line>
-   <line>Do I know you?
+   <line type="dialogue">Do I know you?
 - Stu Livermore.</line>
-   <line>I invested grand in Bentech
+   <line type="dialogue">I invested grand in Bentech
 and now look at this.</line>
-   <line>It's worthless.</line>
-   <line>You run the dry cleaners.</line>
-   <line>You begged me to let you invest.</line>
-   <line>Because you were supposed to be
+   <line type="dialogue">It's worthless.</line>
+   <line type="dialogue">You run the dry cleaners.</line>
+   <line type="dialogue">You begged me to let you invest.</line>
+   <line type="dialogue">Because you were supposed to be
 the big shot with all the inside information.</line>
-   <line>Well, did you read
+   <line type="dialogue">Well, did you read
 the perspectives?</line>
-   <line>Because it clearly states
+   <line type="dialogue">Because it clearly states
 the risks involved.</line>
-   <line>I need that money back.</line>
-   <line>All right, all right.</line>
-   <line>Stu, is it?</line>
-   <line>Maybe,</line>
-   <line>just maybe if I pull a few strings,
+   <line type="dialogue">I need that money back.</line>
+   <line type="dialogue">All right, all right.</line>
+   <line type="dialogue">Stu, is it?</line>
+   <line type="dialogue">Maybe,</line>
+   <line type="dialogue">just maybe if I pull a few strings,
 I can get you into Navrax.</line>
-   <line>What's Navrax?</line>
-   <line>It's a sure thing.</line>
-   <line>You already wiped me out, remember?
+   <line type="dialogue">What's Navrax?</line>
+   <line type="dialogue">It's a sure thing.</line>
+   <line type="dialogue">You already wiped me out, remember?
 I don't have any more money.</line>
-   <line>You must think I'm really stupid.
+   <line type="dialogue">You must think I'm really stupid.
 - Not stupid, desperate.</line>
-   <line>And Navrax is your way out.</line>
-   <line>Trust me.</line>
-   <line>Don't let me pressure you.</line>
-   <line>You sure about this Navrax?
+   <line type="dialogue">And Navrax is your way out.</line>
+   <line type="dialogue">Trust me.</line>
+   <line type="dialogue">Don't let me pressure you.</line>
+   <line type="dialogue">You sure about this Navrax?
 - Hey,</line>
-   <line>ou got a better way out?</line>
-   <line>Take it.</line>
-   <line>I got a life insurance policy.
+   <line type="dialogue">ou got a better way out?</line>
+   <line type="dialogue">Take it.</line>
+   <line type="dialogue">I got a life insurance policy.
 It's worth about grand.</line>
-   <line>But I warn you.</line>
-   <line>This Navrax bombs,</line>
-   <line>you're gonna pay with your life,</line>
-   <line>trust me.</line>
-   <line>What happened to Navrax?</line>
-   <line>It crashed and burned.</line>
-   <line>Two weeks after Livermore invested.</line>
-   <line>Same time Danville got k*lled.</line>
-   <line>I told you it was good.</line>
-   <line>Well, why didn't you let the
+   <line type="dialogue">But I warn you.</line>
+   <line type="dialogue">This Navrax bombs,</line>
+   <line type="dialogue">you're gonna pay with your life,</line>
+   <line type="dialogue">trust me.</line>
+   <line type="dialogue">What happened to Navrax?</line>
+   <line type="dialogue">It crashed and burned.</line>
+   <line type="dialogue">Two weeks after Livermore invested.</line>
+   <line type="dialogue">Same time Danville got k*lled.</line>
+   <line type="dialogue">I told you it was good.</line>
+   <line type="dialogue">Well, why didn't you let the
 cops know about it back then?</line>
-   <line>How would I profit from that?</line>
-   <line>I was saving it for a rainy day.</line>
-   <line>And now, it's pouring.</line>
-   <line>Theory in ' was
+   <line type="dialogue">How would I profit from that?</line>
+   <line type="dialogue">I was saving it for a rainy day.</line>
+   <line type="dialogue">And now, it's pouring.</line>
+   <line type="dialogue">Theory in ' was
 a car jacking gone wrong.</line>
-   <line>Danville's body was found
+   <line type="dialogue">Danville's body was found
 in an alley off the Market Street.</line>
-   <line>I remember Danville.</line>
-   <line>He was all over the business
+   <line type="dialogue">I remember Danville.</line>
+   <line type="dialogue">He was all over the business
 section back in the ' 's.</line>
-   <line>His Delorean was found the next day
+   <line type="dialogue">His Delorean was found the next day
 in Ardmore, miles away.</line>
-   <line>Junked and stripped.</line>
-   <line>Lotta high end cars got
+   <line type="dialogue">Junked and stripped.</line>
+   <line type="dialogue">Lotta high end cars got
 jacked in ' .</line>
-   <line>Yeah, they busted a ring of guys for
+   <line type="dialogue">Yeah, they busted a ring of guys for
 exporting car parts overseas that year.</line>
-   <line>Details of the theft match
+   <line type="dialogue">Details of the theft match
 up with the MO in all the others,</line>
-   <line>except this one
+   <line type="dialogue">except this one
 left a victim.</line>
-   <line>And that pal of Kite's,
+   <line type="dialogue">And that pal of Kite's,
 Randy Price..</line>
-   <line>A ' 's throw back,</line>
-   <line>a real Market Street,
+   <line type="dialogue">A ' 's throw back,</line>
+   <line type="dialogue">a real Market Street,
 'greed is good' type.</line>
-   <line>But he's got information?</line>
-   <line>This story about Livermore waving
+   <line type="dialogue">But he's got information?</line>
+   <line type="dialogue">This story about Livermore waving
 that g*n around is pretty interesting.</line>
-   <line>Maybe Livermore shot Danville,</line>
-   <line>took the Delorean to
+   <line type="dialogue">Maybe Livermore shot Danville,</line>
+   <line type="dialogue">took the Delorean to
 make it look like a car jacking.</line>
-   <line>Scotty and I'll track down Livermore,
+   <line type="dialogue">Scotty and I'll track down Livermore,
 see what he has to say.</line>
-   <line>Want me and Vera to go talk
+   <line type="dialogue">Want me and Vera to go talk
 to the last-to-see?</line>
-   <line>Who was it?
+   <line type="dialogue">Who was it?
 - Victoria Jordan,</line>
-   <line>called Arbitrage.</line>
-   <line>I've been there
+   <line type="dialogue">called Arbitrage.</line>
+   <line type="dialogue">I've been there
 with my stockbroker.</line>
-   <line>You're in the market, boss?</line>
-   <line>Half of America is, Lil.</line>
-   <line>Not my half.</line>
-   <line>I'll give my broker a call,</line>
-   <line>see what he know about Danville
+   <line type="dialogue">You're in the market, boss?</line>
+   <line type="dialogue">Half of America is, Lil.</line>
+   <line type="dialogue">Not my half.</line>
+   <line type="dialogue">I'll give my broker a call,</line>
+   <line type="dialogue">see what he know about Danville
 and company he used to work for.</line>
-   <line>Stu Livermore?</line>
-   <line>Detectives Rush
+   <line type="dialogue">Stu Livermore?</line>
+   <line type="dialogue">Detectives Rush
 and Valens.</line>
-   <line>Hey, finders keepers.</line>
-   <line>It ain't illegal colllecting
+   <line type="dialogue">Hey, finders keepers.</line>
+   <line type="dialogue">It ain't illegal colllecting
 discarded tickets.</line>
-   <line>We wanna talk to you
+   <line type="dialogue">We wanna talk to you
 about Charles Danville.</line>
-   <line>Danville.</line>
-   <line>That lying huckster ruined my life.</line>
-   <line>We heard.</line>
-   <line>You been talking to my ex.</line>
-   <line>She told us
+   <line type="dialogue">Danville.</line>
+   <line type="dialogue">That lying huckster ruined my life.</line>
+   <line type="dialogue">We heard.</line>
+   <line type="dialogue">You been talking to my ex.</line>
+   <line type="dialogue">She told us
 where to find you.</line>
-   <line>You had a run-in with him
+   <line type="dialogue">You had a run-in with him
 June, th, .</line>
-   <line>Swore that if Navrax bombs,
+   <line type="dialogue">Swore that if Navrax bombs,
 you'd k*ll him.</line>
-   <line>That's right.</line>
-   <line>What?</line>
-   <line>You think I made
+   <line type="dialogue">That's right.</line>
+   <line type="dialogue">What?</line>
+   <line type="dialogue">You think I made
 good on that threat?</line>
-   <line>You shoved the g*n to his chest.</line>
-   <line>Should've fired it too.</line>
-   <line>But instead I invested
+   <line type="dialogue">You shoved the g*n to his chest.</line>
+   <line type="dialogue">Should've fired it too.</line>
+   <line type="dialogue">But instead I invested
 another grand with him.</line>
-   <line>Two weeks later,
+   <line type="dialogue">Two weeks later,
 that was gone too.</line>
-   <line>Mr. Livermore?</line>
-   <line>Hey. Kip Krowley,
+   <line type="dialogue">Mr. Livermore?</line>
+   <line type="dialogue">Hey. Kip Krowley,
 I'm an associate of Mr. Danville's.</line>
-   <line>I don't want an associate,
+   <line type="dialogue">I don't want an associate,
 I want Danville.</line>
-   <line>Mr. Danville is
+   <line type="dialogue">Mr. Danville is
 extremely busy. / Yeah,</line>
-   <line>busy robbing on
+   <line type="dialogue">busy robbing on
 his people like me.</line>
-   <line>I went to the headquarters
+   <line type="dialogue">I went to the headquarters
 in Navrax Corporation.</line>
-   <line>You know what I found?</line>
-   <line>One..</line>
-   <line>One old lady in an -by-
+   <line type="dialogue">You know what I found?</line>
+   <line type="dialogue">One..</line>
+   <line type="dialogue">One old lady in an -by-
 office answering the phone.</line>
-   <line>That's Navrax.</line>
-   <line>An old lady with a phone.</line>
-   <line>You..You must be mistaken.</line>
-   <line>No mistake. / Well, I'm sure
+   <line type="dialogue">That's Navrax.</line>
+   <line type="dialogue">An old lady with a phone.</line>
+   <line type="dialogue">You..You must be mistaken.</line>
+   <line type="dialogue">No mistake. / Well, I'm sure
 that there's an explanation.</line>
-   <line>That money was going to
+   <line type="dialogue">That money was going to
 pay for my children's education.</line>
-   <line>My wife's gonna leave me.</line>
-   <line>I'd k*ll myself,
+   <line type="dialogue">My wife's gonna leave me.</line>
+   <line type="dialogue">I'd k*ll myself,
 but that wouldn't do any good.</line>
-   <line>I've already cashed in
+   <line type="dialogue">I've already cashed in
 on my life insurance.</line>
-   <line>Hey, I..</line>
-   <line>I'm very sorry.</line>
-   <line>Please, I'm begging you.</line>
-   <line>If I don't get that money back.</line>
-   <line>Just.. you give me your number,
+   <line type="dialogue">Hey, I..</line>
+   <line type="dialogue">I'm very sorry.</line>
+   <line type="dialogue">Please, I'm begging you.</line>
+   <line type="dialogue">If I don't get that money back.</line>
+   <line type="dialogue">Just.. you give me your number,
 Mr. Livermore, okay?</line>
-   <line>I personally gurantee Mr. Danville
+   <line type="dialogue">I personally gurantee Mr. Danville
 will look into this and call you.</line>
-   <line>When?
+   <line type="dialogue">When?
 - End of the day.</line>
-   <line>Tomorrow morning at the latest.</line>
-   <line>I give you my word.</line>
-   <line>I was sitting by the phone
+   <line type="dialogue">Tomorrow morning at the latest.</line>
+   <line type="dialogue">I give you my word.</line>
+   <line type="dialogue">I was sitting by the phone
 all that day like a chump</line>
-   <line>waiting for that kid to come through.</line>
-   <line>I got the brush-off.
+   <line type="dialogue">waiting for that kid to come through.</line>
+   <line type="dialogue">I got the brush-off.
 I finally went to bed.</line>
-   <line>And I saw the story on
+   <line type="dialogue">And I saw the story on
 the morning news.</line>
-   <line>But you never got
+   <line type="dialogue">But you never got
 your money back?</line>
-   <line>Guess I could've hired a lawyer,</line>
-   <line>if I had a cent to my name.</line>
-   <line>But I didn't.</line>
-   <line>Still don't.</line>
-   <line>You were the last person
+   <line type="dialogue">Guess I could've hired a lawyer,</line>
+   <line type="dialogue">if I had a cent to my name.</line>
+   <line type="dialogue">But I didn't.</line>
+   <line type="dialogue">Still don't.</line>
+   <line type="dialogue">You were the last person
 to see Charles Danville alive?</line>
-   <line>Yeah, around two am.</line>
-   <line>Saw him walk out that door
+   <line type="dialogue">Yeah, around two am.</line>
+   <line type="dialogue">Saw him walk out that door
 like every night.</line>
-   <line>Anyone with him?</line>
-   <line>Nope.
+   <line type="dialogue">Anyone with him?</line>
+   <line type="dialogue">Nope.
 Lost Boys left earlier.</line>
-   <line>Lost Boys? / Yeah.</line>
-   <line>Danville had a group of young
+   <line type="dialogue">Lost Boys? / Yeah.</line>
+   <line type="dialogue">Danville had a group of young
 boys that worshipped him.</line>
-   <line>Fed his ego. / From Collins Brothers,
+   <line type="dialogue">Fed his ego. / From Collins Brothers,
 the firm where he worked?</line>
-   <line>They wished.</line>
-   <line>Danville's boys weren't Ivy League.</line>
-   <line>They were wannabes.
+   <line type="dialogue">They wished.</line>
+   <line type="dialogue">Danville's boys weren't Ivy League.</line>
+   <line type="dialogue">They were wannabes.
 On the outside looking in,</line>
-   <line>until Danville took pity on them
+   <line type="dialogue">until Danville took pity on them
 about a month before he died.</line>
-   <line>He had met them before? / No,</line>
-   <line>not that I knew of at least,</line>
-   <line>but he got real friendly, real fast.</line>
-   <line>Wonder when
+   <line type="dialogue">He had met them before? / No,</line>
+   <line type="dialogue">not that I knew of at least,</line>
+   <line type="dialogue">but he got real friendly, real fast.</line>
+   <line type="dialogue">Wonder when
 I'll ever be those boys.</line>
-   <line>Yeah. Galaxy far far away.</line>
-   <line>Go get some stock tips.</line>
-   <line>Holy crap,
+   <line type="dialogue">Yeah. Galaxy far far away.</line>
+   <line type="dialogue">Go get some stock tips.</line>
+   <line type="dialogue">Holy crap,
 that is Charles Danville.</line>
-   <line>He's.. he's coming our way.</line>
-   <line>Be cool.</line>
-   <line>Mr. Danville.</line>
-   <line>Can we buy you a drink?</line>
-   <line>You guys from Blaine?</line>
-   <line>Yeah, but how could you tell?</line>
-   <line>Well, to start,</line>
-   <line>You're dressed like
+   <line type="dialogue">He's.. he's coming our way.</line>
+   <line type="dialogue">Be cool.</line>
+   <line type="dialogue">Mr. Danville.</line>
+   <line type="dialogue">Can we buy you a drink?</line>
+   <line type="dialogue">You guys from Blaine?</line>
+   <line type="dialogue">Yeah, but how could you tell?</line>
+   <line type="dialogue">Well, to start,</line>
+   <line type="dialogue">You're dressed like
 used car salesmen,</line>
-   <line>you're at the bar, because</line>
-   <line>you can only
+   <line type="dialogue">you're at the bar, because</line>
+   <line type="dialogue">you can only
 afford an appetizer</line>
-   <line>and you're gawking at the swells</line>
-   <line>like they're different species.</line>
-   <line>Which they are.</line>
-   <line>Except for me.</line>
-   <line>I used to work in a sweat shop
+   <line type="dialogue">and you're gawking at the swells</line>
+   <line type="dialogue">like they're different species.</line>
+   <line type="dialogue">Which they are.</line>
+   <line type="dialogue">Except for me.</line>
+   <line type="dialogue">I used to work in a sweat shop
 just like Blaine back in the day.</line>
-   <line>Cold caling chumps for
+   <line type="dialogue">Cold caling chumps for
 ten dollar commissions.</line>
-   <line>So how did you get to
+   <line type="dialogue">So how did you get to
 where you are?</line>
-   <line>Cajones.</line>
-   <line>Big brass ones.</line>
-   <line>You guys got 'em?</line>
-   <line>Yeah, we got going it. Yeah.</line>
-   <line>Good. Cause if you're hungry,
+   <line type="dialogue">Cajones.</line>
+   <line type="dialogue">Big brass ones.</line>
+   <line type="dialogue">You guys got 'em?</line>
+   <line type="dialogue">Yeah, we got going it. Yeah.</line>
+   <line type="dialogue">Good. Cause if you're hungry,
 maybe I can help you out.</line>
-   <line>Seriously?</line>
-   <line>I'm putting together a bond offering
+   <line type="dialogue">Seriously?</line>
+   <line type="dialogue">I'm putting together a bond offering
 for a company called Navrax.</line>
-   <line>You know Navrax?</line>
-   <line>Yeah, of course.</line>
-   <line>Navrax is awesome.</line>
-   <line>You're crappy liars.</line>
-   <line>But you'll get better.</line>
-   <line>Stick with me, I'll teach you
+   <line type="dialogue">You know Navrax?</line>
+   <line type="dialogue">Yeah, of course.</line>
+   <line type="dialogue">Navrax is awesome.</line>
+   <line type="dialogue">You're crappy liars.</line>
+   <line type="dialogue">But you'll get better.</line>
+   <line type="dialogue">Stick with me, I'll teach you
 how to sell snow to eskimos.</line>
-   <line>You'll be millionaires
+   <line type="dialogue">You'll be millionaires
 by the end of summer.</line>
-   <line>Interested?</line>
-   <line>Yeah.</line>
-   <line>Why would a big shot like Danville
+   <line type="dialogue">Interested?</line>
+   <line type="dialogue">Yeah.</line>
+   <line type="dialogue">Why would a big shot like Danville
 wanna associate with nobodies?</line>
-   <line>Maybe he saw himself
+   <line type="dialogue">Maybe he saw himself
 in those boys.</line>
-   <line>Maybe he was just slumming.</line>
-   <line>All I know was,</line>
-   <line>the day he died, we got stuck
+   <line type="dialogue">Maybe he was just slumming.</line>
+   <line type="dialogue">All I know was,</line>
+   <line type="dialogue">the day he died, we got stuck
 with thousand dollar tab.</line>
-   <line>grand,</line>
-   <line>worth more than my car.</line>
-   <line>Way more.
+   <line type="dialogue">grand,</line>
+   <line type="dialogue">worth more than my car.</line>
+   <line type="dialogue">Way more.
 - Owner of the Arbitage at the time,</line>
-   <line>he thought Danville was
+   <line type="dialogue">he thought Danville was
 made of money.</line>
-   <line>Just too busy to get
+   <line type="dialogue">Just too busy to get
 around to paying it.</line>
-   <line>Me, I would never
+   <line type="dialogue">Me, I would never
 have let that happen.</line>
-   <line>The owner still around?
+   <line type="dialogue">The owner still around?
 - Sold the place, to me.</line>
-   <line>And I don't give credit to no one.</line>
-   <line>Four bucks.</line>
-   <line>So Mackie's your broker, huh?</line>
-   <line>He told you where to find me?</line>
-   <line>So Danville worked for you
+   <line type="dialogue">And I don't give credit to no one.</line>
+   <line type="dialogue">Four bucks.</line>
+   <line type="dialogue">So Mackie's your broker, huh?</line>
+   <line type="dialogue">He told you where to find me?</line>
+   <line type="dialogue">So Danville worked for you
 for what, six years?</line>
-   <line>Something like that.</line>
-   <line>Thought he got k*lled
+   <line type="dialogue">Something like that.</line>
+   <line type="dialogue">Thought he got k*lled
 in the car jacking.</line>
-   <line>Well, we're taking
+   <line type="dialogue">Well, we're taking
 another look at that.</line>
-   <line>My detectives talked
+   <line type="dialogue">My detectives talked
 to a woman at the Arbitrage</line>
-   <line>and said the guy was a louse,</line>
-   <line>welched on his debts.</line>
-   <line>Sounds about right.
+   <line type="dialogue">and said the guy was a louse,</line>
+   <line type="dialogue">welched on his debts.</line>
+   <line type="dialogue">Sounds about right.
 - I thought Danville was a heavy hitter.</line>
-   <line>Rolling in dough.</line>
-   <line>For a while.</line>
-   <line>Then he hit a losing streak.
+   <line type="dialogue">Rolling in dough.</line>
+   <line type="dialogue">For a while.</line>
+   <line type="dialogue">Then he hit a losing streak.
 Every stock he hyped went in the toilet.</line>
-   <line>That's why we fired him.</line>
-   <line>Fired?</line>
-   <line>Wasn't he still the employee
+   <line type="dialogue">That's why we fired him.</line>
+   <line type="dialogue">Fired?</line>
+   <line type="dialogue">Wasn't he still the employee
 of the Collins Brothers when he died?</line>
-   <line>On paper, he was.</line>
-   <line>But he begged us to let
+   <line type="dialogue">On paper, he was.</line>
+   <line type="dialogue">But he begged us to let
 him stay unsalaried</line>
-   <line>until he can get another gig going.</line>
-   <line>So Danville was on the ropes.</line>
-   <line>Day he died, we had to cover
+   <line type="dialogue">until he can get another gig going.</line>
+   <line type="dialogue">So Danville was on the ropes.</line>
+   <line type="dialogue">Day he died, we had to cover
 about half a mil of his debts</line>
-   <line>to protect the firm's reputation.</line>
-   <line>Keep up the appearances.</line>
-   <line>And keep the authorities off
+   <line type="dialogue">to protect the firm's reputation.</line>
+   <line type="dialogue">Keep up the appearances.</line>
+   <line type="dialogue">And keep the authorities off
 our backs checking records.</line>
-   <line>Fat lot of good
+   <line type="dialogue">Fat lot of good
 it did us considering</line>
-   <line>I got popped for insider trading.</line>
-   <line>Well, it could've been worse.</line>
-   <line>You could've ended up like Danville.</line>
-   <line>Broke? / Dead.</line>
-   <line>So Danville's broke
+   <line type="dialogue">I got popped for insider trading.</line>
+   <line type="dialogue">Well, it could've been worse.</line>
+   <line type="dialogue">You could've ended up like Danville.</line>
+   <line type="dialogue">Broke? / Dead.</line>
+   <line type="dialogue">So Danville's broke
 but still playing the big shot?</line>
-   <line>Yeah, scrambling to get the
+   <line type="dialogue">Yeah, scrambling to get the
 Navrax deal off the ground</line>
-   <line>while his reputation's still intact and</line>
-   <line>at Collins Brothers.</line>
-   <line>So this guy's all tabbed out,
+   <line type="dialogue">while his reputation's still intact and</line>
+   <line type="dialogue">at Collins Brothers.</line>
+   <line type="dialogue">So this guy's all tabbed out,
 but he's still got a corporate apartment,</line>
-   <line>and a Delorean to push around?</line>
-   <line>How do I get this job.</line>
-   <line>Now, how come the assigned didn't look
+   <line type="dialogue">and a Delorean to push around?</line>
+   <line type="dialogue">How do I get this job.</line>
+   <line type="dialogue">Now, how come the assigned didn't look
 at the disgruntled investors for this?</line>
-   <line>Car jacking theory looked solid.
+   <line type="dialogue">Car jacking theory looked solid.
 - Collins Brothers covered for Danville.</line>
-   <line>They erased the
+   <line type="dialogue">They erased the
 paper trail of his debts.</line>
-   <line>And plus white collar criminal
+   <line type="dialogue">And plus white collar criminal
 ususally get sued, not shot.</line>
-   <line>So, maybe the doer isn't
+   <line type="dialogue">So, maybe the doer isn't
 your typical investor.</line>
-   <line>Let's check the SEC records.</line>
-   <line>See if anyone with a criminal
+   <line type="dialogue">Let's check the SEC records.</line>
+   <line type="dialogue">See if anyone with a criminal
 record bought shares with Navrax.</line>
-   <line>We'll go talk to Danville's
+   <line type="dialogue">We'll go talk to Danville's
 old associates.</line>
-   <line>The Lost boys. / Start with the kid that
+   <line type="dialogue">The Lost boys. / Start with the kid that
 was supposed to get back to Livemore.</line>
-   <line>Kip.</line>
-   <line>Kip Krowley?</line>
-   <line>Detective Rush and Valens.</line>
-   <line>It's about Charles Danville.</line>
-   <line>Charlie Danville?</line>
-   <line>That was a life time ago.</line>
-   <line>We've been talking to an old
+   <line type="dialogue">Kip.</line>
+   <line type="dialogue">Kip Krowley?</line>
+   <line type="dialogue">Detective Rush and Valens.</line>
+   <line type="dialogue">It's about Charles Danville.</line>
+   <line type="dialogue">Charlie Danville?</line>
+   <line type="dialogue">That was a life time ago.</line>
+   <line type="dialogue">We've been talking to an old
 associate of yours,</line>
-   <line>Randy Price.
+   <line type="dialogue">Randy Price.
 - Oh yeah, I read about Randy.</line>
-   <line>He's in trouble with the SEC, huh?</line>
-   <line>He says Stu Livermore
+   <line type="dialogue">He's in trouble with the SEC, huh?</line>
+   <line type="dialogue">He says Stu Livermore
 threatened Danville's life.</line>
-   <line>No kidding.</line>
-   <line>We know you dealt with Livermore
+   <line type="dialogue">No kidding.</line>
+   <line type="dialogue">We know you dealt with Livermore
 in ' running interference for Danville.</line>
-   <line>But you never told
+   <line type="dialogue">But you never told
 the cops about that.</line>
-   <line>Well, Charlie was k*lled
+   <line type="dialogue">Well, Charlie was k*lled
 in a car jacking.</line>
-   <line>What would Livermore
+   <line type="dialogue">What would Livermore
 have to do with that?</line>
-   <line>Did you know he pulled
+   <line type="dialogue">Did you know he pulled
 a g*n on Danville</line>
-   <line>two weeks before his death?</line>
-   <line>No, I didn't.</line>
-   <line>I just felt bad for the guy.</line>
-   <line>Did you talk to him?
+   <line type="dialogue">two weeks before his death?</line>
+   <line type="dialogue">No, I didn't.</line>
+   <line type="dialogue">I just felt bad for the guy.</line>
+   <line type="dialogue">Did you talk to him?
 Is he making out?</line>
-   <line>He's collecting used tickets
+   <line type="dialogue">He's collecting used tickets
 off the floor at the OTB.</line>
-   <line>That's a shame.</line>
-   <line>I tried to talk to Charlie
+   <line type="dialogue">That's a shame.</line>
+   <line type="dialogue">I tried to talk to Charlie
 about him the night that he died.</line>
-   <line>To lives of a quiet desperation.</line>
-   <line>And not leading them.</line>
-   <line>So, kiddo.</line>
-   <line>What's so important that can't wait?</line>
-   <line>I went to the headquarters
+   <line type="dialogue">To lives of a quiet desperation.</line>
+   <line type="dialogue">And not leading them.</line>
+   <line type="dialogue">So, kiddo.</line>
+   <line type="dialogue">What's so important that can't wait?</line>
+   <line type="dialogue">I went to the headquarters
 at the Navrax Corporation.</line>
-   <line>This about the drycleaner mope?
+   <line type="dialogue">This about the drycleaner mope?
 - Livermore.</line>
-   <line>And he was right.
+   <line type="dialogue">And he was right.
 It's nothing.</line>
-   <line>Nothing. It's an old lady
+   <line type="dialogue">Nothing. It's an old lady
 answering phones.</line>
-   <line>So?</line>
-   <line>It's the idea that counts.</line>
-   <line>Not the the brick and mortar.</line>
-   <line>Charlie.</line>
-   <line>I promised Livermore that
+   <line type="dialogue">So?</line>
+   <line type="dialogue">It's the idea that counts.</line>
+   <line type="dialogue">Not the the brick and mortar.</line>
+   <line type="dialogue">Charlie.</line>
+   <line type="dialogue">I promised Livermore that
 you would call him.</line>
-   <line>I personally guaranteed..</line>
-   <line>Don't promise things, kiddo.</line>
-   <line>Can you help him?</line>
-   <line>Please.</line>
-   <line>For me.</line>
-   <line>That's good.</line>
-   <line>Kip.</line>
-   <line>Going for the heart like that?</line>
-   <line>I actually have taught you something.</line>
-   <line>So you will talk to him? / No.</line>
-   <line>Hey,</line>
-   <line>I'm a heartless bastard, remember?</line>
-   <line>No, you're not.</line>
-   <line>You are too good to be true.</line>
-   <line>Kiddo, have a drink.</line>
-   <line>Lighten up.</line>
-   <line>That was the last time that I saw him.</line>
-   <line>I walked to the train and
+   <line type="dialogue">I personally guaranteed..</line>
+   <line type="dialogue">Don't promise things, kiddo.</line>
+   <line type="dialogue">Can you help him?</line>
+   <line type="dialogue">Please.</line>
+   <line type="dialogue">For me.</line>
+   <line type="dialogue">That's good.</line>
+   <line type="dialogue">Kip.</line>
+   <line type="dialogue">Going for the heart like that?</line>
+   <line type="dialogue">I actually have taught you something.</line>
+   <line type="dialogue">So you will talk to him? / No.</line>
+   <line type="dialogue">Hey,</line>
+   <line type="dialogue">I'm a heartless bastard, remember?</line>
+   <line type="dialogue">No, you're not.</line>
+   <line type="dialogue">You are too good to be true.</line>
+   <line type="dialogue">Kiddo, have a drink.</line>
+   <line type="dialogue">Lighten up.</line>
+   <line type="dialogue">That was the last time that I saw him.</line>
+   <line type="dialogue">I walked to the train and
 went to my mom's.</line>
-   <line>Danville sounds like he was telling the
+   <line type="dialogue">Danville sounds like he was telling the
 truth about being a heartless bastard, huh?</line>
-   <line>Nah, that was just his way.</line>
-   <line>He was training me to be like him.</line>
-   <line>Were you upset when he died?</line>
-   <line>Broken up.</line>
-   <line>Like I said,</line>
-   <line>he was trying to
+   <line type="dialogue">Nah, that was just his way.</line>
+   <line type="dialogue">He was training me to be like him.</line>
+   <line type="dialogue">Were you upset when he died?</line>
+   <line type="dialogue">Broken up.</line>
+   <line type="dialogue">Like I said,</line>
+   <line type="dialogue">he was trying to
 teach me to suceed.</line>
-   <line>Wasn't his fault I couldn't
+   <line type="dialogue">Wasn't his fault I couldn't
 cut it in his world.</line>
-   <line>These are records from the SEC.</line>
-   <line>About people invested
+   <line type="dialogue">These are records from the SEC.</line>
+   <line type="dialogue">About people invested
 in Navrax back in ' .</line>
-   <line>Most for a thousand bucks or so.</line>
-   <line>And only a dozen
+   <line type="dialogue">Most for a thousand bucks or so.</line>
+   <line type="dialogue">And only a dozen
 went in for grand.</line>
-   <line>Anyone with a record?</line>
-   <line>Yeah, one.
+   <line type="dialogue">Anyone with a record?</line>
+   <line type="dialogue">Yeah, one.
 Teddy Mars.</line>
-   <line>Served years for dealing
+   <line type="dialogue">Served years for dealing
 cocaine in the late ' 's.</line>
-   <line>And another three for manslaughter,
+   <line type="dialogue">And another three for manslaughter,
 broke a guy's neck in Frackville.</line>
-   <line>How does a ?? like Mars get into
+   <line type="dialogue">How does a ?? like Mars get into
 business with a highroller like Danville.</line>
-   <line>If he was selling
+   <line type="dialogue">If he was selling
 cocaine to Danville.</line>
-   <line>Danville was broke.</line>
-   <line>Maybe there was
+   <line type="dialogue">Danville was broke.</line>
+   <line type="dialogue">Maybe there was
 some bartering going on.</line>
-   <line>And cocaine for stocks?</line>
-   <line>And if those investments tanked?
+   <line type="dialogue">And cocaine for stocks?</line>
+   <line type="dialogue">And if those investments tanked?
 - Mars would come collecting.</line>
-   <line>The old fashioned way.</line>
-   <line>Check with his parole officer
+   <line type="dialogue">The old fashioned way.</line>
+   <line type="dialogue">Check with his parole officer
 see if he's got a good address.</line>
-   <line>Teddy Mars.</line>
-   <line>Wanna talk to you about
+   <line type="dialogue">Teddy Mars.</line>
+   <line type="dialogue">Wanna talk to you about
 Charles Danville.</line>
-   <line>You ain't Vice.</line>
-   <line>And you don't look like Narcs.</line>
-   <line>Homicide. / You invested grand in the
+   <line type="dialogue">You ain't Vice.</line>
+   <line type="dialogue">And you don't look like Narcs.</line>
+   <line type="dialogue">Homicide. / You invested grand in the
 complany Danville was selling called Navrax.</line>
-   <line>Hold up.</line>
-   <line>Let me get my lawyer down here.
+   <line type="dialogue">Hold up.</line>
+   <line type="dialogue">Let me get my lawyer down here.
 We can have a real nice pow wow,</line>
-   <line>just the four of us.</line>
-   <line>While you're on the line,
+   <line type="dialogue">just the four of us.</line>
+   <line type="dialogue">While you're on the line,
 we'll talk to your boys over there.</line>
-   <line>What boys?
+   <line type="dialogue">What boys?
 - The ones that are dealing for you?</line>
-   <line>You got me wrong detectives.</line>
-   <line>I'm an artist now.</line>
-   <line>Suit yourself, Teddy.</line>
-   <line>With what they're holding,
+   <line type="dialogue">You got me wrong detectives.</line>
+   <line type="dialogue">I'm an artist now.</line>
+   <line type="dialogue">Suit yourself, Teddy.</line>
+   <line type="dialogue">With what they're holding,
 you're coming with us.</line>
-   <line>So how'd you get
+   <line type="dialogue">So how'd you get
 involved with Danville?</line>
-   <line>That ain't a secret.</line>
-   <line>For a time I supplied
+   <line type="dialogue">That ain't a secret.</line>
+   <line type="dialogue">For a time I supplied
 all the joints in Market Street.</line>
-   <line>Including Arbitrage?
+   <line type="dialogue">Including Arbitrage?
 - Especially Arbitrage.</line>
-   <line>Them Brooks Brothers types
+   <line type="dialogue">Them Brooks Brothers types
 liked to party.</line>
-   <line>Teddy.</line>
-   <line>You should get on
+   <line type="dialogue">Teddy.</line>
+   <line type="dialogue">You should get on
 this Navrax.</line>
-   <line>Make some fortune.
+   <line type="dialogue">Make some fortune.
 - You wanna taste the merchandise?</line>
-   <line>How much for the whole ounce?</line>
-   <line>Boys deserve a treat.</line>
-   <line>Ounce is three grand.</line>
-   <line>You already owe me ten.</line>
-   <line>You know what,</line>
-   <line>I'm gonna cut you in on
+   <line type="dialogue">How much for the whole ounce?</line>
+   <line type="dialogue">Boys deserve a treat.</line>
+   <line type="dialogue">Ounce is three grand.</line>
+   <line type="dialogue">You already owe me ten.</line>
+   <line type="dialogue">You know what,</line>
+   <line type="dialogue">I'm gonna cut you in on
 this Navrax deal for thousand.</line>
-   <line>Couple of months,
+   <line type="dialogue">Couple of months,
 it'll be worth twice that,</line>
-   <line>Yeah, you do that.</line>
-   <line>After you pay me
+   <line type="dialogue">Yeah, you do that.</line>
+   <line type="dialogue">After you pay me
 the grand in cash.</line>
-   <line>I'll give that think through. / Teddy,</line>
-   <line>- this Navrax is like money in the bank.
+   <line type="dialogue">I'll give that think through. / Teddy,</line>
+   <line type="dialogue">- this Navrax is like money in the bank.
 - You don't got it, do you?</line>
-   <line>I'm offering you grand
+   <line type="dialogue">I'm offering you grand
 in bonds for .</line>
-   <line>Give me your Rolex.</line>
-   <line>Teddy, come on.</line>
-   <line>Imma take your watch</line>
-   <line>and your worthless paper.</line>
-   <line>But hours,</line>
-   <line>I want my K in cash.</line>
-   <line>So did you get your money?</line>
-   <line>Next day.</line>
-   <line>One of Charlie's boys
+   <line type="dialogue">Give me your Rolex.</line>
+   <line type="dialogue">Teddy, come on.</line>
+   <line type="dialogue">Imma take your watch</line>
+   <line type="dialogue">and your worthless paper.</line>
+   <line type="dialogue">But hours,</line>
+   <line type="dialogue">I want my K in cash.</line>
+   <line type="dialogue">So did you get your money?</line>
+   <line type="dialogue">Next day.</line>
+   <line type="dialogue">One of Charlie's boys
 delivered a briefcase full of green.</line>
-   <line>You happen to remember
+   <line type="dialogue">You happen to remember
 who gave you the money?</line>
-   <line>Yeah, the pretty boy.
+   <line type="dialogue">Yeah, the pretty boy.
 Beau something.</line>
-   <line>Look, if you don't believe me, ask him.</line>
-   <line>He'd tell you.
+   <line type="dialogue">Look, if you don't believe me, ask him.</line>
+   <line type="dialogue">He'd tell you.
 I got paid.</line>
-   <line>I didn't k*ll Charlie.
+   <line type="dialogue">I didn't k*ll Charlie.
 Cuz I had no reason to.</line>
-   <line>I may have met a Mr. Mars
+   <line type="dialogue">I may have met a Mr. Mars
 back in the ' 's.</line>
-   <line>I couldn't say for sure.</line>
-   <line>We're Homicide, Beau.</line>
-   <line>Not Narcotics.
+   <line type="dialogue">I couldn't say for sure.</line>
+   <line type="dialogue">We're Homicide, Beau.</line>
+   <line type="dialogue">Not Narcotics.
 - Or the SEC.</line>
-   <line>Well, then.</line>
-   <line>Hell, yeah, I remember Teddy.</line>
-   <line>He was our supplier.</line>
-   <line>Did Danville send you to him
+   <line type="dialogue">Well, then.</line>
+   <line type="dialogue">Hell, yeah, I remember Teddy.</line>
+   <line type="dialogue">He was our supplier.</line>
+   <line type="dialogue">Did Danville send you to him
 with a briefcase full of money?</line>
-   <line>Yeah.</line>
-   <line>And he was pissed about it too.</line>
-   <line>We were coining it on Navrax,</line>
-   <line>but Charlie hated to
+   <line type="dialogue">Yeah.</line>
+   <line type="dialogue">And he was pissed about it too.</line>
+   <line type="dialogue">We were coining it on Navrax,</line>
+   <line type="dialogue">but Charlie hated to
 part with the actual cash.</line>
-   <line>So why did he?</line>
-   <line>Cuz Charlie could take the heat
+   <line type="dialogue">So why did he?</line>
+   <line type="dialogue">Cuz Charlie could take the heat
 from the blue ?? ladies or ??.</line>
-   <line>But Teddy Mars was
+   <line type="dialogue">But Teddy Mars was
 a different story.</line>
-   <line>So you knew Danville was a swindler?</line>
-   <line>I looked the other way.</line>
-   <line>You any other investors that
+   <line type="dialogue">So you knew Danville was a swindler?</line>
+   <line type="dialogue">I looked the other way.</line>
+   <line type="dialogue">You any other investors that
 might want to see Danville dead?</line>
-   <line>Investors?</line>
-   <line>No.</line>
-   <line>Then who?</line>
-   <line>After I gave Teddy the cash,</line>
-   <line>I went back to Charlie to
+   <line type="dialogue">Investors?</line>
+   <line type="dialogue">No.</line>
+   <line type="dialogue">Then who?</line>
+   <line type="dialogue">After I gave Teddy the cash,</line>
+   <line type="dialogue">I went back to Charlie to
 return his Rolex.</line>
-   <line>Our brave boy,
+   <line type="dialogue">Our brave boy,
 back from the trenches.</line>
-   <line>The guy scared the piss out of me.</line>
-   <line>Sit down,
+   <line type="dialogue">The guy scared the piss out of me.</line>
+   <line type="dialogue">Sit down,
 take a load off.</line>
-   <line>Help yourself.</line>
-   <line>Thanks.</line>
-   <line>I got your watch back.</line>
-   <line>I want you to keep it.</line>
-   <line>Token of my appreciation.</line>
-   <line>Seriously.</line>
-   <line>You're the one, Beau.</line>
-   <line>You're the one who's
+   <line type="dialogue">Help yourself.</line>
+   <line type="dialogue">Thanks.</line>
+   <line type="dialogue">I got your watch back.</line>
+   <line type="dialogue">I want you to keep it.</line>
+   <line type="dialogue">Token of my appreciation.</line>
+   <line type="dialogue">Seriously.</line>
+   <line type="dialogue">You're the one, Beau.</line>
+   <line type="dialogue">You're the one who's
 gonna make it big.</line>
-   <line>I am? / I don't think
+   <line type="dialogue">I am? / I don't think
 the others have what it takes.</line>
-   <line>But you,</line>
-   <line>you know what it takes.</line>
-   <line>Don't you?</line>
-   <line>That's when I got out.</line>
-   <line>Danville hit on anyone else
+   <line type="dialogue">But you,</line>
+   <line type="dialogue">you know what it takes.</line>
+   <line type="dialogue">Don't you?</line>
+   <line type="dialogue">That's when I got out.</line>
+   <line type="dialogue">Danville hit on anyone else
 you know of?</line>
-   <line>He hit on all of us.</line>
-   <line>If you wanted to succeed with Charlie,
+   <line type="dialogue">He hit on all of us.</line>
+   <line type="dialogue">If you wanted to succeed with Charlie,
 you play by his rules.</line>
-   <line>And that meant sleeping with him?</line>
-   <line>If you wanted to get ahead,</line>
-   <line>that's what it meant.</line>
-   <line>Want a deal, Randy,
+   <line type="dialogue">And that meant sleeping with him?</line>
+   <line type="dialogue">If you wanted to get ahead,</line>
+   <line type="dialogue">that's what it meant.</line>
+   <line type="dialogue">Want a deal, Randy,
 you start talking.</line>
-   <line>And you tell all.
+   <line type="dialogue">And you tell all.
 No more saving for a rainy day.</line>
-   <line>Livermore didn't k*ll Danville.</line>
-   <line>I know what I heard.</line>
-   <line>You know what we heard?</line>
-   <line>Danville liked boys.</line>
-   <line>Young ones.
+   <line type="dialogue">Livermore didn't k*ll Danville.</line>
+   <line type="dialogue">I know what I heard.</line>
+   <line type="dialogue">You know what we heard?</line>
+   <line type="dialogue">Danville liked boys.</line>
+   <line type="dialogue">Young ones.
 Up-and-comers, like you.</line>
-   <line>He hit on you, Randy?
+   <line type="dialogue">He hit on you, Randy?
 Cuz he hit on Beau.</line>
-   <line>Yeah, but Beau didn't k*ll him.</line>
-   <line>He's got an alibi.</line>
-   <line>He was at his girlfriend's
+   <line type="dialogue">Yeah, but Beau didn't k*ll him.</line>
+   <line type="dialogue">He's got an alibi.</line>
+   <line type="dialogue">He was at his girlfriend's
 the night Danville got dead.</line>
-   <line>But you, you don't
+   <line type="dialogue">But you, you don't
 have a alibi, do you?</line>
-   <line>Wait a minute.
+   <line type="dialogue">Wait a minute.
 You think I k*lled Danville?</line>
-   <line>That's insane.</line>
-   <line>So, you like biting the pillow.</line>
-   <line>You didn't get horizontal
+   <line type="dialogue">That's insane.</line>
+   <line type="dialogue">So, you like biting the pillow.</line>
+   <line type="dialogue">You didn't get horizontal
 to make it to Homicide?</line>
-   <line>Guy's worthless.</line>
-   <line>This deal's off.</line>
-   <line>Okay, okay.
+   <line type="dialogue">Guy's worthless.</line>
+   <line type="dialogue">This deal's off.</line>
+   <line type="dialogue">Okay, okay.
 Cool your jets.</line>
-   <line>God.</line>
-   <line>Did I service Danville to get ahead?</line>
-   <line>Yeah, so what?</line>
-   <line>So maybe you felt
+   <line type="dialogue">God.</line>
+   <line type="dialogue">Did I service Danville to get ahead?</line>
+   <line type="dialogue">Yeah, so what?</line>
+   <line type="dialogue">So maybe you felt
 humiliated by that.</line>
-   <line>Decided to g*n down the man
+   <line type="dialogue">Decided to g*n down the man
 who made you catch for him.</line>
-   <line>I did what I had to do.</line>
-   <line>Big deal.
+   <line type="dialogue">I did what I had to do.</line>
+   <line type="dialogue">Big deal.
 - You got anything more on Danville,</line>
-   <line>you wanna say it right now, Randy.
+   <line type="dialogue">you wanna say it right now, Randy.
 Cuz your deal is going south, fast.</line>
-   <line>Okay.</line>
-   <line>All right.</line>
-   <line>This is the entire truth.</line>
-   <line>Well, that's big for Randy.</line>
-   <line>I met Danville earlier
+   <line type="dialogue">Okay.</line>
+   <line type="dialogue">All right.</line>
+   <line type="dialogue">This is the entire truth.</line>
+   <line type="dialogue">Well, that's big for Randy.</line>
+   <line type="dialogue">I met Danville earlier
 than I said before.</line>
-   <line>How much earlier?</line>
-   <line>Little more than a month
+   <line type="dialogue">How much earlier?</line>
+   <line type="dialogue">Little more than a month
 before he was k*lled.</line>
-   <line>You want a ride?</line>
-   <line>Hey, you're Charles Danville.</line>
-   <line>That's right.</line>
-   <line>And you work for Blaine &amp; Sons.</line>
-   <line>How do you know that?</line>
-   <line>I used to have a crappy
+   <line type="dialogue">You want a ride?</line>
+   <line type="dialogue">Hey, you're Charles Danville.</line>
+   <line type="dialogue">That's right.</line>
+   <line type="dialogue">And you work for Blaine &amp; Sons.</line>
+   <line type="dialogue">How do you know that?</line>
+   <line type="dialogue">I used to have a crappy
 umbrella just like that.</line>
-   <line>Hop in.</line>
-   <line>This is so cool.</line>
-   <line>Took me hard days
+   <line type="dialogue">Hop in.</line>
+   <line type="dialogue">This is so cool.</line>
+   <line type="dialogue">Took me hard days
 of work to afford it.</line>
-   <line>Do you think I'm kidding?</line>
-   <line>No.</line>
-   <line>You know, I used to work
+   <line type="dialogue">Do you think I'm kidding?</line>
+   <line type="dialogue">No.</line>
+   <line type="dialogue">You know, I used to work
 for a joint like Blaine.</line>
-   <line>Back in the day.
+   <line type="dialogue">Back in the day.
 - Seriously?</line>
-   <line>Till I wised up,
+   <line type="dialogue">Till I wised up,
 took some risks.</line>
-   <line>You a risk taker, uh..?</line>
-   <line>Randy.</line>
-   <line>Randy Price.</line>
-   <line>Yeah, I like risk.</line>
-   <line>Good, Randy.</line>
-   <line>Then I'm gonna
+   <line type="dialogue">You a risk taker, uh..?</line>
+   <line type="dialogue">Randy.</line>
+   <line type="dialogue">Randy Price.</line>
+   <line type="dialogue">Yeah, I like risk.</line>
+   <line type="dialogue">Good, Randy.</line>
+   <line type="dialogue">Then I'm gonna
 make you a proposition.</line>
-   <line>I'm gonna create a company
+   <line type="dialogue">I'm gonna create a company
 at thin air, sell the hell out of it.</line>
-   <line>Can you do that?</line>
-   <line>I'm Charles Danville.</line>
-   <line>I can do anything.</line>
-   <line>Still looking for a couple salesmen.</line>
-   <line>You know anyone
+   <line type="dialogue">Can you do that?</line>
+   <line type="dialogue">I'm Charles Danville.</line>
+   <line type="dialogue">I can do anything.</line>
+   <line type="dialogue">Still looking for a couple salesmen.</line>
+   <line type="dialogue">You know anyone
 who might be interested?</line>
-   <line>So Danville meeting you,</line>
-   <line>Kip and Beau at the Arbitrage,
+   <line type="dialogue">So Danville meeting you,</line>
+   <line type="dialogue">Kip and Beau at the Arbitrage,
 that was a setup?</line>
-   <line>Yep. Worked like a charm, too.</line>
-   <line>And Beau and Kip never knew
+   <line type="dialogue">Yep. Worked like a charm, too.</line>
+   <line type="dialogue">And Beau and Kip never knew
 Navrax was bogus?</line>
-   <line>Beau knew it was
+   <line type="dialogue">Beau knew it was
 a boiler room scam,</line>
-   <line>but he didn't care
+   <line type="dialogue">but he didn't care
 so long as he making out.</line>
-   <line>And Kip?</line>
-   <line>Kip was a fool.</line>
-   <line>Out of his depth.</line>
-   <line>Believed every word Danville said.</line>
-   <line>Why'd you keep
+   <line type="dialogue">And Kip?</line>
+   <line type="dialogue">Kip was a fool.</line>
+   <line type="dialogue">Out of his depth.</line>
+   <line type="dialogue">Believed every word Danville said.</line>
+   <line type="dialogue">Why'd you keep
 this from us, Randy?</line>
-   <line>Because it was a crooked deal.</line>
-   <line>And I'm facing charges of
+   <line type="dialogue">Because it was a crooked deal.</line>
+   <line type="dialogue">And I'm facing charges of
 invested fraud.</line>
-   <line>Okay, you know what,</line>
-   <line>I just remembered something.
+   <line type="dialogue">Okay, you know what,</line>
+   <line type="dialogue">I just remembered something.
 And this is good.</line>
-   <line>Hey, feel that?</line>
-   <line>It's raining again.</line>
-   <line>Kip Krowley the dummy,
+   <line type="dialogue">Hey, feel that?</line>
+   <line type="dialogue">It's raining again.</line>
+   <line type="dialogue">Kip Krowley the dummy,
 he got his mother to invest in Navrax</line>
-   <line>and she lost a bundle.</line>
-   <line>Oh we've seen the list of investors,
+   <line type="dialogue">and she lost a bundle.</line>
+   <line type="dialogue">Oh we've seen the list of investors,
 there's no Krowley.</line>
-   <line>No, Danville told me she invested.</line>
-   <line>He bragged about closing the deal.</line>
-   <line>Hey, your boyfriend in there
+   <line type="dialogue">No, Danville told me she invested.</line>
+   <line type="dialogue">He bragged about closing the deal.</line>
+   <line type="dialogue">Hey, your boyfriend in there
 was telling the truth.</line>
-   <line>It's too bad.</line>
-   <line>Kip's mum did invest in Navrax.</line>
-   <line>She went by Mavis Breen,
+   <line type="dialogue">It's too bad.</line>
+   <line type="dialogue">Kip's mum did invest in Navrax.</line>
+   <line type="dialogue">She went by Mavis Breen,
 not Krowley.</line>
-   <line>How much'd she drop? grand.</line>
-   <line>That's worth a conversation.</line>
-   <line>What? You got plans?</line>
-   <line>Kind of.</line>
-   <line>You got plans?</line>
-   <line>You kidding?
+   <line type="dialogue">How much'd she drop? grand.</line>
+   <line type="dialogue">That's worth a conversation.</line>
+   <line type="dialogue">What? You got plans?</line>
+   <line type="dialogue">Kind of.</line>
+   <line type="dialogue">You got plans?</line>
+   <line type="dialogue">You kidding?
 I'm married.</line>
-   <line>I'd take any excuse
+   <line type="dialogue">I'd take any excuse
 not to go home.</line>
-   <line>I wish you boys would've
+   <line type="dialogue">I wish you boys would've
 given me some warning.</line>
-   <line>Would've made myself presentable.</line>
-   <line>We just wanted to ask you
+   <line type="dialogue">Would've made myself presentable.</line>
+   <line type="dialogue">We just wanted to ask you
 about Navrax, Mrs. Breen.</line>
-   <line>Mavis, please.</line>
-   <line>I'm divorced.</line>
-   <line>Can you tell us how you came
+   <line type="dialogue">Mavis, please.</line>
+   <line type="dialogue">I'm divorced.</line>
+   <line type="dialogue">Can you tell us how you came
 to invest in the company, Mavis?</line>
-   <line>You'd have to
+   <line type="dialogue">You'd have to
 ask Kip about Navrax.</line>
-   <line>Well, we'd rather talk to you.</line>
-   <line>Kip isn't in any trouble, is he?</line>
-   <line>Cuz if he is,
+   <line type="dialogue">Well, we'd rather talk to you.</line>
+   <line type="dialogue">Kip isn't in any trouble, is he?</line>
+   <line type="dialogue">Cuz if he is,
 it's my fault.</line>
-   <line>And how does that work?</line>
-   <line>Well, when it comes to men,</line>
-   <line>I make terrible choices.</line>
-   <line>And poor Kip had to suffer
+   <line type="dialogue">And how does that work?</line>
+   <line type="dialogue">Well, when it comes to men,</line>
+   <line type="dialogue">I make terrible choices.</line>
+   <line type="dialogue">And poor Kip had to suffer
 through my divorces ??</line>
-   <line>all four of them.</line>
-   <line>So, about Navrax,</line>
-   <line>Kip told you to invest?</line>
-   <line>He knew I had some money in
+   <line type="dialogue">all four of them.</line>
+   <line type="dialogue">So, about Navrax,</line>
+   <line type="dialogue">Kip told you to invest?</line>
+   <line type="dialogue">He knew I had some money in
 the bank from my last settlement.</line>
-   <line>He just wanted to help me grow it.</line>
-   <line>Did you ever meet Charles Danville?</line>
-   <line>He took Kip and me to dinner.</line>
-   <line>You know, to make his pitch.</line>
-   <line>Chin chin.</line>
-   <line>What is this?</line>
-   <line>Well, that is called sushi, Ms. Breen.</line>
-   <line>Oh, it's Mavis.</line>
-   <line>Why isn't it cooked?</line>
-   <line>Oh, it's cutting edge.</line>
-   <line>Raw's the next big thing.</line>
-   <line>Well, I prefer chicken teriyaki.</line>
-   <line>Mum., Charlie has a great
+   <line type="dialogue">He just wanted to help me grow it.</line>
+   <line type="dialogue">Did you ever meet Charles Danville?</line>
+   <line type="dialogue">He took Kip and me to dinner.</line>
+   <line type="dialogue">You know, to make his pitch.</line>
+   <line type="dialogue">Chin chin.</line>
+   <line type="dialogue">What is this?</line>
+   <line type="dialogue">Well, that is called sushi, Ms. Breen.</line>
+   <line type="dialogue">Oh, it's Mavis.</line>
+   <line type="dialogue">Why isn't it cooked?</line>
+   <line type="dialogue">Oh, it's cutting edge.</line>
+   <line type="dialogue">Raw's the next big thing.</line>
+   <line type="dialogue">Well, I prefer chicken teriyaki.</line>
+   <line type="dialogue">Mum., Charlie has a great
 investment opportunity for you.</line>
-   <line>It's a company called Navrax, Mavis.</line>
-   <line>High tech.</line>
-   <line>Japanese are interested
+   <line type="dialogue">It's a company called Navrax, Mavis.</line>
+   <line type="dialogue">High tech.</line>
+   <line type="dialogue">Japanese are interested
 in investing, right, Charlie?</line>
-   <line>But I promise you
+   <line type="dialogue">But I promise you
 it has nothing to do with sushi.</line>
-   <line>Charlie's a genious, mum.</line>
-   <line>He's a senior VP at Collins Brothers.</line>
-   <line>I've heard of Collins Brothers.</line>
-   <line>I'm old news.</line>
-   <line>Kip here is the future.</line>
-   <line>No thanks to you, huh?</line>
-   <line>I may have helped out a little bit.</line>
-   <line>Charlie is my mentor, mum.</line>
-   <line>You flatter me, kiddo.</line>
-   <line>I certainly appreciate
+   <line type="dialogue">Charlie's a genious, mum.</line>
+   <line type="dialogue">He's a senior VP at Collins Brothers.</line>
+   <line type="dialogue">I've heard of Collins Brothers.</line>
+   <line type="dialogue">I'm old news.</line>
+   <line type="dialogue">Kip here is the future.</line>
+   <line type="dialogue">No thanks to you, huh?</line>
+   <line type="dialogue">I may have helped out a little bit.</line>
+   <line type="dialogue">Charlie is my mentor, mum.</line>
+   <line type="dialogue">You flatter me, kiddo.</line>
+   <line type="dialogue">I certainly appreciate
 your taking interest in my boy.</line>
-   <line>But when it comes to investing,
+   <line type="dialogue">But when it comes to investing,
 I'm all for cautious.</line>
-   <line>Well, your mum's just my lady, Kip.</line>
-   <line>It's obviously going
+   <line type="dialogue">Well, your mum's just my lady, Kip.</line>
+   <line type="dialogue">It's obviously going
 to take more than one dinner</line>
-   <line>to get her to see the
+   <line type="dialogue">to get her to see the
 wisdom of investing.</line>
-   <line>So, Danville convinced you?</line>
-   <line>Eventually.</line>
-   <line>I really invested for Kip's sake.</line>
-   <line>You know, to help
+   <line type="dialogue">So, Danville convinced you?</line>
+   <line type="dialogue">Eventually.</line>
+   <line type="dialogue">I really invested for Kip's sake.</line>
+   <line type="dialogue">You know, to help
 advance his career.</line>
-   <line>Lot of good that did.</line>
-   <line>You must've been pretty angry
+   <line type="dialogue">Lot of good that did.</line>
+   <line type="dialogue">You must've been pretty angry
 losing all that money.</line>
-   <line>Furious.
+   <line type="dialogue">Furious.
 - How about Kip?</line>
-   <line>He was devastated.</line>
-   <line>He really believed in that Danville.</line>
-   <line>So in your defense,
+   <line type="dialogue">He was devastated.</line>
+   <line type="dialogue">He really believed in that Danville.</line>
+   <line type="dialogue">So in your defense,
 he took revenge on Danville.</line>
-   <line>Oh no, my Kip couldn't hurt a fly.</line>
-   <line>Me, on the other hand,</line>
-   <line>I wanted to string Danville
+   <line type="dialogue">Oh no, my Kip couldn't hurt a fly.</line>
+   <line type="dialogue">Me, on the other hand,</line>
+   <line type="dialogue">I wanted to string Danville
 up by his lying neck.</line>
-   <line>But of course I didn't.</line>
-   <line>Man was dad
+   <line type="dialogue">But of course I didn't.</line>
+   <line type="dialogue">Man was dad
 before I could buy a rope.</line>
-   <line>Your friend Price is a real prince.</line>
-   <line>He's my brother's friend.</line>
-   <line>And he's always been a low life.</line>
-   <line>Well, he's saint
+   <line type="dialogue">Your friend Price is a real prince.</line>
+   <line type="dialogue">He's my brother's friend.</line>
+   <line type="dialogue">And he's always been a low life.</line>
+   <line type="dialogue">Well, he's saint
 compared to Danville.</line>
-   <line>That's the j.o.b.</line>
-   <line>We don't get to pick our victims.</line>
-   <line>So, you</line>
-   <line>wanna go see another
+   <line type="dialogue">That's the j.o.b.</line>
+   <line type="dialogue">We don't get to pick our victims.</line>
+   <line type="dialogue">So, you</line>
+   <line type="dialogue">wanna go see another
 movie tomorrow night?</line>
-   <line>It's first Thursdays, tomorrow.</line>
-   <line>First what?</line>
-   <line>First Thursday of every month,
+   <line type="dialogue">It's first Thursdays, tomorrow.</line>
+   <line type="dialogue">First what?</line>
+   <line type="dialogue">First Thursday of every month,
 the homicide detectives get together,</line>
-   <line>To do what?</line>
-   <line>Talk.</line>
-   <line>Drink.</line>
-   <line>Sounds fun,
+   <line type="dialogue">To do what?</line>
+   <line type="dialogue">Talk.</line>
+   <line type="dialogue">Drink.</line>
+   <line type="dialogue">Sounds fun,
 bring me along.</line>
-   <line>I don't know, Kite.</line>
-   <line>You're not in the Hat Squad.</line>
-   <line>You guys have more weird
+   <line type="dialogue">I don't know, Kite.</line>
+   <line type="dialogue">You're not in the Hat Squad.</line>
+   <line type="dialogue">You guys have more weird
 names for yourselves.</line>
-   <line>It's usually just cops.</line>
-   <line>Well, I'm a friend of a cop.</line>
-   <line>You wanna see the girls?</line>
-   <line>Met your mum, Kip.</line>
-   <line>You did. / Heard how she lost
+   <line type="dialogue">It's usually just cops.</line>
+   <line type="dialogue">Well, I'm a friend of a cop.</line>
+   <line type="dialogue">You wanna see the girls?</line>
+   <line type="dialogue">Met your mum, Kip.</line>
+   <line type="dialogue">You did. / Heard how she lost
 a cool K to Navrax.</line>
-   <line>Oh boy. / You forgot to
+   <line type="dialogue">Oh boy. / You forgot to
 mention that to us, did ya.</line>
-   <line>Well, I didn't tell you because I thought
+   <line type="dialogue">Well, I didn't tell you because I thought
 it would look like I k*lled Charlie.</line>
-   <line>It does.
+   <line type="dialogue">It does.
 - And that's just the half of it.</line>
-   <line>What do you mean?
+   <line type="dialogue">What do you mean?
 - Randy Price, Beau Munger,</line>
-   <line>they say Danville was
+   <line type="dialogue">they say Danville was
 a sexual predator.</line>
-   <line>They said that?</line>
-   <line>Come on, Kip.
+   <line type="dialogue">They said that?</line>
+   <line type="dialogue">Come on, Kip.
 Quit the act.</line>
-   <line>You worshipped Danville.</line>
-   <line>Not only did he use you
+   <line type="dialogue">You worshipped Danville.</line>
+   <line type="dialogue">Not only did he use you
 to get to your mum's money..</line>
-   <line>He hit on you too.</line>
-   <line>No.</line>
-   <line>That's not how it went.</line>
-   <line>You really think I should buy it?</line>
-   <line>Hell yes, I think you should buy it.</line>
-   <line>Maybe I should save the money
+   <line type="dialogue">He hit on you too.</line>
+   <line type="dialogue">No.</line>
+   <line type="dialogue">That's not how it went.</line>
+   <line type="dialogue">You really think I should buy it?</line>
+   <line type="dialogue">Hell yes, I think you should buy it.</line>
+   <line type="dialogue">Maybe I should save the money
 that we're making off Navrax.</line>
-   <line>No, no, kiddo.</line>
-   <line>There's plenty more
+   <line type="dialogue">No, no, kiddo.</line>
+   <line type="dialogue">There's plenty more
 where that came from.</line>
-   <line>I do love it.
+   <line type="dialogue">I do love it.
 - Then buy it.</line>
-   <line>You derserve it. / Yeah?</line>
-   <line>I'm really proud of you, you know.</line>
-   <line>You've come a long way.</line>
-   <line>I don't know.</line>
-   <line>Hey, kiddo,
+   <line type="dialogue">You derserve it. / Yeah?</line>
+   <line type="dialogue">I'm really proud of you, you know.</line>
+   <line type="dialogue">You've come a long way.</line>
+   <line type="dialogue">I don't know.</line>
+   <line type="dialogue">Hey, kiddo,
 you stick with me.</line>
-   <line>You're gonna rule
+   <line type="dialogue">You're gonna rule
 Market Street one day.</line>
-   <line>Follow right in my footsteps.</line>
-   <line>Come on, kiddo.
+   <line type="dialogue">Follow right in my footsteps.</line>
+   <line type="dialogue">Come on, kiddo.
 Let's grab the bull by its horns.</line>
-   <line>Okay.</line>
-   <line>I gotta tell you something.</line>
-   <line>The car's not the
+   <line type="dialogue">Okay.</line>
+   <line type="dialogue">I gotta tell you something.</line>
+   <line type="dialogue">The car's not the
 only thing that I love.</line>
-   <line>I love you, too.</line>
-   <line>I love you, too, kiddo.</line>
-   <line>No, I mean</line>
-   <line>I really love you.</line>
-   <line>Charlie didn't hit on me.</line>
-   <line>I hit on him.</line>
-   <line>Now that must've surprised Danville.</line>
-   <line>He was surprised.</line>
-   <line>But then we fell in love.</line>
-   <line>You buy that Mustang?</line>
-   <line>Yeah.</line>
-   <line>Charlie and I drove
+   <line type="dialogue">I love you, too.</line>
+   <line type="dialogue">I love you, too, kiddo.</line>
+   <line type="dialogue">No, I mean</line>
+   <line type="dialogue">I really love you.</line>
+   <line type="dialogue">Charlie didn't hit on me.</line>
+   <line type="dialogue">I hit on him.</line>
+   <line type="dialogue">Now that must've surprised Danville.</line>
+   <line type="dialogue">He was surprised.</line>
+   <line type="dialogue">But then we fell in love.</line>
+   <line type="dialogue">You buy that Mustang?</line>
+   <line type="dialogue">Yeah.</line>
+   <line type="dialogue">Charlie and I drove
 all over town in it.</line>
-   <line>I wanted to spend the rest
+   <line type="dialogue">I wanted to spend the rest
 of my life with him.</line>
-   <line>So the thought of me k*lling him is so crazy.</line>
-   <line>I loved him,</line>
-   <line>I still do.</line>
-   <line>Yeah, Kip said he took trains to
+   <line type="dialogue">So the thought of me k*lling him is so crazy.</line>
+   <line type="dialogue">I loved him,</line>
+   <line type="dialogue">I still do.</line>
+   <line type="dialogue">Yeah, Kip said he took trains to
 his mum's the night, Danville died.</line>
-   <line>Yeah.
+   <line type="dialogue">Yeah.
 - There's a reason.</line>
-   <line>I ran all the car jackings
+   <line type="dialogue">I ran all the car jackings
 in June of ' ,</line>
-   <line>no mustang is stole in Philly.</line>
-   <line>But in Montgomery county
+   <line type="dialogue">no mustang is stole in Philly.</line>
+   <line type="dialogue">But in Montgomery county
 where Kip's mum lived..</line>
-   <line>Cherry red mustang?
+   <line type="dialogue">Cherry red mustang?
 - Junked and stripped.</line>
-   <line>Guess where?
+   <line type="dialogue">Guess where?
 - Ardmore.</line>
-   <line>Just like all the other
+   <line type="dialogue">Just like all the other
 car jackings.</line>
-   <line>Including Danville's Delorean.</line>
-   <line>Pretty amazing coincidence.</line>
-   <line>How'd they miss this in ' ?</line>
-   <line>Montgomery County and Philly
+   <line type="dialogue">Including Danville's Delorean.</line>
+   <line type="dialogue">Pretty amazing coincidence.</line>
+   <line type="dialogue">How'd they miss this in ' ?</line>
+   <line type="dialogue">Montgomery County and Philly
 were like two separate countries, Scotty.</line>
-   <line>So maybe Kip's playing us
+   <line type="dialogue">So maybe Kip's playing us
 using love as a alibi.</line>
-   <line>Let's bring the math teacher
+   <line type="dialogue">Let's bring the math teacher
 in this time.</line>
-   <line>See whether he likes our house.</line>
-   <line>This is wrong.</line>
-   <line>Why are you doing this to me?</line>
-   <line>He's excellent.
+   <line type="dialogue">See whether he likes our house.</line>
+   <line type="dialogue">This is wrong.</line>
+   <line type="dialogue">Why are you doing this to me?</line>
+   <line type="dialogue">He's excellent.
 - Sure you don't teach drama?</line>
-   <line>I'm telling you the truth.</line>
-   <line>I didn't k*ll Charlie.
+   <line type="dialogue">I'm telling you the truth.</line>
+   <line type="dialogue">I didn't k*ll Charlie.
 Why do you think that?</line>
-   <line>Well, cuz your precious
+   <line type="dialogue">Well, cuz your precious
 cherry red Mustang was car jacked</line>
-   <line>a few days before Charlie was k*lled.</line>
-   <line>So you knew exactly how
+   <line type="dialogue">a few days before Charlie was k*lled.</line>
+   <line type="dialogue">So you knew exactly how
 to cover up a m*rder</line>
-   <line>and make it look like
+   <line type="dialogue">and make it look like
 a car jacking.</line>
-   <line>Was it spur of the moment, Kip,
+   <line type="dialogue">Was it spur of the moment, Kip,
 or premeditated?</line>
-   <line>I left Charlie at the Arbitrage alive</line>
-   <line>and then I went to the train station
+   <line type="dialogue">I left Charlie at the Arbitrage alive</line>
+   <line type="dialogue">and then I went to the train station
 jsut like I told you.</line>
-   <line>I believe you left the bar, Kip.</line>
-   <line>Then you waited outside for
+   <line type="dialogue">I believe you left the bar, Kip.</line>
+   <line type="dialogue">Then you waited outside for
 Danville to leave.</line>
-   <line>Shot him twice and took off
+   <line type="dialogue">Shot him twice and took off
 in his Delorean.</line>
-   <line>No, that's not what happened.
+   <line type="dialogue">No, that's not what happened.
 - So what did happen?</line>
-   <line>The night he was k*lled I,</line>
-   <line>I kept at him.</line>
-   <line>I confronted him one last time.</line>
-   <line>Charlie.</line>
-   <line>We're having
+   <line type="dialogue">The night he was k*lled I,</line>
+   <line type="dialogue">I kept at him.</line>
+   <line type="dialogue">I confronted him one last time.</line>
+   <line type="dialogue">Charlie.</line>
+   <line type="dialogue">We're having
 a conversation here, Kip.</line>
-   <line>I'm not leaving till we talk.</line>
-   <line>What's bothering you now?</line>
-   <line>If you won't help Livermore..
+   <line type="dialogue">I'm not leaving till we talk.</line>
+   <line type="dialogue">What's bothering you now?</line>
+   <line type="dialogue">If you won't help Livermore..
 - Get over Livermore.</line>
-   <line>At least tell me that the
+   <line type="dialogue">At least tell me that the
 thousand my mum invested,</line>
-   <line>you're not gonna scam her too.</line>
-   <line>Your mum already received
+   <line type="dialogue">you're not gonna scam her too.</line>
+   <line type="dialogue">Your mum already received
 a return on her investment.</line>
-   <line>What do you mean?</line>
-   <line>Ask her.</line>
-   <line>Charlie, you're really
+   <line type="dialogue">What do you mean?</line>
+   <line type="dialogue">Ask her.</line>
+   <line type="dialogue">Charlie, you're really
 confusing me here.</line>
-   <line>Is, is my mother gonna get
+   <line type="dialogue">Is, is my mother gonna get
 her money back or not?</line>
-   <line>No, Kip.</line>
-   <line>She's not.</line>
-   <line>But she's my mother.</line>
-   <line>And she is not some stranger
+   <line type="dialogue">No, Kip.</line>
+   <line type="dialogue">She's not.</line>
+   <line type="dialogue">But she's my mother.</line>
+   <line type="dialogue">And she is not some stranger
 like Livermore.</line>
-   <line>I thought that you cared
+   <line type="dialogue">I thought that you cared
 about us, I mean me.</line>
-   <line>I do, kiddo.</line>
-   <line>That's why you need to listen
+   <line type="dialogue">I do, kiddo.</line>
+   <line type="dialogue">That's why you need to listen
 to me very closely.</line>
-   <line>This game ain't for you.
+   <line type="dialogue">This game ain't for you.
 Get out while you're still young.</line>
-   <line>Go back to the sticks.</line>
-   <line>Become a librarian.</line>
-   <line>Something more your speed.</line>
-   <line>You're kidding, right?</line>
-   <line>I wanted to help you
+   <line type="dialogue">Go back to the sticks.</line>
+   <line type="dialogue">Become a librarian.</line>
+   <line type="dialogue">Something more your speed.</line>
+   <line type="dialogue">You're kidding, right?</line>
+   <line type="dialogue">I wanted to help you
 but you're just not catching on.</line>
-   <line>Charlie.
+   <line type="dialogue">Charlie.
 - It's over.</line>
-   <line>No sale.
+   <line type="dialogue">No sale.
 - But I love you.</line>
-   <line>Sorry.</line>
-   <line>So long, kiddo.</line>
-   <line>I left there crying like a baby.</line>
-   <line>Never saw Charlie again.</line>
-   <line>Says you.</line>
-   <line>I went to my mum's.</line>
-   <line>Like I told you.</line>
-   <line>When it comes to alibis,</line>
-   <line>a mother's pretty close to worthless.</line>
-   <line>I can't confess to
+   <line type="dialogue">Sorry.</line>
+   <line type="dialogue">So long, kiddo.</line>
+   <line type="dialogue">I left there crying like a baby.</line>
+   <line type="dialogue">Never saw Charlie again.</line>
+   <line type="dialogue">Says you.</line>
+   <line type="dialogue">I went to my mum's.</line>
+   <line type="dialogue">Like I told you.</line>
+   <line type="dialogue">When it comes to alibis,</line>
+   <line type="dialogue">a mother's pretty close to worthless.</line>
+   <line type="dialogue">I can't confess to
 a m*rder I didn't commit.</line>
-   <line>Why don't you believe me?</line>
-   <line>What are you doing here?</line>
-   <line>Kip's in custody for m*rder
+   <line type="dialogue">Why don't you believe me?</line>
+   <line type="dialogue">What are you doing here?</line>
+   <line type="dialogue">Kip's in custody for m*rder
 of Charles Danville, Mavis.</line>
-   <line>Oh no.</line>
-   <line>No, that's not right.</line>
-   <line>Kip did not do anything.</line>
-   <line>We know about Kip's car
+   <line type="dialogue">Oh no.</line>
+   <line type="dialogue">No, that's not right.</line>
+   <line type="dialogue">Kip did not do anything.</line>
+   <line type="dialogue">We know about Kip's car
 getting jacked.</line>
-   <line>So what?</line>
-   <line>That doesn't prove anything.</line>
-   <line>So you knew about that, too.</line>
-   <line>Well, of course I knew.</line>
-   <line>Mavis, there are ways of tesifying
+   <line type="dialogue">So what?</line>
+   <line type="dialogue">That doesn't prove anything.</line>
+   <line type="dialogue">So you knew about that, too.</line>
+   <line type="dialogue">Well, of course I knew.</line>
+   <line type="dialogue">Mavis, there are ways of tesifying
 that you could help Kip,</line>
-   <line>reduce his sentence.</line>
-   <line>He seems like a decent guy
+   <line type="dialogue">reduce his sentence.</line>
+   <line type="dialogue">He seems like a decent guy
 jury will respond to that.</line>
-   <line>Seems?</line>
-   <line>That boy's an angel.</line>
-   <line>All the same,
+   <line type="dialogue">Seems?</line>
+   <line type="dialogue">That boy's an angel.</line>
+   <line type="dialogue">All the same,
 he k*lled a man in cold blood.</line>
-   <line>And left him to die in the road.</line>
-   <line>That boy is an angel.</line>
-   <line>And,</line>
-   <line>and Danville</line>
-   <line>was the devil.</line>
-   <line>I'm sorry, mum.</line>
-   <line>So sorry.</line>
-   <line>I don't care about the money.</line>
-   <line>I loved him.</line>
-   <line>I know.</line>
-   <line>Mum,</line>
-   <line>I really, really loved him.</line>
-   <line>You mean,</line>
-   <line>you and him?</line>
-   <line>Yeah.</line>
-   <line>God, he used me and
+   <line type="dialogue">And left him to die in the road.</line>
+   <line type="dialogue">That boy is an angel.</line>
+   <line type="dialogue">And,</line>
+   <line type="dialogue">and Danville</line>
+   <line type="dialogue">was the devil.</line>
+   <line type="dialogue">I'm sorry, mum.</line>
+   <line type="dialogue">So sorry.</line>
+   <line type="dialogue">I don't care about the money.</line>
+   <line type="dialogue">I loved him.</line>
+   <line type="dialogue">I know.</line>
+   <line type="dialogue">Mum,</line>
+   <line type="dialogue">I really, really loved him.</line>
+   <line type="dialogue">You mean,</line>
+   <line type="dialogue">you and him?</line>
+   <line type="dialogue">Yeah.</line>
+   <line type="dialogue">God, he used me and
 spit me out like I'm nothing.</line>
-   <line>He told me that I was..</line>
-   <line>I wasn't cut out for the business
+   <line type="dialogue">He told me that I was..</line>
+   <line type="dialogue">I wasn't cut out for the business
 and just go back to the vegetable patch.</line>
-   <line>It's okay.</line>
-   <line>It's okay, baby.</line>
-   <line>It's okay.</line>
-   <line>Hello, Charlie.</line>
-   <line>Mavis.</line>
-   <line>What are you doing here?</line>
-   <line>Called the bar,</line>
-   <line>made sure you were
+   <line type="dialogue">It's okay.</line>
+   <line type="dialogue">It's okay, baby.</line>
+   <line type="dialogue">It's okay.</line>
+   <line type="dialogue">Hello, Charlie.</line>
+   <line type="dialogue">Mavis.</line>
+   <line type="dialogue">What are you doing here?</line>
+   <line type="dialogue">Called the bar,</line>
+   <line type="dialogue">made sure you were
 still here and sauced.</line>
-   <line>What do you want?</line>
-   <line>You. / Again?</line>
-   <line>I didn't give you enough
+   <line type="dialogue">What do you want?</line>
+   <line type="dialogue">You. / Again?</line>
+   <line type="dialogue">I didn't give you enough
 of the workout last night?</line>
-   <line>Yeah. That was a business.</line>
-   <line>You had to close a deal.</line>
-   <line>What, are you sore
+   <line type="dialogue">Yeah. That was a business.</line>
+   <line type="dialogue">You had to close a deal.</line>
+   <line type="dialogue">What, are you sore
 about the money?</line>
-   <line>Forget the money.</line>
-   <line>I want you.</line>
-   <line>Look, Mavis, I'm a little tired.</line>
-   <line>Im an adult,</line>
-   <line>I got no one but myself to blame</line>
-   <line>for sleeping with
+   <line type="dialogue">Forget the money.</line>
+   <line type="dialogue">I want you.</line>
+   <line type="dialogue">Look, Mavis, I'm a little tired.</line>
+   <line type="dialogue">Im an adult,</line>
+   <line type="dialogue">I got no one but myself to blame</line>
+   <line type="dialogue">for sleeping with
 a cold blooded reptile like you.</line>
-   <line>But Kip's just a kid.</line>
-   <line>He's in his 's.
+   <line type="dialogue">But Kip's just a kid.</line>
+   <line type="dialogue">He's in his 's.
 - He's a baby.</line>
-   <line>Look, why don't you just
+   <line type="dialogue">Look, why don't you just
 put the g*n away. Okay?</line>
-   <line>We'll talk the whole thing through.</line>
-   <line>Sleep with a mother and her son?</line>
-   <line>This is low as it gets.</line>
-   <line>Kip doesn't have to know.
+   <line type="dialogue">We'll talk the whole thing through.</line>
+   <line type="dialogue">Sleep with a mother and her son?</line>
+   <line type="dialogue">This is low as it gets.</line>
+   <line type="dialogue">Kip doesn't have to know.
 - He's never gonna know anything.</line>
-   <line>Just think you got what was
+   <line type="dialogue">Just think you got what was
 coming to ya</line>
-   <line>Kiddo.</line>
+   <line type="dialogue">Kiddo.</line>
    <line type="music">♪ Cyndi LauperÀÇ 'All Through The Night' ♪</line>
    <line type="music">♪ All through the night ♪</line>
    <line type="music">♪ I'll be awake and i'll be with you ♪</line>
