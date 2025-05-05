@@ -1,924 +1,925 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNG/TrueCrimeRelaxNG.rnc" type="application/relax-ng-compact-syntax"?>
 <transcript>
-   <line>Keep those arms out of that water, private.
+   <line type="dialogue">Keep those arms out of that water, private.
 - May , -</line>
-   <line>I do not want to see your elbows touch.</line>
-   <line>Do you understand?</line>
-   <line>Sir, I can't...</line>
-   <line>Can't?</line>
-   <line>Can't is not in your vocabulary.</line>
-   <line>Failure is not an option.</line>
-   <line>Failure is not an option, Private Kasher.</line>
-   <line>Do you understand me?</line>
-   <line>Sir, yes, sir.</line>
-   <line>seconds.</line>
-   <line>Go. , ,</line>
-   <line>Private Kasher?</line>
-   <line>Private Kasher!</line>
-   <line>Private kasher?</line>
-   <line>The tenth time you checked that thing.</line>
-   <line>Oh, she was supposed to call at : .</line>
-   <line>Elisa.</line>
-   <line>It's : .
+   <line type="dialogue">I do not want to see your elbows touch.</line>
+   <line type="dialogue">Do you understand?</line>
+   <line type="dialogue">Sir, I can't...</line>
+   <line type="dialogue">Can't?</line>
+   <line type="dialogue">Can't is not in your vocabulary.</line>
+   <line type="dialogue">Failure is not an option.</line>
+   <line type="dialogue">Failure is not an option, Private Kasher.</line>
+   <line type="dialogue">Do you understand me?</line>
+   <line type="dialogue">Sir, yes, sir.</line>
+   <line type="dialogue">seconds.</line>
+   <line type="dialogue">Go. , ,</line>
+   <line type="dialogue">Private Kasher?</line>
+   <line type="dialogue">Private Kasher!</line>
+   <line type="dialogue">Private kasher?</line>
+   <line type="dialogue">The tenth time you checked that thing.</line>
+   <line type="dialogue">Oh, she was supposed to call at : .</line>
+   <line type="dialogue">Elisa.</line>
+   <line type="dialogue">It's : .
 - Well, she's seven minutes late.</line>
-   <line>That a regular thing?</line>
-   <line>Elisa calling in?
+   <line type="dialogue">That a regular thing?</line>
+   <line type="dialogue">Elisa calling in?
 - No, no. It's a...</line>
-   <line>Yeah. I mean...</line>
-   <line>and then I don't know.</line>
-   <line>I don't know what's happening.</line>
-   <line>Where were you?</line>
-   <line>Lil, questioned documents kicked
+   <line type="dialogue">Yeah. I mean...</line>
+   <line type="dialogue">and then I don't know.</line>
+   <line type="dialogue">I don't know what's happening.</line>
+   <line type="dialogue">Where were you?</line>
+   <line type="dialogue">Lil, questioned documents kicked
 this one over.</line>
-   <line>Want us to take a look.
+   <line type="dialogue">Want us to take a look.
 - Cold job?</line>
-   <line>Doesn't match any live ones.</line>
-   <line>It was mailed anonymously into homicide.</line>
-   <line>Letterhead's from the Wilkes
+   <line type="dialogue">Doesn't match any live ones.</line>
+   <line type="dialogue">It was mailed anonymously into homicide.</line>
+   <line type="dialogue">Letterhead's from the Wilkes
 military academy for boys.</line>
-   <line>The boot camp boarding school
+   <line type="dialogue">The boot camp boarding school
 in Roxborough?</line>
-   <line>Mm-hmm. State run,
+   <line type="dialogue">Mm-hmm. State run,
 scared straight central.</line>
-   <line>Parents who can't control their
+   <line type="dialogue">Parents who can't control their
 bad boys, dump them there.</line>
-   <line>What is it?
+   <line type="dialogue">What is it?
 - Some kind of list.</line>
-   <line>The plan."</line>
-   <line>Number one: Ignore."</line>
-   <line>Number two: Reward."
+   <line type="dialogue">The plan."</line>
+   <line type="dialogue">Number one: Ignore."</line>
+   <line type="dialogue">Number two: Reward."
 "Number three: Secret."</line>
-   <line>Number four: Test."
+   <line type="dialogue">Number four: Test."
 "Number five: Escalate."</line>
-   <line>Six..."</line>
-   <line>Destroy."</line>
-   <line>What the hell.</line>
-   <line>It could be some kind of shorthand?</line>
-   <line>Question is, what for?</line>
-   <line>Mailed into homicide.
+   <line type="dialogue">Six..."</line>
+   <line type="dialogue">Destroy."</line>
+   <line type="dialogue">What the hell.</line>
+   <line type="dialogue">It could be some kind of shorthand?</line>
+   <line type="dialogue">Question is, what for?</line>
+   <line type="dialogue">Mailed into homicide.
 What else?</line>
-   <line>Documents went over it?
+   <line type="dialogue">Documents went over it?
 - No fingerprints.</line>
-   <line>Sender didn't even spit on the seal.</line>
-   <line>May , ."</line>
-   <line>- "Nash."
+   <line type="dialogue">Sender didn't even spit on the seal.</line>
+   <line type="dialogue">May , ."</line>
+   <line type="dialogue">- "Nash."
 - Well, maybe Nash is the writer.</line>
-   <line>Or the victim.</line>
-   <line>So the doer's feeling the guilt.
+   <line type="dialogue">Or the victim.</line>
+   <line type="dialogue">So the doer's feeling the guilt.
 Mails it in.</line>
-   <line>Or some bystander finds it.</line>
-   <line>Wants to do the right thing.</line>
-   <line>It could be a frame job.</line>
-   <line>Why send it five years after the fact?</line>
-   <line>The problem is we got no murders</line>
-   <line>under hundred some years Wilkes
+   <line type="dialogue">Or some bystander finds it.</line>
+   <line type="dialogue">Wants to do the right thing.</line>
+   <line type="dialogue">It could be a frame job.</line>
+   <line type="dialogue">Why send it five years after the fact?</line>
+   <line type="dialogue">The problem is we got no murders</line>
+   <line type="dialogue">under hundred some years Wilkes
 military academy's been around.</line>
-   <line>No body with a Nash toe tag...</line>
-   <line>It wasn't classified as a homicide.</line>
-   <line>Accidental death.
+   <line type="dialogue">No body with a Nash toe tag...</line>
+   <line type="dialogue">It wasn't classified as a homicide.</line>
+   <line type="dialogue">Accidental death.
 Wilkes military academy, may , .</line>
-   <line>Nash cavanaugh. years old."</line>
-   <line>Hmm... drowning.</line>
-   <line>Guy was liquored up good.</line>
-   <line>Blood alcohol content . .</line>
-   <line>Questioned documents took
+   <line type="dialogue">Nash cavanaugh. years old."</line>
+   <line type="dialogue">Hmm... drowning.</line>
+   <line type="dialogue">Guy was liquored up good.</line>
+   <line type="dialogue">Blood alcohol content . .</line>
+   <line type="dialogue">Questioned documents took
 a s*ab at who sent this "plan" in?</line>
-   <line>Handwriting analysis suggests
+   <line type="dialogue">Handwriting analysis suggests
 a kid wrote it.</line>
-   <line>Other than that, we got nothing.</line>
-   <line>A night duty sergeant,
+   <line type="dialogue">Other than that, we got nothing.</line>
+   <line type="dialogue">A night duty sergeant,
 James Creighton, found the body.</line>
-   <line>Maybe we start with him.</line>
-   <line>Cavanaugh's death was
+   <line type="dialogue">Maybe we start with him.</line>
+   <line type="dialogue">Cavanaugh's death was
 classified as accidental.</line>
-   <line>We conducted our own investigation.</line>
-   <line>And now, we're conducting ours.</line>
-   <line>Well, sergeant Creighton was the duty
+   <line type="dialogue">We conducted our own investigation.</line>
+   <line type="dialogue">And now, we're conducting ours.</line>
+   <line type="dialogue">Well, sergeant Creighton was the duty
 sergeant on rounds that night.</line>
-   <line>Tell them what you know, Creighton.
+   <line type="dialogue">Tell them what you know, Creighton.
 - Sir, yes, sir.</line>
-   <line>I found lieutenant Cavanaugh at : .</line>
-   <line>negative vital signs, no response to CPR.</line>
-   <line>Creighton was in Iraq.</line>
-   <line>Earned the bronze star.</line>
-   <line>Ever seen this, colonel?</line>
-   <line>No.</line>
-   <line>How about you, sergeant Creighton?</line>
-   <line>I never seen that, ma'am.</line>
-   <line>Ignore, reward, secret, test,
+   <line type="dialogue">I found lieutenant Cavanaugh at : .</line>
+   <line type="dialogue">negative vital signs, no response to CPR.</line>
+   <line type="dialogue">Creighton was in Iraq.</line>
+   <line type="dialogue">Earned the bronze star.</line>
+   <line type="dialogue">Ever seen this, colonel?</line>
+   <line type="dialogue">No.</line>
+   <line type="dialogue">How about you, sergeant Creighton?</line>
+   <line type="dialogue">I never seen that, ma'am.</line>
+   <line type="dialogue">Ignore, reward, secret, test,
 escalate, destroy...</line>
-   <line>Nothing at all.</line>
-   <line>Were you aware that Nash
+   <line type="dialogue">Nothing at all.</line>
+   <line type="dialogue">Were you aware that Nash
 was a drinker, colonel?</line>
-   <line>It never interfered with his duties here.</line>
-   <line>The lieutenant was respected.</line>
-   <line>Knew how to deal with slop.</line>
-   <line>Slop?</line>
-   <line>The kids who come here.</line>
-   <line>Drug addicts, hoodlums,
+   <line type="dialogue">It never interfered with his duties here.</line>
+   <line type="dialogue">The lieutenant was respected.</line>
+   <line type="dialogue">Knew how to deal with slop.</line>
+   <line type="dialogue">Slop?</line>
+   <line type="dialogue">The kids who come here.</line>
+   <line type="dialogue">Drug addicts, hoodlums,
 cons in the making.</line>
-   <line>Nash turned slop into men.</line>
-   <line>Can't" is not in your vocabulary!</line>
-   <line>Failure is not an option, private Kasher.</line>
-   <line>Do you understand me?</line>
-   <line>seconds!</line>
-   <line>Private Kasher?</line>
-   <line>Private?</line>
-   <line>Is there a problem here, lieutenant?</line>
-   <line>No, sir.</line>
-   <line>Then carry on.</line>
-   <line>Private Lasalle, get him out of here.</line>
-   <line>Dismissed!</line>
-   <line>Passed.</line>
-   <line>But I didn't do , sir.</line>
-   <line>You never will.</line>
-   <line>Please, just give me
+   <line type="dialogue">Nash turned slop into men.</line>
+   <line type="dialogue">Can't" is not in your vocabulary!</line>
+   <line type="dialogue">Failure is not an option, private Kasher.</line>
+   <line type="dialogue">Do you understand me?</line>
+   <line type="dialogue">seconds!</line>
+   <line type="dialogue">Private Kasher?</line>
+   <line type="dialogue">Private?</line>
+   <line type="dialogue">Is there a problem here, lieutenant?</line>
+   <line type="dialogue">No, sir.</line>
+   <line type="dialogue">Then carry on.</line>
+   <line type="dialogue">Private Lasalle, get him out of here.</line>
+   <line type="dialogue">Dismissed!</line>
+   <line type="dialogue">Passed.</line>
+   <line type="dialogue">But I didn't do , sir.</line>
+   <line type="dialogue">You never will.</line>
+   <line type="dialogue">Please, just give me
 one more chance, sir, please...</line>
-   <line>I can do it.
+   <line type="dialogue">I can do it.
 I know I can, sir! Please!</line>
-   <line>One more chance, sir.</line>
-   <line>Please, I can do it.</line>
-   <line>I know I can.</line>
-   <line>Please, sir.</line>
-   <line>From the child, comes forth the soldier."</line>
-   <line>Cavanaugh made that happen.</line>
-   <line>By almost drowning a child?</line>
-   <line>Private Jerry kasher was and
+   <line type="dialogue">One more chance, sir.</line>
+   <line type="dialogue">Please, I can do it.</line>
+   <line type="dialogue">I know I can.</line>
+   <line type="dialogue">Please, sir.</line>
+   <line type="dialogue">From the child, comes forth the soldier."</line>
+   <line type="dialogue">Cavanaugh made that happen.</line>
+   <line type="dialogue">By almost drowning a child?</line>
+   <line type="dialogue">Private Jerry kasher was and
 always will be a bad seed.</line>
-   <line>Not even Cavanaugh could change that.</line>
-   <line>This private Kasher,
+   <line type="dialogue">Not even Cavanaugh could change that.</line>
+   <line type="dialogue">This private Kasher,
 he ever make any threats on Nash?</line>
-   <line>No. But he threatened other cadets.</line>
-   <line>How?
+   <line type="dialogue">No. But he threatened other cadets.</line>
+   <line type="dialogue">How?
 - Torching their bunks...</line>
-   <line>with them in it.</line>
-   <line>Private Kasher's got some hours
+   <line type="dialogue">with them in it.</line>
+   <line type="dialogue">Private Kasher's got some hours
 to walk off before graduation.</line>
-   <line>Private Kasher!</line>
-   <line>Walk off?
+   <line type="dialogue">Private Kasher!</line>
+   <line type="dialogue">Walk off?
 - Tour of punishment.</line>
-   <line>Front and center!</line>
-   <line>You need some weaponry ,
+   <line type="dialogue">Front and center!</line>
+   <line type="dialogue">You need some weaponry ,
 private? / No, sir.</line>
-   <line>Detective Rush, Valens.
+   <line type="dialogue">Detective Rush, Valens.
 Philadelphia homicide.</line>
-   <line>These people are here to ask you
+   <line type="dialogue">These people are here to ask you
 some questions.</line>
-   <line>Answer them.</line>
-   <line>Gung-ho jarhead.</line>
-   <line>We're here about Nash cavanaugh.</line>
-   <line>Gung-ho jarhead number two.</line>
-   <line>We hear you had a beef with him
+   <line type="dialogue">Answer them.</line>
+   <line type="dialogue">Gung-ho jarhead.</line>
+   <line type="dialogue">We're here about Nash cavanaugh.</line>
+   <line type="dialogue">Gung-ho jarhead number two.</line>
+   <line type="dialogue">We hear you had a beef with him
 in swimming class.</line>
-   <line>Almost drowned you.</line>
-   <line>Guy just wanted me to be all
+   <line type="dialogue">Almost drowned you.</line>
+   <line type="dialogue">Guy just wanted me to be all
 that I could be.</line>
-   <line>Got you pretty pissed off.
+   <line type="dialogue">Got you pretty pissed off.
 - Just enough to k*ll him?</line>
-   <line>That's not how it was.</line>
-   <line>I just wanted another chance.</line>
-   <line>I can do it, sir.</line>
-   <line>One minute, sir.</line>
-   <line>I can do it. Look.</line>
-   <line>Go.</line>
-   <line>Time.</line>
-   <line>Didn't think you had it in you, buddy.</line>
-   <line>You proved me wrong.</line>
-   <line>For that, you get the prize.</line>
-   <line>What was the prize?</line>
-   <line>His respect.</line>
-   <line>Nash was proud of me.</line>
-   <line>That was important to you.
+   <line type="dialogue">That's not how it was.</line>
+   <line type="dialogue">I just wanted another chance.</line>
+   <line type="dialogue">I can do it, sir.</line>
+   <line type="dialogue">One minute, sir.</line>
+   <line type="dialogue">I can do it. Look.</line>
+   <line type="dialogue">Go.</line>
+   <line type="dialogue">Time.</line>
+   <line type="dialogue">Didn't think you had it in you, buddy.</line>
+   <line type="dialogue">You proved me wrong.</line>
+   <line type="dialogue">For that, you get the prize.</line>
+   <line type="dialogue">What was the prize?</line>
+   <line type="dialogue">His respect.</line>
+   <line type="dialogue">Nash was proud of me.</line>
+   <line type="dialogue">That was important to you.
 Him being proud of you?</line>
-   <line>Only time anyone ever was.</line>
-   <line>So what changed?</line>
-   <line>With what?
+   <line type="dialogue">Only time anyone ever was.</line>
+   <line type="dialogue">So what changed?</line>
+   <line type="dialogue">With what?
 - With you.</line>
-   <line>Nothing.</line>
-   <line>Nothing changed.</line>
-   <line>My folks, uh, mailed me one way,
+   <line type="dialogue">Nothing.</line>
+   <line type="dialogue">Nothing changed.</line>
+   <line type="dialogue">My folks, uh, mailed me one way,
 parcel post,</line>
-   <line>No return address to this armpit.</line>
-   <line>I was always trouble.</line>
-   <line>Kid's gone to the dark side.</line>
-   <line>But back in the day, it sounds like
+   <line type="dialogue">No return address to this armpit.</line>
+   <line type="dialogue">I was always trouble.</line>
+   <line type="dialogue">Kid's gone to the dark side.</line>
+   <line type="dialogue">But back in the day, it sounds like
 he kind of worshipped Nash.</line>
-   <line>Didn't hate him.</line>
-   <line>Well, maybe Nash had other enemies?</line>
-   <line>Could be.
+   <line type="dialogue">Didn't hate him.</line>
+   <line type="dialogue">Well, maybe Nash had other enemies?</line>
+   <line type="dialogue">Could be.
 Guy was a hard a*s.</line>
-   <line>Got a hold of private Kasher's
+   <line type="dialogue">Got a hold of private Kasher's
 medical records.</line>
-   <line>Might shine a different light.</line>
-   <line>Few months prior to Nash's death,
+   <line type="dialogue">Might shine a different light.</line>
+   <line type="dialogue">Few months prior to Nash's death,
 multiple visits to the infirmary.</line>
-   <line>Kid was throwing up drunk.</line>
-   <line>Drunk? He was years old.</line>
-   <line>Half the academy's students enter the
+   <line type="dialogue">Kid was throwing up drunk.</line>
+   <line type="dialogue">Drunk? He was years old.</line>
+   <line type="dialogue">Half the academy's students enter the
 school with drug and alcohol problems.</line>
-   <line>The place is on / lock-down.
+   <line type="dialogue">The place is on / lock-down.
 No way those kids could get booze.</line>
-   <line>But an adult could.</line>
-   <line>And we know who our resident
+   <line type="dialogue">But an adult could.</line>
+   <line type="dialogue">And we know who our resident
 drinker on campus was.</line>
-   <line>Nash cavanaugh.</line>
-   <line>Where'd you get the alcohol, Jerry?</line>
-   <line>Boozehound Nash,
+   <line type="dialogue">Nash cavanaugh.</line>
+   <line type="dialogue">Where'd you get the alcohol, Jerry?</line>
+   <line type="dialogue">Boozehound Nash,
 he ever pass on the love?</line>
-   <line>What do you mean?</line>
-   <line>Where'd you get the booze? / Maybe
+   <line type="dialogue">What do you mean?</line>
+   <line type="dialogue">Where'd you get the booze? / Maybe
 you were sipping a nip from the Nash stash?</line>
-   <line>That the real reason you were
+   <line type="dialogue">That the real reason you were
 trying to get in good with him?</line>
-   <line>He gave it to me!
+   <line type="dialogue">He gave it to me!
 I never asked for it!</line>
-   <line>That was the prize.</line>
-   <line>Didn't mean to scare you, buddy.</line>
-   <line>Yes, sir.</line>
-   <line>I mean, no, sir.</line>
-   <line>I'm not scared.
+   <line type="dialogue">That was the prize.</line>
+   <line type="dialogue">Didn't mean to scare you, buddy.</line>
+   <line type="dialogue">Yes, sir.</line>
+   <line type="dialogue">I mean, no, sir.</line>
+   <line type="dialogue">I'm not scared.
 - Of course, you're not.</line>
-   <line>For what you did today.</line>
-   <line>Your reward.
+   <line type="dialogue">For what you did today.</line>
+   <line type="dialogue">Your reward.
 - Sir?</line>
-   <line>You're a man now.</line>
-   <line>You made me proud, being
+   <line type="dialogue">You're a man now.</line>
+   <line type="dialogue">You made me proud, being
 a winner out there.</line>
-   <line>You pass go.</line>
-   <line>Collect your reward.
+   <line type="dialogue">You pass go.</line>
+   <line type="dialogue">Collect your reward.
 Drink up.</line>
-   <line>Not just anyone gets this reward.</line>
-   <line>I save it for the winners.</line>
-   <line>For my special boys like you, Jerry.</line>
-   <line>Thank you.</line>
-   <line>I mean it. Sir.</line>
-   <line>Let's keep this our secret, okay, buddy?</line>
-   <line>Just you and me.</line>
-   <line>Sir, yes, sir.</line>
-   <line>Our secret.</line>
-   <line>Your secret?</line>
-   <line>Ignore... reward...</line>
-   <line>secret.</line>
-   <line>It's the plan.</line>
-   <line>Nash ignored you in the pool.</line>
-   <line>Rewarded you with the booze.</line>
-   <line>Made you keep a secret.</line>
-   <line>What other secrets did he make you keep?</line>
-   <line>Drawing you in,
+   <line type="dialogue">Not just anyone gets this reward.</line>
+   <line type="dialogue">I save it for the winners.</line>
+   <line type="dialogue">For my special boys like you, Jerry.</line>
+   <line type="dialogue">Thank you.</line>
+   <line type="dialogue">I mean it. Sir.</line>
+   <line type="dialogue">Let's keep this our secret, okay, buddy?</line>
+   <line type="dialogue">Just you and me.</line>
+   <line type="dialogue">Sir, yes, sir.</line>
+   <line type="dialogue">Our secret.</line>
+   <line type="dialogue">Your secret?</line>
+   <line type="dialogue">Ignore... reward...</line>
+   <line type="dialogue">secret.</line>
+   <line type="dialogue">It's the plan.</line>
+   <line type="dialogue">Nash ignored you in the pool.</line>
+   <line type="dialogue">Rewarded you with the booze.</line>
+   <line type="dialogue">Made you keep a secret.</line>
+   <line type="dialogue">What other secrets did he make you keep?</line>
+   <line type="dialogue">Drawing you in,
 keeping things quiet...why?</line>
-   <line>What kind of secrets do
+   <line type="dialogue">What kind of secrets do
 a year old man and a boy have?</line>
-   <line>It wasn't a m*rder*r's plan, was it?</line>
-   <line>It was a pedophile's... / He deserved
+   <line type="dialogue">It wasn't a m*rder*r's plan, was it?</line>
+   <line type="dialogue">It was a pedophile's... / He deserved
 to die for what he did to me!</line>
-   <line>Sit down!</line>
-   <line>I did it! I k*lled him!</line>
-   <line>You k*lled him.
+   <line type="dialogue">Sit down!</line>
+   <line type="dialogue">I did it! I k*lled him!</line>
+   <line type="dialogue">You k*lled him.
 - Yeah!</line>
-   <line>I k*lled that sick pervert.</line>
-   <line>By yourself.
+   <line type="dialogue">I k*lled that sick pervert.</line>
+   <line type="dialogue">By yourself.
 - I did it!</line>
-   <line>Did you write the plan?
+   <line type="dialogue">Did you write the plan?
 - Yes!</line>
-   <line>What'd you do with it?</line>
-   <line>Answer us.
+   <line type="dialogue">What'd you do with it?</line>
+   <line type="dialogue">Answer us.
 What did you do with the plan?</line>
-   <line>Ripped it up.</line>
-   <line>Threw it away.</line>
-   <line>That a fact.</line>
-   <line>If Jerry didn't send us the plan,
+   <line type="dialogue">Ripped it up.</line>
+   <line type="dialogue">Threw it away.</line>
+   <line type="dialogue">That a fact.</line>
+   <line type="dialogue">If Jerry didn't send us the plan,
 then who did?</line>
-   <line>He confessed to the m*rder, Lil.
+   <line type="dialogue">He confessed to the m*rder, Lil.
 We got to call the D.A.</line>
-   <line>Nah, I don't buy it, boss.</line>
-   <line>The kid was an pound weakling in .</line>
-   <line>No way he drowned a pound
+   <line type="dialogue">Nah, I don't buy it, boss.</line>
+   <line type="dialogue">The kid was an pound weakling in .</line>
+   <line type="dialogue">No way he drowned a pound
 adult male on his own.</line>
-   <line>Won't change his story.
+   <line type="dialogue">Won't change his story.
 - At least now we got motive.</line>
-   <line>Victim was a pedophile with a plan.</line>
-   <line>For waging physiological warfare
+   <line type="dialogue">Victim was a pedophile with a plan.</line>
+   <line type="dialogue">For waging physiological warfare
 on a year old boy.</line>
-   <line>Pedophiles are prolific.
+   <line type="dialogue">Pedophiles are prolific.
 Nash would've had other victims.</line>
-   <line>Maybe Jerry had an accomplice.</line>
-   <line>Academy's infirmary records.</line>
-   <line>Colonel gave them up without a warrant.
+   <line type="dialogue">Maybe Jerry had an accomplice.</line>
+   <line type="dialogue">Academy's infirmary records.</line>
+   <line type="dialogue">Colonel gave them up without a warrant.
 Real cooperative guy.</line>
-   <line>Elisa? What's wrong?</line>
-   <line>Medical records of th graders
+   <line type="dialogue">Elisa? What's wrong?</line>
+   <line type="dialogue">Medical records of th graders
 in Nash's swim class, ,</line>
-   <line>same year as Jerry.</line>
-   <line>I check for symptoms of sexual abuse.</line>
-   <line>All I came up with was this.</line>
-   <line>Private RJ holden, reported by a night
+   <line type="dialogue">same year as Jerry.</line>
+   <line type="dialogue">I check for symptoms of sexual abuse.</line>
+   <line type="dialogue">All I came up with was this.</line>
+   <line type="dialogue">Private RJ holden, reported by a night
 duty sergeant for bed-wetting.</line>
-   <line>Started when he was
+   <line type="dialogue">Started when he was
 in Nash's swim class.</line>
-   <line>Bedwetting at age ?</line>
-   <line>Could've been a symptom of stress,
+   <line type="dialogue">Bedwetting at age ?</line>
+   <line type="dialogue">Could've been a symptom of stress,
 or sexual abuse.</line>
-   <line>Night duty sergeant reported it,
+   <line type="dialogue">Night duty sergeant reported it,
 James Creighton.</line>
-   <line>Well, we'll go back to him,
+   <line type="dialogue">Well, we'll go back to him,
 see if he knows about RJ.</line>
-   <line>I got to...</line>
-   <line>I got to go.</line>
-   <line>Yeah. Yeah, sure.</line>
-   <line>Uh, hey, I, I'm sorry, boss.
+   <line type="dialogue">I got to...</line>
+   <line type="dialogue">I got to go.</line>
+   <line type="dialogue">Yeah. Yeah, sure.</line>
+   <line type="dialogue">Uh, hey, I, I'm sorry, boss.
 - Just go, Scotty.</line>
-   <line>How long has Elisa been out
+   <line type="dialogue">How long has Elisa been out
 of the hospital?</line>
-   <line>A month, two.</line>
-   <line>The six P's,
+   <line type="dialogue">A month, two.</line>
+   <line type="dialogue">The six P's,
 and don't you ever forget them.</line>
-   <line>Prior preparation prevents
+   <line type="dialogue">Prior preparation prevents
 piss poor performance!"</line>
-   <line>Grandma's slow, but she's old!</line>
-   <line>Sergeant Creighton?</line>
-   <line>Lieutenant Stillman, philadelphia homicide.</line>
-   <line>Sir.
+   <line type="dialogue">Grandma's slow, but she's old!</line>
+   <line type="dialogue">Sergeant Creighton?</line>
+   <line type="dialogue">Lieutenant Stillman, philadelphia homicide.</line>
+   <line type="dialogue">Sir.
 - Sergeant.</line>
-   <line>We're here about cadet RJ holden.</line>
-   <line>The bedwetting report you filed
+   <line type="dialogue">We're here about cadet RJ holden.</line>
+   <line type="dialogue">The bedwetting report you filed
 when he was .</line>
-   <line>Yes, ma'am. I surely remember that.</line>
-   <line>Sergeant, what was the nature of RJ's
+   <line type="dialogue">Yes, ma'am. I surely remember that.</line>
+   <line type="dialogue">Sergeant, what was the nature of RJ's
 relationship with Nash cavanaugh?</line>
-   <line>Relationship, sir?</line>
-   <line>Lieutenant Cavanaugh abused
+   <line type="dialogue">Relationship, sir?</line>
+   <line type="dialogue">Lieutenant Cavanaugh abused
 at least one boy at this school.</line>
-   <line>Sexually.</line>
-   <line>Did you know about that, sergeant?</line>
-   <line>No, ma'am, I did not.</line>
-   <line>Did you ever talk to RJ
+   <line type="dialogue">Sexually.</line>
+   <line type="dialogue">Did you know about that, sergeant?</line>
+   <line type="dialogue">No, ma'am, I did not.</line>
+   <line type="dialogue">Did you ever talk to RJ
 about the bed-wetting problem?</line>
-   <line>It's not my duty to talk
+   <line type="dialogue">It's not my duty to talk
 about the problem, sir.</line>
-   <line>Then what was your duty, sergeant?</line>
-   <line>To end it.</line>
-   <line>Piss the sheets,
+   <line type="dialogue">Then what was your duty, sergeant?</line>
+   <line type="dialogue">To end it.</line>
+   <line type="dialogue">Piss the sheets,
 you walk the yard, private.</line>
-   <line>Don't you go all crybaby on me now.
+   <line type="dialogue">Don't you go all crybaby on me now.
 Do I look like your mama, private?</line>
-   <line>He grabbed me.</line>
-   <line>What?</line>
-   <line>He grabbed me.
+   <line type="dialogue">He grabbed me.</line>
+   <line type="dialogue">What?</line>
+   <line type="dialogue">He grabbed me.
 - What are you talking about?</line>
-   <line>Lieutenant Cavanaugh...</line>
-   <line>he grabbed my... my thing.</line>
-   <line>Are you a f*gg*t?
+   <line type="dialogue">Lieutenant Cavanaugh...</line>
+   <line type="dialogue">he grabbed my... my thing.</line>
+   <line type="dialogue">Are you a f*gg*t?
 - Sir?</line>
-   <line>Are you a f*gg*t?
+   <line type="dialogue">Are you a f*gg*t?
 - No, sir.</line>
-   <line>I asked you a direct question,
+   <line type="dialogue">I asked you a direct question,
 I expect a direct answer, private.</line>
-   <line>Are you or are you not a f*gg*t?</line>
-   <line>I am not a f*gg*t, sir.</line>
-   <line>So we don't have a problem then,
+   <line type="dialogue">Are you or are you not a f*gg*t?</line>
+   <line type="dialogue">I am not a f*gg*t, sir.</line>
+   <line type="dialogue">So we don't have a problem then,
 do we, private Holden?</line>
-   <line>No, sir.</line>
-   <line>Disciplining the plebes was my job.
+   <line type="dialogue">No, sir.</line>
+   <line type="dialogue">Disciplining the plebes was my job.
 I did what I thought was best.</line>
-   <line>Disciplining them?</line>
-   <line>Sergeant, RJ was a year old boy
+   <line type="dialogue">Disciplining them?</line>
+   <line type="dialogue">Sergeant, RJ was a year old boy
 asking for help.</line>
-   <line>Is that the approach that earned you
+   <line type="dialogue">Is that the approach that earned you
 the bronze star?</line>
-   <line>These boys are liars,
+   <line type="dialogue">These boys are liars,
 cheats and drunks.</line>
-   <line>Slop, sir. Just like I was
+   <line type="dialogue">Slop, sir. Just like I was
 when I came here as a boy.</line>
-   <line>The bronze star, sir?</line>
-   <line>The academy earned that.</line>
-   <line>Made me a man.</line>
-   <line>What Nash did to RJ,
+   <line type="dialogue">The bronze star, sir?</line>
+   <line type="dialogue">The academy earned that.</line>
+   <line type="dialogue">Made me a man.</line>
+   <line type="dialogue">What Nash did to RJ,
 did that make him a man, sergeant?</line>
-   <line>Elisa?</line>
-   <line>Elisa?</line>
-   <line>El?</line>
-   <line>The Giant Came Back</line>
-   <line>Can't say I remember that conversation
+   <line type="dialogue">Elisa?</line>
+   <line type="dialogue">Elisa?</line>
+   <line type="dialogue">El?</line>
+   <line type="dialogue">The Giant Came Back</line>
+   <line type="dialogue">Can't say I remember that conversation
 with sergeant Creighton.</line>
-   <line>Sorry, ma'am.</line>
-   <line>You told him that lieutenant
+   <line type="dialogue">Sorry, ma'am.</line>
+   <line type="dialogue">You told him that lieutenant
 Cavanaugh touched you, RJ.</line>
-   <line>Like I said, don't recall the convo.</line>
-   <line>What about the bed-wetting?</line>
-   <line>You recall that, RJ?</line>
-   <line>Now that would be memorable.</line>
-   <line>Can't say I do, ma'am.</line>
-   <line>Your file's got the records.
+   <line type="dialogue">Like I said, don't recall the convo.</line>
+   <line type="dialogue">What about the bed-wetting?</line>
+   <line type="dialogue">You recall that, RJ?</line>
+   <line type="dialogue">Now that would be memorable.</line>
+   <line type="dialogue">Can't say I do, ma'am.</line>
+   <line type="dialogue">Your file's got the records.
 - Then someone made a mistake.</line>
-   <line>I don't think so.</line>
-   <line>So blondes think now, ma'am?
+   <line type="dialogue">I don't think so.</line>
+   <line type="dialogue">So blondes think now, ma'am?
 - Watch your tone, son.</line>
-   <line>Best defense is a good offense, right, RJ?</line>
-   <line>Whatever, ma'am.</line>
-   <line>Take the focus off of you.</line>
-   <line>What Nash did to you.</line>
-   <line>RJ, we know about Jerry.</line>
-   <line>Jerry?</line>
-   <line>And what Nash did to him.</line>
-   <line>From this.
+   <line type="dialogue">Best defense is a good offense, right, RJ?</line>
+   <line type="dialogue">Whatever, ma'am.</line>
+   <line type="dialogue">Take the focus off of you.</line>
+   <line type="dialogue">What Nash did to you.</line>
+   <line type="dialogue">RJ, we know about Jerry.</line>
+   <line type="dialogue">Jerry?</line>
+   <line type="dialogue">And what Nash did to him.</line>
+   <line type="dialogue">From this.
 - "Ignore, reward, secret."</line>
-   <line>What can you tell us about number four?</line>
-   <line>Test."
+   <line type="dialogue">What can you tell us about number four?</line>
+   <line type="dialogue">Test."
 How'd he test you?</line>
-   <line>You were years old, RJ.</line>
-   <line>What Nash cavanaugh did to you was wrong.</line>
-   <line>I'll tell...</line>
-   <line>you.</line>
-   <line>All right.</line>
-   <line>Sit down, son.</line>
-   <line>I'm not a f*g.</line>
-   <line>It's all right, RJ.</line>
-   <line>I'm not a f*g.</line>
-   <line>Got to make sure you get in
+   <line type="dialogue">You were years old, RJ.</line>
+   <line type="dialogue">What Nash cavanaugh did to you was wrong.</line>
+   <line type="dialogue">I'll tell...</line>
+   <line type="dialogue">you.</line>
+   <line type="dialogue">All right.</line>
+   <line type="dialogue">Sit down, son.</line>
+   <line type="dialogue">I'm not a f*g.</line>
+   <line type="dialogue">It's all right, RJ.</line>
+   <line type="dialogue">I'm not a f*g.</line>
+   <line type="dialogue">Got to make sure you get in
 some extra hours of practice.</line>
-   <line>Yes, sir.</line>
-   <line>Meet's coming up in a week.</line>
-   <line>And you are going to make the top ten
+   <line type="dialogue">Yes, sir.</line>
+   <line type="dialogue">Meet's coming up in a week.</line>
+   <line type="dialogue">And you are going to make the top ten
 this time, buddy.</line>
-   <line>But we have got to keep this on the D.L.</line>
-   <line>We don't want anyone to think
+   <line type="dialogue">But we have got to keep this on the D.L.</line>
+   <line type="dialogue">We don't want anyone to think
 I'm playing favorites here.</line>
-   <line>Sure.
+   <line type="dialogue">Sure.
 I mean, yes, sir.</line>
-   <line>Just like the beer, this is our secret.</line>
-   <line>Just you and me.</line>
-   <line>You haven't told anyone about that,
+   <line type="dialogue">Just like the beer, this is our secret.</line>
+   <line type="dialogue">Just you and me.</line>
+   <line type="dialogue">You haven't told anyone about that,
 have you?</line>
-   <line>No, sir.</line>
-   <line>Of course you haven't.</line>
-   <line>Or I would've heard.</line>
-   <line>You passed the test.</line>
-   <line>Keeping our secrets.</line>
-   <line>You got an A+, buddy.</line>
-   <line>You didn't think I was going to hurt you,
+   <line type="dialogue">No, sir.</line>
+   <line type="dialogue">Of course you haven't.</line>
+   <line type="dialogue">Or I would've heard.</line>
+   <line type="dialogue">You passed the test.</line>
+   <line type="dialogue">Keeping our secrets.</line>
+   <line type="dialogue">You got an A+, buddy.</line>
+   <line type="dialogue">You didn't think I was going to hurt you,
 did you?</line>
-   <line>Of course you didn't.</line>
-   <line>Now give me a big smile.</line>
-   <line>Number four: Test.</line>
-   <line>Make sure they don't run...</line>
-   <line>and I didn't.</line>
-   <line>Tell me about number five.</line>
-   <line>Escalate.</line>
-   <line>He'd show me porn magazines.</line>
-   <line>Tell me,</line>
-   <line>if you want. I won't tell."</line>
-   <line>He used them on other boys, too.</line>
-   <line>That's how me and...</line>
-   <line>You and Jerry?</line>
-   <line>I don't know any Jerry.
+   <line type="dialogue">Of course you didn't.</line>
+   <line type="dialogue">Now give me a big smile.</line>
+   <line type="dialogue">Number four: Test.</line>
+   <line type="dialogue">Make sure they don't run...</line>
+   <line type="dialogue">and I didn't.</line>
+   <line type="dialogue">Tell me about number five.</line>
+   <line type="dialogue">Escalate.</line>
+   <line type="dialogue">He'd show me porn magazines.</line>
+   <line type="dialogue">Tell me,</line>
+   <line type="dialogue">if you want. I won't tell."</line>
+   <line type="dialogue">He used them on other boys, too.</line>
+   <line type="dialogue">That's how me and...</line>
+   <line type="dialogue">You and Jerry?</line>
+   <line type="dialogue">I don't know any Jerry.
 - Jerry kasher.</line>
-   <line>I don't know any Jerry.</line>
-   <line>You were in the same swim class.
+   <line type="dialogue">I don't know any Jerry.</line>
+   <line type="dialogue">You were in the same swim class.
 - It was me, okay!</line>
-   <line>I drowned that son of a b*tch!
+   <line type="dialogue">I drowned that son of a b*tch!
 I k*lled Nash!</line>
-   <line>And I don't know any Jerry.</line>
-   <line>RJ says he doesn't know Jerry.</line>
-   <line>Jerry says he doesn't know RJ.</line>
-   <line>But both are confessing to the m*rder.</line>
-   <line>And neither of them seem to know
+   <line type="dialogue">And I don't know any Jerry.</line>
+   <line type="dialogue">RJ says he doesn't know Jerry.</line>
+   <line type="dialogue">Jerry says he doesn't know RJ.</line>
+   <line type="dialogue">But both are confessing to the m*rder.</line>
+   <line type="dialogue">And neither of them seem to know
 this plan was sent to us.</line>
-   <line>A school that size, boss,
+   <line type="dialogue">A school that size, boss,
 these kids had to know each other.</line>
-   <line>Well enough to talk about sexual abuse?</line>
-   <line>Kids came from different worlds, Lil.</line>
-   <line>Popular athlete, loser outcast.
+   <line type="dialogue">Well enough to talk about sexual abuse?</line>
+   <line type="dialogue">Kids came from different worlds, Lil.</line>
+   <line type="dialogue">Popular athlete, loser outcast.
 Nothing in common.</line>
-   <line>Except Nash's swim class.</line>
-   <line>Hey, handwriting's back.</line>
-   <line>Neither Jerry or RJ's matched the plan.
+   <line type="dialogue">Except Nash's swim class.</line>
+   <line type="dialogue">Hey, handwriting's back.</line>
+   <line type="dialogue">Neither Jerry or RJ's matched the plan.
 - So there was a boy number three?</line>
-   <line>Nash being Nash, no telling
+   <line type="dialogue">Nash being Nash, no telling
 how many boys wanted him dead.</line>
-   <line>Well, maybe this third kid holds the key
+   <line type="dialogue">Well, maybe this third kid holds the key
 how Jerry and RJ are connected.</line>
-   <line>I'll lean on Jerry again.
+   <line type="dialogue">I'll lean on Jerry again.
 Short fuse.</line>
-   <line>Guess who I just had a chat with?</line>
-   <line>Private RJ holden.</line>
-   <line>He told.</line>
-   <line>What're you talking about?</line>
-   <line>Number five: Escalate.</line>
-   <line>The magazines Nash used. No wonder
+   <line type="dialogue">Guess who I just had a chat with?</line>
+   <line type="dialogue">Private RJ holden.</line>
+   <line type="dialogue">He told.</line>
+   <line type="dialogue">What're you talking about?</line>
+   <line type="dialogue">Number five: Escalate.</line>
+   <line type="dialogue">The magazines Nash used. No wonder
 you wanted to k*ll him. I would, too.</line>
-   <line>RJ told you about that?
+   <line type="dialogue">RJ told you about that?
 - Mm-hmm.</line>
-   <line>And that you, Jerry, were the ringleader.</line>
-   <line>He said you thought up the m*rder
+   <line type="dialogue">And that you, Jerry, were the ringleader.</line>
+   <line type="dialogue">He said you thought up the m*rder
 all on your own...</line>
-   <line>It was Dominic's idea, not mine!</line>
-   <line>It was all Dominic!</line>
-   <line>Sit down.</line>
-   <line>Sit down.</line>
-   <line>So Dominic wrote the plan, huh?</line>
-   <line>How'd you guys find each other?</line>
-   <line>You were just kids, you know.</line>
-   <line>What happened...</line>
-   <line>It wasn't your fault.</line>
-   <line>He...</line>
-   <line>started with the drinks.</line>
-   <line>That was our secret.</line>
-   <line>Then came the night swims.</line>
-   <line>Then the magazines and other things.</line>
-   <line>And by that time, I'd kept so
+   <line type="dialogue">It was Dominic's idea, not mine!</line>
+   <line type="dialogue">It was all Dominic!</line>
+   <line type="dialogue">Sit down.</line>
+   <line type="dialogue">Sit down.</line>
+   <line type="dialogue">So Dominic wrote the plan, huh?</line>
+   <line type="dialogue">How'd you guys find each other?</line>
+   <line type="dialogue">You were just kids, you know.</line>
+   <line type="dialogue">What happened...</line>
+   <line type="dialogue">It wasn't your fault.</line>
+   <line type="dialogue">He...</line>
+   <line type="dialogue">started with the drinks.</line>
+   <line type="dialogue">That was our secret.</line>
+   <line type="dialogue">Then came the night swims.</line>
+   <line type="dialogue">Then the magazines and other things.</line>
+   <line type="dialogue">And by that time, I'd kept so
 many secrets I couldn't tell the truth.</line>
-   <line>Then tell the truth now.</line>
-   <line>Dominic...</line>
-   <line>was the only one of us who had guts.</line>
-   <line>How did Dominic find you and RJ?</line>
-   <line>I...</line>
-   <line>took one of Nash's magazines,</line>
-   <line>and showed it around.</line>
-   <line>You know, I didn't mean anything by it.
+   <line type="dialogue">Then tell the truth now.</line>
+   <line type="dialogue">Dominic...</line>
+   <line type="dialogue">was the only one of us who had guts.</line>
+   <line type="dialogue">How did Dominic find you and RJ?</line>
+   <line type="dialogue">I...</line>
+   <line type="dialogue">took one of Nash's magazines,</line>
+   <line type="dialogue">and showed it around.</line>
+   <line type="dialogue">You know, I didn't mean anything by it.
 I just...</line>
-   <line>I wanted the other kids to like me.</line>
-   <line>Her boobs...</line>
-   <line>It's huge!</line>
-   <line>Like balloons.</line>
-   <line>Yo, I didn't see miss April yet!</line>
-   <line>You're ripping her booty, man!</line>
-   <line>What the hell.</line>
-   <line>That's when we knew.</line>
-   <line>And that's when you made the plan.</line>
-   <line>To do to Nash,</line>
-   <line>what he did to us.</line>
-   <line>Ignore,</line>
-   <line>reward,</line>
-   <line>secret,</line>
-   <line>test,</line>
-   <line>escalate...</line>
-   <line>destroy.</line>
-   <line>Dominic lasalle.</line>
-   <line>Also in Nash's swim class.</line>
-   <line>Lil, you take him in interview A.
+   <line type="dialogue">I wanted the other kids to like me.</line>
+   <line type="dialogue">Her boobs...</line>
+   <line type="dialogue">It's huge!</line>
+   <line type="dialogue">Like balloons.</line>
+   <line type="dialogue">Yo, I didn't see miss April yet!</line>
+   <line type="dialogue">You're ripping her booty, man!</line>
+   <line type="dialogue">What the hell.</line>
+   <line type="dialogue">That's when we knew.</line>
+   <line type="dialogue">And that's when you made the plan.</line>
+   <line type="dialogue">To do to Nash,</line>
+   <line type="dialogue">what he did to us.</line>
+   <line type="dialogue">Ignore,</line>
+   <line type="dialogue">reward,</line>
+   <line type="dialogue">secret,</line>
+   <line type="dialogue">test,</line>
+   <line type="dialogue">escalate...</line>
+   <line type="dialogue">destroy.</line>
+   <line type="dialogue">Dominic lasalle.</line>
+   <line type="dialogue">Also in Nash's swim class.</line>
+   <line type="dialogue">Lil, you take him in interview A.
 You two split up Jerry and RJ.</line>
-   <line>I'm here as Dominic's guardian.</line>
-   <line>I'd like to observe.</line>
-   <line>John, show the colonel to observation,
+   <line type="dialogue">I'm here as Dominic's guardian.</line>
+   <line type="dialogue">I'd like to observe.</line>
+   <line type="dialogue">John, show the colonel to observation,
 please.</line>
-   <line>Not exactly chomping at the bit</line>
-   <line>to take down another kid,
+   <line type="dialogue">Not exactly chomping at the bit</line>
+   <line type="dialogue">to take down another kid,
 especially when the guy deserved to die.</line>
-   <line>Amen. / We got our jobs to do, Lil.</line>
-   <line>Let's go.</line>
-   <line>Wish I had called in sick today.</line>
-   <line>Yeah, me, too.</line>
-   <line>Scotty, is she okay?</line>
-   <line>Uh, she's... gone.</line>
-   <line>What?
+   <line type="dialogue">Amen. / We got our jobs to do, Lil.</line>
+   <line type="dialogue">Let's go.</line>
+   <line type="dialogue">Wish I had called in sick today.</line>
+   <line type="dialogue">Yeah, me, too.</line>
+   <line type="dialogue">Scotty, is she okay?</line>
+   <line type="dialogue">Uh, she's... gone.</line>
+   <line type="dialogue">What?
 - She's not anywhere.</line>
-   <line>Not any of the places she goes
+   <line type="dialogue">Not any of the places she goes
 to when she gets... you know, like this.</line>
-   <line>All day, I'm driving. I can't find her.</line>
-   <line>Scotty, call it in, get some help.</line>
-   <line>I can't call it in.
+   <line type="dialogue">All day, I'm driving. I can't find her.</line>
+   <line type="dialogue">Scotty, call it in, get some help.</line>
+   <line type="dialogue">I can't call it in.
 They'll make her go back,</line>
-   <line>and I promised her she'd,
+   <line type="dialogue">and I promised her she'd,
 she'd never have to go back. I promised. I...</line>
-   <line>I can't do that to her.</line>
-   <line>All right. It's going to be all right.
+   <line type="dialogue">I can't do that to her.</line>
+   <line type="dialogue">All right. It's going to be all right.
 - Playing stickball on my block.</line>
-   <line>That's the first time I seen her.
+   <line type="dialogue">That's the first time I seen her.
 years old.</line>
-   <line>Oh, man...</line>
-   <line>just kicking it on a hot summer night.</line>
-   <line>That's the only place Elisa ever felt...
+   <line type="dialogue">Oh, man...</line>
+   <line type="dialogue">just kicking it on a hot summer night.</line>
+   <line type="dialogue">That's the only place Elisa ever felt...
 normal, you know?</line>
-   <line>I got to find her.</line>
-   <line>Are you sure you want my handwriting?</line>
-   <line>Hmm?</line>
-   <line>Don't you want to play bad cop first?</line>
-   <line>Knock me around some?</line>
-   <line>Write.</line>
-   <line>I confess. I wrote the plan.</line>
-   <line>And you sent it to us.</line>
-   <line>Why?</line>
-   <line>Boredom.</line>
-   <line>Military environments thrive
+   <line type="dialogue">I got to find her.</line>
+   <line type="dialogue">Are you sure you want my handwriting?</line>
+   <line type="dialogue">Hmm?</line>
+   <line type="dialogue">Don't you want to play bad cop first?</line>
+   <line type="dialogue">Knock me around some?</line>
+   <line type="dialogue">Write.</line>
+   <line type="dialogue">I confess. I wrote the plan.</line>
+   <line type="dialogue">And you sent it to us.</line>
+   <line type="dialogue">Why?</line>
+   <line type="dialogue">Boredom.</line>
+   <line type="dialogue">Military environments thrive
 on the cultivation of it.</line>
-   <line>Makes warfare that much more of a rush.</line>
-   <line>Really?
+   <line type="dialogue">Makes warfare that much more of a rush.</line>
+   <line type="dialogue">Really?
 - You should know.</line>
-   <line>Dreary police academy drills.</line>
-   <line>Then you get to k*ll.</line>
-   <line>What a thrill.</line>
-   <line>I wouldn't know.</line>
-   <line>Maybe you will.</line>
-   <line>Like you do?</line>
-   <line>We k*lled that pervert.</line>
-   <line>We?
+   <line type="dialogue">Dreary police academy drills.</line>
+   <line type="dialogue">Then you get to k*ll.</line>
+   <line type="dialogue">What a thrill.</line>
+   <line type="dialogue">I wouldn't know.</line>
+   <line type="dialogue">Maybe you will.</line>
+   <line type="dialogue">Like you do?</line>
+   <line type="dialogue">We k*lled that pervert.</line>
+   <line type="dialogue">We?
 - Me and my two buddies.</line>
-   <line>What two buddies, Dominic?</line>
-   <line>Me, myself and I.</line>
-   <line>Your friends are putting the job on you.</line>
-   <line>Jerry, Dominic.</line>
-   <line>You want a deal, you better jump in fast.</line>
-   <line>Your wife still flog the bishop,</line>
-   <line>or did she stop doing that
+   <line type="dialogue">What two buddies, Dominic?</line>
+   <line type="dialogue">Me, myself and I.</line>
+   <line type="dialogue">Your friends are putting the job on you.</line>
+   <line type="dialogue">Jerry, Dominic.</line>
+   <line type="dialogue">You want a deal, you better jump in fast.</line>
+   <line type="dialogue">Your wife still flog the bishop,</line>
+   <line type="dialogue">or did she stop doing that
 a hundred years ago?</line>
-   <line>My wife's dead.</line>
-   <line>Nine years ago.</line>
-   <line>Tell me about the plan.</line>
-   <line>Dominic figured it out...</line>
-   <line>what Nash was doing.</line>
-   <line>His plan.</line>
-   <line>What he did to you at the pool, Jerry,
+   <line type="dialogue">My wife's dead.</line>
+   <line type="dialogue">Nine years ago.</line>
+   <line type="dialogue">Tell me about the plan.</line>
+   <line type="dialogue">Dominic figured it out...</line>
+   <line type="dialogue">what Nash was doing.</line>
+   <line type="dialogue">His plan.</line>
+   <line type="dialogue">What he did to you at the pool, Jerry,
 he did that to all of us.</line>
-   <line>It was like his plan all along.</line>
-   <line>I don't get it.
+   <line type="dialogue">It was like his plan all along.</line>
+   <line type="dialogue">I don't get it.
 - Number one: Ignore.</line>
-   <line>He ignored us in different ways,
+   <line type="dialogue">He ignored us in different ways,
 made us beg for attention.</line>
-   <line>Then he rewarded us.
+   <line type="dialogue">Then he rewarded us.
 - With the beer.</line>
-   <line>That was number two in his plan.
+   <line type="dialogue">That was number two in his plan.
 He made me keep it a secret.</line>
-   <line>Me, too.</line>
-   <line>Cause it was number three:</line>
-   <line>Keeping secrets.</line>
-   <line>Then he made real sure
+   <line type="dialogue">Me, too.</line>
+   <line type="dialogue">Cause it was number three:</line>
+   <line type="dialogue">Keeping secrets.</line>
+   <line type="dialogue">Then he made real sure
 we never told on him.</line>
-   <line>I didn't. Did you?</line>
-   <line>No.</line>
-   <line>Shh.</line>
-   <line>Kinda like a test.</line>
-   <line>Right.
+   <line type="dialogue">I didn't. Did you?</line>
+   <line type="dialogue">No.</line>
+   <line type="dialogue">Shh.</line>
+   <line type="dialogue">Kinda like a test.</line>
+   <line type="dialogue">Right.
 Number four: Test.</line>
-   <line>Right.</line>
-   <line>Made sure we never told anyone</line>
-   <line>so he could do other things
+   <line type="dialogue">Right.</line>
+   <line type="dialogue">Made sure we never told anyone</line>
+   <line type="dialogue">so he could do other things
 and not get caught.</line>
-   <line>Like show us those magazines.</line>
-   <line>That was number five.</line>
-   <line>Escalate.
+   <line type="dialogue">Like show us those magazines.</line>
+   <line type="dialogue">That was number five.</line>
+   <line type="dialogue">Escalate.
 - What does that escalate mean?</line>
-   <line>To make things worse.</line>
-   <line>Then, the final thing... number six...</line>
-   <line>we know what that is.</line>
-   <line>You don't have to say it.</line>
-   <line>Number one: Ignore.</line>
-   <line>No one show up at swim class tomorrow.</line>
-   <line>We do to him, step by step,
+   <line type="dialogue">To make things worse.</line>
+   <line type="dialogue">Then, the final thing... number six...</line>
+   <line type="dialogue">we know what that is.</line>
+   <line type="dialogue">You don't have to say it.</line>
+   <line type="dialogue">Number one: Ignore.</line>
+   <line type="dialogue">No one show up at swim class tomorrow.</line>
+   <line type="dialogue">We do to him, step by step,
 exactly what he did to us.</line>
-   <line>So after you skipped out
+   <line type="dialogue">So after you skipped out
 on Nash's swim class, what happened?</line>
-   <line>Number two.</line>
-   <line>Whoever he came to first,</line>
-   <line>whoever he picked,</line>
-   <line>that kid would be the bait.
+   <line type="dialogue">Number two.</line>
+   <line type="dialogue">Whoever he came to first,</line>
+   <line type="dialogue">whoever he picked,</line>
+   <line type="dialogue">that kid would be the bait.
 the reward.</line>
-   <line>I was just holding my breath.</line>
-   <line>Hoping it wouldn't be me.</line>
-   <line>Private Lasalle, why weren't you not in class?</line>
-   <line>I got busy.</line>
-   <line>Excuse me?</line>
-   <line>I said I got busy.</line>
-   <line>Wanna see what I got so busy with?</line>
-   <line>Got it for tonight.</line>
-   <line>For the pool.</line>
-   <line>Will you bring some beer, sir?</line>
-   <line>Number two: Reward.</line>
-   <line>You were it.</line>
-   <line>RJ and Jerry are talking.</line>
-   <line>Time's a wasting.</line>
-   <line>You're playing your hand badly,
+   <line type="dialogue">I was just holding my breath.</line>
+   <line type="dialogue">Hoping it wouldn't be me.</line>
+   <line type="dialogue">Private Lasalle, why weren't you not in class?</line>
+   <line type="dialogue">I got busy.</line>
+   <line type="dialogue">Excuse me?</line>
+   <line type="dialogue">I said I got busy.</line>
+   <line type="dialogue">Wanna see what I got so busy with?</line>
+   <line type="dialogue">Got it for tonight.</line>
+   <line type="dialogue">For the pool.</line>
+   <line type="dialogue">Will you bring some beer, sir?</line>
+   <line type="dialogue">Number two: Reward.</line>
+   <line type="dialogue">You were it.</line>
+   <line type="dialogue">RJ and Jerry are talking.</line>
+   <line type="dialogue">Time's a wasting.</line>
+   <line type="dialogue">You're playing your hand badly,
 detective Rush.</line>
-   <line>See, in poker, like business or warfare,</line>
-   <line>The optimal strategy is not to have one.</line>
-   <line>Or, rather, not to show it.</line>
-   <line>You wear yours like a bad dye job.</line>
-   <line>Game's over, Dominic.</line>
-   <line>You already confessed to the m*rder.</line>
-   <line>So there's something that happened
+   <line type="dialogue">See, in poker, like business or warfare,</line>
+   <line type="dialogue">The optimal strategy is not to have one.</line>
+   <line type="dialogue">Or, rather, not to show it.</line>
+   <line type="dialogue">You wear yours like a bad dye job.</line>
+   <line type="dialogue">Game's over, Dominic.</line>
+   <line type="dialogue">You already confessed to the m*rder.</line>
+   <line type="dialogue">So there's something that happened
 that night...</line>
-   <line>that you don't wanna give up.</line>
-   <line>I wonder what that is.</line>
-   <line>Number three: Secret.</line>
-   <line>What was the secret?</line>
-   <line>Dominic was gonna get Nash in the pool...</line>
-   <line>like he did to us.</line>
-   <line>Promise to do... things with him.</line>
-   <line>And then...</line>
-   <line>and then everything went wrong.</line>
-   <line>Ready to get in?</line>
-   <line>Nah.
+   <line type="dialogue">that you don't wanna give up.</line>
+   <line type="dialogue">I wonder what that is.</line>
+   <line type="dialogue">Number three: Secret.</line>
+   <line type="dialogue">What was the secret?</line>
+   <line type="dialogue">Dominic was gonna get Nash in the pool...</line>
+   <line type="dialogue">like he did to us.</line>
+   <line type="dialogue">Promise to do... things with him.</line>
+   <line type="dialogue">And then...</line>
+   <line type="dialogue">and then everything went wrong.</line>
+   <line type="dialogue">Ready to get in?</line>
+   <line type="dialogue">Nah.
 I'm a little too tired, buddy.</line>
-   <line>Maybe some other time.</line>
-   <line>But...</line>
-   <line>but I got a secret.</line>
-   <line>A real good secret... for us... in the pool.</line>
-   <line>Like I said... maybe some other time.</line>
-   <line>So the plan fell apart.
+   <line type="dialogue">Maybe some other time.</line>
+   <line type="dialogue">But...</line>
+   <line type="dialogue">but I got a secret.</line>
+   <line type="dialogue">A real good secret... for us... in the pool.</line>
+   <line type="dialogue">Like I said... maybe some other time.</line>
+   <line type="dialogue">So the plan fell apart.
 Nash left.</line>
-   <line>No. He didn't.</line>
-   <line>You got him back in the pool?</line>
-   <line>How'd you do that?</line>
-   <line>How'd you do that, RJ?</line>
-   <line>How'd you get Nash into the pool, Jerry?</line>
-   <line>How'd you do it?</line>
-   <line>Dominic, whatever you had to do...</line>
-   <line>it wasn't your fault.</line>
-   <line>What you did...
+   <line type="dialogue">No. He didn't.</line>
+   <line type="dialogue">You got him back in the pool?</line>
+   <line type="dialogue">How'd you do that?</line>
+   <line type="dialogue">How'd you do that, RJ?</line>
+   <line type="dialogue">How'd you get Nash into the pool, Jerry?</line>
+   <line type="dialogue">How'd you do it?</line>
+   <line type="dialogue">Dominic, whatever you had to do...</line>
+   <line type="dialogue">it wasn't your fault.</line>
+   <line type="dialogue">What you did...
 - Number four: Test.</line>
-   <line>Make sure that he doesn't run.</line>
-   <line>But I can't let the plan fail.</line>
-   <line>So I beg him.</line>
-   <line>Please," I said.</line>
-   <line>Please."</line>
-   <line>Like I said, some other time.</line>
-   <line>Please?</line>
-   <line>Please?</line>
-   <line>Only if you smile.</line>
-   <line>Number six: Destroy.</line>
-   <line>From the child, comes forth the soldier."</line>
-   <line>That's what he would say
+   <line type="dialogue">Make sure that he doesn't run.</line>
+   <line type="dialogue">But I can't let the plan fail.</line>
+   <line type="dialogue">So I beg him.</line>
+   <line type="dialogue">Please," I said.</line>
+   <line type="dialogue">Please."</line>
+   <line type="dialogue">Like I said, some other time.</line>
+   <line type="dialogue">Please?</line>
+   <line type="dialogue">Please?</line>
+   <line type="dialogue">Only if you smile.</line>
+   <line type="dialogue">Number six: Destroy.</line>
+   <line type="dialogue">From the child, comes forth the soldier."</line>
+   <line type="dialogue">That's what he would say
 when he was done.</line>
-   <line>And I would just go away in my mind.</line>
-   <line>Not this time.</line>
-   <line>Not this time.</line>
-   <line>From the child, comes forth the soldier.</line>
-   <line>Isn't that right, buddy?</line>
-   <line>Hey, what are you guys doing here?</line>
-   <line>Don't let your elbows touch the water,
+   <line type="dialogue">And I would just go away in my mind.</line>
+   <line type="dialogue">Not this time.</line>
+   <line type="dialogue">Not this time.</line>
+   <line type="dialogue">From the child, comes forth the soldier.</line>
+   <line type="dialogue">Isn't that right, buddy?</line>
+   <line type="dialogue">Hey, what are you guys doing here?</line>
+   <line type="dialogue">Don't let your elbows touch the water,
 private! seconds! Go!</line>
-   <line>Can't is not in your vocabulary, cadet!</line>
-   <line>Failure is not an option!</line>
-   <line>You're special, a real winner,
+   <line type="dialogue">Can't is not in your vocabulary, cadet!</line>
+   <line type="dialogue">Failure is not an option!</line>
+   <line type="dialogue">You're special, a real winner,
 my special boy!</line>
-   <line>You like this, don't you!</line>
-   <line>Don't pretend you don't like it!</line>
-   <line>Destroy, destroy, destroy!</line>
-   <line>Somebody's coming.</line>
-   <line>They shouldn't go away for this.</line>
-   <line>Hmm. They confessed m*rder one.
+   <line type="dialogue">You like this, don't you!</line>
+   <line type="dialogue">Don't pretend you don't like it!</line>
+   <line type="dialogue">Destroy, destroy, destroy!</line>
+   <line type="dialogue">Somebody's coming.</line>
+   <line type="dialogue">They shouldn't go away for this.</line>
+   <line type="dialogue">Hmm. They confessed m*rder one.
 What are you gonna do?</line>
-   <line>Maybe the guy slipped, fell,
+   <line type="dialogue">Maybe the guy slipped, fell,
 and hit his head, boss.</line>
-   <line>I could see that.
+   <line type="dialogue">I could see that.
 - Accidental death.</line>
-   <line>My pen ran out in there,
+   <line type="dialogue">My pen ran out in there,
 didn't get that last part.</line>
-   <line>I think we could all use
+   <line type="dialogue">I think we could all use
 a scotch right about now.</line>
-   <line>Anyone hear from Scotty?</line>
-   <line>Not me.</line>
-   <line>You sent it in, you frigging rat!</line>
-   <line>Hey, knock it off!</line>
-   <line>You frigging liar!</line>
-   <line>g*n!</line>
-   <line>Don't you touch me!
+   <line type="dialogue">Anyone hear from Scotty?</line>
+   <line type="dialogue">Not me.</line>
+   <line type="dialogue">You sent it in, you frigging rat!</line>
+   <line type="dialogue">Hey, knock it off!</line>
+   <line type="dialogue">You frigging liar!</line>
+   <line type="dialogue">g*n!</line>
+   <line type="dialogue">Don't you touch me!
 - Dominic!</line>
-   <line>Dominic! Listen to me.</line>
-   <line>Dominic!</line>
-   <line>Dominic, put the g*n down.
+   <line type="dialogue">Dominic! Listen to me.</line>
+   <line type="dialogue">Dominic!</line>
+   <line type="dialogue">Dominic, put the g*n down.
 - Don't nobody touch me!</line>
-   <line>Listen to me.</line>
-   <line>Dominic, listen to me.</line>
-   <line>It's gonna be okay,</line>
-   <line>I promise you.</line>
-   <line>I promise you, Dominic.</line>
-   <line>It's going to be okay.</line>
-   <line>Put the g*n down.
+   <line type="dialogue">Listen to me.</line>
+   <line type="dialogue">Dominic, listen to me.</line>
+   <line type="dialogue">It's gonna be okay,</line>
+   <line type="dialogue">I promise you.</line>
+   <line type="dialogue">I promise you, Dominic.</line>
+   <line type="dialogue">It's going to be okay.</line>
+   <line type="dialogue">Put the g*n down.
 - Listen, I wrote it.</line>
-   <line>The plan, I wrote it!</line>
-   <line>But I didn't send it.</line>
-   <line>Put the g*n down.</line>
-   <line>Dominic!</line>
-   <line>I didn't send it.</line>
-   <line>No, Dominic!</line>
-   <line>No!</line>
-   <line>I talked to the hospital.
+   <line type="dialogue">The plan, I wrote it!</line>
+   <line type="dialogue">But I didn't send it.</line>
+   <line type="dialogue">Put the g*n down.</line>
+   <line type="dialogue">Dominic!</line>
+   <line type="dialogue">I didn't send it.</line>
+   <line type="dialogue">No, Dominic!</line>
+   <line type="dialogue">No!</line>
+   <line type="dialogue">I talked to the hospital.
 It's looking bad.</line>
-   <line>But they can't say for sure right now.</line>
-   <line>If Dominic didn't send the plan...</line>
-   <line>then who did?</line>
-   <line>It's over, Lil.</line>
-   <line>Let's go home.</line>
-   <line>I've been looking for you all day.</line>
-   <line>Everywhere I'm looking for you.</line>
-   <line>God, Elisa.</line>
-   <line>I'm sorry.</line>
-   <line>You okay?</line>
-   <line>Hey. Talk to me.</line>
-   <line>They came back, Scotty.</line>
-   <line>The giants.</line>
-   <line>I know what you're thinking,</line>
-   <line>I know you think that
+   <line type="dialogue">But they can't say for sure right now.</line>
+   <line type="dialogue">If Dominic didn't send the plan...</line>
+   <line type="dialogue">then who did?</line>
+   <line type="dialogue">It's over, Lil.</line>
+   <line type="dialogue">Let's go home.</line>
+   <line type="dialogue">I've been looking for you all day.</line>
+   <line type="dialogue">Everywhere I'm looking for you.</line>
+   <line type="dialogue">God, Elisa.</line>
+   <line type="dialogue">I'm sorry.</line>
+   <line type="dialogue">You okay?</line>
+   <line type="dialogue">Hey. Talk to me.</line>
+   <line type="dialogue">They came back, Scotty.</line>
+   <line type="dialogue">The giants.</line>
+   <line type="dialogue">I know what you're thinking,</line>
+   <line type="dialogue">I know you think that
 I didn't take my meds, but I did.</line>
-   <line>And they still came back.</line>
-   <line>Well, we'll get stronger meds.</line>
-   <line>We'll talk to the doctor to see whatever
+   <line type="dialogue">And they still came back.</line>
+   <line type="dialogue">Well, we'll get stronger meds.</line>
+   <line type="dialogue">We'll talk to the doctor to see whatever
 to save. / That's what we did last time.</line>
-   <line>It's what we do all the time,
+   <line type="dialogue">It's what we do all the time,
 and it doesn't get better.</line>
-   <line>Maybe it just doesn't.</line>
-   <line>I'm gonna go stay at my sister's for a while.</line>
-   <line>That's what you want to do, do it.
+   <line type="dialogue">Maybe it just doesn't.</line>
+   <line type="dialogue">I'm gonna go stay at my sister's for a while.</line>
+   <line type="dialogue">That's what you want to do, do it.
 - I don't know what else to do.</line>
-   <line>Do you?</line>
-   <line>Shirts two, skins zero.</line>
-   <line>There ain't no skins.</line>
-   <line>You know? You see that?
+   <line type="dialogue">Do you?</line>
+   <line type="dialogue">Shirts two, skins zero.</line>
+   <line type="dialogue">There ain't no skins.</line>
+   <line type="dialogue">You know? You see that?
 I mean, just... just look!</line>
-   <line>I meant before, when we were kids.</line>
-   <line>Let's go, Elisa. / Skins make
+   <line type="dialogue">I meant before, when we were kids.</line>
+   <line type="dialogue">Let's go, Elisa. / Skins make
 a comeback in the last inning.</line>
-   <line>Do you remember?</line>
-   <line>No.</line>
-   <line>Triple play.
+   <line type="dialogue">Do you remember?</line>
+   <line type="dialogue">No.</line>
+   <line type="dialogue">Triple play.
 Scored by Scotty valens.</line>
-   <line>I don't remember.</line>
-   <line>I do.</line>
-   <line>That was a long time ago.
+   <line type="dialogue">I don't remember.</line>
+   <line type="dialogue">I do.</line>
+   <line type="dialogue">That was a long time ago.
 - Not so long ago, Scotty.</line>
-   <line>Not so long ago.</line>
-   <line>Dominic's in the ICU.</line>
-   <line>No word yet.</line>
-   <line>Last thing he said before
+   <line type="dialogue">Not so long ago.</line>
+   <line type="dialogue">Dominic's in the ICU.</line>
+   <line type="dialogue">No word yet.</line>
+   <line type="dialogue">Last thing he said before
 he shot himself was...</line>
-   <line>he didn't send the plan.</line>
-   <line>Then who did?</line>
-   <line>Was there someone else in
+   <line type="dialogue">he didn't send the plan.</line>
+   <line type="dialogue">Then who did?</line>
+   <line type="dialogue">Was there someone else in
 on this besides the three of you?</line>
-   <line>No, just us.</line>
-   <line>But someone else knew.</line>
-   <line>We lost it that night.</line>
-   <line>The plan?</line>
-   <line>It was in Dominic's pocket.</line>
-   <line>He stuck everything in his pockets.
+   <line type="dialogue">No, just us.</line>
+   <line type="dialogue">But someone else knew.</line>
+   <line type="dialogue">We lost it that night.</line>
+   <line type="dialogue">The plan?</line>
+   <line type="dialogue">It was in Dominic's pocket.</line>
+   <line type="dialogue">He stuck everything in his pockets.
 - Dumbass.</line>
-   <line>And then it was gone after... the pool.</line>
-   <line>It was gone.</line>
-   <line>Where'd it go?</line>
-   <line>What?</line>
-   <line>The plan! It was here.
+   <line type="dialogue">And then it was gone after... the pool.</line>
+   <line type="dialogue">It was gone.</line>
+   <line type="dialogue">Where'd it go?</line>
+   <line type="dialogue">What?</line>
+   <line type="dialogue">The plan! It was here.
 - You put in your pocket?</line>
-   <line>You dumbass! / Shh!</line>
-   <line>Okay, it's okay.</line>
-   <line>Listen up, here's what we do.</line>
-   <line>Never tell.</line>
-   <line>No matter what happens.</line>
-   <line>If we're ever caught,
+   <line type="dialogue">You dumbass! / Shh!</line>
+   <line type="dialogue">Okay, it's okay.</line>
+   <line type="dialogue">Listen up, here's what we do.</line>
+   <line type="dialogue">Never tell.</line>
+   <line type="dialogue">No matter what happens.</line>
+   <line type="dialogue">If we're ever caught,
 each man takes the fall.</line>
-   <line>By himself.</line>
-   <line>Alone.</line>
-   <line>Like a soldier.</line>
-   <line>Never tell.
+   <line type="dialogue">By himself.</line>
+   <line type="dialogue">Alone.</line>
+   <line type="dialogue">Like a soldier.</line>
+   <line type="dialogue">Never tell.
 - Never tell.</line>
-   <line>Never tell.</line>
-   <line>He went back to the pool that night.</line>
-   <line>Dominic, to look for it.
+   <line type="dialogue">Never tell.</line>
+   <line type="dialogue">He went back to the pool that night.</line>
+   <line type="dialogue">Dominic, to look for it.
 - Did he find it?</line>
-   <line>We never talked about it.</line>
-   <line>Like it never happened.</line>
-   <line>And after a while,
+   <line type="dialogue">We never talked about it.</line>
+   <line type="dialogue">Like it never happened.</line>
+   <line type="dialogue">And after a while,
 it felt like it never did.</line>
-   <line>He should have this, not me.</line>
-   <line>For what he did, what they all did.</line>
-   <line>Took more guts than I ever had.</line>
-   <line>From the child comes forth the soldier."</line>
-   <line>That's what Nash always said.</line>
-   <line>After.</line>
-   <line>You were a lifer at the academy.</line>
-   <line>In Nash's swim class, long ago.</line>
-   <line>Not so long ago.</line>
-   <line>You were the duty sergeant that night.</line>
-   <line>You found Nash's body.</line>
-   <line>And the plan. / The world had to
+   <line type="dialogue">He should have this, not me.</line>
+   <line type="dialogue">For what he did, what they all did.</line>
+   <line type="dialogue">Took more guts than I ever had.</line>
+   <line type="dialogue">From the child comes forth the soldier."</line>
+   <line type="dialogue">That's what Nash always said.</line>
+   <line type="dialogue">After.</line>
+   <line type="dialogue">You were a lifer at the academy.</line>
+   <line type="dialogue">In Nash's swim class, long ago.</line>
+   <line type="dialogue">Not so long ago.</line>
+   <line type="dialogue">You were the duty sergeant that night.</line>
+   <line type="dialogue">You found Nash's body.</line>
+   <line type="dialogue">And the plan. / The world had to
 know what he did to them.</line>
-   <line>To me.
+   <line type="dialogue">To me.
 - That's why you sent it in.</line>
-   <line>But why now, Creighton?</line>
-   <line>The last class of Nash's victims.
+   <line type="dialogue">But why now, Creighton?</line>
+   <line type="dialogue">The last class of Nash's victims.
 The last to bear witness.</line>
-   <line>Nash's secret would go away with them.</line>
-   <line>You couldn't let that happen.
+   <line type="dialogue">Nash's secret would go away with them.</line>
+   <line type="dialogue">You couldn't let that happen.
 - I didn't let that happen.</line>
-   <line>No, you didn't.</line>
-   <line>Why are you here?</line>
-   <line>You let these boys go, I'll tell you.</line>
-   <line>Depends on what you have to tell me.</line>
-   <line>I watch boys.</line>
-   <line>Just like Nash did,
+   <line type="dialogue">No, you didn't.</line>
+   <line type="dialogue">Why are you here?</line>
+   <line type="dialogue">You let these boys go, I'll tell you.</line>
+   <line type="dialogue">Depends on what you have to tell me.</line>
+   <line type="dialogue">I watch boys.</line>
+   <line type="dialogue">Just like Nash did,
 I watch boys,</line>
-   <line>and I know that I'm becoming him.</line>
-   <line>Please put me away.</line>
-   <line>Stop me.
+   <line type="dialogue">and I know that I'm becoming him.</line>
+   <line type="dialogue">Please put me away.</line>
+   <line type="dialogue">Stop me.
 Let them have their lives.</line>
-   <line>Let them become men.</line>
-   <line>Just let them go.
+   <line type="dialogue">Let them become men.</line>
+   <line type="dialogue">Just let them go.
 - How can I?</line>
-   <line>They k*lled a man.
+   <line type="dialogue">They k*lled a man.
 - No, they didn't.</line>
-   <line>Somebody's coming!</line>
-   <line>Creighton!</line>
-   <line>Creighton!</line>
-   <line>Wise Up"
+   <line type="dialogue">Somebody's coming!</line>
+   <line type="dialogue">Creighton!</line>
+   <line type="dialogue">Creighton!</line>
+   <line type="dialogue">Wise Up"
 by Aimee Mann</line>
    <line type="music">♪ It's not what you thought ♪</line>
    <line type="music">♪ When you first began it ♪</line>

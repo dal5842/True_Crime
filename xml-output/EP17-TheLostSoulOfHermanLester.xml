@@ -1,983 +1,984 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNG/TrueCrimeRelaxNG.rnc" type="application/relax-ng-compact-syntax"?>
 <transcript>
-   <line>Come on, guys!
+   <line type="dialogue">Come on, guys!
 Over here, now!</line>
-   <line>Listen up, listen up.</line>
-   <line>We're down one and we need a score.</line>
-   <line>You boys do what I tell you,
+   <line type="dialogue">Listen up, listen up.</line>
+   <line type="dialogue">We're down one and we need a score.</line>
+   <line type="dialogue">You boys do what I tell you,
 you'll be state champinos!</line>
-   <line>I want the ball in Herman's hand.</line>
-   <line>The rest of you guys just clear
+   <line type="dialogue">I want the ball in Herman's hand.</line>
+   <line type="dialogue">The rest of you guys just clear
 out of his way, you understand?</line>
-   <line>All right, bring it in.
+   <line type="dialogue">All right, bring it in.
 Saints on three.</line>
-   <line>One, two, three...
+   <line type="dialogue">One, two, three...
 - Saints!</line>
-   <line>Herman...</line>
-   <line>Put us your back and get us a win.</line>
-   <line>Let's go, Herman, baby!</line>
-   <line>Herman, Herman,
+   <line type="dialogue">Herman...</line>
+   <line type="dialogue">Put us your back and get us a win.</line>
+   <line type="dialogue">Let's go, Herman, baby!</line>
+   <line type="dialogue">Herman, Herman,
 do your uncle right, baby.</line>
-   <line>Do your uncle right!</line>
-   <line>Please, Lord, give young Herman
+   <line type="dialogue">Do your uncle right!</line>
+   <line type="dialogue">Please, Lord, give young Herman
 the strength to do me right.</line>
-   <line>Please! Come on, Herman.
+   <line type="dialogue">Please! Come on, Herman.
 Come on, baby.</line>
-   <line>Let's do it, baby.
+   <line type="dialogue">Let's do it, baby.
 Come on.</line>
-   <line>You figure : a.m.'s the right
+   <line type="dialogue">You figure : a.m.'s the right
 time to start the day, boss?</line>
-   <line>These guys have been
+   <line type="dialogue">These guys have been
 here for an hour, Lil.</line>
-   <line>You ever hear of Herman Lester?</line>
-   <line>No.</line>
-   <line>Ah, he's only the best basketball
+   <line type="dialogue">You ever hear of Herman Lester?</line>
+   <line type="dialogue">No.</line>
+   <line type="dialogue">Ah, he's only the best basketball
 player who ever lived.</line>
-   <line>Yeah? / And died.</line>
-   <line>He was m*rder*d on a playground
+   <line type="dialogue">Yeah? / And died.</line>
+   <line type="dialogue">He was m*rder*d on a playground
 court in . Never sloved.</line>
-   <line>So what are we doing here?</line>
-   <line>You see the kid with the ball?</line>
-   <line>That's Herman's son.</line>
-   <line>Ball never touches the floor.</line>
-   <line>And make the layup now.
+   <line type="dialogue">So what are we doing here?</line>
+   <line type="dialogue">You see the kid with the ball?</line>
+   <line type="dialogue">That's Herman's son.</line>
+   <line type="dialogue">Ball never touches the floor.</line>
+   <line type="dialogue">And make the layup now.
 Let's go!</line>
-   <line>John. / Coach.</line>
-   <line>Thanks for coming.
+   <line type="dialogue">John. / Coach.</line>
+   <line type="dialogue">Thanks for coming.
 - No problem.</line>
-   <line>This is Detective Rush.</line>
-   <line>Nice to meet you.
+   <line type="dialogue">This is Detective Rush.</line>
+   <line type="dialogue">Nice to meet you.
 - Pleasure.</line>
-   <line>Look, look, watch this.</line>
-   <line>Doesn't have Herman's
+   <line type="dialogue">Look, look, watch this.</line>
+   <line type="dialogue">Doesn't have Herman's
 size, but ... more range.</line>
-   <line>And the same confidence.</line>
-   <line>I tell you, John, it's like
+   <line type="dialogue">And the same confidence.</line>
+   <line type="dialogue">I tell you, John, it's like
 coaching Herman all over again.</line>
-   <line>Hey, Ray! Come here!</line>
-   <line>Let's have him walk us
+   <line type="dialogue">Hey, Ray! Come here!</line>
+   <line type="dialogue">Let's have him walk us
 through this phone call he got.</line>
-   <line>Some kind of threat?</line>
-   <line>Ray, these are Philadelphia police.</line>
-   <line>Gonna help us out.</line>
-   <line>Hey. / Hey.</line>
-   <line>Hi, Ray.</line>
-   <line>Want to tell us about
+   <line type="dialogue">Some kind of threat?</line>
+   <line type="dialogue">Ray, these are Philadelphia police.</line>
+   <line type="dialogue">Gonna help us out.</line>
+   <line type="dialogue">Hey. / Hey.</line>
+   <line type="dialogue">Hi, Ray.</line>
+   <line type="dialogue">Want to tell us about
 the phone call you got?</line>
-   <line>Not much to it.</line>
-   <line>I'm home, pick up the phone and hear.</line>
-   <line>If I play Friday night,</line>
-   <line>I'm gonna get the screwdriver,
+   <line type="dialogue">Not much to it.</line>
+   <line type="dialogue">I'm home, pick up the phone and hear.</line>
+   <line type="dialogue">If I play Friday night,</line>
+   <line type="dialogue">I'm gonna get the screwdriver,
 just like my dad.</line>
-   <line>Screwdriver?</line>
-   <line>It was the m*rder w*apon.</line>
-   <line>So... what's Friday night?</line>
-   <line>State championship.</line>
-   <line>Uh, no idea who it was
+   <line type="dialogue">Screwdriver?</line>
+   <line type="dialogue">It was the m*rder w*apon.</line>
+   <line type="dialogue">So... what's Friday night?</line>
+   <line type="dialogue">State championship.</line>
+   <line type="dialogue">Uh, no idea who it was
 male, female, young, old?</line>
-   <line>Male. Can't say about the rest.</line>
-   <line>Ray, you having any problem in school?</line>
-   <line>Any issues on or off the court?</line>
-   <line>Nah. Things are cool.</line>
-   <line>Okay, Ray. Thanks.</line>
-   <line>Back out there.</line>
-   <line>I need him in the lineup Friday.</line>
-   <line>Do really think this threat is
+   <line type="dialogue">Male. Can't say about the rest.</line>
+   <line type="dialogue">Ray, you having any problem in school?</line>
+   <line type="dialogue">Any issues on or off the court?</line>
+   <line type="dialogue">Nah. Things are cool.</line>
+   <line type="dialogue">Okay, Ray. Thanks.</line>
+   <line type="dialogue">Back out there.</line>
+   <line type="dialogue">I need him in the lineup Friday.</line>
+   <line type="dialogue">Do really think this threat is
 connected to Herman's m*rder?</line>
-   <line>Well, the kid's a phenom like his dad.</line>
-   <line>They both lead their teams
+   <line type="dialogue">Well, the kid's a phenom like his dad.</line>
+   <line type="dialogue">They both lead their teams
 to the state championship.</line>
-   <line>Herman gets m*rder*d,</line>
-   <line>now Ray gets this death threat.</line>
-   <line>Enough connection for me.</line>
-   <line>We'll check with the phone company,</line>
-   <line>see if we can trace where
+   <line type="dialogue">Herman gets m*rder*d,</line>
+   <line type="dialogue">now Ray gets this death threat.</line>
+   <line type="dialogue">Enough connection for me.</line>
+   <line type="dialogue">We'll check with the phone company,</line>
+   <line type="dialogue">see if we can trace where
 the call came from.</line>
-   <line>And pull Herman Lester's case.</line>
-   <line>I wish you'd have eaten more.</line>
-   <line>I ate all the melon.
+   <line type="dialogue">And pull Herman Lester's case.</line>
+   <line type="dialogue">I wish you'd have eaten more.</line>
+   <line type="dialogue">I ate all the melon.
 - Yeah.</line>
-   <line>Yeah, and you made sure the
+   <line type="dialogue">Yeah, and you made sure the
 home fries didn't go to waste.</line>
-   <line>I like being out here.</line>
-   <line>In the cold.</line>
-   <line>I'll get you a cab. / Yeah?</line>
-   <line>What? What is it?</line>
-   <line>There's a giant behind you.</line>
-   <line>What?</line>
-   <line>Well, look for yourself.</line>
-   <line>Yeah, look for yourself.</line>
-   <line>Oh, man.</line>
-   <line>What... what are you doing here?</line>
-   <line>Just getting my coffee.</line>
-   <line>What are you doing here?</line>
-   <line>Uh, uh, just, uh, coffee.</line>
-   <line>Will Jeffries.
+   <line type="dialogue">I like being out here.</line>
+   <line type="dialogue">In the cold.</line>
+   <line type="dialogue">I'll get you a cab. / Yeah?</line>
+   <line type="dialogue">What? What is it?</line>
+   <line type="dialogue">There's a giant behind you.</line>
+   <line type="dialogue">What?</line>
+   <line type="dialogue">Well, look for yourself.</line>
+   <line type="dialogue">Yeah, look for yourself.</line>
+   <line type="dialogue">Oh, man.</line>
+   <line type="dialogue">What... what are you doing here?</line>
+   <line type="dialogue">Just getting my coffee.</line>
+   <line type="dialogue">What are you doing here?</line>
+   <line type="dialogue">Uh, uh, just, uh, coffee.</line>
+   <line type="dialogue">Will Jeffries.
 - Elisa.</line>
-   <line>Sorry. Bonehead.
+   <line type="dialogue">Sorry. Bonehead.
 We work together.</line>
-   <line>Pleasure to meet you.</line>
-   <line>See you at work, Scotty.</line>
-   <line>Yeah.</line>
-   <line>So, uh, a cab, right?</line>
-   <line>Guess, uh, Jeffries is
+   <line type="dialogue">Pleasure to meet you.</line>
+   <line type="dialogue">See you at work, Scotty.</line>
+   <line type="dialogue">Yeah.</line>
+   <line type="dialogue">So, uh, a cab, right?</line>
+   <line type="dialogue">Guess, uh, Jeffries is
 kind of a giant, ain't he?</line>
-   <line>Probably should've said "big".</line>
-   <line>If Herman Lester had lived,</line>
-   <line>of Dr.J as just another player.</line>
-   <line>Come on, boss.</line>
-   <line>The good doctor would jump so high,</line>
-   <line>he could pick a dollar off
+   <line type="dialogue">Probably should've said "big".</line>
+   <line type="dialogue">If Herman Lester had lived,</line>
+   <line type="dialogue">of Dr.J as just another player.</line>
+   <line type="dialogue">Come on, boss.</line>
+   <line type="dialogue">The good doctor would jump so high,</line>
+   <line type="dialogue">he could pick a dollar off
 the top of the backboards.</line>
-   <line>Scotty, Herman Lester
+   <line type="dialogue">Scotty, Herman Lester
 would leave change.</line>
-   <line>Whatever Herman did,
+   <line type="dialogue">Whatever Herman did,
 he returned to earth</line>
-   <line>of a Phillips screwdriver.</line>
-   <line>Yeah. Pierced once through the heart.</line>
-   <line>And bled out like a mere mortal
+   <line type="dialogue">of a Phillips screwdriver.</line>
+   <line type="dialogue">Yeah. Pierced once through the heart.</line>
+   <line type="dialogue">And bled out like a mere mortal
 on the court at Player's Park.</line>
-   <line>Suspects?</line>
-   <line>One. Billy Berkenpass, a teammate.</line>
-   <line>Good player in his own right,
+   <line type="dialogue">Suspects?</line>
+   <line type="dialogue">One. Billy Berkenpass, a teammate.</line>
+   <line type="dialogue">Good player in his own right,
 but no Herman.</line>
-   <line>Says here that was the problem.</line>
-   <line>Berknepass hated playing
+   <line type="dialogue">Says here that was the problem.</line>
+   <line type="dialogue">Berknepass hated playing
 second fiddle to Herman.</line>
-   <line>Attitude got him booted off the team.</line>
-   <line>He missed the state championship
+   <line type="dialogue">Attitude got him booted off the team.</line>
+   <line type="dialogue">He missed the state championship
 same night Herman dead.</line>
-   <line>Yeah, he lost out in love, too.</line>
-   <line>Tanya Williams dumped Berkenpass
+   <line type="dialogue">Yeah, he lost out in love, too.</line>
+   <line type="dialogue">Tanya Williams dumped Berkenpass
 for Herman a few months earlier.</line>
-   <line>Double motive.</line>
-   <line>Footnote says maybe Herman was iced
+   <line type="dialogue">Double motive.</line>
+   <line type="dialogue">Footnote says maybe Herman was iced
 by a bagman from a top school?</line>
-   <line>Sounds like urban legend.</line>
-   <line>Yeah, smart money was on Berkenpass.
+   <line type="dialogue">Sounds like urban legend.</line>
+   <line type="dialogue">Yeah, smart money was on Berkenpass.
 On top of everything else.</line>
-   <line>kids saw him confront Herman
+   <line type="dialogue">kids saw him confront Herman
 at an after-game party that night.</line>
-   <line>So why didn't he go down?</line>
-   <line>No hard evidence,
+   <line type="dialogue">So why didn't he go down?</line>
+   <line type="dialogue">No hard evidence,
 and he had an alibi.</line>
-   <line>Time of the m*rder, he claimed
+   <line type="dialogue">Time of the m*rder, he claimed
 he was home with his dad.</line>
-   <line>Aw, Dad vouching for
+   <line type="dialogue">Aw, Dad vouching for
 you ain't exactly airtight.</line>
-   <line>Are we sure this job is
+   <line type="dialogue">Are we sure this job is
 connected to Ray's death threat?</line>
-   <line>Well, seems like it.</line>
-   <line>Especially since the threat was made
+   <line type="dialogue">Well, seems like it.</line>
+   <line type="dialogue">Especially since the threat was made
 from a pay phone at the City Center Rec.</line>
-   <line>Yeah, and guess who hoops it up
+   <line type="dialogue">Yeah, and guess who hoops it up
 there, every day over lunch hour.</line>
-   <line>Berkenpass.</line>
-   <line>Your son says he was with you
+   <line type="dialogue">Berkenpass.</line>
+   <line type="dialogue">Your son says he was with you
 the night Herman Lester was k*lled.</line>
-   <line>Yeah, we sat in front of
+   <line type="dialogue">Yeah, we sat in front of
 the tube till : a.m.</line>
-   <line>You always watch  TV that late?</line>
-   <line>No, just that night.</line>
-   <line>Good, Bad and the Ugly was on.</line>
-   <line>Got a pretty specific memory there.</line>
-   <line>I've only been asked the
+   <line type="dialogue">You always watch  TV that late?</line>
+   <line type="dialogue">No, just that night.</line>
+   <line type="dialogue">Good, Bad and the Ugly was on.</line>
+   <line type="dialogue">Got a pretty specific memory there.</line>
+   <line type="dialogue">I've only been asked the
 question about times.</line>
-   <line>Hey, hey, hey!</line>
-   <line>No reason for you to touch that.</line>
-   <line>So, that night...</line>
-   <line>Billy must've been pretty steamed,
+   <line type="dialogue">Hey, hey, hey!</line>
+   <line type="dialogue">No reason for you to touch that.</line>
+   <line type="dialogue">So, that night...</line>
+   <line type="dialogue">Billy must've been pretty steamed,
 after what happened to him.</line>
-   <line>What do you mean?</line>
-   <line>Him getting kicked off the team,
+   <line type="dialogue">What do you mean?</line>
+   <line type="dialogue">Him getting kicked off the team,
 missing the big game.</line>
-   <line>My kid got screwed.</line>
-   <line>Plus, Herman taking up with
+   <line type="dialogue">My kid got screwed.</line>
+   <line type="dialogue">Plus, Herman taking up with
 his ex-girlfriend, Tanya, right?</line>
-   <line>Got screwed twice.</line>
-   <line>He was better off losing the girl.</line>
-   <line>You didn't like her?</line>
-   <line>I don't like any girls in the picture.</line>
-   <line>Women weaking legs.
+   <line type="dialogue">Got screwed twice.</line>
+   <line type="dialogue">He was better off losing the girl.</line>
+   <line type="dialogue">You didn't like her?</line>
+   <line type="dialogue">I don't like any girls in the picture.</line>
+   <line type="dialogue">Women weaking legs.
 That's no good for basketball.</line>
-   <line>Look, it's admirable,</line>
-   <line>Yeah, somebody had to.</line>
-   <line>Within hours, you cops were all
+   <line type="dialogue">Look, it's admirable,</line>
+   <line type="dialogue">Yeah, somebody had to.</line>
+   <line type="dialogue">Within hours, you cops were all
 over that boy for the m*rder of Lester.</line>
-   <line>The kid was years old.</line>
-   <line>I guess you didn't get enough,</line>
-   <line>cause now you're at it again.</line>
-   <line>Why are you asking about Herman?</line>
-   <line>We're reopening his m*rder case.</line>
-   <line>No, leave it alone. Leave it.</line>
-   <line>Tanya, we think looking at Herman's
+   <line type="dialogue">The kid was years old.</line>
+   <line type="dialogue">I guess you didn't get enough,</line>
+   <line type="dialogue">cause now you're at it again.</line>
+   <line type="dialogue">Why are you asking about Herman?</line>
+   <line type="dialogue">We're reopening his m*rder case.</line>
+   <line type="dialogue">No, leave it alone. Leave it.</line>
+   <line type="dialogue">Tanya, we think looking at Herman's
 case will help your son's situation.</line>
-   <line>How?</line>
-   <line>Tanya, let Uncle Freddie handle this.</line>
-   <line>I'm the man who raised Herman,</line>
-   <line>and I been like a father to Ray, too.</line>
-   <line>So tell me.
+   <line type="dialogue">How?</line>
+   <line type="dialogue">Tanya, let Uncle Freddie handle this.</line>
+   <line type="dialogue">I'm the man who raised Herman,</line>
+   <line type="dialogue">and I been like a father to Ray, too.</line>
+   <line type="dialogue">So tell me.
 How will it help?</line>
-   <line>We think Billy Berkenpass may
+   <line type="dialogue">We think Billy Berkenpass may
 have made the call to Ray.</line>
-   <line>That's the dude who k*lled dad?
+   <line type="dialogue">That's the dude who k*lled dad?
 - We don't know that.</line>
-   <line>Oh, that white boy was
+   <line type="dialogue">Oh, that white boy was
 so jealous of your pop!</line>
-   <line>Freddie, don't start.</line>
-   <line>Ray, you recognize this guy?</line>
-   <line>Oh, man... that's The Ghost.</line>
-   <line>The Ghost"?</line>
-   <line>When I'm out playing pickup,
+   <line type="dialogue">Freddie, don't start.</line>
+   <line type="dialogue">Ray, you recognize this guy?</line>
+   <line type="dialogue">Oh, man... that's The Ghost.</line>
+   <line type="dialogue">The Ghost"?</line>
+   <line type="dialogue">When I'm out playing pickup,
 he's there watching.</line>
-   <line>White dude looks at me funny.</line>
-   <line>How long's this been going on?</line>
-   <line>Ever since I started making
+   <line type="dialogue">White dude looks at me funny.</line>
+   <line type="dialogue">How long's this been going on?</line>
+   <line type="dialogue">Ever since I started making
 a name for myself.</line>
-   <line>Maybe about two years ago.</line>
-   <line>The Ghost ever approach you?
+   <line type="dialogue">Maybe about two years ago.</line>
+   <line type="dialogue">The Ghost ever approach you?
 - Nah.</line>
-   <line>That's it!
+   <line type="dialogue">That's it!
 Uncle Freddie's stepping in.</line>
-   <line>Ray ain't playing Friday.</line>
-   <line>You said there'd be security,
+   <line type="dialogue">Ray ain't playing Friday.</line>
+   <line type="dialogue">You said there'd be security,
 right? / Right.</line>
-   <line>No, no, no! No risk!</line>
-   <line>The boy is going League, understand?</line>
-   <line>League?</line>
-   <line>NBA pro scouts already got Ray marked
+   <line type="dialogue">No, no, no! No risk!</line>
+   <line type="dialogue">The boy is going League, understand?</line>
+   <line type="dialogue">League?</line>
+   <line type="dialogue">NBA pro scouts already got Ray marked
 down as a first-round draft choice.</line>
-   <line>Ray hasn't decided where he's
+   <line type="dialogue">Ray hasn't decided where he's
 going next year, Freddie, so shut it.</line>
-   <line>Hopefully, we clear this whole
+   <line type="dialogue">Hopefully, we clear this whole
 thing before the game.</line>
-   <line>Are you sure Billy called my son?</line>
-   <line>Not a hundred percent.</line>
-   <line>I never believed he k*lled Herman.</line>
-   <line>No?</line>
-   <line>Me and Billy dated.
+   <line type="dialogue">Are you sure Billy called my son?</line>
+   <line type="dialogue">Not a hundred percent.</line>
+   <line type="dialogue">I never believed he k*lled Herman.</line>
+   <line type="dialogue">No?</line>
+   <line type="dialogue">Me and Billy dated.
 I knew him.</line>
-   <line>It'd really help if you'd tell us what
+   <line type="dialogue">It'd really help if you'd tell us what
 you remember about that night, Tanya.</line>
-   <line>We won the state championship...</line>
-   <line>then there was a party.</line>
-   <line>Philly Tech says he's their guy.</line>
-   <line>But off the court, this man is mine.</line>
-   <line>Where the hell's Herman?</line>
-   <line>Billy... what are you doing here?</line>
-   <line>Being friends.</line>
-   <line>Isn't that what you said, Tanya?
+   <line type="dialogue">We won the state championship...</line>
+   <line type="dialogue">then there was a party.</line>
+   <line type="dialogue">Philly Tech says he's their guy.</line>
+   <line type="dialogue">But off the court, this man is mine.</line>
+   <line type="dialogue">Where the hell's Herman?</line>
+   <line type="dialogue">Billy... what are you doing here?</line>
+   <line type="dialogue">Being friends.</line>
+   <line type="dialogue">Isn't that what you said, Tanya?
 We'd be friends?</line>
-   <line>Yo, don't be mad at her, man.</line>
-   <line>Okay, I'll be mad at you.</line>
-   <line>You take my girl, I'm
+   <line type="dialogue">Yo, don't be mad at her, man.</line>
+   <line type="dialogue">Okay, I'll be mad at you.</line>
+   <line type="dialogue">You take my girl, I'm
 supposed to be cool with it?</line>
-   <line>Oh, man, you're drunk.
+   <line type="dialogue">Oh, man, you're drunk.
 - Don't you walk away from me...</line>
-   <line>Let him up, let him up, let him up!
+   <line type="dialogue">Let him up, let him up, let him up!
 Come on. Get off him!</line>
-   <line>Get off him.</line>
-   <line>You want to talk, Billy?</line>
-   <line>No.</line>
-   <line>I'm on your home court here.</line>
-   <line>I'll catch you later.</line>
-   <line>How did Herman end up
+   <line type="dialogue">Get off him.</line>
+   <line type="dialogue">You want to talk, Billy?</line>
+   <line type="dialogue">No.</line>
+   <line type="dialogue">I'm on your home court here.</line>
+   <line type="dialogue">I'll catch you later.</line>
+   <line type="dialogue">How did Herman end up
 in Player's Park that night?</line>
-   <line>He'd go there to clear his head.</line>
-   <line>What's Player's Park?</line>
-   <line>It's across town.
+   <line type="dialogue">He'd go there to clear his head.</line>
+   <line type="dialogue">What's Player's Park?</line>
+   <line type="dialogue">It's across town.
 It's where your dad died.</line>
-   <line>Back in Herman's day that's where
+   <line type="dialogue">Back in Herman's day that's where
 a player would go to prove himself.</line>
-   <line>We'll let you know what
+   <line type="dialogue">We'll let you know what
 we find out, Tanya.</line>
-   <line>Billy Berkenpass?
+   <line type="dialogue">Billy Berkenpass?
 - Yes?</line>
-   <line>Detectives Valens and Rush.
+   <line type="dialogue">Detectives Valens and Rush.
 Can we have a minute?</line>
-   <line>Doing real good, Michael.</line>
-   <line>Can we...?</line>
-   <line>Should have known you
+   <line type="dialogue">Doing real good, Michael.</line>
+   <line type="dialogue">Can we...?</line>
+   <line type="dialogue">Should have known you
 people would show up.</line>
-   <line>Why is that?</line>
-   <line>Everyone knows Ray Lester
+   <line type="dialogue">Why is that?</line>
+   <line type="dialogue">Everyone knows Ray Lester
 got a death threat.
 I'm sure you think I made it.</line>
-   <line>The call was made from
+   <line type="dialogue">The call was made from
 the City Center Rec.</line>
-   <line>Where you play ball every day.</line>
-   <line>Guess someone's trying
+   <line type="dialogue">Where you play ball every day.</line>
+   <line type="dialogue">Guess someone's trying
 to make me look bad.</line>
-   <line>We got some prints off the phone.</line>
-   <line>One of them gonna be yours, Billy.</line>
-   <line>I'll let you find that out for yourself.</line>
-   <line>Let's talk about , when your
+   <line type="dialogue">We got some prints off the phone.</line>
+   <line type="dialogue">One of them gonna be yours, Billy.</line>
+   <line type="dialogue">I'll let you find that out for yourself.</line>
+   <line type="dialogue">Let's talk about , when your
 teammate Herman died...</line>
-   <line>Knew this was coming.</line>
-   <line>... not long after Tanya
+   <line type="dialogue">Knew this was coming.</line>
+   <line type="dialogue">... not long after Tanya
 broke up with you for him.</line>
-   <line>That pretty hard on you?</line>
-   <line>Yeah. First heartbreak.</line>
-   <line>What happened?</line>
-   <line>Black girl. White guy.
+   <line type="dialogue">That pretty hard on you?</line>
+   <line type="dialogue">Yeah. First heartbreak.</line>
+   <line type="dialogue">What happened?</line>
+   <line type="dialogue">Black girl. White guy.
 The world wasn't rooting for us.</line>
-   <line>Hey, sports question:
+   <line type="dialogue">Hey, sports question:
 think much of Ray's game?</line>
-   <line>Paper says he's the second
+   <line type="dialogue">Paper says he's the second
 coming of Herman.</line>
-   <line>What do you say?
+   <line type="dialogue">What do you say?
 - I've seen him a lot.</line>
-   <line>He's as good as advertised.</line>
-   <line>I didn't call that kid,
+   <line type="dialogue">He's as good as advertised.</line>
+   <line type="dialogue">I didn't call that kid,
 I didn't k*ll Herman.</line>
-   <line>Right. "Home with your dad."</line>
-   <line>So, if it wasn't you, Billy,
+   <line type="dialogue">Right. "Home with your dad."</line>
+   <line type="dialogue">So, if it wasn't you, Billy,
 who was it?</line>
-   <line>Recuriting was out of
+   <line type="dialogue">Recuriting was out of
 control over Herman.</line>
-   <line>One coach handed him a motel key,
+   <line type="dialogue">One coach handed him a motel key,
 said he had a super model waiting for him.</line>
-   <line>Saying Herman took that room key?</line>
-   <line>Not that one, but I saw
+   <line type="dialogue">Saying Herman took that room key?</line>
+   <line type="dialogue">Not that one, but I saw
 him take another key.</line>
-   <line>I mean, who knows how many
+   <line type="dialogue">I mean, who knows how many
 programs Herman took gifts from.</line>
-   <line>But a player can only
+   <line type="dialogue">But a player can only
 make one school happy.</line>
-   <line>Herman was about to piss off
+   <line type="dialogue">Herman was about to piss off
 a university, so they k*ll him?</line>
-   <line>Pretty far out theory, Billy.</line>
-   <line>Maybe not a president,
+   <line type="dialogue">Pretty far out theory, Billy.</line>
+   <line type="dialogue">Maybe not a president,
 or a dean, but...</line>
-   <line>you'd be suprised what the round
+   <line type="dialogue">you'd be suprised what the round
 ball's made grown men do.</line>
-   <line>Yeah, there was a car... for a day.</line>
-   <line>I got right in Herman's face, told him
+   <line type="dialogue">Yeah, there was a car... for a day.</line>
+   <line type="dialogue">I got right in Herman's face, told him
 the car goes back where it came from.</line>
-   <line>Which was where?</line>
-   <line>Well, that I didn't need to know.</line>
-   <line>Bottom line, Herman was
+   <line type="dialogue">Which was where?</line>
+   <line type="dialogue">Well, that I didn't need to know.</line>
+   <line type="dialogue">Bottom line, Herman was
 on the bus the next day.</line>
-   <line>Billy Berkenpass thinks Herman
+   <line type="dialogue">Billy Berkenpass thinks Herman
 received other under-the-table gifts.</line>
-   <line>Billy Berkenpass has been
+   <line type="dialogue">Billy Berkenpass has been
 trying to muddy Herman's name</line>
-   <line>since the day I kicked him off the team.</line>
-   <line>What happened there?</line>
-   <line>I guess enough time has passed.</line>
-   <line>I'll tell you.</line>
-   <line>That's right. I'm talking about
+   <line type="dialogue">since the day I kicked him off the team.</line>
+   <line type="dialogue">What happened there?</line>
+   <line type="dialogue">I guess enough time has passed.</line>
+   <line type="dialogue">I'll tell you.</line>
+   <line type="dialogue">That's right. I'm talking about
 you and Big Ed Brown.</line>
-   <line>You better watch your mouth, man!
+   <line type="dialogue">You better watch your mouth, man!
 - Hey, what the hell's problem?</line>
-   <line>Herman don't want to win tonight.
+   <line type="dialogue">Herman don't want to win tonight.
 - That's crap!</line>
-   <line>Cause his bookie, Big Ed Brown,
+   <line type="dialogue">Cause his bookie, Big Ed Brown,
 he owns Herman.</line>
-   <line>That's not true, coach. Come on.</line>
-   <line>Then why'd he offer me bucks
+   <line type="dialogue">That's not true, coach. Come on.</line>
+   <line type="dialogue">Then why'd he offer me bucks
 to join you in messing the game?</line>
-   <line>Don't you lie, Billy.
+   <line type="dialogue">Don't you lie, Billy.
 - It's the truth. He's on the take.</line>
-   <line>You gonna talk about Herman
+   <line type="dialogue">You gonna talk about Herman
 like that you're off this team!</line>
-   <line>Coach! / You're off this team!</line>
-   <line>He'd saying anything
+   <line type="dialogue">Coach! / You're off this team!</line>
+   <line type="dialogue">He'd saying anything
 to take down to Herman.</line>
-   <line>Attitude problem three years running.</line>
-   <line>Nothing to his allegations?</line>
-   <line>Herman won the game for us.</line>
-   <line>Shook four guys and
+   <line type="dialogue">Attitude problem three years running.</line>
+   <line type="dialogue">Nothing to his allegations?</line>
+   <line type="dialogue">Herman won the game for us.</line>
+   <line type="dialogue">Shook four guys and
 dunked on a seven-footer.</line>
-   <line>End of story, okay?</line>
-   <line>End of story.</line>
-   <line>Oh! Boy, he missed a bunny.
+   <line type="dialogue">End of story, okay?</line>
+   <line type="dialogue">End of story.</line>
+   <line type="dialogue">Oh! Boy, he missed a bunny.
 - That's like three in a row.</line>
-   <line>- ' State Championship?
+   <line type="dialogue">- ' State Championship?
 - Yeah.</line>
-   <line>Herman's last night on earth.</line>
-   <line>He turned the ball over again.</line>
-   <line>Okay, and now here's the end.</line>
-   <line>Okay. Freeze it, Scotty.</line>
-   <line>Now, he just won the championship,</line>
-   <line>wild, but look at Herman.</line>
-   <line>Nothing.</line>
-   <line>Maybe he agreed to throw the game,
+   <line type="dialogue">Herman's last night on earth.</line>
+   <line type="dialogue">He turned the ball over again.</line>
+   <line type="dialogue">Okay, and now here's the end.</line>
+   <line type="dialogue">Okay. Freeze it, Scotty.</line>
+   <line type="dialogue">Now, he just won the championship,</line>
+   <line type="dialogue">wild, but look at Herman.</line>
+   <line type="dialogue">Nothing.</line>
+   <line type="dialogue">Maybe he agreed to throw the game,
 but in the end couldn't do it.</line>
-   <line>That would explain why he's not smiling.</line>
-   <line>And maybe why he got k*lled.</line>
-   <line>So, was that the lady keeps calling you?</line>
-   <line>Don't do that.</line>
-   <line>Do what?
+   <line type="dialogue">That would explain why he's not smiling.</line>
+   <line type="dialogue">And maybe why he got k*lled.</line>
+   <line type="dialogue">So, was that the lady keeps calling you?</line>
+   <line type="dialogue">Don't do that.</line>
+   <line type="dialogue">Do what?
 - Sneak up on me.</line>
-   <line>I'm not sneaking up on you.
+   <line type="dialogue">I'm not sneaking up on you.
 - I meant just like on the street with Elisa.</line>
-   <line>Look, don't shadow me, okay?
+   <line type="dialogue">Look, don't shadow me, okay?
 Especially if you see me with her.</line>
-   <line>What was that about?</line>
-   <line>I don't know.
+   <line type="dialogue">What was that about?</line>
+   <line type="dialogue">I don't know.
 Guy's losing it?</line>
-   <line>Hey, boss.</line>
-   <line>For you. Big Ed Brown, the guy
+   <line type="dialogue">Hey, boss.</line>
+   <line type="dialogue">For you. Big Ed Brown, the guy
 Berkenpass said approached him.</line>
-   <line>Longtime bookie.</line>
-   <line>Illegal lottery, bookmaking; spanked
+   <line type="dialogue">Longtime bookie.</line>
+   <line type="dialogue">Illegal lottery, bookmaking; spanked
 with a bunch of probation, no jail time.</line>
-   <line>Maybe Vice has something on him.</line>
-   <line>See if I can get a hammer on him.</line>
-   <line>Hey, where's Lil?</line>
-   <line>Went to check with Ray to see</line>
-   <line>throwing this Friday's game.</line>
-   <line>Mm. See if history's repeating itself.</line>
-   <line>Ray, can I steal you for a minutes?</line>
-   <line>You catch that guy who
+   <line type="dialogue">Maybe Vice has something on him.</line>
+   <line type="dialogue">See if I can get a hammer on him.</line>
+   <line type="dialogue">Hey, where's Lil?</line>
+   <line type="dialogue">Went to check with Ray to see</line>
+   <line type="dialogue">throwing this Friday's game.</line>
+   <line type="dialogue">Mm. See if history's repeating itself.</line>
+   <line type="dialogue">Ray, can I steal you for a minutes?</line>
+   <line type="dialogue">You catch that guy who
 called me? / Not yet.</line>
-   <line>I gotta ask you, Ray,</line>
-   <line>to fix the game this Friday?</line>
-   <line>No way.</line>
-   <line>How about other games
+   <line type="dialogue">I gotta ask you, Ray,</line>
+   <line type="dialogue">to fix the game this Friday?</line>
+   <line type="dialogue">No way.</line>
+   <line type="dialogue">How about other games
 during the season?</line>
-   <line>College boosters putting
+   <line type="dialogue">College boosters putting
 pressure on you, or...?</line>
-   <line>Coach keeps all the shady dudes away.</line>
-   <line>But coach can't be everywhere
+   <line type="dialogue">Coach keeps all the shady dudes away.</line>
+   <line type="dialogue">But coach can't be everywhere
 at once, you know?</line>
-   <line>Why you asking this stuff?</line>
-   <line>Recuriting was crazy for your dad.</line>
-   <line>People were trying to get to
+   <line type="dialogue">Why you asking this stuff?</line>
+   <line type="dialogue">Recuriting was crazy for your dad.</line>
+   <line type="dialogue">People were trying to get to
 him in all sorts of ways.</line>
-   <line>And I figure it's like that for you, too.</line>
-   <line>Yeah, it can be crazy.</line>
-   <line>So maybe you're up against some
+   <line type="dialogue">And I figure it's like that for you, too.</line>
+   <line type="dialogue">Yeah, it can be crazy.</line>
+   <line type="dialogue">So maybe you're up against some
 of the same things your dad was.</line>
-   <line>Now you're saying my dad
+   <line type="dialogue">Now you're saying my dad
 made a shady deal?</line>
-   <line>I'm not saying that.</line>
-   <line>Or if he didn't make it,
+   <line type="dialogue">I'm not saying that.</line>
+   <line type="dialogue">Or if he didn't make it,
 that got him k*lled?</line>
-   <line>Ray, I don't know what happened yet,</line>
-   <line>but I want to find out for you.</line>
-   <line>I thought that Berkenpass dude k*lled him.</line>
-   <line>Right, he was the primary suspect.</line>
-   <line>But maybe my dad got iced
+   <line type="dialogue">Ray, I don't know what happened yet,</line>
+   <line type="dialogue">but I want to find out for you.</line>
+   <line type="dialogue">I thought that Berkenpass dude k*lled him.</line>
+   <line type="dialogue">Right, he was the primary suspect.</line>
+   <line type="dialogue">But maybe my dad got iced
 over someone fixing a game,</line>
-   <line>gonna play for? Over ball?</line>
-   <line>Try not to guess too much, Ray.</line>
-   <line>Remember, we just need to
+   <line type="dialogue">gonna play for? Over ball?</line>
+   <line type="dialogue">Try not to guess too much, Ray.</line>
+   <line type="dialogue">Remember, we just need to
 look at all the possibilities.</line>
-   <line>Never met no Billy Berkenpass.</line>
-   <line>Well, he says he met you,
+   <line type="dialogue">Never met no Billy Berkenpass.</line>
+   <line type="dialogue">Well, he says he met you,
 Big Ed, years back.</line>
-   <line>Nah. / How 'bout Herman Lester?</line>
-   <line>Hey, you like fedora hats, Big Ed?</line>
-   <line>They look good on me.</line>
-   <line>Great.</line>
-   <line>You can wear one for your
+   <line type="dialogue">Nah. / How 'bout Herman Lester?</line>
+   <line type="dialogue">Hey, you like fedora hats, Big Ed?</line>
+   <line type="dialogue">They look good on me.</line>
+   <line type="dialogue">Great.</line>
+   <line type="dialogue">You can wear one for your
 mug shot, like Al Capone.</line>
-   <line>Capone?</line>
-   <line>You don't get chatty real quick here,</line>
-   <line>I got my pal at the IRS comb
+   <line type="dialogue">Capone?</line>
+   <line type="dialogue">You don't get chatty real quick here,</line>
+   <line type="dialogue">I got my pal at the IRS comb
 over your income taxes,</line>
-   <line>Big Ed's out of business.</line>
-   <line>Maybe I do remember young Herman.</line>
-   <line>I was hoping.</line>
-   <line>But I was better acquainted
+   <line type="dialogue">Big Ed's out of business.</line>
+   <line type="dialogue">Maybe I do remember young Herman.</line>
+   <line type="dialogue">I was hoping.</line>
+   <line type="dialogue">But I was better acquainted
 with his Uncle Freddie.</line>
-   <line>Oh, man, ay...</line>
-   <line>Oh... Big Ed, thank you for coming.</line>
-   <line>Only reason I'm here is
+   <line type="dialogue">Oh, man, ay...</line>
+   <line type="dialogue">Oh... Big Ed, thank you for coming.</line>
+   <line type="dialogue">Only reason I'm here is
 'cause you owe me five grand.</line>
-   <line>Now, where is it?</line>
-   <line>There's been some complications.</line>
-   <line>Brother man, that is the wrong answer.</line>
-   <line>Yo, but, I got the right answer.</line>
-   <line>But I need one more day.</line>
-   <line>See, I got a plan.
+   <line type="dialogue">Now, where is it?</line>
+   <line type="dialogue">There's been some complications.</line>
+   <line type="dialogue">Brother man, that is the wrong answer.</line>
+   <line type="dialogue">Yo, but, I got the right answer.</line>
+   <line type="dialogue">But I need one more day.</line>
+   <line type="dialogue">See, I got a plan.
 You know, it's fool proof, too.</line>
-   <line>Check it out.</line>
-   <line>Yeah, let it rain, Herman,
+   <line type="dialogue">Check it out.</line>
+   <line type="dialogue">Yeah, let it rain, Herman,
 let it rain!</line>
-   <line>Yo, man, you best pull out your umbrella,
+   <line type="dialogue">Yo, man, you best pull out your umbrella,
 cause you is getting soaked, dog.</line>
-   <line>You got to give me one more day.</line>
-   <line>See, Herman Lester's my nephew,
+   <line type="dialogue">You got to give me one more day.</line>
+   <line type="dialogue">See, Herman Lester's my nephew,
 and the boy's got a lot of love for me,</line>
-   <line>so, see, with tomorrow night's game</line>
-   <line>I'm gonna get him
+   <line type="dialogue">so, see, with tomorrow night's game</line>
+   <line type="dialogue">I'm gonna get him
 to do me a little favor.</line>
-   <line>You telling me you can get that boy
+   <line type="dialogue">You telling me you can get that boy
 to turn the state championship out?</line>
-   <line>I can make it happen.</line>
-   <line>Yo, Herman!</line>
-   <line>Who loves you, baby?
+   <line type="dialogue">I can make it happen.</line>
+   <line type="dialogue">Yo, Herman!</line>
+   <line type="dialogue">Who loves you, baby?
 - You do, Uncle Fred.</line>
-   <line>That's what I'm talking about.</line>
-   <line>Freddie had that kind of
+   <line type="dialogue">That's what I'm talking about.</line>
+   <line type="dialogue">Freddie had that kind of
 influence over Herman?</line>
-   <line>I wasn't sold.</line>
-   <line>So, I paid a visit to the Berkenpass kid.</line>
-   <line>How'd that go down?</line>
-   <line>It didn't. And with no insurance,
+   <line type="dialogue">I wasn't sold.</line>
+   <line type="dialogue">So, I paid a visit to the Berkenpass kid.</line>
+   <line type="dialogue">How'd that go down?</line>
+   <line type="dialogue">It didn't. And with no insurance,
 I decided to sit that game out.</line>
-   <line>But the way Herman played, it seemed
+   <line type="dialogue">But the way Herman played, it seemed
 like Freddie did have him on a string.</line>
-   <line>All I know is when it was over,
+   <line type="dialogue">All I know is when it was over,
 Freddie still owed me money.</line>
-   <line>That must have had him running scared.</line>
-   <line>Sure, but he slowed down.</line>
-   <line>Maybe you've noticed Freddie
+   <line type="dialogue">That must have had him running scared.</line>
+   <line type="dialogue">Sure, but he slowed down.</line>
+   <line type="dialogue">Maybe you've noticed Freddie
 don't walk so good no more.</line>
-   <line>You got some riding on
+   <line type="dialogue">You got some riding on
 this Friday's game, Freddie?</line>
-   <line>What do you mean?</line>
-   <line>Trying to keep Ray out of playing,
+   <line type="dialogue">What do you mean?</line>
+   <line type="dialogue">Trying to keep Ray out of playing,
 so you can score some bets?</line>
-   <line>Just like you tried to score off
+   <line type="dialogue">Just like you tried to score off
 his dad in ' . / What now?</line>
-   <line>We know you asked Herman to
+   <line type="dialogue">We know you asked Herman to
 throw the game the night he died.</line>
-   <line>Come on, now, if I did that,
+   <line type="dialogue">Come on, now, if I did that,
 why did they win, huh?</line>
-   <line>Logic, Freddie. Just 'cause they won
+   <line type="dialogue">Logic, Freddie. Just 'cause they won
 don't mean you didn't ask him.</line>
-   <line>I was in full support of
+   <line type="dialogue">I was in full support of
 Herman's career.</line>
-   <line>But you owed the money to
+   <line type="dialogue">But you owed the money to
 Big Ed Brown.</line>
-   <line>I paid Big Ed. / Late. That's
+   <line type="dialogue">I paid Big Ed. / Late. That's
 why you got your knees broke.</line>
-   <line>But first you tried to fix the
+   <line type="dialogue">But first you tried to fix the
 Tech game to cash in on it,</line>
-   <line>cause you didn't want your knees broke.</line>
-   <line>Who does?
+   <line type="dialogue">cause you didn't want your knees broke.</line>
+   <line type="dialogue">Who does?
 - I talked to Big Ed.</line>
-   <line>He told me you promised
+   <line type="dialogue">He told me you promised
 Herman would lose that game.</line>
-   <line>Why didn't you say so at the top, huh?</line>
-   <line>The truth, Freddie.</line>
-   <line>It wasn't my proudest moment.</line>
-   <line>Herman, this is a one-time,
+   <line type="dialogue">Why didn't you say so at the top, huh?</line>
+   <line type="dialogue">The truth, Freddie.</line>
+   <line type="dialogue">It wasn't my proudest moment.</line>
+   <line type="dialogue">Herman, this is a one-time,
 and one-time only thing now.</line>
-   <line>I can't believe you're asking me this!
+   <line type="dialogue">I can't believe you're asking me this!
 - You think I wanna be asking?</line>
-   <line>I'm embarrassed, man.</line>
-   <line>I can hardly look you in the eye.</line>
-   <line>Can't you work this out with Big Ed?</line>
-   <line>This is working it out.
+   <line type="dialogue">I'm embarrassed, man.</line>
+   <line type="dialogue">I can hardly look you in the eye.</line>
+   <line type="dialogue">Can't you work this out with Big Ed?</line>
+   <line type="dialogue">This is working it out.
 Don't you get that.</line>
-   <line>He's gonna hurt me,
+   <line type="dialogue">He's gonna hurt me,
 for keeps, man, understand?</line>
-   <line>Freddie...listen,
+   <line type="dialogue">Freddie...listen,
 - Herman,</line>
-   <line>you're gonna have everything
+   <line type="dialogue">you're gonna have everything
 in this life, man.</line>
-   <line>The good Lord didn't give
+   <line type="dialogue">The good Lord didn't give
 me the talent he gave you.</line>
-   <line>That's okay, I make do...</line>
-   <line>but I'm asking you, this once,
+   <line type="dialogue">That's okay, I make do...</line>
+   <line type="dialogue">but I'm asking you, this once,
 toss this dog a bone.</line>
-   <line>No, I can't do it.</line>
-   <line>I'm sorry, no.</line>
-   <line>But when Herman played so bad that night,</line>
-   <line>it looked he might come
+   <line type="dialogue">No, I can't do it.</line>
+   <line type="dialogue">I'm sorry, no.</line>
+   <line type="dialogue">But when Herman played so bad that night,</line>
+   <line type="dialogue">it looked he might come
 through for you after all.</line>
-   <line>Gave you hope during the whole
+   <line type="dialogue">Gave you hope during the whole
 game right up to the buzzer.</line>
-   <line>That must have pissed you off.
+   <line type="dialogue">That must have pissed you off.
 - No, no, no!</line>
-   <line>Ungrateful kid won't step up for the
+   <line type="dialogue">Ungrateful kid won't step up for the
 man who was a father figure to him.</line>
-   <line>So maybe you're the one who
+   <line type="dialogue">So maybe you're the one who
 lowered the boom on Herman.</line>
-   <line>That's an outrage, you saying that!</line>
-   <line>What's wrong?</line>
-   <line>Ray's missing.</line>
-   <line>Could Ray have skipped out
+   <line type="dialogue">That's an outrage, you saying that!</line>
+   <line type="dialogue">What's wrong?</line>
+   <line type="dialogue">Ray's missing.</line>
+   <line type="dialogue">Could Ray have skipped out
 on practice? / No, no, no.</line>
-   <line>Ray doesn't miss practice. He
+   <line type="dialogue">Ray doesn't miss practice. He
 comes early, leaves late always.</line>
-   <line>Maybe he just went
+   <line type="dialogue">Maybe he just went
 somewhere to clear his head.</line>
-   <line>You think Billy has him?
+   <line type="dialogue">You think Billy has him?
 - I'm gonna go see Billy right now.</line>
-   <line>Can I come?</line>
-   <line>Yeah.</line>
-   <line>Hey, Freddie.</line>
-   <line>Stay close.</line>
-   <line>Could the timing be worse?</line>
-   <line>Did Ray have somewhere he had to be?</line>
-   <line>Yeah. He had visit from two
+   <line type="dialogue">Can I come?</line>
+   <line type="dialogue">Yeah.</line>
+   <line type="dialogue">Hey, Freddie.</line>
+   <line type="dialogue">Stay close.</line>
+   <line type="dialogue">Could the timing be worse?</line>
+   <line type="dialogue">Did Ray have somewhere he had to be?</line>
+   <line type="dialogue">Yeah. He had visit from two
 Big Ten schools tonight.</line>
-   <line>What's more important here, coach?</line>
-   <line>I don't expect you to
+   <line type="dialogue">What's more important here, coach?</line>
+   <line type="dialogue">I don't expect you to
 understand. / Blake.</line>
-   <line>I understand a -year-old's missing.</line>
-   <line>That's important.</line>
-   <line>Out on the street, boss.</line>
-   <line>This is craziness.</line>
-   <line>My baby's all over the place
+   <line type="dialogue">I understand a -year-old's missing.</line>
+   <line type="dialogue">That's important.</line>
+   <line type="dialogue">Out on the street, boss.</line>
+   <line type="dialogue">This is craziness.</line>
+   <line type="dialogue">My baby's all over the place
 and I can't find him.</line>
-   <line>He can't be far.
+   <line type="dialogue">He can't be far.
 - I can't lose him, too.</line>
-   <line>Look...</line>
-   <line>Where is he?
+   <line type="dialogue">Look...</line>
+   <line type="dialogue">Where is he?
 Where's my baby?</line>
-   <line>Tanya, what are you...?
+   <line type="dialogue">Tanya, what are you...?
 - What'd you do with him?</line>
-   <line>I don't know what you mean.
+   <line type="dialogue">I don't know what you mean.
 - Ray's been missing all afternoon.</line>
-   <line>They say you watch him!</line>
-   <line>Come on, Tanya.
+   <line type="dialogue">They say you watch him!</line>
+   <line type="dialogue">Come on, Tanya.
 That ain't gonna help.</line>
-   <line>T, I wouldn't hurt your kid.
+   <line type="dialogue">T, I wouldn't hurt your kid.
 - How about her kid's father?</line>
-   <line>I believed you, Billy.</line>
-   <line>I was the one person who
+   <line type="dialogue">I believed you, Billy.</line>
+   <line type="dialogue">I was the one person who
 didn't think you k*lled Herman.</line>
-   <line>So keep believing.</line>
-   <line>I wouldn't do anything to hurt you.</line>
-   <line>Not then, not now.</line>
-   <line>How'd you find this place?</line>
-   <line>Asked some old timers.</line>
-   <line>I've put up 'bout a hundred jumpers,</line>
-   <line>but didn't know where the right spot was.</line>
-   <line>What spot?</line>
-   <line>Where he died.</line>
-   <line>Do you know?</line>
-   <line>The write-up said on that free throw line.</line>
-   <line>For Herman Lester.</line>
-   <line>You make it look easy.</line>
-   <line>I'm glad you're doing this.
+   <line type="dialogue">So keep believing.</line>
+   <line type="dialogue">I wouldn't do anything to hurt you.</line>
+   <line type="dialogue">Not then, not now.</line>
+   <line type="dialogue">How'd you find this place?</line>
+   <line type="dialogue">Asked some old timers.</line>
+   <line type="dialogue">I've put up 'bout a hundred jumpers,</line>
+   <line type="dialogue">but didn't know where the right spot was.</line>
+   <line type="dialogue">What spot?</line>
+   <line type="dialogue">Where he died.</line>
+   <line type="dialogue">Do you know?</line>
+   <line type="dialogue">The write-up said on that free throw line.</line>
+   <line type="dialogue">For Herman Lester.</line>
+   <line type="dialogue">You make it look easy.</line>
+   <line type="dialogue">I'm glad you're doing this.
 Finding out 'bout my dad.</line>
-   <line>Yeah?</line>
-   <line>Cause I never could.</line>
-   <line>Asking her anything 'bout
+   <line type="dialogue">Yeah?</line>
+   <line type="dialogue">Cause I never could.</line>
+   <line type="dialogue">Asking her anything 'bout
 him brings her to her knees.</line>
-   <line>Your mom.</line>
-   <line>I never knew him,</line>
-   <line>but that don't mean I don't
+   <line type="dialogue">Your mom.</line>
+   <line type="dialogue">I never knew him,</line>
+   <line type="dialogue">but that don't mean I don't
 wanna hear about him</line>
-   <line>or find out how come he got k*lled.</line>
-   <line>You gonna play tomorrow?</line>
-   <line>Starting to think that
+   <line type="dialogue">or find out how come he got k*lled.</line>
+   <line type="dialogue">You gonna play tomorrow?</line>
+   <line type="dialogue">Starting to think that
 call I got was no joke.</line>
-   <line>No one'll blame you
+   <line type="dialogue">No one'll blame you
 if you sit the game out.</line>
-   <line>Coach will.</line>
-   <line>Course, player's the last thing
+   <line type="dialogue">Coach will.</line>
+   <line type="dialogue">Course, player's the last thing
 Freddie wants me to do.</line>
-   <line>What's in it for him?</line>
-   <line>Freddie got me connected
+   <line type="dialogue">What's in it for him?</line>
+   <line type="dialogue">Freddie got me connected
 with all the shoe companies.</line>
-   <line>I go league, he gets taken care of.</line>
-   <line>And you think you owe Freddie.</line>
-   <line>I owe coach, too.</line>
-   <line>What does he want
+   <line type="dialogue">I go league, he gets taken care of.</line>
+   <line type="dialogue">And you think you owe Freddie.</line>
+   <line type="dialogue">I owe coach, too.</line>
+   <line type="dialogue">What does he want
 you to do? / College.</line>
-   <line>See there's two
+   <line type="dialogue">See there's two
 or three schools that want me.</line>
-   <line>I thought every school wanted you.</line>
-   <line>Yeah, but there's two or three
+   <line type="dialogue">I thought every school wanted you.</line>
+   <line type="dialogue">Yeah, but there's two or three
 that want both me and coach.</line>
-   <line>See, so if I sign that letter of intent,</line>
-   <line>coach comes along,
+   <line type="dialogue">See, so if I sign that letter of intent,</line>
+   <line type="dialogue">coach comes along,
 part of a package deal.</line>
-   <line>Turns out if Ray decides to go to a
+   <line type="dialogue">Turns out if Ray decides to go to a
 certain college, Coach Lein benefits big.</line>
-   <line>So, is coach aiming to take the same
+   <line type="dialogue">So, is coach aiming to take the same
 ride on Herman's back years ago?</line>
-   <line>And how badly did he want it?</line>
-   <line>Maybe the gambling angle
+   <line type="dialogue">And how badly did he want it?</line>
+   <line type="dialogue">Maybe the gambling angle
 isn't the answer.</line>
-   <line>Did Herman ever say where
+   <line type="dialogue">Did Herman ever say where
 he was going to school?</line>
-   <line>No one knew.</line>
-   <line>There was a new rumor
+   <line type="dialogue">No one knew.</line>
+   <line type="dialogue">There was a new rumor
 every day: Kansas, Iowa, Duke...</line>
-   <line>She'd probably know.</line>
-   <line>Sorry, boss.</line>
-   <line>Don't let this change the investigation.</line>
-   <line>Thank you for finding him. / Sure.</line>
-   <line>Tanya, had Herman made a decision
+   <line type="dialogue">She'd probably know.</line>
+   <line type="dialogue">Sorry, boss.</line>
+   <line type="dialogue">Don't let this change the investigation.</line>
+   <line type="dialogue">Thank you for finding him. / Sure.</line>
+   <line type="dialogue">Tanya, had Herman made a decision
 about where he was going to college?</line>
-   <line>Temple. He was gonna
+   <line type="dialogue">Temple. He was gonna
 announce it the next day.</line>
-   <line>The Owls head coach is John Chaney.</line>
-   <line>He's always run a clean program.
+   <line type="dialogue">The Owls head coach is John Chaney.</line>
+   <line type="dialogue">He's always run a clean program.
 He does not to do "favors".</line>
-   <line>So maybe Coach wanted
+   <line type="dialogue">So maybe Coach wanted
 Herman to go somewhere else...</line>
-   <line>where they did do "favors".</line>
-   <line>Coach wanted him down in Florida.</line>
-   <line>Temple's not the place.</line>
-   <line>I've already made up my mind, coach.</line>
-   <line>You'll end up at the wrong program,
+   <line type="dialogue">where they did do "favors".</line>
+   <line type="dialogue">Coach wanted him down in Florida.</line>
+   <line type="dialogue">Temple's not the place.</line>
+   <line type="dialogue">I've already made up my mind, coach.</line>
+   <line type="dialogue">You'll end up at the wrong program,
 you get lost in the shuffle.</line>
-   <line>Doesn't matter how talented you are.</line>
-   <line>Down in Florida, I can look out for you.</line>
-   <line>I got responsibilities here.
+   <line type="dialogue">Doesn't matter how talented you are.</line>
+   <line type="dialogue">Down in Florida, I can look out for you.</line>
+   <line type="dialogue">I got responsibilities here.
 - What do you mean?</line>
-   <line>Tanya's pregnant.</line>
-   <line>Okay, so Tanya comes, too.
+   <line type="dialogue">Tanya's pregnant.</line>
+   <line type="dialogue">Okay, so Tanya comes, too.
 - No, it's no good.</line>
-   <line>What? / No!</line>
-   <line>Damn it, Herman,
+   <line type="dialogue">What? / No!</line>
+   <line type="dialogue">Damn it, Herman,
 we need to stay together.</line>
-   <line>This is my shot, too!
+   <line type="dialogue">This is my shot, too!
 Haven't I always been there for you?</line>
-   <line>So, Coach finds out things aren't
+   <line type="dialogue">So, Coach finds out things aren't
 going the way he wants them to.</line>
-   <line>Six hours before Herman dies.</line>
-   <line>John.</line>
-   <line>You saved the day, finding Ray.
+   <line type="dialogue">Six hours before Herman dies.</line>
+   <line type="dialogue">John.</line>
+   <line type="dialogue">You saved the day, finding Ray.
 - Talk to her.</line>
-   <line>You get those college meetings
+   <line type="dialogue">You get those college meetings
 rescheduled, coach?</line>
-   <line>It's plan "B", if Ray doesn't play tonight.</line>
-   <line>But I know he will.</line>
-   <line>You're counting on it, aren't you?</line>
-   <line>Whatever you say, Missy.</line>
-   <line>I think this room's got the
+   <line type="dialogue">It's plan "B", if Ray doesn't play tonight.</line>
+   <line type="dialogue">But I know he will.</line>
+   <line type="dialogue">You're counting on it, aren't you?</line>
+   <line type="dialogue">Whatever you say, Missy.</line>
+   <line type="dialogue">I think this room's got the
 wrong population, boss.</line>
-   <line>Lots of opinions from that one.</line>
-   <line>Blake, the last hours we've been
+   <line type="dialogue">Lots of opinions from that one.</line>
+   <line type="dialogue">Blake, the last hours we've been
 looking at you for Herman's m*rder.</line>
-   <line>You kiddin' me?</line>
-   <line>When Herman broke the news
+   <line type="dialogue">You kiddin' me?</line>
+   <line type="dialogue">When Herman broke the news
 that he was going to Temple,</line>
-   <line>I know you had a lot on the line.</line>
-   <line>He was hurting your future.</line>
-   <line>John, we're friends.</line>
-   <line>We're going to hear you out
+   <line type="dialogue">I know you had a lot on the line.</line>
+   <line type="dialogue">He was hurting your future.</line>
+   <line type="dialogue">John, we're friends.</line>
+   <line type="dialogue">We're going to hear you out
 one way or another, Blake.</line>
-   <line>It's better if you and I do it here and now.</line>
-   <line>Now, I know you got a deep drive.</line>
-   <line>All of us got one somewhere,</line>
-   <line>and it will either make you
+   <line type="dialogue">It's better if you and I do it here and now.</line>
+   <line type="dialogue">Now, I know you got a deep drive.</line>
+   <line type="dialogue">All of us got one somewhere,</line>
+   <line type="dialogue">and it will either make you
 a winner, or take you down.</line>
-   <line>I need you to make a gut check here, pal.</line>
-   <line>Me and Herman...</line>
-   <line>we had a moment of truth.</line>
-   <line>You been in here the
+   <line type="dialogue">I need you to make a gut check here, pal.</line>
+   <line type="dialogue">Me and Herman...</line>
+   <line type="dialogue">we had a moment of truth.</line>
+   <line type="dialogue">You been in here the
 whole time? / Yeah.</line>
-   <line>Trying to wait me out like
+   <line type="dialogue">Trying to wait me out like
 I'd just go home?</line>
-   <line>Don't you walk away from me.</line>
-   <line>Hey!</line>
-   <line>Coach!</line>
-   <line>You think you can just go,
+   <line type="dialogue">Don't you walk away from me.</line>
+   <line type="dialogue">Hey!</line>
+   <line type="dialogue">Coach!</line>
+   <line type="dialogue">You think you can just go,
 after all I've done for you?</line>
-   <line>You won us a state
+   <line type="dialogue">You won us a state
 championship tonight,</line>
-   <line>I'm standing here crying the blues.</line>
-   <line>That's pretty piss poor.</line>
-   <line>Good luck at Temple, son.</line>
-   <line>I never saw Herman again.</line>
-   <line>Okay, thanks.</line>
-   <line>Prints from the City Center Rec
+   <line type="dialogue">I'm standing here crying the blues.</line>
+   <line type="dialogue">That's pretty piss poor.</line>
+   <line type="dialogue">Good luck at Temple, son.</line>
+   <line type="dialogue">I never saw Herman again.</line>
+   <line type="dialogue">Okay, thanks.</line>
+   <line type="dialogue">Prints from the City Center Rec
 pay phone came in.</line>
-   <line>Guess who we got a match on?</line>
-   <line>Berkenpass?</line>
-   <line>His father.</line>
-   <line>What's the big deal?</line>
-   <line>So, I made a call.</line>
-   <line>Get off my property.</line>
-   <line>Not just a call,
+   <line type="dialogue">Guess who we got a match on?</line>
+   <line type="dialogue">Berkenpass?</line>
+   <line type="dialogue">His father.</line>
+   <line type="dialogue">What's the big deal?</line>
+   <line type="dialogue">So, I made a call.</line>
+   <line type="dialogue">Get off my property.</line>
+   <line type="dialogue">Not just a call,
 a "t*rror1st threat".</line>
-   <line>Come on.</line>
-   <line>No joke. So I were you,
+   <line type="dialogue">Come on.</line>
+   <line type="dialogue">No joke. So I were you,
 I'd put that wood down.</line>
-   <line>Why use the phone at the Rec?</line>
-   <line>You and your son dream that up together?</line>
-   <line>My son didn't know I was there.
+   <line type="dialogue">Why use the phone at the Rec?</line>
+   <line type="dialogue">You and your son dream that up together?</line>
+   <line type="dialogue">My son didn't know I was there.
 - Noontime he was in the gym.</line>
-   <line>You telling me you two didn't cross paths?</line>
-   <line>We never do.
+   <line type="dialogue">You telling me you two didn't cross paths?</line>
+   <line type="dialogue">We never do.
 We got no relationship.</line>
-   <line>Why's that?</line>
-   <line>Billy wasn't athletic,</line>
-   <line>he had no foot speed to talk about,</line>
-   <line>so we made him a sh**t.</line>
-   <line>Developed the purest stroke
+   <line type="dialogue">Why's that?</line>
+   <line type="dialogue">Billy wasn't athletic,</line>
+   <line type="dialogue">he had no foot speed to talk about,</line>
+   <line type="dialogue">so we made him a sh**t.</line>
+   <line type="dialogue">Developed the purest stroke
 you'd ever want to see.</line>
-   <line>It didn't happen overnight. I'd feed
+   <line type="dialogue">It didn't happen overnight. I'd feed
 them and feed them and feed them</line>
-   <line>and there wasn't a night that we left
+   <line type="dialogue">and there wasn't a night that we left
 that gym without him hitting in a row.</line>
-   <line>What's that have to do with
+   <line type="dialogue">What's that have to do with
 you not having a realtionship?</line>
-   <line>He quit on me.</line>
-   <line>What, you don't tell me what happened?</line>
-   <line>You just let me show up at the game!</line>
-   <line>I was embarrassed.</line>
-   <line>Son, if you would've told me,
+   <line type="dialogue">He quit on me.</line>
+   <line type="dialogue">What, you don't tell me what happened?</line>
+   <line type="dialogue">You just let me show up at the game!</line>
+   <line type="dialogue">I was embarrassed.</line>
+   <line type="dialogue">Son, if you would've told me,
 I would've helped.</line>
-   <line>But now it doesn't matter if it's not true
+   <line type="dialogue">But now it doesn't matter if it's not true
 because the word's out, you're a bad seed.</line>
-   <line>I'm sorry.</line>
-   <line>Up, up, up. Chin up.</line>
-   <line>Listen, we may not get more
+   <line type="dialogue">I'm sorry.</line>
+   <line type="dialogue">Up, up, up. Chin up.</line>
+   <line type="dialogue">Listen, we may not get more
 than a junior college offer,</line>
-   <line>but two years,
+   <line type="dialogue">but two years,
 we're right back on track.</line>
-   <line>Dad, it's over! I'm done!</line>
-   <line>Don't let this break your spirit.</line>
-   <line>I'm not, dad. I don't care
+   <line type="dialogue">Dad, it's over! I'm done!</line>
+   <line type="dialogue">Don't let this break your spirit.</line>
+   <line type="dialogue">I'm not, dad. I don't care
 about being on track!</line>
-   <line>I just want playing ball
+   <line type="dialogue">I just want playing ball
 to be fun again.</line>
-   <line>Fun?</line>
-   <line>Billy, you go home
+   <line type="dialogue">Fun?</line>
+   <line type="dialogue">Billy, you go home
 and you get your suitcase</line>
-   <line>and when you're done having fun
+   <line type="dialogue">and when you're done having fun
 and you come back and you see me!</line>
-   <line>Billy never plays organized ball again,
+   <line type="dialogue">Billy never plays organized ball again,
 you draw a line through his name?</line>
-   <line>We do what we do.</line>
-   <line>Now and then I'll go back and
+   <line type="dialogue">We do what we do.</line>
+   <line type="dialogue">Now and then I'll go back and
 watch him sh**t at the Rec.</line>
-   <line>Those are old wounds.</line>
-   <line>So why all of a sudden
+   <line type="dialogue">Those are old wounds.</line>
+   <line type="dialogue">So why all of a sudden
 make this call to Ray?</line>
-   <line>Now, leaving the Rec that day,
+   <line type="dialogue">Now, leaving the Rec that day,
 seeing Ray Lester's face splattered all over</line>
-   <line>like these people are the First Family
+   <line type="dialogue">like these people are the First Family
 of Basketball or something</line>
-   <line>that nonsense had to stop once and for all.</line>
-   <line>We got to arrest you for making that threat.</line>
-   <line>Hey, for crying out loud.
+   <line type="dialogue">that nonsense had to stop once and for all.</line>
+   <line type="dialogue">We got to arrest you for making that threat.</line>
+   <line type="dialogue">Hey, for crying out loud.
 - Come on.</line>
-   <line>You got to come with us.</line>
-   <line>Prints were in the system 'cause
+   <line type="dialogue">You got to come with us.</line>
+   <line type="dialogue">Prints were in the system 'cause
 of a bar brawl three years back.</line>
-   <line>I talked to the guy that
+   <line type="dialogue">I talked to the guy that
 got beat down by him.</line>
-   <line>Said it all started 'cause the barflies were
+   <line type="dialogue">Said it all started 'cause the barflies were
 talking about the late great Herman Lester.</line>
-   <line>years later and he's
+   <line type="dialogue">years later and he's
 still smarting over that?</line>
-   <line>This guy's got deep feelings
+   <line type="dialogue">This guy's got deep feelings
 about his son not playing ball.</line>
-   <line>Disowned him over it.
+   <line type="dialogue">Disowned him over it.
 - Maybe k*lled over it.</line>
-   <line>Problem is, the Berkenpass
+   <line type="dialogue">Problem is, the Berkenpass
 alibi goes both ways.</line>
-   <line>Covers Billy but also covers the dad.
+   <line type="dialogue">Covers Billy but also covers the dad.
 - Ah, Senior won't give it up.</line>
-   <line>So work on Junior.</line>
-   <line>We just need some last questions
+   <line type="dialogue">So work on Junior.</line>
+   <line type="dialogue">We just need some last questions
 answered, then we'll leave you alone.</line>
-   <line>We got a new suspect, Billy.</line>
-   <line>Good for you.</line>
-   <line>Need the straight story on
+   <line type="dialogue">We got a new suspect, Billy.</line>
+   <line type="dialogue">Good for you.</line>
+   <line type="dialogue">Need the straight story on
 your alibi. / Straight story?</line>
-   <line>You were in your car?
+   <line type="dialogue">You were in your car?
 sh**ting hoops?</line>
-   <line>Doesn't matter we just got to
+   <line type="dialogue">Doesn't matter we just got to
 hear where you really were.</line>
-   <line>Watching  TV with my dad.</line>
-   <line>Maybe we got to level with Billy.</line>
-   <line>He's gonna find out anyway.</line>
-   <line>Pops put the death threat on Ray.</line>
-   <line>My dad?</line>
-   <line>You surprised?</line>
-   <line>Cause you look surprised.</line>
-   <line>But the funny thing is,
+   <line type="dialogue">Watching  TV with my dad.</line>
+   <line type="dialogue">Maybe we got to level with Billy.</line>
+   <line type="dialogue">He's gonna find out anyway.</line>
+   <line type="dialogue">Pops put the death threat on Ray.</line>
+   <line type="dialogue">My dad?</line>
+   <line type="dialogue">You surprised?</line>
+   <line type="dialogue">Cause you look surprised.</line>
+   <line type="dialogue">But the funny thing is,
 you look it and you don't.</line>
-   <line>My guess is, you never knew
+   <line type="dialogue">My guess is, you never knew
 your dad k*lled Herman either.</line>
-   <line>But, right now in this moment...</line>
-   <line>you do.</line>
-   <line>Cause you and dad never
+   <line type="dialogue">But, right now in this moment...</line>
+   <line type="dialogue">you do.</line>
+   <line type="dialogue">Cause you and dad never
 watched TV that night.</line>
-   <line>Can I just go now?</line>
-   <line>Sure. We'll walk you out.</line>
-   <line>Ray's just taking care of some paperwork.</line>
-   <line>Hey, you want to meet him,
+   <line type="dialogue">Can I just go now?</line>
+   <line type="dialogue">Sure. We'll walk you out.</line>
+   <line type="dialogue">Ray's just taking care of some paperwork.</line>
+   <line type="dialogue">Hey, you want to meet him,
 Billy? / No, thanks.</line>
-   <line>Yeah, we keep arguing over
+   <line type="dialogue">Yeah, we keep arguing over
 whether he looks like his pops or not.</line>
-   <line>He does... a little.</line>
-   <line>Yeah, but the difference is,
+   <line type="dialogue">He does... a little.</line>
+   <line type="dialogue">Yeah, but the difference is,
 Ray's walking away from the game.</line>
-   <line>W-Walking away? / He's mixed
+   <line type="dialogue">W-Walking away? / He's mixed
 up about how his dad died.</line>
-   <line>Figures Herman made a wrong decision
+   <line type="dialogue">Figures Herman made a wrong decision
 and maybe that's what k*lled him.</line>
-   <line>Why's he think that?</line>
-   <line>He didn't know anything about his dad.</line>
-   <line>Looks like another Lester
+   <line type="dialogue">Why's he think that?</line>
+   <line type="dialogue">He didn't know anything about his dad.</line>
+   <line type="dialogue">Looks like another Lester
 won't reach his potential.</line>
-   <line>Maybe I-I will say hi to him.</line>
-   <line>Sure.</line>
-   <line>Hey, kid.</line>
-   <line>I want to tell you something about him.</line>
-   <line>And that night.</line>
-   <line>I wasn't at home with my dad.</line>
-   <line>I-I was with Herman.</line>
-   <line>Got to hand it to you.</line>
-   <line>Only Herman Lester can play ball that bad
+   <line type="dialogue">Maybe I-I will say hi to him.</line>
+   <line type="dialogue">Sure.</line>
+   <line type="dialogue">Hey, kid.</line>
+   <line type="dialogue">I want to tell you something about him.</line>
+   <line type="dialogue">And that night.</line>
+   <line type="dialogue">I wasn't at home with my dad.</line>
+   <line type="dialogue">I-I was with Herman.</line>
+   <line type="dialogue">Got to hand it to you.</line>
+   <line type="dialogue">Only Herman Lester can play ball that bad
 and still get carried off the court like a king.</line>
-   <line>Final score's all that counts.</line>
-   <line>Keep telling yourself that.</line>
-   <line>You think I tried to
+   <line type="dialogue">Final score's all that counts.</line>
+   <line type="dialogue">Keep telling yourself that.</line>
+   <line type="dialogue">You think I tried to
 throw the game tonight?</line>
-   <line>Yeah, I do.
+   <line type="dialogue">Yeah, I do.
 - You're wrong.</line>
-   <line>Then why did you play like a buster?</line>
-   <line>You.</line>
-   <line>What?</line>
-   <line>Everybody thinks I'm this one-man show.</line>
-   <line>But it's you that gets me
+   <line type="dialogue">Then why did you play like a buster?</line>
+   <line type="dialogue">You.</line>
+   <line type="dialogue">What?</line>
+   <line type="dialogue">Everybody thinks I'm this one-man show.</line>
+   <line type="dialogue">But it's you that gets me
 the ball in the paint.</line>
-   <line>When I'm double-teamed,
+   <line type="dialogue">When I'm double-teamed,
 you always hit the J.</line>
-   <line>But you weren't there tonight.</line>
-   <line>Billy...</line>
-   <line>we haven't been friends...</line>
-   <line>but we've been a team, right?</line>
-   <line>Your dad was stand-up.</line>
-   <line>There was all this junk around us,
+   <line type="dialogue">But you weren't there tonight.</line>
+   <line type="dialogue">Billy...</line>
+   <line type="dialogue">we haven't been friends...</line>
+   <line type="dialogue">but we've been a team, right?</line>
+   <line type="dialogue">Your dad was stand-up.</line>
+   <line type="dialogue">There was all this junk around us,
 everyone trying to make us enemies.</line>
-   <line>But he-he jsut followed his instincts...</line>
-   <line>and they were good.</line>
-   <line>The man was good.</line>
-   <line>We talked to your boy Billy,
+   <line type="dialogue">But he-he jsut followed his instincts...</line>
+   <line type="dialogue">and they were good.</line>
+   <line type="dialogue">The man was good.</line>
+   <line type="dialogue">We talked to your boy Billy,
 Mr. Berkenpass.</line>
-   <line>He burned your alibi.</line>
-   <line>Why would he do that?</line>
-   <line>Cause he didn't k*ll Herman Lester.</line>
-   <line>You did.</line>
-   <line>Billy said that?</line>
-   <line>Want us to bring him in here?</line>
-   <line>No.</line>
-   <line>It was always awkward
+   <line type="dialogue">He burned your alibi.</line>
+   <line type="dialogue">Why would he do that?</line>
+   <line type="dialogue">Cause he didn't k*ll Herman Lester.</line>
+   <line type="dialogue">You did.</line>
+   <line type="dialogue">Billy said that?</line>
+   <line type="dialogue">Want us to bring him in here?</line>
+   <line type="dialogue">No.</line>
+   <line type="dialogue">It was always awkward
 for Billy and me.</line>
-   <line>Basketball was the way
+   <line type="dialogue">Basketball was the way
 that I could be his dad, see?</line>
-   <line>That was our whole relationship.</line>
-   <line>That night when I told Billy
+   <line type="dialogue">That was our whole relationship.</line>
+   <line type="dialogue">That night when I told Billy
 to pack his bags, I...</line>
-   <line>I wanted to take it back.</line>
-   <line>Why didn't you?</line>
-   <line>I followed after him.</line>
-   <line>Wound up at Player's Park...</line>
-   <line>and I watched Herman and Billy.</line>
-   <line>I watched them shaking hands.</line>
-   <line>That wasn't a good thing?</line>
-   <line>That was him giving up.</line>
-   <line>I knew that he wasn't gonna play again.</line>
-   <line>That was the end of one thing
+   <line type="dialogue">I wanted to take it back.</line>
+   <line type="dialogue">Why didn't you?</line>
+   <line type="dialogue">I followed after him.</line>
+   <line type="dialogue">Wound up at Player's Park...</line>
+   <line type="dialogue">and I watched Herman and Billy.</line>
+   <line type="dialogue">I watched them shaking hands.</line>
+   <line type="dialogue">That wasn't a good thing?</line>
+   <line type="dialogue">That was him giving up.</line>
+   <line type="dialogue">I knew that he wasn't gonna play again.</line>
+   <line type="dialogue">That was the end of one thing
 that we had in common.</line>
-   <line>Oh, hey, Mr.B.</line>
-   <line>You're looking for Billy,
+   <line type="dialogue">Oh, hey, Mr.B.</line>
+   <line type="dialogue">You're looking for Billy,
 you just missed him.</line>
-   <line>Yeah.</line>
-   <line>Think he said he was headed home.</line>
-   <line>Then I guess I'll see him there, then.</line>
-   <line>Are you okay, sir?
+   <line type="dialogue">Yeah.</line>
+   <line type="dialogue">Think he said he was headed home.</line>
+   <line type="dialogue">Then I guess I'll see him there, then.</line>
+   <line type="dialogue">Are you okay, sir?
 You, uh... look a little off.</line>
-   <line>Good game tonight.</line>
+   <line type="dialogue">Good game tonight.</line>
    <line type="music">♪ Bruce SpringsteenÀÇ
 "Walk Like a Man" ♪</line>
    <line type="music">♪ I remember how rough

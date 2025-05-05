@@ -1,937 +1,938 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNG/TrueCrimeRelaxNG.rnc" type="application/relax-ng-compact-syntax"?>
 <transcript>
-   <line>August ,</line>
-   <line>Here's to big Bertha
+   <line type="dialogue">August ,</line>
+   <line type="dialogue">Here's to big Bertha
 and her big old...</line>
-   <line>Oh, she was something else.</line>
-   <line>You best keep it down
+   <line type="dialogue">Oh, she was something else.</line>
+   <line type="dialogue">You best keep it down
 before miss Marion hears you all.</line>
-   <line>She gonna kick us all out.</line>
-   <line>Sadie, honey, miss Marion's
+   <line type="dialogue">She gonna kick us all out.</line>
+   <line type="dialogue">Sadie, honey, miss Marion's
 not hearing nobody</line>
-   <line>when she done drunk a whole jug
+   <line type="dialogue">when she done drunk a whole jug
 of hooch herself.</line>
-   <line>You're damn right.</line>
-   <line>Don't you talk mean about my mama.</line>
-   <line>Who you think you sassing, girl?</line>
-   <line>Can I have a nip?</line>
-   <line>Your mama gonna have a fit
+   <line type="dialogue">You're damn right.</line>
+   <line type="dialogue">Don't you talk mean about my mama.</line>
+   <line type="dialogue">Who you think you sassing, girl?</line>
+   <line type="dialogue">Can I have a nip?</line>
+   <line type="dialogue">Your mama gonna have a fit
 she catch you up.</line>
-   <line>I'll tuck you in a sec.</line>
-   <line>Hey, Sadie, you said you was
+   <line type="dialogue">I'll tuck you in a sec.</line>
+   <line type="dialogue">Hey, Sadie, you said you was
 going to the juke joint.</line>
-   <line>Not tonight.</line>
-   <line>Well, honey, my candy man pay
+   <line type="dialogue">Not tonight.</line>
+   <line type="dialogue">Well, honey, my candy man pay
 me plenty, but I still got to...</line>
-   <line>work tonight.</line>
-   <line>Candy man give you candy, miss Blanche?</line>
-   <line>You wanna call it that, honey.</line>
-   <line>Go on to bed.</line>
-   <line>Go on.</line>
-   <line>Arletta make you think on your
+   <line type="dialogue">work tonight.</line>
+   <line type="dialogue">Candy man give you candy, miss Blanche?</line>
+   <line type="dialogue">You wanna call it that, honey.</line>
+   <line type="dialogue">Go on to bed.</line>
+   <line type="dialogue">Go on.</line>
+   <line type="dialogue">Arletta make you think on your
 own little girl, huh, Sadie?</line>
-   <line>Where you say your girl stay at?</line>
-   <line>Virginia.
+   <line type="dialogue">Where you say your girl stay at?</line>
+   <line type="dialogue">Virginia.
 She with my cousin.</line>
-   <line>I bring her up when I get
+   <line type="dialogue">I bring her up when I get
 the money saved.</line>
-   <line>Blanche?
+   <line type="dialogue">Blanche?
 Manross waiting!</line>
-   <line>Miss Blanche, miss Sadie.</line>
-   <line>Go, Manross, go!</line>
-   <line>Wait proper-like.</line>
-   <line>Candy man looking mighty fine.</line>
-   <line>I thought you said
+   <line type="dialogue">Miss Blanche, miss Sadie.</line>
+   <line type="dialogue">Go, Manross, go!</line>
+   <line type="dialogue">Wait proper-like.</line>
+   <line type="dialogue">Candy man looking mighty fine.</line>
+   <line type="dialogue">I thought you said
 you was working tonight.</line>
-   <line>I am, honey.</line>
-   <line>Whoo!</line>
-   <line>You a big ten years old today.</line>
-   <line>Happy birthday, baby girl.</line>
-   <line>When my mother passed away a few weeks ago,</line>
-   <line>I found this letter among
+   <line type="dialogue">I am, honey.</line>
+   <line type="dialogue">Whoo!</line>
+   <line type="dialogue">You a big ten years old today.</line>
+   <line type="dialogue">Happy birthday, baby girl.</line>
+   <line type="dialogue">When my mother passed away a few weeks ago,</line>
+   <line type="dialogue">I found this letter among
 her belongings hidden away.</line>
-   <line>It's the last letter that my
+   <line type="dialogue">It's the last letter that my
 grandmother ever wrote to her.</line>
-   <line>When was your grandmother m*rder*d?</line>
-   <line>Her name was Sadie douglas.</line>
-   <line>Came from Virginia.</line>
-   <line>Moved north to find work in the ' s.</line>
-   <line>I don't know much more than that.</line>
-   <line>Your mom didn't talk about her?</line>
-   <line>She was only ten years old
+   <line type="dialogue">When was your grandmother m*rder*d?</line>
+   <line type="dialogue">Her name was Sadie douglas.</line>
+   <line type="dialogue">Came from Virginia.</line>
+   <line type="dialogue">Moved north to find work in the ' s.</line>
+   <line type="dialogue">I don't know much more than that.</line>
+   <line type="dialogue">Your mom didn't talk about her?</line>
+   <line type="dialogue">She was only ten years old
 when Sadie was k*lled.</line>
-   <line>And she never really forgave
+   <line type="dialogue">And she never really forgave
 her for what she was.</line>
-   <line>Which was what?</line>
-   <line>The police called her a common
+   <line type="dialogue">Which was what?</line>
+   <line type="dialogue">The police called her a common
 two-bit hooker.</line>
-   <line>My mother referred to her
+   <line type="dialogue">My mother referred to her
 as a white man's whore.</line>
-   <line>It was hard for her, knowing
+   <line type="dialogue">It was hard for her, knowing
 that that's where she came from.</line>
-   <line>How about you?</line>
-   <line>Maybe it's affected me somewhat, too.</line>
-   <line>These letters you have are from ?</line>
-   <line>Sadie wrote one to her every week.</line>
-   <line>Look, I know I'm asking a lot,</line>
-   <line>but Sadie mentioned someone,</line>
-   <line>here.</line>
-   <line>He best not hurt me.</line>
-   <line>That milkman
+   <line type="dialogue">How about you?</line>
+   <line type="dialogue">Maybe it's affected me somewhat, too.</line>
+   <line type="dialogue">These letters you have are from ?</line>
+   <line type="dialogue">Sadie wrote one to her every week.</line>
+   <line type="dialogue">Look, I know I'm asking a lot,</line>
+   <line type="dialogue">but Sadie mentioned someone,</line>
+   <line type="dialogue">here.</line>
+   <line type="dialogue">He best not hurt me.</line>
+   <line type="dialogue">That milkman
 best not hurt your mama."</line>
-   <line>What milkman?
+   <line type="dialogue">What milkman?
 - I don't know.</line>
-   <line>She never referred to him
+   <line type="dialogue">She never referred to him
 in her other letters.</line>
-   <line>Back then, the police said Sadie was</line>
-   <line>by a John, but...</line>
-   <line>I think my grandmother knew her k*ller.</line>
-   <line>Homicides,</line>
-   <line>assaults, r*pes...</line>
-   <line>basically every criminal record
+   <line type="dialogue">Back then, the police said Sadie was</line>
+   <line type="dialogue">by a John, but...</line>
+   <line type="dialogue">I think my grandmother knew her k*ller.</line>
+   <line type="dialogue">Homicides,</line>
+   <line type="dialogue">assaults, r*pes...</line>
+   <line type="dialogue">basically every criminal record
 before is filed here.</line>
-   <line>County even sticks us with
+   <line type="dialogue">County even sticks us with
 their medical charts, too.</line>
-   <line>We need homicides.</line>
-   <line>Right down there.</line>
-   <line>I thought you said they were filed.</line>
-   <line>They were, once.
+   <line type="dialogue">We need homicides.</line>
+   <line type="dialogue">Right down there.</line>
+   <line type="dialogue">I thought you said they were filed.</line>
+   <line type="dialogue">They were, once.
 I mean, what's the point?</line>
-   <line>Doers are probably dust in the wind.</line>
-   <line>Thanks.</line>
-   <line>Don't want to waste any more
+   <line type="dialogue">Doers are probably dust in the wind.</line>
+   <line type="dialogue">Thanks.</line>
+   <line type="dialogue">Don't want to waste any more
 of your precious time.</line>
-   <line>Or cut into your
+   <line type="dialogue">Or cut into your
 web-surfing activities.</line>
-   <line>White woman stabbed.</line>
-   <line>Suspect, White male with...
+   <line type="dialogue">White woman stabbed.</line>
+   <line type="dialogue">Suspect, White male with...
 get this,</line>
-   <line>slender build and black whiskers.</line>
-   <line>it's a m*rder ledger, Scotty.</line>
-   <line>Going all the way back to .</line>
-   <line>years of m*rder and mayhem.</line>
-   <line>All in a you-stash-it off the highway.</line>
-   <line>Yo.</line>
-   <line>I found Sadie.</line>
-   <line>I had to put them in plastic.
+   <line type="dialogue">slender build and black whiskers.</line>
+   <line type="dialogue">it's a m*rder ledger, Scotty.</line>
+   <line type="dialogue">Going all the way back to .</line>
+   <line type="dialogue">years of m*rder and mayhem.</line>
+   <line type="dialogue">All in a you-stash-it off the highway.</line>
+   <line type="dialogue">Yo.</line>
+   <line type="dialogue">I found Sadie.</line>
+   <line type="dialogue">I had to put them in plastic.
 They were falling apart in our hands.</line>
-   <line>Sadie douglas.
+   <line type="dialogue">Sadie douglas.
 Colored female.</line>
-   <line>Nativity, Virginia.
+   <line type="dialogue">Nativity, Virginia.
 Occupation, prost*tute.</line>
-   <line>Resided at a boarding house
+   <line type="dialogue">Resided at a boarding house
 for colored women.</line>
-   <line>Proprietor was a miss Thea marion.</line>
-   <line>Women in the boarding
+   <line type="dialogue">Proprietor was a miss Thea marion.</line>
+   <line type="dialogue">Women in the boarding
 house were all hookers.</line>
-   <line>Sadie was r*ped and suffocated
+   <line type="dialogue">Sadie was r*ped and suffocated
 at the hand of an unknown assailant.</line>
-   <line>Maybe our milkman.</line>
-   <line>A ticket for New York
+   <line type="dialogue">Maybe our milkman.</line>
+   <line type="dialogue">A ticket for New York
 dated the night of</line>
-   <line>the m*rder found
+   <line type="dialogue">the m*rder found
 in the victim's belongings.</line>
-   <line>Sadie's daughter
+   <line type="dialogue">Sadie's daughter
 was living in Virginia.</line>
-   <line>So why is she going to New York?</line>
-   <line>Last to see her was another tenant
+   <line type="dialogue">So why is she going to New York?</line>
+   <line type="dialogue">Last to see her was another tenant
 at the boarding house,</line>
-   <line>colored female, .</line>
-   <line>Blanche D.</line>
-   <line>The rest of her name is missing.</line>
-   <line>You find Blanche,
+   <line type="dialogue">colored female, .</line>
+   <line type="dialogue">Blanche D.</line>
+   <line type="dialogue">The rest of her name is missing.</line>
+   <line type="dialogue">You find Blanche,
 maybe we find out
 why Sadie was going to New York.</line>
-   <line>Like the geezer's gonna remember.</line>
-   <line>You and Mr. Sensitivity track
+   <line type="dialogue">Like the geezer's gonna remember.</line>
+   <line type="dialogue">You and Mr. Sensitivity track
 down the milk companies</line>
-   <line>that delivered to Sadie's
+   <line type="dialogue">that delivered to Sadie's
 boarding house.</line>
-   <line>Rush and Valens'll be on geezer patrol.</line>
-   <line>Looks like she fought back.</line>
-   <line>Something under her nails?</line>
-   <line>Back then it didn't matter.</line>
-   <line>It does now.</line>
-   <line>So if the family gives the green light...</line>
-   <line>maybe we dig her up?</line>
-   <line>Yep. Go talk to her granddaughter.</line>
-   <line>An exhumation?</line>
-   <line>Is that really necessary?</line>
-   <line>She may have fought her k*ller, Sarah.</line>
-   <line>We might get something useful.</line>
-   <line>Match the DNA to the doer
+   <line type="dialogue">Rush and Valens'll be on geezer patrol.</line>
+   <line type="dialogue">Looks like she fought back.</line>
+   <line type="dialogue">Something under her nails?</line>
+   <line type="dialogue">Back then it didn't matter.</line>
+   <line type="dialogue">It does now.</line>
+   <line type="dialogue">So if the family gives the green light...</line>
+   <line type="dialogue">maybe we dig her up?</line>
+   <line type="dialogue">Yep. Go talk to her granddaughter.</line>
+   <line type="dialogue">An exhumation?</line>
+   <line type="dialogue">Is that really necessary?</line>
+   <line type="dialogue">She may have fought her k*ller, Sarah.</line>
+   <line type="dialogue">We might get something useful.</line>
+   <line type="dialogue">Match the DNA to the doer
 or his descendants,</line>
-   <line>if either's in the system.</line>
-   <line>All right.</line>
-   <line>I'll sign whatever papers you need.</line>
-   <line>Last to see your grandmother alive
+   <line type="dialogue">if either's in the system.</line>
+   <line type="dialogue">All right.</line>
+   <line type="dialogue">I'll sign whatever papers you need.</line>
+   <line type="dialogue">Last to see your grandmother alive
 was a woman named Blanche.</line>
-   <line>You recall that name
+   <line type="dialogue">You recall that name
 in any of her letters?</line>
-   <line>Blanche...</line>
-   <line>Sadie wrote about a fair
+   <line type="dialogue">Blanche...</line>
+   <line type="dialogue">Sadie wrote about a fair
 she went to with a Blanche.</line>
-   <line>That's them.</line>
-   <line>I had my first cotton candy today.</line>
-   <line>Like eating sugar from a cloud...</line>
-   <line>First thing you come up,</line>
-   <line>I'm gonna get you your own
+   <line type="dialogue">That's them.</line>
+   <line type="dialogue">I had my first cotton candy today.</line>
+   <line type="dialogue">Like eating sugar from a cloud...</line>
+   <line type="dialogue">First thing you come up,</line>
+   <line type="dialogue">I'm gonna get you your own
 cotton candy, baby.</line>
-   <line>We'll be so happy together.</line>
-   <line>Your mama misses
+   <line type="dialogue">We'll be so happy together.</line>
+   <line type="dialogue">Your mama misses
 you like dry land for rain.</line>
-   <line>Love, mama.</line>
-   <line>She sent that photo with this letter.</line>
-   <line>Could I take this and the letters?</line>
-   <line>Will you bring them back?</line>
-   <line>They're all I have left of her.</line>
-   <line>Thing's making me seasick.</line>
-   <line>At least I got my roll on.
+   <line type="dialogue">Love, mama.</line>
+   <line type="dialogue">She sent that photo with this letter.</line>
+   <line type="dialogue">Could I take this and the letters?</line>
+   <line type="dialogue">Will you bring them back?</line>
+   <line type="dialogue">They're all I have left of her.</line>
+   <line type="dialogue">Thing's making me seasick.</line>
+   <line type="dialogue">At least I got my roll on.
 You can't even do yours.</line>
-   <line>Yeah.</line>
-   <line>Stop.</line>
-   <line>Damn thing's gonna explode.</line>
-   <line>Good lord.</line>
-   <line>Looks like a Baylor's
+   <line type="dialogue">Yeah.</line>
+   <line type="dialogue">Stop.</line>
+   <line type="dialogue">Damn thing's gonna explode.</line>
+   <line type="dialogue">Good lord.</line>
+   <line type="dialogue">Looks like a Baylor's
 milk company delivered</line>
-   <line>to north th street through the s.</line>
-   <line>Where Sadie's boarding house was.</line>
-   <line>Board of revenue's got Baylor's
+   <line type="dialogue">to north th street through the s.</line>
+   <line type="dialogue">Where Sadie's boarding house was.</line>
+   <line type="dialogue">Board of revenue's got Baylor's
 employee records to .</line>
-   <line>But nothing for .</line>
-   <line>So why is that year missing?</line>
-   <line>Fire.
+   <line type="dialogue">But nothing for .</line>
+   <line type="dialogue">So why is that year missing?</line>
+   <line type="dialogue">Fire.
 January .</line>
-   <line>Company stopped keeping
+   <line type="dialogue">Company stopped keeping
 records after that.</line>
-   <line>Fire must've really wiped them out.
+   <line type="dialogue">Fire must've really wiped them out.
 They went out of business a year later.</line>
-   <line>If this fire cost lives, newspapers
+   <line type="dialogue">If this fire cost lives, newspapers
 would have carried accounts, right?</line>
-   <line>Yeah.</line>
-   <line>So maybe our milkman's in one
+   <line type="dialogue">Yeah.</line>
+   <line type="dialogue">So maybe our milkman's in one
 of those newspapers?</line>
-   <line>We sure this place got prostitution
+   <line type="dialogue">We sure this place got prostitution
 arrests before ?</line>
-   <line>Hookers, homicides,</line>
-   <line>the works.</line>
-   <line>If Blanche got picked up,</line>
-   <line>we'll find her here.</line>
-   <line>Wonder where she is now.</line>
-   <line>Wherever hookers who make
+   <line type="dialogue">Hookers, homicides,</line>
+   <line type="dialogue">the works.</line>
+   <line type="dialogue">If Blanche got picked up,</line>
+   <line type="dialogue">we'll find her here.</line>
+   <line type="dialogue">Wonder where she is now.</line>
+   <line type="dialogue">Wherever hookers who make
 it to end up.</line>
-   <line>Let's hope it ain't hooker heaven.</line>
-   <line>Debbins, blanche.</line>
-   <line>This our girl?</line>
-   <line>She's a dead-ringer for this Blanche.</line>
-   <line>Arrested for prostitution in .</line>
-   <line>Delaney manross paid for her bail.</line>
-   <line>Manross delaney?
+   <line type="dialogue">Let's hope it ain't hooker heaven.</line>
+   <line type="dialogue">Debbins, blanche.</line>
+   <line type="dialogue">This our girl?</line>
+   <line type="dialogue">She's a dead-ringer for this Blanche.</line>
+   <line type="dialogue">Arrested for prostitution in .</line>
+   <line type="dialogue">Delaney manross paid for her bail.</line>
+   <line type="dialogue">Manross delaney?
 The candy man?</line>
-   <line>Delaney's delights?</line>
-   <line>You never had a Delaney delight?</line>
-   <line>No.</line>
-   <line>Guy's got a candy franchise.
+   <line type="dialogue">Delaney's delights?</line>
+   <line type="dialogue">You never had a Delaney delight?</line>
+   <line type="dialogue">No.</line>
+   <line type="dialogue">Guy's got a candy franchise.
 Been raking it in forever.</line>
-   <line>Maybe our h**ker's moved up
+   <line type="dialogue">Maybe our h**ker's moved up
 in the world, hmm?</line>
-   <line>Blanche debbins?</line>
-   <line>I ain't used that name in decades.</line>
-   <line>Whaddya you want, honey?</line>
-   <line>Philadelphia homicide,
+   <line type="dialogue">Blanche debbins?</line>
+   <line type="dialogue">I ain't used that name in decades.</line>
+   <line type="dialogue">Whaddya you want, honey?</line>
+   <line type="dialogue">Philadelphia homicide,
 miss Blanche.</line>
-   <line>And the police, too.</line>
-   <line>Make me feel young again.</line>
-   <line>Honey! Manross!</line>
-   <line>I'm watching my talk show, honey!
+   <line type="dialogue">And the police, too.</line>
+   <line type="dialogue">Make me feel young again.</line>
+   <line type="dialogue">Honey! Manross!</line>
+   <line type="dialogue">I'm watching my talk show, honey!
 - Well turn it off, honey!</line>
-   <line>We got guests.</line>
-   <line>That was the depression, honey.</line>
-   <line>Times were hard all over,</line>
-   <line>especially for colored women
+   <line type="dialogue">We got guests.</line>
+   <line type="dialogue">That was the depression, honey.</line>
+   <line type="dialogue">Times were hard all over,</line>
+   <line type="dialogue">especially for colored women
 coming up alone from the south.</line>
-   <line>You did what you could
+   <line type="dialogue">You did what you could
 to make ends meet.</line>
-   <line>Today's young people
+   <line type="dialogue">Today's young people
 don't understand.</line>
-   <line>You all help yourself.</line>
-   <line>Try my number nine.</line>
-   <line>He gets on his high horse sometimes.</line>
-   <line>Don't mind him.
+   <line type="dialogue">You all help yourself.</line>
+   <line type="dialogue">Try my number nine.</line>
+   <line type="dialogue">He gets on his high horse sometimes.</line>
+   <line type="dialogue">Don't mind him.
 That's what I do.</line>
-   <line>Isn't that right, candy man?</line>
-   <line>Day she called me candy man,</line>
-   <line>I fell head over heels.</line>
-   <line>Been falling for her ever since.</line>
-   <line>Do you know anything about a trip</line>
-   <line>Sadie was taking to New York,
+   <line type="dialogue">Isn't that right, candy man?</line>
+   <line type="dialogue">Day she called me candy man,</line>
+   <line type="dialogue">I fell head over heels.</line>
+   <line type="dialogue">Been falling for her ever since.</line>
+   <line type="dialogue">Do you know anything about a trip</line>
+   <line type="dialogue">Sadie was taking to New York,
 miss Blanche, night she was k*lled?</line>
-   <line>She told us she was going to bed.</line>
-   <line>Not to New York.</line>
-   <line>Well, did Sadie ever mention anyone,</line>
-   <line>maybe a milkman she was afraid of?</line>
-   <line>That rebby boy, what's his name?</line>
-   <line>Southern rebel wannabe.</line>
-   <line>Wasn't more than northern White Tr*sh.</line>
-   <line>what was his name?</line>
-   <line>I don't recall, honey.</line>
-   <line>Pierce. That was his name.</line>
-   <line>Had burns all over his face.</line>
-   <line>I'm telling the story, honey.</line>
-   <line>He had burns all over his face.</line>
-   <line>Had it out for Sadie, too.</line>
-   <line>All because of that damn milk.</line>
-   <line>I ain't getting out.</line>
-   <line>Not for no colored whorehouse.</line>
-   <line>Let them get their own damn milk.</line>
-   <line>Oh, here comes another one.</line>
-   <line>She looks almost white, don't she?</line>
-   <line>Come and get it!</line>
-   <line>Who that cooze think she is, huh?</line>
-   <line>Hey, dump it! / Huh?</line>
-   <line>I said dump it, Jonesy!</line>
-   <line>Let her clean it up.</line>
-   <line>Don't.</line>
-   <line>Sadie turned and walked
+   <line type="dialogue">She told us she was going to bed.</line>
+   <line type="dialogue">Not to New York.</line>
+   <line type="dialogue">Well, did Sadie ever mention anyone,</line>
+   <line type="dialogue">maybe a milkman she was afraid of?</line>
+   <line type="dialogue">That rebby boy, what's his name?</line>
+   <line type="dialogue">Southern rebel wannabe.</line>
+   <line type="dialogue">Wasn't more than northern White Tr*sh.</line>
+   <line type="dialogue">what was his name?</line>
+   <line type="dialogue">I don't recall, honey.</line>
+   <line type="dialogue">Pierce. That was his name.</line>
+   <line type="dialogue">Had burns all over his face.</line>
+   <line type="dialogue">I'm telling the story, honey.</line>
+   <line type="dialogue">He had burns all over his face.</line>
+   <line type="dialogue">Had it out for Sadie, too.</line>
+   <line type="dialogue">All because of that damn milk.</line>
+   <line type="dialogue">I ain't getting out.</line>
+   <line type="dialogue">Not for no colored whorehouse.</line>
+   <line type="dialogue">Let them get their own damn milk.</line>
+   <line type="dialogue">Oh, here comes another one.</line>
+   <line type="dialogue">She looks almost white, don't she?</line>
+   <line type="dialogue">Come and get it!</line>
+   <line type="dialogue">Who that cooze think she is, huh?</line>
+   <line type="dialogue">Hey, dump it! / Huh?</line>
+   <line type="dialogue">I said dump it, Jonesy!</line>
+   <line type="dialogue">Let her clean it up.</line>
+   <line type="dialogue">Don't.</line>
+   <line type="dialogue">Sadie turned and walked
 right back into the house</line>
-   <line>and left that milk out in the street.</line>
-   <line>That other milkman wasn't no better.</line>
-   <line>Didn't I say I'm telling the story?</line>
-   <line>This, uh, Pierce
+   <line type="dialogue">and left that milk out in the street.</line>
+   <line type="dialogue">That other milkman wasn't no better.</line>
+   <line type="dialogue">Didn't I say I'm telling the story?</line>
+   <line type="dialogue">This, uh, Pierce
 cause any other trouble?</line>
-   <line>Not that Sadie mentioned.</line>
-   <line>I avoided him and his milk truck after that.</line>
-   <line>But Sadie was afraid he might hurt her.</line>
-   <line>Wrote about him
+   <line type="dialogue">Not that Sadie mentioned.</line>
+   <line type="dialogue">I avoided him and his milk truck after that.</line>
+   <line type="dialogue">But Sadie was afraid he might hurt her.</line>
+   <line type="dialogue">Wrote about him
 in a letter to her daughter.</line>
-   <line>Honey, Sadie couldn't read or write.</line>
-   <line>None of us could back then.</line>
-   <line>But she sent letters to her daughter.</line>
-   <line>Lots of them.</line>
-   <line>Well, she might have sent them,</line>
-   <line>but she sure didn't write them.</line>
-   <line>So who wrote Sadie's letters?</line>
-   <line>No one in the house could read or write.</line>
-   <line>A John, maybe?</line>
-   <line>Whoever it was might've
+   <line type="dialogue">Honey, Sadie couldn't read or write.</line>
+   <line type="dialogue">None of us could back then.</line>
+   <line type="dialogue">But she sent letters to her daughter.</line>
+   <line type="dialogue">Lots of them.</line>
+   <line type="dialogue">Well, she might have sent them,</line>
+   <line type="dialogue">but she sure didn't write them.</line>
+   <line type="dialogue">So who wrote Sadie's letters?</line>
+   <line type="dialogue">No one in the house could read or write.</line>
+   <line type="dialogue">A John, maybe?</line>
+   <line type="dialogue">Whoever it was might've
 known more about the milkman.</line>
-   <line>Well, if the milkman was this guy Pierce,</line>
-   <line>then we might have the answer.</line>
-   <line>Newspaper from .</line>
-   <line>Pierce mcclintock listed as a burn victim
+   <line type="dialogue">Well, if the milkman was this guy Pierce,</line>
+   <line type="dialogue">then we might have the answer.</line>
+   <line type="dialogue">Newspaper from .</line>
+   <line type="dialogue">Pierce mcclintock listed as a burn victim
 in the Baylor's milk company fire.</line>
-   <line>The same company delivered milk
+   <line type="dialogue">The same company delivered milk
 to Sadie's boarding house.</line>
-   <line>Yep. Fire was set by pissed off
+   <line type="dialogue">Yep. Fire was set by pissed off
 white workers</line>
-   <line>when the company hired blacks.</line>
-   <line>including Pierce.</line>
-   <line>But lucky for us,</line>
-   <line>newspapers back then printed
+   <line type="dialogue">when the company hired blacks.</line>
+   <line type="dialogue">including Pierce.</line>
+   <line type="dialogue">But lucky for us,</line>
+   <line type="dialogue">newspapers back then printed
 the victims' addresses.</line>
-   <line>north th street.</line>
-   <line>We just got to pray that Pierce
+   <line type="dialogue">north th street.</line>
+   <line type="dialogue">We just got to pray that Pierce
 is still there. But yeah.</line>
-   <line>And I'll throw in a hail mary,
+   <line type="dialogue">And I'll throw in a hail mary,
 we find who wrote this letter.</line>
-   <line>So this is from , huh?</line>
-   <line>Interesting.</line>
-   <line>Well, you can tell from someone's
+   <line type="dialogue">So this is from , huh?</line>
+   <line type="dialogue">Interesting.</line>
+   <line type="dialogue">Well, you can tell from someone's
 handwriting who they are?</line>
-   <line>No.</line>
-   <line>Gender, age, personality type,</line>
-   <line>region of origin, pretty much, yeah.</line>
-   <line>How?</line>
-   <line>See these looped letters?</line>
-   <line>Curved forms combined
+   <line type="dialogue">No.</line>
+   <line type="dialogue">Gender, age, personality type,</line>
+   <line type="dialogue">region of origin, pretty much, yeah.</line>
+   <line type="dialogue">How?</line>
+   <line type="dialogue">See these looped letters?</line>
+   <line type="dialogue">Curved forms combined
 with medium pressure</line>
-   <line>are usually indicators of femininity.</line>
-   <line>Writer was female?</line>
-   <line>Eh, best guess.</line>
-   <line>Kinda K.O.'s our theory
+   <line type="dialogue">are usually indicators of femininity.</line>
+   <line type="dialogue">Writer was female?</line>
+   <line type="dialogue">Eh, best guess.</line>
+   <line type="dialogue">Kinda K.O.'s our theory
 of a John as the writer.</line>
-   <line>So who the hell wrote this letter?</line>
-   <line>Give me a few hours,
+   <line type="dialogue">So who the hell wrote this letter?</line>
+   <line type="dialogue">Give me a few hours,
 I'll have an answer for you.</line>
-   <line>What's that tell you?</line>
-   <line>Ah. Firm.</line>
-   <line>Logical.</line>
-   <line>Running from something?</line>
-   <line>Your grandfather, Pierce mcclintock,
+   <line type="dialogue">What's that tell you?</line>
+   <line type="dialogue">Ah. Firm.</line>
+   <line type="dialogue">Logical.</line>
+   <line type="dialogue">Running from something?</line>
+   <line type="dialogue">Your grandfather, Pierce mcclintock,
 owned this house?</line>
-   <line>He passed away ten years ago.
+   <line type="dialogue">He passed away ten years ago.
 I inherited the house from him.</line>
-   <line>I can't understand what he has
+   <line type="dialogue">I can't understand what he has
 to do with this woman's m*rder.</line>
-   <line>We don't know either, miss Reilly.</line>
-   <line>That's why we're here.</line>
-   <line>He was a good man,
+   <line type="dialogue">We don't know either, miss Reilly.</line>
+   <line type="dialogue">That's why we're here.</line>
+   <line type="dialogue">He was a good man,
 my grandfather.</line>
-   <line>Not a m*rder*r.</line>
-   <line>So you'd agree to volunteer your
+   <line type="dialogue">Not a m*rder*r.</line>
+   <line type="dialogue">So you'd agree to volunteer your
 DNA to prove that?</line>
-   <line>I don't need to prove that to anyone.</line>
-   <line>We can get a search warrant.</line>
-   <line>For what?</line>
-   <line>An old man's knickknacks?
+   <line type="dialogue">I don't need to prove that to anyone.</line>
+   <line type="dialogue">We can get a search warrant.</line>
+   <line type="dialogue">For what?</line>
+   <line type="dialogue">An old man's knickknacks?
 A dead man's diary?</line>
-   <line>Pierce kept a diary?</line>
-   <line>After the fire at Baylor's milk,</line>
-   <line>Pierce refers to something
+   <line type="dialogue">Pierce kept a diary?</line>
+   <line type="dialogue">After the fire at Baylor's milk,</line>
+   <line type="dialogue">Pierce refers to something
 called the fifth day in his diary.</line>
-   <line>The fifth day?
+   <line type="dialogue">The fifth day?
 - Mentioned it a bunch of times.</line>
-   <line>Don't you dare put that in your mouth.</line>
-   <line>I like cheez whiz on
+   <line type="dialogue">Don't you dare put that in your mouth.</line>
+   <line type="dialogue">I like cheez whiz on
 my cheesesteak. So what?</line>
-   <line>Fifth day sounds like some
+   <line type="dialogue">Fifth day sounds like some
 sort of group Pierce started.</line>
-   <line>Guys from the milk place
+   <line type="dialogue">Guys from the milk place
 injured in the fire.</line>
-   <line>What'd they do?</line>
-   <line>Doesn't say.
+   <line type="dialogue">What'd they do?</line>
+   <line type="dialogue">Doesn't say.
 But check that entry out.</line>
-   <line>May .</line>
-   <line>Pierce's milk bottle w*r with Sadie.
+   <line type="dialogue">May .</line>
+   <line type="dialogue">Pierce's milk bottle w*r with Sadie.
 He writes about it.</line>
-   <line>Thing Blanche told us about?</line>
-   <line>The aftermath...</line>
-   <line>Delivered to that colored's
+   <line type="dialogue">Thing Blanche told us about?</line>
+   <line type="dialogue">The aftermath...</line>
+   <line type="dialogue">Delivered to that colored's
 boarding house today,</line>
-   <line>and that flooze just left them
+   <line type="dialogue">and that flooze just left them
 bottles out on the street.</line>
-   <line>Damn it.</line>
-   <line>She didn't even pick them up.</line>
-   <line>Look at that co*n, will you?</line>
-   <line>Standing there like
+   <line type="dialogue">Damn it.</line>
+   <line type="dialogue">She didn't even pick them up.</line>
+   <line type="dialogue">Look at that co*n, will you?</line>
+   <line type="dialogue">Standing there like
 she runs the joint.</line>
-   <line>Fifth day ought to teach her a lesson.</line>
-   <line>Fifth day is right.
+   <line type="dialogue">Fifth day ought to teach her a lesson.</line>
+   <line type="dialogue">Fifth day is right.
 Take that gleam outa that quiff's eye.</line>
-   <line>Go on, Jonesy.
+   <line type="dialogue">Go on, Jonesy.
 You show her.</line>
-   <line>Here's your milk.</line>
-   <line>So maybe Jonesy was our
+   <line type="dialogue">Here's your milk.</line>
+   <line type="dialogue">So maybe Jonesy was our
 evil milkman and not Pierce.</line>
-   <line>No Jonesy listed as a victim in the fire.</line>
-   <line>But all them fifth day guys got
+   <line type="dialogue">No Jonesy listed as a victim in the fire.</line>
+   <line type="dialogue">But all them fifth day guys got
 messed up in the fire, right?</line>
-   <line>So how'd Jonesy get involved with them?</line>
-   <line>And what's he mean the fifth
+   <line type="dialogue">So how'd Jonesy get involved with them?</line>
+   <line type="dialogue">And what's he mean the fifth
 day ought to teach her a lesson?</line>
-   <line>Maybe that's what their little club did,</line>
-   <line>teach lessons to women like Sadie.</line>
-   <line>Let's check criminal records
+   <line type="dialogue">Maybe that's what their little club did,</line>
+   <line type="dialogue">teach lessons to women like Sadie.</line>
+   <line type="dialogue">Let's check criminal records
 for Pierce mcclintock.</line>
-   <line>Maybe his fifth day activities
+   <line type="dialogue">Maybe his fifth day activities
 made the books.</line>
-   <line>Any word on the city okaying
+   <line type="dialogue">Any word on the city okaying
 the exhumation?</line>
-   <line>Kite's been in court all day.
+   <line type="dialogue">Kite's been in court all day.
 - So ask him tonight.</line>
-   <line>Or tomorrow.</line>
-   <line>I've called you three times
+   <line type="dialogue">Or tomorrow.</line>
+   <line type="dialogue">I've called you three times
 about this exhumation.</line>
-   <line>Closing arguments on the wicker job.</line>
-   <line>Besides, you've ignored
+   <line type="dialogue">Closing arguments on the wicker job.</line>
+   <line type="dialogue">Besides, you've ignored
 a few of my calls lately, too.</line>
-   <line>Been busy.</line>
-   <line>Well there you go.
+   <line type="dialogue">Been busy.</line>
+   <line type="dialogue">Well there you go.
 We're both busy.</line>
-   <line>Anyway, we got direction on this job.</line>
-   <line>From ' . / So?</line>
-   <line>So it's hard to make a case
+   <line type="dialogue">Anyway, we got direction on this job.</line>
+   <line type="dialogue">From ' . / So?</line>
+   <line type="dialogue">So it's hard to make a case
 that the exhumation is pressing,</line>
-   <line>you know what I mean?</line>
-   <line>Maybe the judge should meet
+   <line type="dialogue">you know what I mean?</line>
+   <line type="dialogue">Maybe the judge should meet
 the victim's granddaughter.</line>
-   <line>It's pressing to her.</line>
-   <line>Look, Fisk hasn't gotten to it,</line>
-   <line>but I'm guessing you'll need
+   <line type="dialogue">It's pressing to her.</line>
+   <line type="dialogue">Look, Fisk hasn't gotten to it,</line>
+   <line type="dialogue">but I'm guessing you'll need
 more probable cause.</line>
-   <line>The city's strapped for cash.</line>
-   <line>And this granddaughter
+   <line type="dialogue">The city's strapped for cash.</line>
+   <line type="dialogue">And this granddaughter
 wants answers.</line>
-   <line>Don't we all.</line>
-   <line>How're the cats, anyway?
+   <line type="dialogue">Don't we all.</line>
+   <line type="dialogue">How're the cats, anyway?
 - Good.</line>
-   <line>Call me.</line>
-   <line>When you hear from Fisk, I mean.</line>
-   <line>Sure.</line>
-   <line>Get anything in criminal records?</line>
-   <line>Long rap sheet on Pierce.</line>
-   <line>Assaults on males and females,
+   <line type="dialogue">Call me.</line>
+   <line type="dialogue">When you hear from Fisk, I mean.</line>
+   <line type="dialogue">Sure.</line>
+   <line type="dialogue">Get anything in criminal records?</line>
+   <line type="dialogue">Long rap sheet on Pierce.</line>
+   <line type="dialogue">Assaults on males and females,
 all black.</line>
-   <line>Victims claimed they were att*cked
+   <line type="dialogue">Victims claimed they were att*cked
 by a group of young white males.</line>
-   <line>African american history museum
+   <line type="dialogue">African american history museum
 had a listing of hate groups in ' .</line>
-   <line>They list the Fifth day as one in Philly.</line>
-   <line>White supremacists.</line>
-   <line>Took their name
+   <line type="dialogue">They list the Fifth day as one in Philly.</line>
+   <line type="dialogue">White supremacists.</line>
+   <line type="dialogue">Took their name
 from the Fifth day of creation.</line>
-   <line>God said, let us make man in our image</line>
-   <line>and let him rule over all the earth.</line>
-   <line>Meaning the white man, of course.</line>
-   <line>Mission was to terrorize blacks</line>
-   <line>coming up from
+   <line type="dialogue">God said, let us make man in our image</line>
+   <line type="dialogue">and let him rule over all the earth.</line>
+   <line type="dialogue">Meaning the white man, of course.</line>
+   <line type="dialogue">Mission was to terrorize blacks</line>
+   <line type="dialogue">coming up from
 the south looking for jobs.</line>
-   <line>Every Fifth day,
+   <line type="dialogue">Every Fifth day,
 they'd go on a rampage.</line>
-   <line>Beat up some black person
+   <line type="dialogue">Beat up some black person
 for the crime of being alive.</line>
-   <line>m*rder part of their game?</line>
-   <line>Could be.
+   <line type="dialogue">m*rder part of their game?</line>
+   <line type="dialogue">Could be.
 Check it out.</line>
-   <line>The Fifth day.</line>
-   <line>Meet Pierce and our friend Jonesy.</line>
-   <line>Jonesy don't look burned.</line>
-   <line>Could have them
+   <line type="dialogue">The Fifth day.</line>
+   <line type="dialogue">Meet Pierce and our friend Jonesy.</line>
+   <line type="dialogue">Jonesy don't look burned.</line>
+   <line type="dialogue">Could have them
 where the sun don't shine.</line>
-   <line>Museum didn't have last names
+   <line type="dialogue">Museum didn't have last names
 on these clowns.</line>
-   <line>Id'd them here only by their
+   <line type="dialogue">Id'd them here only by their
 monikers or first name.</line>
-   <line>We'll keep looking.</line>
-   <line>Lilly still with the ADA?</line>
-   <line>Our handwriting expert came back
+   <line type="dialogue">We'll keep looking.</line>
+   <line type="dialogue">Lilly still with the ADA?</line>
+   <line type="dialogue">Our handwriting expert came back
 with a profile of the letter writer.</line>
-   <line>It was a kid.</line>
-   <line>Only child in the boarding house
+   <line type="dialogue">It was a kid.</line>
+   <line type="dialogue">Only child in the boarding house
 was the owner's daughter.</line>
-   <line>Ten years old at the time
+   <line type="dialogue">Ten years old at the time
 of the m*rder.</line>
-   <line>I'll go pick up Lil.</line>
-   <line>This was miss Sadie's favorite room.</line>
-   <line>My mother took in boarders
+   <line type="dialogue">I'll go pick up Lil.</line>
+   <line type="dialogue">This was miss Sadie's favorite room.</line>
+   <line type="dialogue">My mother took in boarders
 during the depression.</line>
-   <line>I hear this place is a bed
+   <line type="dialogue">I hear this place is a bed
 and breakfast now?</line>
-   <line>Owners say it was okay
+   <line type="dialogue">Owners say it was okay
 for us to come in.</line>
-   <line>Bring you back to your old home.</line>
-   <line>I'm glad no one tore it down.</line>
-   <line>Did you write Sadie's letters here?</line>
-   <line>I wrote them, yes.</line>
-   <line>But the words were hers.</line>
-   <line>Her baby girl meant
+   <line type="dialogue">Bring you back to your old home.</line>
+   <line type="dialogue">I'm glad no one tore it down.</line>
+   <line type="dialogue">Did you write Sadie's letters here?</line>
+   <line type="dialogue">I wrote them, yes.</line>
+   <line type="dialogue">But the words were hers.</line>
+   <line type="dialogue">Her baby girl meant
 the whole world to her.</line>
-   <line>Do you remember writing about
+   <line type="dialogue">Do you remember writing about
 a milkman who might hurt Sadie?</line>
-   <line>Jonesy.</line>
-   <line>I remember him well.</line>
-   <line>Why?</line>
-   <line>Because of what Sadie
+   <line type="dialogue">Jonesy.</line>
+   <line type="dialogue">I remember him well.</line>
+   <line type="dialogue">Why?</line>
+   <line type="dialogue">Because of what Sadie
 found in the milk.</line>
-   <line>Show her who's boss.</line>
-   <line>Here's your milk.</line>
-   <line>Nothing but poor white milkman trash.</line>
-   <line>Who he think he is, trashy ol'...</line>
-   <line>Poor white milkman trash
+   <line type="dialogue">Show her who's boss.</line>
+   <line type="dialogue">Here's your milk.</line>
+   <line type="dialogue">Nothing but poor white milkman trash.</line>
+   <line type="dialogue">Who he think he is, trashy ol'...</line>
+   <line type="dialogue">Poor white milkman trash
 left a note, miss Sadie. / Shush, girl.</line>
-   <line>What's this say?</line>
-   <line>He says, forgive me.</line>
-   <line>Crazy White Tr*sh.</line>
-   <line>He's saying he's sorry.</line>
-   <line>I still say he trash.</line>
-   <line>That ain't nothing but tinder for the fire.</line>
-   <line>Go on, Arletta.</line>
-   <line>Throw it in.</line>
-   <line>Wait.</line>
-   <line>Write something for me.</line>
-   <line>Why should I?</line>
-   <line>Because you are a lady.</line>
-   <line>I forgive you them.</line>
-   <line>What's your name?</line>
-   <line>My name is Sadie.</line>
-   <line>Those notes went on and on
+   <line type="dialogue">What's this say?</line>
+   <line type="dialogue">He says, forgive me.</line>
+   <line type="dialogue">Crazy White Tr*sh.</line>
+   <line type="dialogue">He's saying he's sorry.</line>
+   <line type="dialogue">I still say he trash.</line>
+   <line type="dialogue">That ain't nothing but tinder for the fire.</line>
+   <line type="dialogue">Go on, Arletta.</line>
+   <line type="dialogue">Throw it in.</line>
+   <line type="dialogue">Wait.</line>
+   <line type="dialogue">Write something for me.</line>
+   <line type="dialogue">Why should I?</line>
+   <line type="dialogue">Because you are a lady.</line>
+   <line type="dialogue">I forgive you them.</line>
+   <line type="dialogue">What's your name?</line>
+   <line type="dialogue">My name is Sadie.</line>
+   <line type="dialogue">Those notes went on and on
 for months,</line>
-   <line>right till she died.</line>
-   <line>Why did she think
+   <line type="dialogue">right till she died.</line>
+   <line type="dialogue">Why did she think
 Jonesy would hurt her?</line>
-   <line>I think it was her heart, she meant.</line>
-   <line>Did they exchange notes
+   <line type="dialogue">I think it was her heart, she meant.</line>
+   <line type="dialogue">Did they exchange notes
 the day she was k*lled?</line>
-   <line>Jonesy wanted her to meet
+   <line type="dialogue">Jonesy wanted her to meet
 him here that night.</line>
-   <line>For a proper visit.</line>
-   <line>Miss Sadie kept each and every note.</line>
-   <line>Hid them behind the stove
+   <line type="dialogue">For a proper visit.</line>
+   <line type="dialogue">Miss Sadie kept each and every note.</line>
+   <line type="dialogue">Hid them behind the stove
 where no one would look,</line>
-   <line>and no one ever found them.</line>
-   <line>Why not?</line>
-   <line>Because I took them.</line>
-   <line>Still have them, too.</line>
-   <line>I was raised by other people, Sadie.</line>
-   <line>Don't even know my own folks.</line>
-   <line>Jonesy was an orphan?</line>
-   <line>Maybe check the children's homes
+   <line type="dialogue">and no one ever found them.</line>
+   <line type="dialogue">Why not?</line>
+   <line type="dialogue">Because I took them.</line>
+   <line type="dialogue">Still have them, too.</line>
+   <line type="dialogue">I was raised by other people, Sadie.</line>
+   <line type="dialogue">Don't even know my own folks.</line>
+   <line type="dialogue">Jonesy was an orphan?</line>
+   <line type="dialogue">Maybe check the children's homes
 in the area, look for his name.</line>
-   <line>I'll care for your little girl,
+   <line type="dialogue">I'll care for your little girl,
 even if she ain't my own,</line>
-   <line>because she's like me.</line>
-   <line>Every child deserves to be loved.</line>
-   <line>He wanted to make a life with her.</line>
-   <line>And take her kid in, too.</line>
-   <line>A real from the Fifth day.</line>
-   <line>So was Sadie k*lled by the man who
+   <line type="dialogue">because she's like me.</line>
+   <line type="dialogue">Every child deserves to be loved.</line>
+   <line type="dialogue">He wanted to make a life with her.</line>
+   <line type="dialogue">And take her kid in, too.</line>
+   <line type="dialogue">A real from the Fifth day.</line>
+   <line type="dialogue">So was Sadie k*lled by the man who
 hated her or the man who loved her?</line>
-   <line>Pierce or Jonesy?</line>
-   <line>Maybe something happened that night
+   <line type="dialogue">Pierce or Jonesy?</line>
+   <line type="dialogue">Maybe something happened that night
 at the boarding house</line>
-   <line>that turned the tide of Jonesy's love.</line>
-   <line>Love can turn on a dime.</line>
-   <line>We know a candy man?</line>
-   <line>Do you love me, Sadie,
+   <line type="dialogue">that turned the tide of Jonesy's love.</line>
+   <line type="dialogue">Love can turn on a dime.</line>
+   <line type="dialogue">We know a candy man?</line>
+   <line type="dialogue">Do you love me, Sadie,
 or do you love the candy man?</line>
-   <line>Blanche's husband.</line>
-   <line>Blanche and I, we...</line>
-   <line>just started dating,</line>
-   <line>and I, uh...</line>
-   <line>had a little crush on Sadie.</line>
-   <line>Don't you do this to me, Manross.</line>
-   <line>We can talk somewhere else,
+   <line type="dialogue">Blanche's husband.</line>
+   <line type="dialogue">Blanche and I, we...</line>
+   <line type="dialogue">just started dating,</line>
+   <line type="dialogue">and I, uh...</line>
+   <line type="dialogue">had a little crush on Sadie.</line>
+   <line type="dialogue">Don't you do this to me, Manross.</line>
+   <line type="dialogue">We can talk somewhere else,
 if that would make it easier.</line>
-   <line>I was young...</line>
-   <line>foolish...</line>
-   <line>thought I could have my cake
+   <line type="dialogue">I was young...</line>
+   <line type="dialogue">foolish...</line>
+   <line type="dialogue">thought I could have my cake
 and eat it, too.</line>
-   <line>Sadie never went for it.</line>
-   <line>Because she was involved with Jonesy.</line>
-   <line>So you knew about the affair.
+   <line type="dialogue">Sadie never went for it.</line>
+   <line type="dialogue">Because she was involved with Jonesy.</line>
+   <line type="dialogue">So you knew about the affair.
 - Not till the night she was k*lled.</line>
-   <line>They hid it well.</line>
-   <line>You had to, back then.</line>
-   <line>If anyone found out,
+   <line type="dialogue">They hid it well.</line>
+   <line type="dialogue">You had to, back then.</line>
+   <line type="dialogue">If anyone found out,
 one of them would be dead.</line>
-   <line>One of them is dead.</line>
-   <line>So how'd you find out?</line>
-   <line>the night of Sadie's m*rder...</line>
-   <line>We were all supposed to
+   <line type="dialogue">One of them is dead.</line>
+   <line type="dialogue">So how'd you find out?</line>
+   <line type="dialogue">the night of Sadie's m*rder...</line>
+   <line type="dialogue">We were all supposed to
 meet up at the juke joint.</line>
-   <line>I thought Sadie was going to be
+   <line type="dialogue">I thought Sadie was going to be
 there, but she... she wasn't.</line>
-   <line>So I went down to the boarding
+   <line type="dialogue">So I went down to the boarding
 house to get her.</line>
-   <line>We got to go tonight, Sadie.</line>
-   <line>We can't just go.</line>
-   <line>But we talked about this.</line>
-   <line>We was just going to visit.</line>
-   <line>That's what you said in your note.
+   <line type="dialogue">We got to go tonight, Sadie.</line>
+   <line type="dialogue">We can't just go.</line>
+   <line type="dialogue">But we talked about this.</line>
+   <line type="dialogue">We was just going to visit.</line>
+   <line type="dialogue">That's what you said in your note.
 - I know, but...</line>
-   <line>Something came up.</line>
-   <line>What?</line>
-   <line>Look...</line>
-   <line>you gotta leave with me right now.</line>
-   <line>I already got the tickets,
+   <line type="dialogue">Something came up.</line>
+   <line type="dialogue">What?</line>
+   <line type="dialogue">Look...</line>
+   <line type="dialogue">you gotta leave with me right now.</line>
+   <line type="dialogue">I already got the tickets,
 the train leaves in a half-hour.</line>
-   <line>We go now and we could
+   <line type="dialogue">We go now and we could
 make it, Sadie. / I want to.</line>
-   <line>but why's it gotta be tonight?</line>
-   <line>What's wrong, Jonesy?</line>
-   <line>I went back to the juke joint.</line>
-   <line>Never seen her again.</line>
-   <line>Sadie was asking for trouble taking
+   <line type="dialogue">but why's it gotta be tonight?</line>
+   <line type="dialogue">What's wrong, Jonesy?</line>
+   <line type="dialogue">I went back to the juke joint.</line>
+   <line type="dialogue">Never seen her again.</line>
+   <line type="dialogue">Sadie was asking for trouble taking
 up with that half-blind white boy.</line>
-   <line>What do you mean, half-blind?</line>
-   <line>Couldn't see out of one eye,
+   <line type="dialogue">What do you mean, half-blind?</line>
+   <line type="dialogue">Couldn't see out of one eye,
 on account of the fire.</line>
-   <line>Why didn't you ever tell anyone
+   <line type="dialogue">Why didn't you ever tell anyone
 what you saw that night?</line>
-   <line>Because I didn't want to hurt...</line>
-   <line>the woman I love.</line>
-   <line>But I did, anyway.</line>
-   <line>Manross volunteered his DNA,
+   <line type="dialogue">Because I didn't want to hurt...</line>
+   <line type="dialogue">the woman I love.</line>
+   <line type="dialogue">But I did, anyway.</line>
+   <line type="dialogue">Manross volunteered his DNA,
 fingerprints, shirt off his back.</line>
-   <line>You really think this guy's the doer.</line>
-   <line>Sometimes jealousy beats out
+   <line type="dialogue">You really think this guy's the doer.</line>
+   <line type="dialogue">Sometimes jealousy beats out
 love and hate, hands down.</line>
-   <line>What I don't get is Jonesy was
+   <line type="dialogue">What I don't get is Jonesy was
 just gonna visit Sadie that night,</line>
-   <line>but then something happens.</line>
-   <line>And he's frantic to get out of town.</line>
-   <line>Something like what?</line>
-   <line>Pierce found out his
+   <line type="dialogue">but then something happens.</line>
+   <line type="dialogue">And he's frantic to get out of town.</line>
+   <line type="dialogue">Something like what?</line>
+   <line type="dialogue">Pierce found out his
 white supremacist pal
 fell in love with a black woman?</line>
-   <line>Threatens revenge on them both.</line>
-   <line>Got our milkman.
+   <line type="dialogue">Threatens revenge on them both.</line>
+   <line type="dialogue">Got our milkman.
 Nathan jones.</line>
-   <line>Just his name, but it's a start.</line>
-   <line>Grew up in a boys' home in Philly.</line>
-   <line>Ran him through autotrack, DMV,
+   <line type="dialogue">Just his name, but it's a start.</line>
+   <line type="dialogue">Grew up in a boys' home in Philly.</line>
+   <line type="dialogue">Ran him through autotrack, DMV,
 even military records.</line>
-   <line>Got a thousand and one hits back.</line>
-   <line>Manross said Jonesy was injured
+   <line type="dialogue">Got a thousand and one hits back.</line>
+   <line type="dialogue">Manross said Jonesy was injured
 in the fire, went half-blind later.</line>
-   <line>If he applied for military duty,
+   <line type="dialogue">If he applied for military duty,
 he'd have been rejected, right?</line>
-   <line>Wait a sec. My old man
+   <line type="dialogue">Wait a sec. My old man
 went through this.</line>
-   <line>A class F rejection.
+   <line type="dialogue">A class F rejection.
 Unacceptable for military duty.</line>
-   <line>Made him feel like he had to wear
+   <line type="dialogue">Made him feel like he had to wear
 a dunce cap, back in the day.</line>
-   <line>So we check Nathan jones
+   <line type="dialogue">So we check Nathan jones
 with F records.</line>
-   <line>Then maybe we finally nail
+   <line type="dialogue">Then maybe we finally nail
 down this son of a b*tch.</line>
-   <line>Hey, rush.</line>
-   <line>Hi. how'd it go?</line>
-   <line>Judge Fisk K.O'd
+   <line type="dialogue">Hey, rush.</line>
+   <line type="dialogue">Hi. how'd it go?</line>
+   <line type="dialogue">Judge Fisk K.O'd
 the motion to exhume.</line>
-   <line>What?</line>
-   <line>Not enough probable cause.</line>
-   <line>We've got three possible
+   <line type="dialogue">What?</line>
+   <line type="dialogue">Not enough probable cause.</line>
+   <line type="dialogue">We've got three possible
 doers here, Kite.</line>
-   <line>Look, it's an ancient case, okay?
+   <line type="dialogue">Look, it's an ancient case, okay?
 And the bottom line is cold cash.</line>
-   <line>We don't have any to spare.</line>
-   <line>Sorry.</line>
-   <line>Sarah?</line>
-   <line>Hi. Any news?</line>
-   <line>I thought you might want these.</line>
-   <line>Notes to Sadie from
+   <line type="dialogue">We don't have any to spare.</line>
+   <line type="dialogue">Sorry.</line>
+   <line type="dialogue">Sarah?</line>
+   <line type="dialogue">Hi. Any news?</line>
+   <line type="dialogue">I thought you might want these.</line>
+   <line type="dialogue">Notes to Sadie from
 the milkman in her letter.</line>
-   <line>She wasn't afraid of him, Sarah,</line>
-   <line>she was in love with him.</line>
-   <line>I'll care for your little girl,</line>
-   <line>even if she ain't my own.</line>
-   <line>He wanted to take care of her.</line>
-   <line>And your mother.</line>
-   <line>I wish she had had a chance to
+   <line type="dialogue">She wasn't afraid of him, Sarah,</line>
+   <line type="dialogue">she was in love with him.</line>
+   <line type="dialogue">I'll care for your little girl,</line>
+   <line type="dialogue">even if she ain't my own.</line>
+   <line type="dialogue">He wanted to take care of her.</line>
+   <line type="dialogue">And your mother.</line>
+   <line type="dialogue">I wish she had had a chance to
 see this, to, to know this.</line>
-   <line>Your mom?</line>
-   <line>I'm sorry.</line>
-   <line>It's okay.</line>
-   <line>I have some bad news, too, Sarah.</line>
-   <line>The D.A.'s office didn't
+   <line type="dialogue">Your mom?</line>
+   <line type="dialogue">I'm sorry.</line>
+   <line type="dialogue">It's okay.</line>
+   <line type="dialogue">I have some bad news, too, Sarah.</line>
+   <line type="dialogue">The D.A.'s office didn't
 grant the motion to exhume.</line>
-   <line>But I'm the family.
+   <line type="dialogue">But I'm the family.
 Don't I have a say?</line>
-   <line>It's not that.</line>
-   <line>They need more of a reason to do it.</line>
-   <line>Solving my grandmother's m*rder
+   <line type="dialogue">It's not that.</line>
+   <line type="dialogue">They need more of a reason to do it.</line>
+   <line type="dialogue">Solving my grandmother's m*rder
 isn't a good enough reason?</line>
-   <line>It's complicated.</line>
-   <line>Financially difficult.</line>
-   <line>I'll pay for it.</line>
-   <line>Sarah...</line>
-   <line>An exhumation and autopsy
+   <line type="dialogue">It's complicated.</line>
+   <line type="dialogue">Financially difficult.</line>
+   <line type="dialogue">I'll pay for it.</line>
+   <line type="dialogue">Sarah...</line>
+   <line type="dialogue">An exhumation and autopsy
 cost at least $ , .</line>
-   <line>I've memorized all of her letters.</line>
-   <line>These past few days,</line>
-   <line>I feel as if I've come as close to
+   <line type="dialogue">I've memorized all of her letters.</line>
+   <line type="dialogue">These past few days,</line>
+   <line type="dialogue">I feel as if I've come as close to
 meeting my grandmother
 as I ever will.</line>
-   <line>I know how she lived.</line>
-   <line>But I still need to know how she died.</line>
-   <line>Body is in an early stage
+   <line type="dialogue">I know how she lived.</line>
+   <line type="dialogue">But I still need to know how she died.</line>
+   <line type="dialogue">Body is in an early stage
 of dried mummification.</line>
-   <line>soft tissue.</line>
-   <line>desiccated down to the bone.</line>
-   <line>What are the odds on DNA,
+   <line type="dialogue">soft tissue.</line>
+   <line type="dialogue">desiccated down to the bone.</line>
+   <line type="dialogue">What are the odds on DNA,
 Dr. Barnsley?</line>
-   <line>This is my first year old cadaver.</line>
-   <line>but DNA can last hundreds of years.</line>
-   <line>She fought back,
+   <line type="dialogue">This is my first year old cadaver.</line>
+   <line type="dialogue">but DNA can last hundreds of years.</line>
+   <line type="dialogue">She fought back,
 broke three fingernails.</line>
-   <line>Maybe the doer left a souvenir.</line>
-   <line>The fingers are in advanced
+   <line type="dialogue">Maybe the doer left a souvenir.</line>
+   <line type="dialogue">The fingers are in advanced
 stage of dehydration, but...</line>
-   <line>I might be able to
+   <line type="dialogue">I might be able to
 collect some scrapings.</line>
-   <line>Valens.</line>
-   <line>You're kidding.</line>
-   <line>Where?</line>
-   <line>All right.</line>
-   <line>Jeffries and Vera found Jonesy.</line>
-   <line>He's still alive?</line>
-   <line>And kicking it in New York city.</line>
-   <line>Detectives, the index finger
+   <line type="dialogue">Valens.</line>
+   <line type="dialogue">You're kidding.</line>
+   <line type="dialogue">Where?</line>
+   <line type="dialogue">All right.</line>
+   <line type="dialogue">Jeffries and Vera found Jonesy.</line>
+   <line type="dialogue">He's still alive?</line>
+   <line type="dialogue">And kicking it in New York city.</line>
+   <line type="dialogue">Detectives, the index finger
 of the right hand.</line>
-   <line>I think maybe we've got something.</line>
-   <line>Maybe Sadie's speaking
+   <line type="dialogue">I think maybe we've got something.</line>
+   <line type="dialogue">Maybe Sadie's speaking
 from the grave.</line>
-   <line>Lab's trying Pierce's DNA
+   <line type="dialogue">Lab's trying Pierce's DNA
 from his granddaughter.</line>
-   <line>Manross', too.</line>
-   <line>'s ticket, train to New York.</line>
-   <line>That's going on the cheap.</line>
-   <line>Taking SEPTA and New Jersey transit.</line>
-   <line>We gotta find Amtrak car way back.</line>
-   <line>take a free hop when we saw her.</line>
-   <line>Kite pissed you off, uh?</line>
-   <line>Not fight for the exumation.</line>
-   <line>It wasn't really his decision though.</line>
-   <line>Or was it something else with Kite
+   <line type="dialogue">Manross', too.</line>
+   <line type="dialogue">'s ticket, train to New York.</line>
+   <line type="dialogue">That's going on the cheap.</line>
+   <line type="dialogue">Taking SEPTA and New Jersey transit.</line>
+   <line type="dialogue">We gotta find Amtrak car way back.</line>
+   <line type="dialogue">take a free hop when we saw her.</line>
+   <line type="dialogue">Kite pissed you off, uh?</line>
+   <line type="dialogue">Not fight for the exumation.</line>
+   <line type="dialogue">It wasn't really his decision though.</line>
+   <line type="dialogue">Or was it something else with Kite
 pissed you off?</line>
-   <line>I gotta be psychic in an answer outta you?</line>
-   <line>I, uh,</line>
-   <line>might've made a mistake.</line>
-   <line>Rush.</line>
-   <line>Okay.</line>
-   <line>Thanks, boss.</line>
-   <line>Manross' cleared.</line>
-   <line>His DNA didn't match to what was
+   <line type="dialogue">I gotta be psychic in an answer outta you?</line>
+   <line type="dialogue">I, uh,</line>
+   <line type="dialogue">might've made a mistake.</line>
+   <line type="dialogue">Rush.</line>
+   <line type="dialogue">Okay.</line>
+   <line type="dialogue">Thanks, boss.</line>
+   <line type="dialogue">Manross' cleared.</line>
+   <line type="dialogue">His DNA didn't match to what was
 under Sadie's nails.</line>
-   <line>So candyman ain't our doer.</line>
-   <line>Gotta admit it.
+   <line type="dialogue">So candyman ain't our doer.</line>
+   <line type="dialogue">Gotta admit it.
 Glad for Blanche.</line>
-   <line>It must be nice to know and get
+   <line type="dialogue">It must be nice to know and get
 someone grow old and useless with.</line>
-   <line>Yeah, it must be.</line>
-   <line>Grandpa?</line>
-   <line>You got visitors.</line>
-   <line>We're here about Sadie douglas,
+   <line type="dialogue">Yeah, it must be.</line>
+   <line type="dialogue">Grandpa?</line>
+   <line type="dialogue">You got visitors.</line>
+   <line type="dialogue">We're here about Sadie douglas,
 Mr. Jones.</line>
-   <line>You remember how she got k*lled?</line>
-   <line>r*ped, suffocated.</line>
-   <line>Hey. What are you saying to him?</line>
-   <line>Never mind.</line>
-   <line>Frankie, why don't you go watch  TV?</line>
-   <line>You didn't finish your soup, grandpa.</line>
-   <line>I'm done, Frankie.</line>
-   <line>Go on.</line>
-   <line>Yeah...</line>
-   <line>I remember how she died.</line>
-   <line>Cops back then said it was a John.</line>
-   <line>Oh, no, she wasn't a prost*tute.</line>
-   <line>She lived in that house
+   <line type="dialogue">You remember how she got k*lled?</line>
+   <line type="dialogue">r*ped, suffocated.</line>
+   <line type="dialogue">Hey. What are you saying to him?</line>
+   <line type="dialogue">Never mind.</line>
+   <line type="dialogue">Frankie, why don't you go watch  TV?</line>
+   <line type="dialogue">You didn't finish your soup, grandpa.</line>
+   <line type="dialogue">I'm done, Frankie.</line>
+   <line type="dialogue">Go on.</line>
+   <line type="dialogue">Yeah...</line>
+   <line type="dialogue">I remember how she died.</line>
+   <line type="dialogue">Cops back then said it was a John.</line>
+   <line type="dialogue">Oh, no, she wasn't a prost*tute.</line>
+   <line type="dialogue">She lived in that house
 because she had to.</line>
-   <line>Times were rough back then.</line>
-   <line>She didn't make her living hustling?</line>
-   <line>Sadie was a lady.</line>
-   <line>I gave her some money
+   <line type="dialogue">Times were rough back then.</line>
+   <line type="dialogue">She didn't make her living hustling?</line>
+   <line type="dialogue">Sadie was a lady.</line>
+   <line type="dialogue">I gave her some money
 from time to time.</line>
-   <line>Of course, she couldn't tell anybody</line>
-   <line>where she was getting it from.</line>
-   <line>Times being what they were.</line>
-   <line>Yeah.</line>
-   <line>And you being in love.</line>
-   <line>Who the hell is Sadie?</line>
-   <line>You know, her...</line>
-   <line>her little girl ought to know
+   <line type="dialogue">Of course, she couldn't tell anybody</line>
+   <line type="dialogue">where she was getting it from.</line>
+   <line type="dialogue">Times being what they were.</line>
+   <line type="dialogue">Yeah.</line>
+   <line type="dialogue">And you being in love.</line>
+   <line type="dialogue">Who the hell is Sadie?</line>
+   <line type="dialogue">You know, her...</line>
+   <line type="dialogue">her little girl ought to know
 that her mama was a lady.</line>
-   <line>She's dead.</line>
-   <line>Sadie's daughter.</line>
-   <line>Night of Sadie's m*rder,</line>
-   <line>you wanted her to leave town with you.</line>
-   <line>Why?</line>
-   <line>Because they were coming.</line>
-   <line>Who?</line>
-   <line>Them.</line>
-   <line>They were coming.</line>
-   <line>So then, I says to her,
+   <line type="dialogue">She's dead.</line>
+   <line type="dialogue">Sadie's daughter.</line>
+   <line type="dialogue">Night of Sadie's m*rder,</line>
+   <line type="dialogue">you wanted her to leave town with you.</line>
+   <line type="dialogue">Why?</line>
+   <line type="dialogue">Because they were coming.</line>
+   <line type="dialogue">Who?</line>
+   <line type="dialogue">Them.</line>
+   <line type="dialogue">They were coming.</line>
+   <line type="dialogue">So then, I says to her,
 you may look almost white,</line>
-   <line>but you is black as midnight.</line>
-   <line>Jonesy over there don't think I'm funny.</line>
-   <line>Oh, that's because he's giving
+   <line type="dialogue">but you is black as midnight.</line>
+   <line type="dialogue">Jonesy over there don't think I'm funny.</line>
+   <line type="dialogue">Oh, that's because he's giving
 her his morning milk.</line>
-   <line>Time that b*tch got a real taste
+   <line type="dialogue">Time that b*tch got a real taste
 of white man's milk.</line>
-   <line>Yeah, sure.</line>
-   <line>Ain't that right, Jonesy?</line>
-   <line>Damn right. / Yeah!</line>
-   <line>Fifth day's rolling, boys.</line>
-   <line>Tonight!</line>
-   <line>Tonight!</line>
-   <line>Sadie?</line>
-   <line>Sadie!</line>
-   <line>Sadie!</line>
-   <line>I tried to save her,</line>
-   <line>I begged her, but she wouldn't go.</line>
-   <line>And I left.</line>
-   <line>A man loves a woman...</line>
-   <line>and leaves her to that?</line>
-   <line>All this was forever ago.
+   <line type="dialogue">Yeah, sure.</line>
+   <line type="dialogue">Ain't that right, Jonesy?</line>
+   <line type="dialogue">Damn right. / Yeah!</line>
+   <line type="dialogue">Fifth day's rolling, boys.</line>
+   <line type="dialogue">Tonight!</line>
+   <line type="dialogue">Tonight!</line>
+   <line type="dialogue">Sadie?</line>
+   <line type="dialogue">Sadie!</line>
+   <line type="dialogue">Sadie!</line>
+   <line type="dialogue">I tried to save her,</line>
+   <line type="dialogue">I begged her, but she wouldn't go.</line>
+   <line type="dialogue">And I left.</line>
+   <line type="dialogue">A man loves a woman...</line>
+   <line type="dialogue">and leaves her to that?</line>
+   <line type="dialogue">All this was forever ago.
 Why you care now?</line>
-   <line>Because a woman died,</line>
-   <line>and a family wants to know why.</line>
-   <line>And because what happens
+   <line type="dialogue">Because a woman died,</line>
+   <line type="dialogue">and a family wants to know why.</line>
+   <line type="dialogue">And because what happens
 in the past</line>
-   <line>never really goes away, does it?</line>
-   <line>No. It don't.</line>
-   <line>My grandpa didn't do nothing.</line>
-   <line>Would you volunteer your DNA
+   <line type="dialogue">never really goes away, does it?</line>
+   <line type="dialogue">No. It don't.</line>
+   <line type="dialogue">My grandpa didn't do nothing.</line>
+   <line type="dialogue">Would you volunteer your DNA
 to prove that?</line>
-   <line>We got a sister lab here in New York.</line>
-   <line>It'll take a few minutes
+   <line type="dialogue">We got a sister lab here in New York.</line>
+   <line type="dialogue">It'll take a few minutes
 to run your DNA.</line>
-   <line>And we can go right now.</line>
-   <line>He'll do it.</line>
-   <line>Right, grandpa?</line>
-   <line>I'll get your coat.
+   <line type="dialogue">And we can go right now.</line>
+   <line type="dialogue">He'll do it.</line>
+   <line type="dialogue">Right, grandpa?</line>
+   <line type="dialogue">I'll get your coat.
 He didn't do nothing.</line>
-   <line>We'll settle this whole thing
+   <line type="dialogue">We'll settle this whole thing
 in four or five minutes, Mr. Jones.</line>
-   <line>Lab's got a process called, uh,</line>
-   <line>electronic DNA sampling.
+   <line type="dialogue">Lab's got a process called, uh,</line>
+   <line type="dialogue">electronic DNA sampling.
 EDS for short.</line>
-   <line>Zaps your DNA through the internet.</line>
-   <line>Compares it with what we found
+   <line type="dialogue">Zaps your DNA through the internet.</line>
+   <line type="dialogue">Compares it with what we found
 under Sadie's fingernails.</line>
-   <line>Finds a match.</line>
-   <line>Unless you want to skip the trip
+   <line type="dialogue">Finds a match.</line>
+   <line type="dialogue">Unless you want to skip the trip
 and tell us what really happened?</line>
-   <line>If you have the question, ask it.</line>
-   <line>Thought I just did.</line>
-   <line>Come on, grandpa.</line>
-   <line>I'm ready.</line>
-   <line>Go ahead and ask your question.</line>
-   <line>What happened night
+   <line type="dialogue">If you have the question, ask it.</line>
+   <line type="dialogue">Thought I just did.</line>
+   <line type="dialogue">Come on, grandpa.</line>
+   <line type="dialogue">I'm ready.</line>
+   <line type="dialogue">Go ahead and ask your question.</line>
+   <line type="dialogue">What happened night
 Sadie was k*lled?</line>
-   <line>You gotta leave with me now.</line>
-   <line>Look, I already got the tickets.
+   <line type="dialogue">You gotta leave with me now.</line>
+   <line type="dialogue">Look, I already got the tickets.
 Train leaves in half an hour.</line>
-   <line>We go now, we can make it, Sadie.</line>
-   <line>I want to, but why
+   <line type="dialogue">We go now, we can make it, Sadie.</line>
+   <line type="dialogue">I want to, but why
 it gotta be tonight?</line>
-   <line>What's wrong, Jonesy?</line>
-   <line>We gotta go.</line>
-   <line>The train to New York is...
+   <line type="dialogue">What's wrong, Jonesy?</line>
+   <line type="dialogue">We gotta go.</line>
+   <line type="dialogue">The train to New York is...
 - New York?</line>
-   <line>But my daughter lives in Virginia.</line>
-   <line>We'll send for her.</line>
-   <line>You promised we was gonna be
+   <line type="dialogue">But my daughter lives in Virginia.</line>
+   <line type="dialogue">We'll send for her.</line>
+   <line type="dialogue">You promised we was gonna be
 a family together.</line>
-   <line>We will, but we gotta go now.</line>
-   <line>What about her?</line>
-   <line>What about her, Jonesy?</line>
-   <line>That's, uh...</line>
-   <line>that's your daughter?</line>
-   <line>You promised to care for her
+   <line type="dialogue">We will, but we gotta go now.</line>
+   <line type="dialogue">What about her?</line>
+   <line type="dialogue">What about her, Jonesy?</line>
+   <line type="dialogue">That's, uh...</line>
+   <line type="dialogue">that's your daughter?</line>
+   <line type="dialogue">You promised to care for her
 like she was your own, remember?</line>
-   <line>Because every child deserve loving,
+   <line type="dialogue">Because every child deserve loving,
 you said.</line>
-   <line>You, uh...</line>
-   <line>never showed me that before.</line>
-   <line>Why won't you look at her, Jonesy?</line>
-   <line>You and me,</line>
-   <line>we can make it together,</line>
-   <line>because no one'll know, Sadie.
+   <line type="dialogue">You, uh...</line>
+   <line type="dialogue">never showed me that before.</line>
+   <line type="dialogue">Why won't you look at her, Jonesy?</line>
+   <line type="dialogue">You and me,</line>
+   <line type="dialogue">we can make it together,</line>
+   <line type="dialogue">because no one'll know, Sadie.
 No one'll know what you are.</line>
-   <line>You barely look it, Sadie,
+   <line type="dialogue">You barely look it, Sadie,
 and you can pass.</line>
-   <line>Shut up!</line>
-   <line>She can't pass but you can.</line>
-   <line>And we can have a life together
+   <line type="dialogue">Shut up!</line>
+   <line type="dialogue">She can't pass but you can.</line>
+   <line type="dialogue">And we can have a life together
 and no one'll ever know.</line>
-   <line>Shut up!</line>
-   <line>Because I love you, Sadie.</line>
-   <line>I love you.</line>
-   <line>No. You don't.</line>
-   <line>Just told me so.</line>
-   <line>Well, look at what we got here.</line>
-   <line>Jonesy's getting a leg
+   <line type="dialogue">Shut up!</line>
+   <line type="dialogue">Because I love you, Sadie.</line>
+   <line type="dialogue">I love you.</line>
+   <line type="dialogue">No. You don't.</line>
+   <line type="dialogue">Just told me so.</line>
+   <line type="dialogue">Well, look at what we got here.</line>
+   <line type="dialogue">Jonesy's getting a leg
 up on us, boys.</line>
-   <line>Ain't you, Jonesy?</line>
-   <line>Jonesy!</line>
-   <line>Let her be, Jonesy.</line>
-   <line>What's wrong with her?</line>
-   <line>Get up!</line>
-   <line>Hey, I said get up!</line>
-   <line>Sadie...</line>
-   <line>Sadie...</line>
-   <line>Sadie was a lady.</line>
+   <line type="dialogue">Ain't you, Jonesy?</line>
+   <line type="dialogue">Jonesy!</line>
+   <line type="dialogue">Let her be, Jonesy.</line>
+   <line type="dialogue">What's wrong with her?</line>
+   <line type="dialogue">Get up!</line>
+   <line type="dialogue">Hey, I said get up!</line>
+   <line type="dialogue">Sadie...</line>
+   <line type="dialogue">Sadie...</line>
+   <line type="dialogue">Sadie was a lady.</line>
 </transcript>

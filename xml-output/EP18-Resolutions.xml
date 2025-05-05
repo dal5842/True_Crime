@@ -1,1007 +1,1008 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNG/TrueCrimeRelaxNG.rnc" type="application/relax-ng-compact-syntax"?>
 <transcript>
-   <line>We shouldn't even be out.</line>
-   <line>She's convinced planes are gonna
+   <line type="dialogue">We shouldn't even be out.</line>
+   <line type="dialogue">She's convinced planes are gonna
 fall out of the sky at midnight.</line>
-   <line>I read the paper.</line>
-   <line>Come on, we've got minutes left.</line>
-   <line>I don't have a resolution.
+   <line type="dialogue">I read the paper.</line>
+   <line type="dialogue">Come on, we've got minutes left.</line>
+   <line type="dialogue">I don't have a resolution.
 I'm very happy with my life.</line>
-   <line>Guys, we'll have exactly one
+   <line type="dialogue">Guys, we'll have exactly one
 millennium New Years in our lives,</line>
-   <line>a clean slate.</line>
-   <line>Okay.</line>
-   <line>To stop talking about my catering
+   <line type="dialogue">a clean slate.</line>
+   <line type="dialogue">Okay.</line>
+   <line type="dialogue">To stop talking about my catering
 business and actually start it.</line>
-   <line>Excellent.</line>
-   <line>Jill?</line>
-   <line>Get Mel to stop gambling.
+   <line type="dialogue">Excellent.</line>
+   <line type="dialogue">Jill?</line>
+   <line type="dialogue">Get Mel to stop gambling.
 - Good luck with that.</line>
-   <line>Mel?</line>
-   <line>Start a family.</line>
-   <line>Kids and all.</line>
-   <line>That leaves you, baby.</line>
-   <line>To make Gary the starting
+   <line type="dialogue">Mel?</line>
+   <line type="dialogue">Start a family.</line>
+   <line type="dialogue">Kids and all.</line>
+   <line type="dialogue">That leaves you, baby.</line>
+   <line type="dialogue">To make Gary the starting
 goalie at Whitman next year.</line>
-   <line>Your resolution is supposed
+   <line type="dialogue">Your resolution is supposed
 to be about you.</line>
-   <line>Forget me.</line>
-   <line>This is the century
+   <line type="dialogue">Forget me.</line>
+   <line type="dialogue">This is the century
 my boy becomes a man.</line>
-   <line>To the new century.</line>
-   <line>And a brand new start.</line>
-   <line>Here here.</line>
-   <line>Ten, nine, eight, seven,
+   <line type="dialogue">To the new century.</line>
+   <line type="dialogue">And a brand new start.</line>
+   <line type="dialogue">Here here.</line>
+   <line type="dialogue">Ten, nine, eight, seven,
 six, five, four, three...</line>
-   <line>Happy new year!</line>
-   <line>Hi, Gil.</line>
-   <line>This is Lilly Rush.
+   <line type="dialogue">Happy new year!</line>
+   <line type="dialogue">Hi, Gil.</line>
+   <line type="dialogue">This is Lilly Rush.
 The lady I was telling you about.</line>
-   <line>Hi, Tami.</line>
-   <line>How are you doing?</line>
-   <line>Great. Good.</line>
-   <line>Terrible, actually.</line>
-   <line>Tami's four years sober.
+   <line type="dialogue">Hi, Tami.</line>
+   <line type="dialogue">How are you doing?</line>
+   <line type="dialogue">Great. Good.</line>
+   <line type="dialogue">Terrible, actually.</line>
+   <line type="dialogue">Tami's four years sober.
 She got her chip tonight.</line>
-   <line>That doesn't sound terrible to me.</line>
-   <line>It doesn't change what I did.</line>
-   <line>Which was what?</line>
-   <line>Four years ago I had hit rock bottom.</line>
-   <line>It was new year's eve, the millennium.</line>
-   <line>You know, party like it's .</line>
-   <line>So you did?</line>
-   <line>And then that night</line>
-   <line>I hit someone with my car.</line>
-   <line>She can't tell you more than that.</line>
-   <line>Tami's what they
+   <line type="dialogue">That doesn't sound terrible to me.</line>
+   <line type="dialogue">It doesn't change what I did.</line>
+   <line type="dialogue">Which was what?</line>
+   <line type="dialogue">Four years ago I had hit rock bottom.</line>
+   <line type="dialogue">It was new year's eve, the millennium.</line>
+   <line type="dialogue">You know, party like it's .</line>
+   <line type="dialogue">So you did?</line>
+   <line type="dialogue">And then that night</line>
+   <line type="dialogue">I hit someone with my car.</line>
+   <line type="dialogue">She can't tell you more than that.</line>
+   <line type="dialogue">Tami's what they
 call a blackout drunk.</line>
-   <line>But I saw on the news the next day,</line>
-   <line>a man named Greg Cardiff
+   <line type="dialogue">But I saw on the news the next day,</line>
+   <line type="dialogue">a man named Greg Cardiff
 was k*lled that night.</line>
-   <line>A hit and run.</line>
-   <line>I never came forward until now.</line>
-   <line>What makes you think you
+   <line type="dialogue">A hit and run.</line>
+   <line type="dialogue">I never came forward until now.</line>
+   <line type="dialogue">What makes you think you
 did it if you can't remember?</line>
-   <line>It happened in Bella Vista.</line>
-   <line>Where I was bar
+   <line type="dialogue">It happened in Bella Vista.</line>
+   <line type="dialogue">Where I was bar
 hopping that night.</line>
-   <line>After about : ,
+   <line type="dialogue">After about : ,
 I'm blank until the next day.</line>
-   <line>Find any damage to your car?</line>
-   <line>A dent on the hood.</line>
-   <line>A broken headlight and blood.</line>
-   <line>I think I mowed that
+   <line type="dialogue">Find any damage to your car?</line>
+   <line type="dialogue">A dent on the hood.</line>
+   <line type="dialogue">A broken headlight and blood.</line>
+   <line type="dialogue">I think I mowed that
 poor man down that night</line>
-   <line>and then just drove away.</line>
-   <line>Greg Cardiff, ,</line>
-   <line>first m*rder of the millennium.</line>
-   <line>Tami's right. This was the only
+   <line type="dialogue">and then just drove away.</line>
+   <line type="dialogue">Greg Cardiff, ,</line>
+   <line type="dialogue">first m*rder of the millennium.</line>
+   <line type="dialogue">Tami's right. This was the only
 unsolved auto-ped the first half of .</line>
-   <line>Hit at the corner of th and
+   <line type="dialogue">Hit at the corner of th and
 Christian in Bella Vista.</line>
-   <line>Pronounced at midnight.</line>
-   <line>Happy, frigging New Year.</line>
-   <line>Had a wife and a year old son.</line>
-   <line>Any witnesses?</line>
-   <line>Nobody saw or heard nothing.</line>
-   <line>Probably all hung over.</line>
-   <line>Be worth going back, re-interviewing.</line>
-   <line>Looks like they only talked
+   <line type="dialogue">Pronounced at midnight.</line>
+   <line type="dialogue">Happy, frigging New Year.</line>
+   <line type="dialogue">Had a wife and a year old son.</line>
+   <line type="dialogue">Any witnesses?</line>
+   <line type="dialogue">Nobody saw or heard nothing.</line>
+   <line type="dialogue">Probably all hung over.</line>
+   <line type="dialogue">Be worth going back, re-interviewing.</line>
+   <line type="dialogue">Looks like they only talked
 to of the neighbors.</line>
-   <line>This last one, Russell Brinkley didn't respond
+   <line type="dialogue">This last one, Russell Brinkley didn't respond
 to phone calls or cards left at the door.</line>
-   <line>Maybe out of town?
+   <line type="dialogue">Maybe out of town?
 Holiday travel.</line>
-   <line>Not a holiday now.
+   <line type="dialogue">Not a holiday now.
 - Your friend still got her car?</line>
-   <line>Maybe we can match the damage
+   <line type="dialogue">Maybe we can match the damage
 to these crime scene photos.</line>
-   <line>Nah, she hid it in a garage for a year,
+   <line type="dialogue">Nah, she hid it in a garage for a year,
 then junked it in Wilmington.</line>
-   <line>But she gave us a picture.</line>
-   <line>Let's take it around. Maybe somebody
+   <line type="dialogue">But she gave us a picture.</line>
+   <line type="dialogue">Let's take it around. Maybe somebody
 will recognize her or the car.</line>
-   <line>Bella Vista is a tight neighborhood.
+   <line type="dialogue">Bella Vista is a tight neighborhood.
 Before we start knocking on doors,</line>
-   <line>we better tell the widow
+   <line type="dialogue">we better tell the widow
 we're looking back.</line>
-   <line>Anything I can do?
+   <line type="dialogue">Anything I can do?
 - You did a lot.</line>
-   <line>Bringing us Tami.</line>
-   <line>Some AA buddy I am, huh?</line>
-   <line>Convincing her to come forward,
+   <line type="dialogue">Bringing us Tami.</line>
+   <line type="dialogue">Some AA buddy I am, huh?</line>
+   <line type="dialogue">Convincing her to come forward,
 could land her in prison.</line>
-   <line>Mom.</line>
-   <line>It's the cops.</line>
-   <line>Detectives Rush and Valens.</line>
-   <line>What's wrong? What happened?</line>
-   <line>Nothing is wrong.
+   <line type="dialogue">Mom.</line>
+   <line type="dialogue">It's the cops.</line>
+   <line type="dialogue">Detectives Rush and Valens.</line>
+   <line type="dialogue">What's wrong? What happened?</line>
+   <line type="dialogue">Nothing is wrong.
 We're here about Greg.</line>
-   <line>What about him? / We may have
+   <line type="dialogue">What about him? / We may have
 a new direction on the hit and run.</line>
-   <line>Gary, maybe you should...</line>
-   <line>I'm okay.</line>
-   <line>Can we show you a picture?</line>
-   <line>I'm sorry. I...</line>
-   <line>The last four years have been...</line>
-   <line>she cried for the first three.</line>
-   <line>Still wear your wedding band, huh?</line>
-   <line>No, actually, I just got
+   <line type="dialogue">Gary, maybe you should...</line>
+   <line type="dialogue">I'm okay.</line>
+   <line type="dialogue">Can we show you a picture?</line>
+   <line type="dialogue">I'm sorry. I...</line>
+   <line type="dialogue">The last four years have been...</line>
+   <line type="dialogue">she cried for the first three.</line>
+   <line type="dialogue">Still wear your wedding band, huh?</line>
+   <line type="dialogue">No, actually, I just got
 remarried a few months ago.</line>
-   <line>Congratulations.</line>
-   <line>But I'll do whatever I can to help.</line>
-   <line>Do you recognize her?</line>
-   <line>Maybe from the bar that night?</line>
-   <line>No, she doesn't look familiar,</line>
-   <line>but the jeep does.</line>
-   <line>Greg wasn't feeling well that
+   <line type="dialogue">Congratulations.</line>
+   <line type="dialogue">But I'll do whatever I can to help.</line>
+   <line type="dialogue">Do you recognize her?</line>
+   <line type="dialogue">Maybe from the bar that night?</line>
+   <line type="dialogue">No, she doesn't look familiar,</line>
+   <line type="dialogue">but the jeep does.</line>
+   <line type="dialogue">Greg wasn't feeling well that
 night so I walked him out.</line>
-   <line>Let me go back
+   <line type="dialogue">Let me go back
 and get Mel and Jill.</line>
-   <line>We'll drive you. / I've got to play
+   <line type="dialogue">We'll drive you. / I've got to play
 hockey with Gary tomorrow.</line>
-   <line>Not feeling like this.</line>
-   <line>I think I feel better.</line>
-   <line>I just got to walk. Get some air.</line>
-   <line>I'll go with you.</line>
-   <line>No, I want you to go back in and
+   <line type="dialogue">Not feeling like this.</line>
+   <line type="dialogue">I think I feel better.</line>
+   <line type="dialogue">I just got to walk. Get some air.</line>
+   <line type="dialogue">I'll go with you.</line>
+   <line type="dialogue">No, I want you to go back in and
 celebrate the millennium with Jill and Mel.</line>
-   <line>I'll meet you at home.</line>
-   <line>I'll be there by : .</line>
-   <line>Hey...</line>
-   <line>See you next century.</line>
-   <line>If only I had gone with him.</line>
-   <line>Mom, how could you know?</line>
-   <line>So the jeep was outside the bar
+   <line type="dialogue">I'll meet you at home.</line>
+   <line type="dialogue">I'll be there by : .</line>
+   <line type="dialogue">Hey...</line>
+   <line type="dialogue">See you next century.</line>
+   <line type="dialogue">If only I had gone with him.</line>
+   <line type="dialogue">Mom, how could you know?</line>
+   <line type="dialogue">So the jeep was outside the bar
 just before midnight?</line>
-   <line>If not that one, one just like it.</line>
-   <line>What position do you play?</line>
-   <line>Goalie.</line>
-   <line>He made varsity in ninth grade.</line>
-   <line>What, is this guy deaf?</line>
-   <line>Same guy who avoided talking
+   <line type="dialogue">If not that one, one just like it.</line>
+   <line type="dialogue">What position do you play?</line>
+   <line type="dialogue">Goalie.</line>
+   <line type="dialogue">He made varsity in ninth grade.</line>
+   <line type="dialogue">What, is this guy deaf?</line>
+   <line type="dialogue">Same guy who avoided talking
 to the cops first time around.</line>
-   <line>Come on, Brinkley, Open up!</line>
-   <line>He's in there.
+   <line type="dialogue">Come on, Brinkley, Open up!</line>
+   <line type="dialogue">He's in there.
 - Philadelphia PD!</line>
-   <line>We just saw you get the mail!</line>
-   <line>Answer this door!</line>
-   <line>I'll check around back.</line>
-   <line>I'm not leaving until
+   <line type="dialogue">We just saw you get the mail!</line>
+   <line type="dialogue">Answer this door!</line>
+   <line type="dialogue">I'll check around back.</line>
+   <line type="dialogue">I'm not leaving until
 you open this door!</line>
-   <line>Hi, there.
+   <line type="dialogue">Hi, there.
 - Oh, crap.</line>
-   <line>Pretty much.</line>
-   <line>I didn't see anything.</line>
-   <line>This guy saw something, boss.</line>
-   <line>Something like Tami
+   <line type="dialogue">Pretty much.</line>
+   <line type="dialogue">I didn't see anything.</line>
+   <line type="dialogue">This guy saw something, boss.</line>
+   <line type="dialogue">Something like Tami
 running over Greg Cardiff?</line>
-   <line>Whatever it was,
+   <line type="dialogue">Whatever it was,
 he don't want to tell.</line>
-   <line>Unresponsive four years back.</line>
-   <line>Tried to ditch Vera
+   <line type="dialogue">Unresponsive four years back.</line>
+   <line type="dialogue">Tried to ditch Vera
 and Jeffries today.</line>
-   <line>Homebody like him, probably
+   <line type="dialogue">Homebody like him, probably
 wasn't out New Year's Eve.</line>
-   <line>Let me guess where you were.</line>
-   <line>Here.</line>
-   <line>How'd it go with Greg's widow?</line>
-   <line>She saw a red jeep outside
+   <line type="dialogue">Let me guess where you were.</line>
+   <line type="dialogue">Here.</line>
+   <line type="dialogue">How'd it go with Greg's widow?</line>
+   <line type="dialogue">She saw a red jeep outside
 the bar that night.</line>
-   <line>Red jeep, like Tami drove.</line>
-   <line>I was hoping things
+   <line type="dialogue">Red jeep, like Tami drove.</line>
+   <line type="dialogue">I was hoping things
 wouldn't point to her.</line>
-   <line>She's a nice lady.</line>
-   <line>Nice or not,
+   <line type="dialogue">She's a nice lady.</line>
+   <line type="dialogue">Nice or not,
 no one gets a free m*rder.</line>
-   <line>Vera says this guy
+   <line type="dialogue">Vera says this guy
 Russell's got demophobia.</line>
-   <line>Fear of? / Crowds.</line>
-   <line>So crowd him.</line>
-   <line>I told you I mind my own business.</line>
-   <line>Mind if we join?</line>
-   <line>More the merrier.</line>
-   <line>Russell here,</line>
-   <line>overlooking the street where Greg got hit.</line>
-   <line>That doesn't mean I saw anything.</line>
-   <line>Detective Valens.
+   <line type="dialogue">Fear of? / Crowds.</line>
+   <line type="dialogue">So crowd him.</line>
+   <line type="dialogue">I told you I mind my own business.</line>
+   <line type="dialogue">Mind if we join?</line>
+   <line type="dialogue">More the merrier.</line>
+   <line type="dialogue">Russell here,</line>
+   <line type="dialogue">overlooking the street where Greg got hit.</line>
+   <line type="dialogue">That doesn't mean I saw anything.</line>
+   <line type="dialogue">Detective Valens.
 How are you doing?</line>
-   <line>Is there a bigger room?</line>
-   <line>This is the only one open.</line>
-   <line>Open is not what I'd call it.</line>
-   <line>It is kind of small, isn't it?</line>
-   <line>Cozy.</line>
-   <line>Even if I saw something...</line>
-   <line>I wouldn't want to get involved.
+   <line type="dialogue">Is there a bigger room?</line>
+   <line type="dialogue">This is the only one open.</line>
+   <line type="dialogue">Open is not what I'd call it.</line>
+   <line type="dialogue">It is kind of small, isn't it?</line>
+   <line type="dialogue">Cozy.</line>
+   <line type="dialogue">Even if I saw something...</line>
+   <line type="dialogue">I wouldn't want to get involved.
 - Why not?</line>
-   <line>It was four years ago.</line>
-   <line>You wouldn't be able
+   <line type="dialogue">It was four years ago.</line>
+   <line type="dialogue">You wouldn't be able
 to make charges stick.</line>
-   <line>Actually our batting average
+   <line type="dialogue">Actually our batting average
 is pretty good, Russell.</line>
-   <line>And I got to live in my neighborhood.</line>
-   <line>So it was a neighbor?</line>
-   <line>A neighbor you're afraid of?</line>
-   <line>I didn't say that.</line>
-   <line>Russell, I'm appealing
+   <line type="dialogue">And I got to live in my neighborhood.</line>
+   <line type="dialogue">So it was a neighbor?</line>
+   <line type="dialogue">A neighbor you're afraid of?</line>
+   <line type="dialogue">I didn't say that.</line>
+   <line type="dialogue">Russell, I'm appealing
 to your decency here.</line>
-   <line>I think you're a decent person.</line>
-   <line>What did you see that night?</line>
-   <line>Something I wish I hadn't.</line>
-   <line>You're sure it was
+   <line type="dialogue">I think you're a decent person.</line>
+   <line type="dialogue">What did you see that night?</line>
+   <line type="dialogue">Something I wish I hadn't.</line>
+   <line type="dialogue">You're sure it was
 a brown Continental?</line>
-   <line>Positive.</line>
-   <line>Everyone in Bella
+   <line type="dialogue">Positive.</line>
+   <line type="dialogue">Everyone in Bella
 Vista knew that car.</line>
-   <line>You saw it coming,
+   <line type="dialogue">You saw it coming,
 you went the other way.</line>
-   <line>You know the owner?</line>
-   <line>This jerk named John Butler.</line>
-   <line>You scared of Butler?
+   <line type="dialogue">You know the owner?</line>
+   <line type="dialogue">This jerk named John Butler.</line>
+   <line type="dialogue">You scared of Butler?
 - That make me less of a man?</line>
-   <line>Tell us about him.</line>
-   <line>He's a rotten guy, mean.</line>
-   <line>Makes life hell for
+   <line type="dialogue">Tell us about him.</line>
+   <line type="dialogue">He's a rotten guy, mean.</line>
+   <line type="dialogue">Makes life hell for
 everyone who lives there.</line>
-   <line>He k*lled Harriet.</line>
-   <line>Who's Harriet?</line>
-   <line>My poodle.</line>
-   <line>Butler sicced his pitbull on her
+   <line type="dialogue">He k*lled Harriet.</line>
+   <line type="dialogue">Who's Harriet?</line>
+   <line type="dialogue">My poodle.</line>
+   <line type="dialogue">Butler sicced his pitbull on her
 because she chewed up his newspaper.</line>
-   <line>She was a puppy.</line>
-   <line>Are you sure he hit Greg?</line>
-   <line>Probably on purpose, too.</line>
-   <line>Oh, this guy's gonna k*ll me.</line>
-   <line>We'll protect you, Russell.</line>
-   <line>I read crime novels.</line>
-   <line>You can't do nothing.</line>
-   <line>I'm getting out of town.
+   <line type="dialogue">She was a puppy.</line>
+   <line type="dialogue">Are you sure he hit Greg?</line>
+   <line type="dialogue">Probably on purpose, too.</line>
+   <line type="dialogue">Oh, this guy's gonna k*ll me.</line>
+   <line type="dialogue">We'll protect you, Russell.</line>
+   <line type="dialogue">I read crime novels.</line>
+   <line type="dialogue">You can't do nothing.</line>
+   <line type="dialogue">I'm getting out of town.
 You guys need me,</line>
-   <line>I'll be at my mom's in Pittsburgh.</line>
-   <line>So where were
+   <line type="dialogue">I'll be at my mom's in Pittsburgh.</line>
+   <line type="dialogue">So where were
 you January , ?</line>
-   <line>Uh, at Elisa's grandma's,
+   <line type="dialogue">Uh, at Elisa's grandma's,
 scarfing the brunch of the ages.</line>
-   <line>What do you mean?</line>
-   <line>She was one of them kooks thought
+   <line type="dialogue">What do you mean?</line>
+   <line type="dialogue">She was one of them kooks thought
 the world was gonna stop spinning.</line>
-   <line>Stockpiled hams, potatoes, eggs,
+   <line type="dialogue">Stockpiled hams, potatoes, eggs,
 enough to last days and nights.</line>
-   <line>You been with her a while,
+   <line type="dialogue">You been with her a while,
 then, huh? Elisa?</line>
-   <line>Kids when we met.</line>
-   <line>You don't believe
+   <line type="dialogue">Kids when we met.</line>
+   <line type="dialogue">You don't believe
 in making it official?</line>
-   <line>It's complicated.</line>
-   <line>Like you and Kite, right?</line>
-   <line>I guess.</line>
-   <line>She do something
+   <line type="dialogue">It's complicated.</line>
+   <line type="dialogue">Like you and Kite, right?</line>
+   <line type="dialogue">I guess.</line>
+   <line type="dialogue">She do something
 you can't forgive?</line>
-   <line>Nah. She, uh...</line>
-   <line>She got sick. She...</line>
-   <line>She went to the
+   <line type="dialogue">Nah. She, uh...</line>
+   <line type="dialogue">She got sick. She...</line>
+   <line type="dialogue">She went to the
 puzzle house for a while.</line>
-   <line>That bad, huh?</line>
-   <line>Remember that kid, uh, Barry,
+   <line type="dialogue">That bad, huh?</line>
+   <line type="dialogue">Remember that kid, uh, Barry,
 on the Richardson job,</line>
-   <line>heard the voices in the closet?</line>
-   <line>Yeah.</line>
-   <line>Like him.</line>
-   <line>I hear the meds really help...</line>
-   <line>with that.</line>
-   <line>Yeah. She's having
+   <line type="dialogue">heard the voices in the closet?</line>
+   <line type="dialogue">Yeah.</line>
+   <line type="dialogue">Like him.</line>
+   <line type="dialogue">I hear the meds really help...</line>
+   <line type="dialogue">with that.</line>
+   <line type="dialogue">Yeah. She's having
 a good run now.</line>
-   <line>Thanks</line>
-   <line>for telling me, Scotty.</line>
-   <line>This is it.</line>
-   <line>Should've brought your coat.</line>
-   <line>Yeah. / Want mine?</line>
-   <line>Wouldn't make you less of a man.</line>
-   <line>I'd rather freeze now.</line>
-   <line>We're looking for John Butler.</line>
-   <line>Thanks.</line>
-   <line>Are you Butler?</line>
-   <line>Depends who's asking.</line>
-   <line>I am.
+   <line type="dialogue">Thanks</line>
+   <line type="dialogue">for telling me, Scotty.</line>
+   <line type="dialogue">This is it.</line>
+   <line type="dialogue">Should've brought your coat.</line>
+   <line type="dialogue">Yeah. / Want mine?</line>
+   <line type="dialogue">Wouldn't make you less of a man.</line>
+   <line type="dialogue">I'd rather freeze now.</line>
+   <line type="dialogue">We're looking for John Butler.</line>
+   <line type="dialogue">Thanks.</line>
+   <line type="dialogue">Are you Butler?</line>
+   <line type="dialogue">Depends who's asking.</line>
+   <line type="dialogue">I am.
 - I didn't do nothing to no one.</line>
-   <line>Now, why is that
+   <line type="dialogue">Now, why is that
 so hard to believe?</line>
-   <line>You a cop, too?</line>
-   <line>Got to admire
+   <line type="dialogue">You a cop, too?</line>
+   <line type="dialogue">Got to admire
 a piece with a piece.</line>
-   <line>Maybe when we're done here,
+   <line type="dialogue">Maybe when we're done here,
 I could buy you a steak.</line>
-   <line>Vegetarian.</line>
-   <line>John, you remember a guy from the
+   <line type="dialogue">Vegetarian.</line>
+   <line type="dialogue">John, you remember a guy from the
 neighborhood named Greg Cardiff?</line>
-   <line>Knew him, till someone
+   <line type="dialogue">Knew him, till someone
 turned him into roadkill.</line>
-   <line>You have a personal
+   <line type="dialogue">You have a personal
 relationship with Greg?</line>
-   <line>We didn't travel
+   <line type="dialogue">We didn't travel
 in the same circles.</line>
-   <line>Because we have a witness
+   <line type="dialogue">Because we have a witness
 who saw you run him down.</line>
-   <line>Me?</line>
-   <line>We're just trying to figure
+   <line type="dialogue">Me?</line>
+   <line type="dialogue">We're just trying to figure
 if this was an accident or m*rder.</line>
-   <line>Hey, ho. Whoever
+   <line type="dialogue">Hey, ho. Whoever
 said that is full of it.</line>
-   <line>I didn't hit no one.</line>
-   <line>Well, you were arrested
+   <line type="dialogue">I didn't hit no one.</line>
+   <line type="dialogue">Well, you were arrested
 for drunk driving in ' .</line>
-   <line>Then again in ' .</line>
-   <line>So?</line>
-   <line>Not a big stretch you'd be out
+   <line type="dialogue">Then again in ' .</line>
+   <line type="dialogue">So?</line>
+   <line type="dialogue">Not a big stretch you'd be out
 drunk driving new year's eve.</line>
-   <line>Three counts
+   <line type="dialogue">Three counts
 of as*ault and battery,</line>
-   <line>public nuisance complaints.</line>
-   <line>We even heard you turned your
+   <line type="dialogue">public nuisance complaints.</line>
+   <line type="dialogue">We even heard you turned your
 pit bull loose on a poor little dog.</line>
-   <line>That mutt was a yappy little b*tch.</line>
-   <line>I did the neighborhood a favor.</line>
-   <line>Yeah, well, we're gonna do
+   <line type="dialogue">That mutt was a yappy little b*tch.</line>
+   <line type="dialogue">I did the neighborhood a favor.</line>
+   <line type="dialogue">Yeah, well, we're gonna do
 the neighborhood a favor now.</line>
-   <line>Bring you in, impound your car.</line>
-   <line>I don't even have that car no more.</line>
-   <line>Matter of fact, I didn't have it
+   <line type="dialogue">Bring you in, impound your car.</line>
+   <line type="dialogue">I don't even have that car no more.</line>
+   <line type="dialogue">Matter of fact, I didn't have it
 that new year's, neither.</line>
-   <line>Convenient.
+   <line type="dialogue">Convenient.
 - Happens to be true.</line>
-   <line>Got stolen that night.</line>
-   <line>Hey, you got to pay first.</line>
-   <line>Three bucks a gallon? / Look, there
+   <line type="dialogue">Got stolen that night.</line>
+   <line type="dialogue">Hey, you got to pay first.</line>
+   <line type="dialogue">Three bucks a gallon? / Look, there
 might not be any gas tomorrow.</line>
-   <line>I was here last week.
+   <line type="dialogue">I was here last week.
 It was a buck and a quarter.</line>
-   <line>It, it's the owner, okay?</line>
-   <line>He says this Y K thing's got
+   <line type="dialogue">It, it's the owner, okay?</line>
+   <line type="dialogue">He says this Y K thing's got
 people willing to pay big.</line>
-   <line>That's price gouging.
+   <line type="dialogue">That's price gouging.
 - Look, you got to talk to the owner.</line>
-   <line>Hey, I been filling up here since
+   <line type="dialogue">Hey, I been filling up here since
 before you could get a woody, kid.</line>
-   <line>Look, I'm sorry, okay?
+   <line type="dialogue">Look, I'm sorry, okay?
 It's not up to me.</line>
-   <line>I'm sorry.
+   <line type="dialogue">I'm sorry.
 - Turn the pump on.</line>
-   <line>Turn that pump on!</line>
-   <line>Turn your pump on!</line>
-   <line>You report your car stolen?</line>
-   <line>That night. They found it stripped
+   <line type="dialogue">Turn that pump on!</line>
+   <line type="dialogue">Turn your pump on!</line>
+   <line type="dialogue">You report your car stolen?</line>
+   <line type="dialogue">That night. They found it stripped
 in Jersey two days later.</line>
-   <line>Check for yourself.</line>
-   <line>Will do.</line>
-   <line>Call me about that steak.</line>
-   <line>John Butler?</line>
-   <line>Everyone knows him and hates him.</line>
-   <line>Did Greg know him, too?</line>
-   <line>Unfortunately.</line>
-   <line>In fact, he saw him that afternoon.</line>
-   <line>Butler confronted us at the market.</line>
-   <line>I was with Greg.
+   <line type="dialogue">Check for yourself.</line>
+   <line type="dialogue">Will do.</line>
+   <line type="dialogue">Call me about that steak.</line>
+   <line type="dialogue">John Butler?</line>
+   <line type="dialogue">Everyone knows him and hates him.</line>
+   <line type="dialogue">Did Greg know him, too?</line>
+   <line type="dialogue">Unfortunately.</line>
+   <line type="dialogue">In fact, he saw him that afternoon.</line>
+   <line type="dialogue">Butler confronted us at the market.</line>
+   <line type="dialogue">I was with Greg.
 - This is my husband, Mel.</line>
-   <line>Mel Davis. / Hey.</line>
-   <line>Good friend of Greg's at college.</line>
-   <line>We were all together
+   <line type="dialogue">Mel Davis. / Hey.</line>
+   <line type="dialogue">Good friend of Greg's at college.</line>
+   <line type="dialogue">We were all together
 that New Year's Eve.</line>
-   <line>The three of you?</line>
-   <line>Jill, Mel's ex-wife, was also there.</line>
-   <line>And you two are married now.</line>
-   <line>We know. It's weird.</line>
-   <line>Gary tells us all the time.</line>
-   <line>Mel was really
+   <line type="dialogue">The three of you?</line>
+   <line type="dialogue">Jill, Mel's ex-wife, was also there.</line>
+   <line type="dialogue">And you two are married now.</line>
+   <line type="dialogue">We know. It's weird.</line>
+   <line type="dialogue">Gary tells us all the time.</line>
+   <line type="dialogue">Mel was really
 good to Gary and me</line>
-   <line>after we lost Greg.</line>
-   <line>And, uh, Jill left me that year
+   <line type="dialogue">after we lost Greg.</line>
+   <line type="dialogue">And, uh, Jill left me that year
 for greener pastures.</line>
-   <line>Namely, a cardiologist.</line>
-   <line>Four years later, here we are.</line>
-   <line>Nice for both of you.</line>
-   <line>I told Mel you were asking
+   <line type="dialogue">Namely, a cardiologist.</line>
+   <line type="dialogue">Four years later, here we are.</line>
+   <line type="dialogue">Nice for both of you.</line>
+   <line type="dialogue">I told Mel you were asking
 about a red jeep.</line>
-   <line>We got new information now.</line>
-   <line>Points to Butler.</line>
-   <line>Butler drove a Continental.</line>
-   <line>Tell us about seeing him that day.</line>
-   <line>Well, Greg and
+   <line type="dialogue">We got new information now.</line>
+   <line type="dialogue">Points to Butler.</line>
+   <line type="dialogue">Butler drove a Continental.</line>
+   <line type="dialogue">Tell us about seeing him that day.</line>
+   <line type="dialogue">Well, Greg and
 I went on a beer run,</line>
-   <line>and, uh, Butler was waiting
+   <line type="dialogue">and, uh, Butler was waiting
 for us in the parking lot.</line>
-   <line>So who do you like,
+   <line type="dialogue">So who do you like,
 Minnesota or Oregon?</line>
-   <line>Oregon's not even ranked.</line>
-   <line>Gophers are gonna destroy them.</line>
-   <line>Hey, Cardiff!</line>
-   <line>You scratched my car.</line>
-   <line>What? / Door of your
+   <line type="dialogue">Oregon's not even ranked.</line>
+   <line type="dialogue">Gophers are gonna destroy them.</line>
+   <line type="dialogue">Hey, Cardiff!</line>
+   <line type="dialogue">You scratched my car.</line>
+   <line type="dialogue">What? / Door of your
 f*g-mobile nicked my door.</line>
-   <line>Are you kidding?</line>
-   <line>Was I talking to you?</line>
-   <line>I don't think I even
+   <line type="dialogue">Are you kidding?</line>
+   <line type="dialogue">Was I talking to you?</line>
+   <line type="dialogue">I don't think I even
 touched it, John.</line>
-   <line>Saw it with my own eyes.</line>
-   <line>I'm real sorry if I did.</line>
-   <line>That don't cut it.
+   <line type="dialogue">Saw it with my own eyes.</line>
+   <line type="dialogue">I'm real sorry if I did.</line>
+   <line type="dialogue">That don't cut it.
 - Hey, idiot,</line>
-   <line>look at your car, look at Greg's.</line>
-   <line>Now, you tell me, who should
+   <line type="dialogue">look at your car, look at Greg's.</line>
+   <line type="dialogue">Now, you tell me, who should
 be worried about scratches?</line>
-   <line>Mel, it's not worth it.</line>
-   <line>Do you want to talk to me like that?</line>
-   <line>I'll drop both of you right here!</line>
-   <line>Whoa. Whoa. John...</line>
-   <line>I apologize, John.</line>
-   <line>Won't happen again.</line>
-   <line>Happy new year, okay?</line>
-   <line>Moron.</line>
-   <line>So Butler was looking for a fight.</line>
-   <line>Well, I got to admit,
+   <line type="dialogue">Mel, it's not worth it.</line>
+   <line type="dialogue">Do you want to talk to me like that?</line>
+   <line type="dialogue">I'll drop both of you right here!</line>
+   <line type="dialogue">Whoa. Whoa. John...</line>
+   <line type="dialogue">I apologize, John.</line>
+   <line type="dialogue">Won't happen again.</line>
+   <line type="dialogue">Happy new year, okay?</line>
+   <line type="dialogue">Moron.</line>
+   <line type="dialogue">So Butler was looking for a fight.</line>
+   <line type="dialogue">Well, I got to admit,
 I egged him on.</line>
-   <line>You think he hit Greg that night
+   <line type="dialogue">You think he hit Greg that night
 on purpose to get back at him?</line>
-   <line>If he did, we'll find out.</line>
-   <line>Thought you didn't have a beef
+   <line type="dialogue">If he did, we'll find out.</line>
+   <line type="dialogue">Thought you didn't have a beef
 with Greg Cardiff, John.</line>
-   <line>I didn't. / You had a run-in
+   <line type="dialogue">I didn't. / You had a run-in
 with him the day he died,</line>
-   <line>bitched him out
+   <line type="dialogue">bitched him out
 for dinging your car.</line>
-   <line>That was nothing. / Greg and his pal
+   <line type="dialogue">That was nothing. / Greg and his pal
 called you an idiot a moron,</line>
-   <line>and you don't seem like
+   <line type="dialogue">and you don't seem like
 the type just looks away.</line>
-   <line>I told you, my car was stolen
+   <line type="dialogue">I told you, my car was stolen
 before Cardiff got slammed.</line>
-   <line>You made that report at : A.M.,
+   <line type="dialogue">You made that report at : A.M.,
 An hour after Greg was k*lled.</line>
-   <line>Plenty of time to ditch
+   <line type="dialogue">Plenty of time to ditch
 the car, report it missing.</line>
-   <line>Kid at the station wouldn't let
+   <line type="dialogue">Kid at the station wouldn't let
 me use the phone to call the cops.</line>
-   <line>I had to walk there.</line>
-   <line>Yeah, we talked to that kid.
+   <line type="dialogue">I had to walk there.</line>
+   <line type="dialogue">Yeah, we talked to that kid.
 - So he'll tell you it was stolen.</line>
-   <line>He don't want to tell nothing
+   <line type="dialogue">He don't want to tell nothing
 to help you, John, no one does.</line>
-   <line>But a lot of people are willing
+   <line type="dialogue">But a lot of people are willing
 to testify against you.</line>
-   <line>talk about your poor character.</line>
-   <line>We have a -year-old oak
+   <line type="dialogue">talk about your poor character.</line>
+   <line type="dialogue">We have a -year-old oak
 tree in our front yard.</line>
-   <line>While we were at church,
+   <line type="dialogue">While we were at church,
 Butler took a chainsaw to it.</line>
-   <line>That, that thing shed
+   <line type="dialogue">That, that thing shed
 its leaves onto my lawn.</line>
-   <line>Butler ran into my year old
+   <line type="dialogue">Butler ran into my year old
 daughter on her way to school.</line>
-   <line>Called her a whore.
+   <line type="dialogue">Called her a whore.
 - I said they dress her that way.</line>
-   <line>Got to remember
+   <line type="dialogue">Got to remember
 how young boys think.</line>
-   <line>John asked me out
+   <line type="dialogue">John asked me out
 three or four times.</line>
-   <line>I politely declined.</line>
-   <line>He spray-painted 'whore'
+   <line type="dialogue">I politely declined.</line>
+   <line type="dialogue">He spray-painted 'whore'
 on my front door.</line>
-   <line>What's your point?</line>
-   <line>What goes around comes around.</line>
-   <line>All these neighbors are gonna be
+   <line type="dialogue">What's your point?</line>
+   <line type="dialogue">What goes around comes around.</line>
+   <line type="dialogue">All these neighbors are gonna be
 more than happy to help put you away.</line>
-   <line>You had a beef with Greg.</line>
-   <line>We got an eyewitness puts
+   <line type="dialogue">You had a beef with Greg.</line>
+   <line type="dialogue">We got an eyewitness puts
 your car at the crime scene.</line>
-   <line>And plus character witnesses
+   <line type="dialogue">And plus character witnesses
 to say this guy's got to be guilty.</line>
-   <line>Look...</line>
-   <line>I'm not the guy you really want,</line>
-   <line>but I can help you.</line>
-   <line>We're listening.</line>
-   <line>My car was stolen.</line>
-   <line>But I had a guy do it for me.</line>
-   <line>Hired him, you know...</line>
-   <line>for the insurance money.</line>
-   <line>Keep talking.</line>
-   <line>He must've hit Cardiff when he was
+   <line type="dialogue">Look...</line>
+   <line type="dialogue">I'm not the guy you really want,</line>
+   <line type="dialogue">but I can help you.</line>
+   <line type="dialogue">We're listening.</line>
+   <line type="dialogue">My car was stolen.</line>
+   <line type="dialogue">But I had a guy do it for me.</line>
+   <line type="dialogue">Hired him, you know...</line>
+   <line type="dialogue">for the insurance money.</line>
+   <line type="dialogue">Keep talking.</line>
+   <line type="dialogue">He must've hit Cardiff when he was
 going to ditch the car in Jersey.</line>
-   <line>Name?</line>
-   <line>Trevor McKai.</line>
-   <line>Lives over in Bridesburg.</line>
-   <line>You Trevor?</line>
-   <line>Yeah.</line>
-   <line>Homicide.</line>
-   <line>Want to talk to you about
+   <line type="dialogue">Name?</line>
+   <line type="dialogue">Trevor McKai.</line>
+   <line type="dialogue">Lives over in Bridesburg.</line>
+   <line type="dialogue">You Trevor?</line>
+   <line type="dialogue">Yeah.</line>
+   <line type="dialogue">Homicide.</line>
+   <line type="dialogue">Want to talk to you about
 a hit-and-run a while back.</line>
-   <line>Over in Bella Vista.</line>
-   <line>Happened New Year's Eve
+   <line type="dialogue">Over in Bella Vista.</line>
+   <line type="dialogue">Happened New Year's Eve
 at the millennium.</line>
-   <line>Were you over that way?</line>
-   <line>Hmm. Bella Vista?</line>
-   <line>Nah, I was out with friends
+   <line type="dialogue">Were you over that way?</line>
+   <line type="dialogue">Hmm. Bella Vista?</line>
+   <line type="dialogue">Nah, I was out with friends
 here in Bridesburg.</line>
-   <line>We need the names of those friends.</line>
-   <line>I don't really know their names.</line>
-   <line>So...</line>
-   <line>not good friends, then.</line>
-   <line>You know, I was just
+   <line type="dialogue">We need the names of those friends.</line>
+   <line type="dialogue">I don't really know their names.</line>
+   <line type="dialogue">So...</line>
+   <line type="dialogue">not good friends, then.</line>
+   <line type="dialogue">You know, I was just
 hanging out with people.</line>
-   <line>Partying and whatnot.</line>
-   <line>Somebody's house? At a bar?</line>
-   <line>This bar, maybe?</line>
-   <line>Yeah. / Yeah?</line>
-   <line>Forget it, man.</line>
-   <line>I've been waiting four years
+   <line type="dialogue">Partying and whatnot.</line>
+   <line type="dialogue">Somebody's house? At a bar?</line>
+   <line type="dialogue">This bar, maybe?</line>
+   <line type="dialogue">Yeah. / Yeah?</line>
+   <line type="dialogue">Forget it, man.</line>
+   <line type="dialogue">I've been waiting four years
 for you guys to show up.</line>
-   <line>Got something you want
+   <line type="dialogue">Got something you want
 to get off your chest?</line>
-   <line>I could tell you your rights.</line>
-   <line>Nah.</line>
-   <line>I don't need them.</line>
-   <line>It was me that hit that guy.</line>
-   <line>Driving John Butler's stolen car?</line>
-   <line>No kidding.</line>
-   <line>I had no choice.</line>
-   <line>What the hell?</line>
-   <line>Oh, god.</line>
-   <line>I hit him.</line>
-   <line>I'm not denying it.</line>
-   <line>but the man was already down.</line>
-   <line>That doesn't make sense, Trevor.</line>
-   <line>I'm telling you...</line>
-   <line>that Greg Cardiff</line>
-   <line>wasn't crossing that street.</line>
-   <line>He was lying in it.</line>
-   <line>Guy says Greg was face down
+   <line type="dialogue">I could tell you your rights.</line>
+   <line type="dialogue">Nah.</line>
+   <line type="dialogue">I don't need them.</line>
+   <line type="dialogue">It was me that hit that guy.</line>
+   <line type="dialogue">Driving John Butler's stolen car?</line>
+   <line type="dialogue">No kidding.</line>
+   <line type="dialogue">I had no choice.</line>
+   <line type="dialogue">What the hell?</line>
+   <line type="dialogue">Oh, god.</line>
+   <line type="dialogue">I hit him.</line>
+   <line type="dialogue">I'm not denying it.</line>
+   <line type="dialogue">but the man was already down.</line>
+   <line type="dialogue">That doesn't make sense, Trevor.</line>
+   <line type="dialogue">I'm telling you...</line>
+   <line type="dialogue">that Greg Cardiff</line>
+   <line type="dialogue">wasn't crossing that street.</line>
+   <line type="dialogue">He was lying in it.</line>
+   <line type="dialogue">Guy says Greg was face down
 in the street before he ran him over?</line>
-   <line>That's his story.
+   <line type="dialogue">That's his story.
 - Do we believe it?</line>
-   <line>Well, Trevor's got reason to lie,</line>
-   <line>Greg wasn't feeling good.</line>
-   <line>That's why he went home early.</line>
-   <line>Heart attack? Aneurysm?</line>
-   <line>How about sloppy drunk?</line>
-   <line>It was New Year's Eve.</line>
-   <line>Let's ask the wife.</line>
-   <line>We didn't have this new direction,
+   <line type="dialogue">Well, Trevor's got reason to lie,</line>
+   <line type="dialogue">Greg wasn't feeling good.</line>
+   <line type="dialogue">That's why he went home early.</line>
+   <line type="dialogue">Heart attack? Aneurysm?</line>
+   <line type="dialogue">How about sloppy drunk?</line>
+   <line type="dialogue">It was New Year's Eve.</line>
+   <line type="dialogue">Let's ask the wife.</line>
+   <line type="dialogue">We didn't have this new direction,
 I'd take a hard look at Susan and Mel.</line>
-   <line>I was thinking the same thing.</line>
-   <line>Anyone got a favor coming
+   <line type="dialogue">I was thinking the same thing.</line>
+   <line type="dialogue">Anyone got a favor coming
 from the coroner's office?</line>
-   <line>I ain't going to the morgue.</line>
-   <line>The smell of that place kills me.</line>
-   <line>Listen to the kitchen b*tch.</line>
-   <line>Being an auto-ped, probably didn't
+   <line type="dialogue">I ain't going to the morgue.</line>
+   <line type="dialogue">The smell of that place kills me.</line>
+   <line type="dialogue">Listen to the kitchen b*tch.</line>
+   <line type="dialogue">Being an auto-ped, probably didn't
 do a full tox screen at autopsy, but</line>
-   <line>maybe they saved
+   <line type="dialogue">maybe they saved
 some tissue samples.</line>
-   <line>Well, I'll give them a call.</line>
-   <line>Right after you disinfect the phone.</line>
-   <line>Greg wasn't drunk that night.
+   <line type="dialogue">Well, I'll give them a call.</line>
+   <line type="dialogue">Right after you disinfect the phone.</line>
+   <line type="dialogue">Greg wasn't drunk that night.
 He was sick.</line>
-   <line>Sick? How?</line>
-   <line>Well, we didn't know.</line>
-   <line>It was off and on for about a month.</line>
-   <line>But he felt good that day
+   <line type="dialogue">Sick? How?</line>
+   <line type="dialogue">Well, we didn't know.</line>
+   <line type="dialogue">It was off and on for about a month.</line>
+   <line type="dialogue">But he felt good that day
 until we got to the bar.</line>
-   <line>What kind of symptoms he have?</line>
-   <line>Headache. Nausea. Why?</line>
-   <line>It's possible Greg collapsed on
+   <line type="dialogue">What kind of symptoms he have?</line>
+   <line type="dialogue">Headache. Nausea. Why?</line>
+   <line type="dialogue">It's possible Greg collapsed on
 the street before he got hit by the car.</line>
-   <line>From what? / Did he have
+   <line type="dialogue">From what? / Did he have
 any kind of chronic condition?</line>
-   <line>No. He was a health nut.
+   <line type="dialogue">No. He was a health nut.
 He jogged every day.</line>
-   <line>He played hockey with Gary.</line>
-   <line>Gary was sick that day, too.</line>
-   <line>Same symptoms?</line>
-   <line>I think so.</line>
-   <line>Where's Gary now?</line>
-   <line>Yeah, I was sick, too.</line>
-   <line>Headache, nausea,
+   <line type="dialogue">He played hockey with Gary.</line>
+   <line type="dialogue">Gary was sick that day, too.</line>
+   <line type="dialogue">Same symptoms?</line>
+   <line type="dialogue">I think so.</line>
+   <line type="dialogue">Where's Gary now?</line>
+   <line type="dialogue">Yeah, I was sick, too.</line>
+   <line type="dialogue">Headache, nausea,
 same as your dad?</line>
-   <line>What's that have to do
+   <line type="dialogue">What's that have to do
 with him getting hit?</line>
-   <line>His health that night
+   <line type="dialogue">His health that night
 might have been a factor.</line>
-   <line>Anything else you remember
+   <line type="dialogue">Anything else you remember
 about your symptoms?</line>
-   <line>I think I was seeing things
+   <line type="dialogue">I think I was seeing things
 kind of yellow.</line>
-   <line>What do you mean?</line>
-   <line>Like...</line>
-   <line>filter over everything I saw.</line>
-   <line>So you and your dad share any
+   <line type="dialogue">What do you mean?</line>
+   <line type="dialogue">Like...</line>
+   <line type="dialogue">filter over everything I saw.</line>
+   <line type="dialogue">So you and your dad share any
 of the same foods that day?</line>
-   <line>Dad ate something that mom cooked.</line>
-   <line>And, uh, I had fast food.</line>
-   <line>How about chips or pretzels
+   <line type="dialogue">Dad ate something that mom cooked.</line>
+   <line type="dialogue">And, uh, I had fast food.</line>
+   <line type="dialogue">How about chips or pretzels
 watching the game?</line>
-   <line>No.</line>
-   <line>But there was
+   <line type="dialogue">No.</line>
+   <line type="dialogue">But there was
 something else we shared.</line>
-   <line>Hey, there he is.</line>
-   <line>Good scrimmage?</line>
-   <line>Yeah.</line>
-   <line>Sorry about this morning, Gare.</line>
-   <line>That's all right.</line>
-   <line>I'm better today. How about tomorrow
+   <line type="dialogue">Hey, there he is.</line>
+   <line type="dialogue">Good scrimmage?</line>
+   <line type="dialogue">Yeah.</line>
+   <line type="dialogue">Sorry about this morning, Gare.</line>
+   <line type="dialogue">That's all right.</line>
+   <line type="dialogue">I'm better today. How about tomorrow
 we set up the net in the driveway?</line>
-   <line>Yeah, cool.</line>
-   <line>Because your mom loves when
+   <line type="dialogue">Yeah, cool.</line>
+   <line type="dialogue">Because your mom loves when
 we slam pucks against the garage.</line>
-   <line>I do love it very much.</line>
-   <line>Anyone need anything?</line>
-   <line>No thanks, honey.
+   <line type="dialogue">I do love it very much.</line>
+   <line type="dialogue">Anyone need anything?</line>
+   <line type="dialogue">No thanks, honey.
 - No thanks.</line>
-   <line>Hey, hey, hey.
+   <line type="dialogue">Hey, hey, hey.
 - Gary, what are doing?</line>
-   <line>You know better.
+   <line type="dialogue">You know better.
 - Sorry.</line>
-   <line>You got a few years
+   <line type="dialogue">You got a few years
 to go there, kid.</line>
-   <line>Maybe I got sick from
+   <line type="dialogue">Maybe I got sick from
 drinking from the same glass.</line>
-   <line>Maybe.</line>
-   <line>So Mel and your mom were both mad
+   <line type="dialogue">Maybe.</line>
+   <line type="dialogue">So Mel and your mom were both mad
 that you touched that margarita?</line>
-   <line>I didn't see what the big deal was.</line>
-   <line>It was only a sip.</line>
-   <line>Father and son drink
+   <line type="dialogue">I didn't see what the big deal was.</line>
+   <line type="dialogue">It was only a sip.</line>
+   <line type="dialogue">Father and son drink
 the same margarita,</line>
-   <line>both fall sick.</line>
-   <line>Susan and Mel are both there, both could
+   <line type="dialogue">both fall sick.</line>
+   <line type="dialogue">Susan and Mel are both there, both could
 have slipped something into the drink.</line>
-   <line>And they take big pains
+   <line type="dialogue">And they take big pains
 to stop the kid from drinking.</line>
-   <line>Because dad is the target.</line>
-   <line>Fast forward four years and the
+   <line type="dialogue">Because dad is the target.</line>
+   <line type="dialogue">Fast forward four years and the
 widow and best friend are married.</line>
-   <line>Maybe they were seeing each other,
+   <line type="dialogue">Maybe they were seeing each other,
 decided to get rid of Greg.</line>
-   <line>I want find Mel's ex.
+   <line type="dialogue">I want find Mel's ex.
 See if she suspected an affair.</line>
-   <line>Visitor.</line>
-   <line>At least there's good
+   <line type="dialogue">Visitor.</line>
+   <line type="dialogue">At least there's good
 news for someone.</line>
-   <line>Why don't you go talk to Mel,
+   <line type="dialogue">Why don't you go talk to Mel,
 Scotty, man to man.</line>
-   <line>Hi, Tami.</line>
-   <line>Thanks for coming in.</line>
-   <line>You have news?</line>
-   <line>It wasn't you.</line>
-   <line>Oh, that's great.</line>
-   <line>You're sure?</line>
-   <line>Someone confessed
+   <line type="dialogue">Hi, Tami.</line>
+   <line type="dialogue">Thanks for coming in.</line>
+   <line type="dialogue">You have news?</line>
+   <line type="dialogue">It wasn't you.</line>
+   <line type="dialogue">Oh, that's great.</line>
+   <line type="dialogue">You're sure?</line>
+   <line type="dialogue">Someone confessed
 to hitting Greg Cardiff that night.</line>
-   <line>And there's an eyewitness
+   <line type="dialogue">And there's an eyewitness
 to back the story.</line>
-   <line>I confessed.</line>
-   <line>To what you thought you did.</line>
-   <line>What about the blood,
+   <line type="dialogue">I confessed.</line>
+   <line type="dialogue">To what you thought you did.</line>
+   <line type="dialogue">What about the blood,
 the damage to my car?</line>
-   <line>Maybe an animal.
+   <line type="dialogue">Maybe an animal.
 Maybe you did hit someone,</line>
-   <line>injured them. But</line>
-   <line>we only have
+   <line type="dialogue">injured them. But</line>
+   <line type="dialogue">we only have
 homicide records here.</line>
-   <line>Point is,</line>
-   <line>you didn't k*ll anyone.</line>
-   <line>Did you want it to be you, Tami?</line>
-   <line>I quit drinking because
+   <line type="dialogue">Point is,</line>
+   <line type="dialogue">you didn't k*ll anyone.</line>
+   <line type="dialogue">Did you want it to be you, Tami?</line>
+   <line type="dialogue">I quit drinking because
 I thought I hit this guy.</line>
-   <line>That was keeping me in check.</line>
-   <line>Now I...</line>
-   <line>Now what?</line>
-   <line>I really want a gin and tonic.</line>
-   <line>We're thinking food poisoning.</line>
-   <line>And that he just fell
+   <line type="dialogue">That was keeping me in check.</line>
+   <line type="dialogue">Now I...</line>
+   <line type="dialogue">Now what?</line>
+   <line type="dialogue">I really want a gin and tonic.</line>
+   <line type="dialogue">We're thinking food poisoning.</line>
+   <line type="dialogue">And that he just fell
 in front of this car?</line>
-   <line>I've seen stranger things.</line>
-   <line>Oh, crap.</line>
-   <line>You okay there, Mel?</line>
-   <line>Knocks the wind out of your sails
+   <line type="dialogue">I've seen stranger things.</line>
+   <line type="dialogue">Oh, crap.</line>
+   <line type="dialogue">You okay there, Mel?</line>
+   <line type="dialogue">Knocks the wind out of your sails
 when you hear something like that.</line>
-   <line>He was my best friend.</line>
-   <line>Yeah.</line>
-   <line>How'd he get the food poisoning?</line>
-   <line>Maybe the margarita
+   <line type="dialogue">He was my best friend.</line>
+   <line type="dialogue">Yeah.</line>
+   <line type="dialogue">How'd he get the food poisoning?</line>
+   <line type="dialogue">Maybe the margarita
 he was drinking.</line>
-   <line>Really.</line>
-   <line>Gary says he took a sip of
+   <line type="dialogue">Really.</line>
+   <line type="dialogue">Gary says he took a sip of
 his dad's drink that day,</line>
-   <line>and you kind of swatted
+   <line type="dialogue">and you kind of swatted
 it out of his hand.</line>
-   <line>I might have.</line>
-   <line>How come?</line>
-   <line>He was only .</line>
-   <line>I mean, he's still not
+   <line type="dialogue">I might have.</line>
+   <line type="dialogue">How come?</line>
+   <line type="dialogue">He was only .</line>
+   <line type="dialogue">I mean, he's still not
 old enough to drink.</line>
-   <line>Can I...</line>
-   <line>ask you an aside here?</line>
-   <line>Sure.</line>
-   <line>I ain't judging, believe me.</line>
-   <line>You and Susan...</line>
-   <line>you really take up after Greg's death?</line>
-   <line>Yeah. / Because I know if I'm
+   <line type="dialogue">Can I...</line>
+   <line type="dialogue">ask you an aside here?</line>
+   <line type="dialogue">Sure.</line>
+   <line type="dialogue">I ain't judging, believe me.</line>
+   <line type="dialogue">You and Susan...</line>
+   <line type="dialogue">you really take up after Greg's death?</line>
+   <line type="dialogue">Yeah. / Because I know if I'm
 you and I'm looking at her</line>
-   <line>and she's interested back...</line>
-   <line>I mean, married or not,
+   <line type="dialogue">and she's interested back...</line>
+   <line type="dialogue">I mean, married or not,
 the flesh is weak.</line>
-   <line>Maybe it makes me a real geek,</line>
-   <line>but no.</line>
-   <line>I was faithful.</line>
-   <line>Well, better man than me.</line>
-   <line>So, uh, the margaritas...</line>
-   <line>you remember who made them?</line>
-   <line>Rolling rock, huh?</line>
-   <line>You guys are really living it up.
+   <line type="dialogue">Maybe it makes me a real geek,</line>
+   <line type="dialogue">but no.</line>
+   <line type="dialogue">I was faithful.</line>
+   <line type="dialogue">Well, better man than me.</line>
+   <line type="dialogue">So, uh, the margaritas...</line>
+   <line type="dialogue">you remember who made them?</line>
+   <line type="dialogue">Rolling rock, huh?</line>
+   <line type="dialogue">You guys are really living it up.
 - Or it reminds us of our college days.</line>
-   <line>Wouldn't you rather
+   <line type="dialogue">Wouldn't you rather
 have a margarita?</line>
-   <line>Mel? / Oh, no.
+   <line type="dialogue">Mel? / Oh, no.
 I don't drink tequila.</line>
-   <line>Ever since hell night freshman year.</line>
-   <line>Mel did sh*ts in minutes.</line>
-   <line>I still get sick thinking about it.</line>
-   <line>You ended up in
+   <line type="dialogue">Ever since hell night freshman year.</line>
+   <line type="dialogue">Mel did sh*ts in minutes.</line>
+   <line type="dialogue">I still get sick thinking about it.</line>
+   <line type="dialogue">You ended up in
 student health for three days.</line>
-   <line>My parents almost
+   <line type="dialogue">My parents almost
 sued the fraternity.</line>
-   <line>I'm, uh, good with this.</line>
-   <line>So Susan made the margaritas,</line>
-   <line>and the margaritas made Greg sick.</line>
-   <line>I don't like what
+   <line type="dialogue">I'm, uh, good with this.</line>
+   <line type="dialogue">So Susan made the margaritas,</line>
+   <line type="dialogue">and the margaritas made Greg sick.</line>
+   <line type="dialogue">I don't like what
 you're suggesting.</line>
-   <line>Just adding up the facts.</line>
-   <line>Look, I'll say it again.</line>
-   <line>There was no love
+   <line type="dialogue">Just adding up the facts.</line>
+   <line type="dialogue">Look, I'll say it again.</line>
+   <line type="dialogue">There was no love
 triangle before Greg died.</line>
-   <line>Would your ex-wife
+   <line type="dialogue">Would your ex-wife
 back that up? / Sure.</line>
-   <line>Jill's the one who
+   <line type="dialogue">Jill's the one who
 left me for another man.</line>
-   <line>Know where we can find Jill? / No.</line>
-   <line>We're out of touch.</line>
-   <line>Who was the doctor
+   <line type="dialogue">Know where we can find Jill? / No.</line>
+   <line type="dialogue">We're out of touch.</line>
+   <line type="dialogue">Who was the doctor
 she ended up with?</line>
-   <line>Michael... something.</line>
-   <line>Jill left you for this guy,
+   <line type="dialogue">Michael... something.</line>
+   <line type="dialogue">Jill left you for this guy,
 and you never got his name?</line>
-   <line>Look, if your wife tells you
+   <line type="dialogue">Look, if your wife tells you
 that she's screwing another guy,</line>
-   <line>that's really all you need to know.</line>
-   <line>Anything else is just
+   <line type="dialogue">that's really all you need to know.</line>
+   <line type="dialogue">Anything else is just
 salt in the wound.</line>
-   <line>Found Jill davis or at least
+   <line type="dialogue">Found Jill davis or at least
 her answering machine.</line>
-   <line>Good. because Mel's either a great liar
+   <line type="dialogue">Good. because Mel's either a great liar
 or didn't have nothing to do with this.</line>
-   <line>Well, someone definitely
+   <line type="dialogue">Well, someone definitely
 wanted Greg Cardiff dead.</line>
-   <line>Get something from the coroners?</line>
-   <line>No tissue samples,
+   <line type="dialogue">Get something from the coroners?</line>
+   <line type="dialogue">No tissue samples,
 but Greg was an organ donor.</line>
-   <line>Transplant unit at Pennsylvania Hospital
+   <line type="dialogue">Transplant unit at Pennsylvania Hospital
 had some blood samples stored.</line>
-   <line>Lethal levels of digoxin.
+   <line type="dialogue">Lethal levels of digoxin.
 - What's that?</line>
-   <line>Medication used to stabilize
+   <line type="dialogue">Medication used to stabilize
 an irregular heart beat.</line>
-   <line>And it can be deadly
+   <line type="dialogue">And it can be deadly
 if you want it to be.</line>
-   <line>Overdose symptoms
+   <line type="dialogue">Overdose symptoms
 are nausea, headache,</line>
-   <line>Gary's symptoms.</line>
-   <line>And fainting. / Maybe why
+   <line type="dialogue">Gary's symptoms.</line>
+   <line type="dialogue">And fainting. / Maybe why
 Greg dropped in the street.</line>
-   <line>Guess who's in
+   <line type="dialogue">Guess who's in
 the emergency room.</line>
-   <line>Who?</line>
-   <line>Mel davis.</line>
-   <line>Exact same symptoms as Greg.</line>
-   <line>We found digoxin in his system.</line>
-   <line>I don't know what digoxin is.</line>
-   <line>Prescription drug.</line>
-   <line>But you use it wrong,</line>
-   <line>it's just poison.</line>
-   <line>Well, I've never heard of it.</line>
-   <line>All that cooking and
+   <line type="dialogue">Who?</line>
+   <line type="dialogue">Mel davis.</line>
+   <line type="dialogue">Exact same symptoms as Greg.</line>
+   <line type="dialogue">We found digoxin in his system.</line>
+   <line type="dialogue">I don't know what digoxin is.</line>
+   <line type="dialogue">Prescription drug.</line>
+   <line type="dialogue">But you use it wrong,</line>
+   <line type="dialogue">it's just poison.</line>
+   <line type="dialogue">Well, I've never heard of it.</line>
+   <line type="dialogue">All that cooking and
 catering you do, Susie,</line>
-   <line>be pretty easy to slip a few lethal
+   <line type="dialogue">be pretty easy to slip a few lethal
 drops into dinner every night.</line>
-   <line>I have to get to the hospital.
+   <line type="dialogue">I have to get to the hospital.
 - Are you tired of Mel, is that it?</line>
-   <line>What?</line>
-   <line>He was good to you and all,
+   <line type="dialogue">What?</line>
+   <line type="dialogue">He was good to you and all,
 just like Greg.</line>
-   <line>Maybe you just had your fill of him.</line>
-   <line>I love Mel.
+   <line type="dialogue">Maybe you just had your fill of him.</line>
+   <line type="dialogue">I love Mel.
 - You know about black widows?</line>
-   <line>They're beautiful, but deadly.</line>
-   <line>Destroy their mates when
+   <line type="dialogue">They're beautiful, but deadly.</line>
+   <line type="dialogue">Destroy their mates when
 their usefulness is over.</line>
-   <line>I didn't hurt my husband.</line>
-   <line>You got to be more specific, Susie.
+   <line type="dialogue">I didn't hurt my husband.</line>
+   <line type="dialogue">You got to be more specific, Susie.
 Which husband do you mean?</line>
-   <line>The one already dead,
+   <line type="dialogue">The one already dead,
 or the one in the hospital?</line>
-   <line>If I was unhappy with Mel,
+   <line type="dialogue">If I was unhappy with Mel,
 why wouldn't I just get a divorce?</line>
-   <line>I don't know.</line>
-   <line>Maybe you just
+   <line type="dialogue">I don't know.</line>
+   <line type="dialogue">Maybe you just
 don't like confrontation.</line>
-   <line>Yellow-tinted vision?</line>
-   <line>It's weird, huh?</line>
-   <line>They're running a million tests.</line>
-   <line>Where'd you have your last meal?</line>
-   <line>Home.</line>
-   <line>Something Susan made?</line>
-   <line>So?</line>
-   <line>Mel, there was a drug called
+   <line type="dialogue">Yellow-tinted vision?</line>
+   <line type="dialogue">It's weird, huh?</line>
+   <line type="dialogue">They're running a million tests.</line>
+   <line type="dialogue">Where'd you have your last meal?</line>
+   <line type="dialogue">Home.</line>
+   <line type="dialogue">Something Susan made?</line>
+   <line type="dialogue">So?</line>
+   <line type="dialogue">Mel, there was a drug called
 digoxin in Greg's system.</line>
-   <line>A lethal amount.</line>
-   <line>What is that?</line>
-   <line>A heart medication.</line>
-   <line>I think they're gonna find that
+   <line type="dialogue">A lethal amount.</line>
+   <line type="dialogue">What is that?</line>
+   <line type="dialogue">A heart medication.</line>
+   <line type="dialogue">I think they're gonna find that
 in your system, too.</line>
-   <line>Your partner's already been
+   <line type="dialogue">Your partner's already been
 down this road with me.</line>
-   <line>Susan wouldn't harm me.</line>
-   <line>And she never
+   <line type="dialogue">Susan wouldn't harm me.</line>
+   <line type="dialogue">And she never
 would have hurt Greg.</line>
-   <line>She adored him.</line>
-   <line>Maybe she adored you more.</line>
-   <line>At least for a while.
+   <line type="dialogue">She adored him.</line>
+   <line type="dialogue">Maybe she adored you more.</line>
+   <line type="dialogue">At least for a while.
 - It was always him.</line>
-   <line>Greg was plan A.</line>
-   <line>I'm just the one she settled for.
+   <line type="dialogue">Greg was plan A.</line>
+   <line type="dialogue">I'm just the one she settled for.
 - But the fact remains, Mel,</line>
-   <line>symptoms as Greg.</line>
-   <line>You know the name
+   <line type="dialogue">symptoms as Greg.</line>
+   <line type="dialogue">You know the name
 of her business?</line>
-   <line>Cardiff Catering.
+   <line type="dialogue">Cardiff Catering.
 She still uses his name.</line>
-   <line>That's how loyal she is to him.</line>
-   <line>Hi, boss.</line>
-   <line>Jill's there?</line>
-   <line>Go ahead. I'll be there in ten.</line>
-   <line>You talking about my Jill?</line>
-   <line>Yeah.</line>
-   <line>We tracked her down.</line>
-   <line>Want me to give her a message?</line>
-   <line>No.</line>
-   <line>No message.</line>
-   <line>Mel always had it bad for Susan.</line>
-   <line>Even when you
+   <line type="dialogue">That's how loyal she is to him.</line>
+   <line type="dialogue">Hi, boss.</line>
+   <line type="dialogue">Jill's there?</line>
+   <line type="dialogue">Go ahead. I'll be there in ten.</line>
+   <line type="dialogue">You talking about my Jill?</line>
+   <line type="dialogue">Yeah.</line>
+   <line type="dialogue">We tracked her down.</line>
+   <line type="dialogue">Want me to give her a message?</line>
+   <line type="dialogue">No.</line>
+   <line type="dialogue">No message.</line>
+   <line type="dialogue">Mel always had it bad for Susan.</line>
+   <line type="dialogue">Even when you
 were married to him?</line>
-   <line>I didn't like to think so,
+   <line type="dialogue">I didn't like to think so,
 but you know in your gut.</line>
-   <line>It's the reason why we broke up.</line>
-   <line>I thought you left him
+   <line type="dialogue">It's the reason why we broke up.</line>
+   <line type="dialogue">I thought you left him
 for a cardiologist.</line>
-   <line>Only because I didn't feel like
+   <line type="dialogue">Only because I didn't feel like
 waiting around for the affair.</line>
-   <line>Was there an affair? / No.</line>
-   <line>Susan would never leave Greg.</line>
-   <line>Wasn't until after he died
+   <line type="dialogue">Was there an affair? / No.</line>
+   <line type="dialogue">Susan would never leave Greg.</line>
+   <line type="dialogue">Wasn't until after he died
 that Mel saw his opening.</line>
-   <line>Oh, yeah.
+   <line type="dialogue">Oh, yeah.
 Two days after the funeral,</line>
-   <line>he wanted me to draw up papers.</line>
-   <line>Not too subtle. / No.</line>
-   <line>So, Jill, you being
+   <line type="dialogue">he wanted me to draw up papers.</line>
+   <line type="dialogue">Not too subtle. / No.</line>
+   <line type="dialogue">So, Jill, you being
 married to a heart doctor,</line>
-   <line>you probably know what digoxin is.</line>
-   <line>Yeah. I take it.</line>
-   <line>I met my husband because
+   <line type="dialogue">you probably know what digoxin is.</line>
+   <line type="dialogue">Yeah. I take it.</line>
+   <line type="dialogue">I met my husband because
 of my heart condition.</line>
-   <line>Hospital confirmed Mel
+   <line type="dialogue">Hospital confirmed Mel
 was poisoned with digoxin.</line>
-   <line>Just like Greg.</line>
-   <line>Probably no surprise to Susie here.</line>
-   <line>And turns out Mel's ex-wife has been
+   <line type="dialogue">Just like Greg.</line>
+   <line type="dialogue">Probably no surprise to Susie here.</line>
+   <line type="dialogue">And turns out Mel's ex-wife has been
 taking that drug her whole life.</line>
-   <line>You think Jill did something?
+   <line type="dialogue">You think Jill did something?
 - Jill's over Mel.</line>
-   <line>She has a new husband.</line>
-   <line>And she never had
+   <line type="dialogue">She has a new husband.</line>
+   <line type="dialogue">And she never had
 anything against Greg.</line>
-   <line>But Mel, on the other hand...</line>
-   <line>Mel had real good access
+   <line type="dialogue">But Mel, on the other hand...</line>
+   <line type="dialogue">Mel had real good access
 to digoxin over the years.</line>
-   <line>Did Mel and Greg eat
+   <line type="dialogue">Did Mel and Greg eat
 a lot of meals together?</line>
-   <line>Go out drinking?</line>
-   <line>They were best friends.</line>
-   <line>According to Jill,
+   <line type="dialogue">Go out drinking?</line>
+   <line type="dialogue">They were best friends.</line>
+   <line type="dialogue">According to Jill,
 Mel had big plans for you</line>
-   <line>soon as Greg got out of the picture.</line>
-   <line>Who else could
+   <line type="dialogue">soon as Greg got out of the picture.</line>
+   <line type="dialogue">Who else could
 it have been, Susie?</line>
-   <line>Oh, no.</line>
-   <line>You remember something?</line>
-   <line>I thought he was
+   <line type="dialogue">Oh, no.</line>
+   <line type="dialogue">You remember something?</line>
+   <line type="dialogue">I thought he was
 just being a friend.</line>
-   <line>But even on the day
+   <line type="dialogue">But even on the day
 of the funeral...</line>
-   <line>Mel was moving in?</line>
-   <line>I saw a guy get a ticket on my way
+   <line type="dialogue">Mel was moving in?</line>
+   <line type="dialogue">I saw a guy get a ticket on my way
 to the cemetery and I just...</line>
-   <line>didn't understand.</line>
-   <line>Understand what?</line>
-   <line>How the world keeps going.</line>
-   <line>I mean, how do people do mundane
+   <line type="dialogue">didn't understand.</line>
+   <line type="dialogue">Understand what?</line>
+   <line type="dialogue">How the world keeps going.</line>
+   <line type="dialogue">I mean, how do people do mundane
 things, like write up a ticket,</line>
-   <line>when everything is over?</line>
-   <line>Hey.</line>
-   <line>Baby, I'm sorry.</line>
-   <line>I'm sorry.</line>
-   <line>It's not over.</line>
-   <line>You're gonna be happy again.</line>
-   <line>The three of us are
+   <line type="dialogue">when everything is over?</line>
+   <line type="dialogue">Hey.</line>
+   <line type="dialogue">Baby, I'm sorry.</line>
+   <line type="dialogue">I'm sorry.</line>
+   <line type="dialogue">It's not over.</line>
+   <line type="dialogue">You're gonna be happy again.</line>
+   <line type="dialogue">The three of us are
 all going to stick together.</line>
-   <line>We're all gonna be happy.</line>
-   <line>The three of us?</line>
-   <line>When he was still married to Jill.</line>
-   <line>But why would
+   <line type="dialogue">We're all gonna be happy.</line>
+   <line type="dialogue">The three of us?</line>
+   <line type="dialogue">When he was still married to Jill.</line>
+   <line type="dialogue">But why would
 Mel make himself sick?</line>
-   <line>He never thought Greg's
+   <line type="dialogue">He never thought Greg's
 poisoning would come out.</line>
-   <line>Knowing it would,</line>
-   <line>Tried to set you up, Susie.</line>
-   <line>Hospital just called.</line>
-   <line>Mel davis skipped out.</line>
-   <line>Driver, remove the
+   <line type="dialogue">Knowing it would,</line>
+   <line type="dialogue">Tried to set you up, Susie.</line>
+   <line type="dialogue">Hospital just called.</line>
+   <line type="dialogue">Mel davis skipped out.</line>
+   <line type="dialogue">Driver, remove the
 keys from the ignition.</line>
-   <line>Throw the keys out of the window.</line>
-   <line>Now!</line>
-   <line>Tracked him through his cell phone.
+   <line type="dialogue">Throw the keys out of the window.</line>
+   <line type="dialogue">Now!</line>
+   <line type="dialogue">Tracked him through his cell phone.
 He's not responding to orders.</line>
-   <line>So what's he doing? / Fugitives
+   <line type="dialogue">So what's he doing? / Fugitives
 don't usually think before they run.</line>
-   <line>My guess is, he's thinking now.</line>
-   <line>Can I try?</line>
-   <line>Mel, this is detective Rush.</line>
-   <line>Show us your hands.</line>
-   <line>Please put your hands
+   <line type="dialogue">My guess is, he's thinking now.</line>
+   <line type="dialogue">Can I try?</line>
+   <line type="dialogue">Mel, this is detective Rush.</line>
+   <line type="dialogue">Show us your hands.</line>
+   <line type="dialogue">Please put your hands
 outside the window.</line>
-   <line>He got a g*n?
+   <line type="dialogue">He got a g*n?
 - I don't know.</line>
-   <line>We give him much more time,
+   <line type="dialogue">We give him much more time,
 maybe we'll find out.</line>
-   <line>Careful.</line>
-   <line>I got the driver's side.</line>
-   <line>He's gone.</line>
-   <line>I'll call the coroner.</line>
-   <line>Mel wasn't thinking.</line>
-   <line>He was writing.</line>
-   <line>What's it say?</line>
-   <line>My millennium resolution
+   <line type="dialogue">Careful.</line>
+   <line type="dialogue">I got the driver's side.</line>
+   <line type="dialogue">He's gone.</line>
+   <line type="dialogue">I'll call the coroner.</line>
+   <line type="dialogue">Mel wasn't thinking.</line>
+   <line type="dialogue">He was writing.</line>
+   <line type="dialogue">What's it say?</line>
+   <line type="dialogue">My millennium resolution
 was to have a family,</line>
-   <line>kids and all.</line>
-   <line>Susan and Gary were that family.</line>
-   <line>But even after Greg was gone,
+   <line type="dialogue">kids and all.</line>
+   <line type="dialogue">Susan and Gary were that family.</line>
+   <line type="dialogue">But even after Greg was gone,
 even though she married me,</line>
-   <line>I was never more than plan B.</line>
-   <line>Let's have our own toast,</line>
-   <line>just the guys.</line>
-   <line>To .</line>
-   <line>The year .</line>
-   <line>What? What is it?</line>
-   <line>I don't think Jill and
+   <line type="dialogue">I was never more than plan B.</line>
+   <line type="dialogue">Let's have our own toast,</line>
+   <line type="dialogue">just the guys.</line>
+   <line type="dialogue">To .</line>
+   <line type="dialogue">The year .</line>
+   <line type="dialogue">What? What is it?</line>
+   <line type="dialogue">I don't think Jill and
 I are gonna make it.</line>
-   <line>You serious?</line>
-   <line>I couldn't say it in front of her,</line>
-   <line>but I'm gonna make
+   <line type="dialogue">You serious?</line>
+   <line type="dialogue">I couldn't say it in front of her,</line>
+   <line type="dialogue">but I'm gonna make
 some changes in .</line>
-   <line>That's my real resolution.</line>
-   <line>Marriage is hard work, Mel.</line>
-   <line>Problem is,</line>
-   <line>I got the wrong marriage.</line>
-   <line>Well, I'm sorry.</line>
-   <line>Me, too.</line>
-   <line>Bottom's up.</line>
+   <line type="dialogue">That's my real resolution.</line>
+   <line type="dialogue">Marriage is hard work, Mel.</line>
+   <line type="dialogue">Problem is,</line>
+   <line type="dialogue">I got the wrong marriage.</line>
+   <line type="dialogue">Well, I'm sorry.</line>
+   <line type="dialogue">Me, too.</line>
+   <line type="dialogue">Bottom's up.</line>
    <line type="music">♪ JewelÀÇ 'Hands' ♪</line>
    <line type="music">♪ If I could tell the world just one thing it would be ♪</line>
    <line type="music">♪ that we're all okay ♪</line>
@@ -1036,5 +1037,5 @@ they are my own ♪</line>
    <line type="music">♪ only kindness matters ♪</line>
    <line type="music">♪ In the end</line>
    <line type="music">♪ only kindness matters ♪</line>
-   <line>knees and I will pray ♪</line>
+   <line type="dialogue">knees and I will pray ♪</line>
 </transcript>
