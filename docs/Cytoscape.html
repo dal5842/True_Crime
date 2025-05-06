@@ -3,6 +3,14 @@
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <script src="https://unpkg.com/cytoscape/dist/cytoscape.min.js"></script>
+        <style>
+            #cy {
+            width: 100%;
+            height: 600px;
+            border: 1px solid #ccc;
+            }
+        </style>
         <title>Cytoscape Analysis</title>
         <link rel="stylesheet" href="Condensed.css" />
     </head>
@@ -33,11 +41,45 @@
         <main>
             <h1>CytoScape Comparisons</h1>
             <div class="image-container">
-                <div class="image-item">
-                    <img src="Images/musicVerbFreq.png" alt="Music Verb Frequency CytoScape" />
+                <script src="elements.js"></script>
+                
+                <script>
+                    const cy = cytoscape({
+                    container: document.getElementById('cy'),
+                    elements: elements.elements, // use the loaded elements
+
+                    style: [
+                    {
+                    selector: 'node',
+                    style: {
+                        'label': 'data(label)',
+                        'background-color': '#0074D9',
+                        'shape': 'ellipse'
+                        }
+                        },
+                        {
+                    selector: 'edge',
+                    style: {
+                        'width': 2,
+                        'line-color': '#ccc',
+                        'target-arrow-shape': 'triangle',
+                        'target-arrow-color': '#ccc'
+                        }
+                        }
+                        ],
+
+                    layout: {
+                    name: 'cose'
+                        }
+                        });
+
+                    cy.on('tap', 'node', function(evt){
+                    let node = evt.target;
+                    alert('You clicked: ' + node.data('label'));
+                    });
+                </script>
                     <div class="caption">This CytoScape shows verb frequency in the music
                         playlist.</div>
-                </div>
                 <div class="image-item">
                     <img src="Images/wordFreq.png" alt="Word Frequency CytoScape" />
                     <div class="caption">This CytoScape shows word frequency in Episode 2.</div>
