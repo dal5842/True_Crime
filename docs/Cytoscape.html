@@ -6,22 +6,21 @@
         <script src="https://unpkg.com/cytoscape/dist/cytoscape.min.js"></script>
         <style>
             .cy-wrapper {
-            max-width: 1000px;
-            margin: 0 auto;
-            padding: 1rem;
+                max-width: 1000px;
+                margin: 0 auto;
+                padding: 1rem;
             }
             #cy {
-            width: 100%;
-            max-width: 1000px;
-            height: 600px;
-            margin: 0 auto;
-            background-color: white;
-            border: 1px solid #ccc;
+                width: 100%;
+                max-width: 1000px;
+                height: 600px;
+                margin: 0 auto;
+                background-color: white;
+                border: 1px solid #ccc;
             }
             * {
-            box-sizing: border-box;
-            }
-        </style>
+                box-sizing: border-box;
+            }</style>
         <title>Cytoscape Analysis</title>
         <link rel="stylesheet" href="Condensed.css" />
     </head>
@@ -44,7 +43,7 @@
                         <a href="soundtrack.html">Sound Track</a>
                         <a href="Kumu.html">Kumu</a>
                         <a href="Cytoscape.html">Cytoscape</a>
-                        <a href="XSLT.html">XSLT Transformations</a>
+                        <a href="Methods.html">Methods</a>
                     </div>
                 </li>
             </ul>
@@ -53,7 +52,18 @@
             <h1>CytoScape Comparisons</h1>
             <div class="cy-wrapper">
                 <div id="cy"></div>
-                <div class="caption">CytoScape Music Network: What can one understand from the array of verbs pulled from the song of it's respective episode? This CytoScape targets the frequent verbs within the music lyrics of a song featured in a episode. The theme of the song directly correlates to it's episode. For example: In Episode 8 of Cold Case: Fly Away, the butterfly motif is central to Toya’s school play ("The Flight of the Monarch Butterflies") and repeatedly appears in Rosie's traumatized memory (“Toya had butterfly wings and bruises”). The song "Heaven" by Bryan Adams has lyrics focused on freedom, transformation, and fragility — mirroring Toya's innocence and her tragic attempt to escape abuse. We see this in the network through the verbs "fly","spread","change", and "believe". Checkout out our "Soundtrack" and "Episode" page to get more insight on these overlaps!</div>
+                <div class="caption">CytoScape Music Network: What can one understand from the array
+                    of verbs pulled from the song of it's respective episode? This CytoScape targets
+                    the frequent verbs within the music lyrics of a song featured in a episode. The
+                    theme of the song directly correlates to it's episode. For example: In Episode 8
+                    of Cold Case: Fly Away, the butterfly motif is central to Toya’s school play
+                    ("The Flight of the Monarch Butterflies") and repeatedly appears in Rosie's
+                    traumatized memory (“Toya had butterfly wings and bruises”). The song "Heaven"
+                    by Bryan Adams has lyrics focused on freedom, transformation, and fragility —
+                    mirroring Toya's innocence and her tragic attempt to escape abuse. We see this
+                    in the network through the verbs "fly","spread","change", and "believe".
+                    Checkout out our "Soundtrack" and "Episode" page to get more insight on these
+                    overlaps!</div>
             </div>
             <div class="image-container">
                 <div class="image-item">
@@ -62,48 +72,51 @@
                 </div>
                 <div class="image-item">
                     <img src="Images/dialogues.tsv_1-2.png" alt="Dialogue CytoScape" />
-                    <div class="caption">This CytoScape analyzes dialogue patterns across episodes 1 and 2.</div>
+                    <div class="caption">This Cytoscape network shows how adjectives, verbs,
+                        pronouns, and entities are connected to the episodes they appear in. Those
+                        episodes were pulled out after processing with xslt. It is built on shared
+                        synsets and co-occurrence, with the size and connections of nodes showing
+                        the importance of each term. More prominent nodes appear more often in the
+                        dataset, highlighting their relevance. The clusters in the network often
+                        relate to specific topics, revealing patterns in language and concepts.
+                        Overall, the network highlights recurring themes and key descriptors in the
+                        text.</div>
                 </div>
             </div>
         </main>
         <script src="music_verbs_elements.js"></script>
         <script>
             const cy = cytoscape({
-              container: document.getElementById('cy'),
-              elements: elements.elements,
-              style: [
-                {
-                  selector: 'node',
-                  style: {
-                    'label': 'data(label)',
-                    'background-color': '#0074D9',
-                    'color': '#fff',
-                    'text-valign': 'center',
-                    'text-halign': 'center',
-                    'shape': 'ellipse'
-                  }
-                },
-                {
-                  selector: 'edge',
-                  style: {
-                    'width': 2,
-                    'line-color': '#ccc',
-                    'target-arrow-shape': 'triangle',
-                    'target-arrow-color': '#ccc'
-                  }
+                container: document.getElementById('cy'),
+                elements: elements.elements,
+                style:[ {
+                    selector: 'node',
+                    style: {
+                        'label': 'data(label)',
+                        'background-color': '#0074D9',
+                        'color': '#fff',
+                        'text-valign': 'center',
+                        'text-halign': 'center',
+                        'shape': 'ellipse'
+                    }
+                }, {
+                    selector: 'edge',
+                    style: {
+                        'width': 2,
+                        'line-color': '#ccc',
+                        'target-arrow-shape': 'triangle',
+                        'target-arrow-color': '#ccc'
+                    }
+                }],
+                layout: {
+                    name: 'cose'
                 }
-              ],
-              layout: {
-                name: 'cose'
-              }
             });
-          
-            cy.on('tap', 'node', function(evt) {
-              let node = evt.target;
-              alert('You clicked: ' + node.data('label'));
-            });
-        </script>
-        
+            
+            cy.on('tap', 'node', function (evt) {
+                let node = evt.target;
+                alert('You clicked: ' + node.data('label'));
+            });</script>
         <footer>
             <p>Gabriella Vozar | Dannika Love | Emily Kalie | Rashe Mishra</p>
             <p>
