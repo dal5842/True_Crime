@@ -5,10 +5,21 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <script src="https://unpkg.com/cytoscape/dist/cytoscape.min.js"></script>
         <style>
+            .cy-wrapper {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 1rem;
+            }
             #cy {
             width: 100%;
+            max-width: 1000px;
             height: 600px;
+            margin: 0 auto;
+            background-color: white;
             border: 1px solid #ccc;
+            }
+            * {
+            box-sizing: border-box;
             }
         </style>
         <title>Cytoscape Analysis</title>
@@ -40,57 +51,59 @@
         </nav>
         <main>
             <h1>CytoScape Comparisons</h1>
+            <div class="cy-wrapper">
+                <div id="cy"></div>
+                <div class="caption">CytoScape Music Network: What can one understand from the array of verbs pulled from the song of it's respective episode? This CytoScape targets the frequent verbs within the music lyrics of a song featured in a episode. The theme of the song directly correlates to it's episode. For example: In Episode 8 of Cold Case: Fly Away, the butterfly motif is central to Toya’s school play ("The Flight of the Monarch Butterflies") and repeatedly appears in Rosie's traumatized memory (“Toya had butterfly wings and bruises”). The song "Heaven" by Bryan Adams has lyrics focused on freedom, transformation, and fragility — mirroring Toya's innocence and her tragic attempt to escape abuse. We see this in the network through the verbs "fly","spread","change", and "believe". Checkout out our "Soundtrack" and "Episode" page to get more insight on these overlaps!</div>
+            </div>
             <div class="image-container">
-                <script src="elements.js"></script>
-                
-                <script>
-                    const cy = cytoscape({
-                    container: document.getElementById('cy'),
-                    elements: elements.elements, // use the loaded elements
-
-                    style: [
-                    {
-                    selector: 'node',
-                    style: {
-                        'label': 'data(label)',
-                        'background-color': '#0074D9',
-                        'shape': 'ellipse'
-                        }
-                        },
-                        {
-                    selector: 'edge',
-                    style: {
-                        'width': 2,
-                        'line-color': '#ccc',
-                        'target-arrow-shape': 'triangle',
-                        'target-arrow-color': '#ccc'
-                        }
-                        }
-                        ],
-
-                    layout: {
-                    name: 'cose'
-                        }
-                        });
-
-                    cy.on('tap', 'node', function(evt){
-                    let node = evt.target;
-                    alert('You clicked: ' + node.data('label'));
-                    });
-                </script>
-                    <div class="caption">This CytoScape shows verb frequency in the music
-                        playlist.</div>
                 <div class="image-item">
                     <img src="Images/wordFreq.png" alt="Word Frequency CytoScape" />
-                    <div class="caption">This CytoScape shows word frequency in Episode 2.</div>
+                    <div class="caption">This CytoScape shows word frequency in Episode 2.</div>
                 </div>
                 <div class="image-item">
                     <img src="Images/dialogues.tsv_1-2.png" alt="Dialogue CytoScape" />
-                    <div class="caption">This CytoScape analyzes dialogue patterns across episodes 1
-                        and 2.</div>
+                    <div class="caption">This CytoScape analyzes dialogue patterns across episodes 1 and 2.</div>
                 </div>
             </div>
         </main>
+        <script src="music_verbs_elements.js"></script>
+        <script>
+            const cy = cytoscape({
+              container: document.getElementById('cy'),
+              elements: elements.elements,
+              style: [
+                {
+                  selector: 'node',
+                  style: {
+                    'label': 'data(label)',
+                    'background-color': '#0074D9',
+                    'color': '#fff',
+                    'text-valign': 'center',
+                    'text-halign': 'center',
+                    'shape': 'ellipse'
+                  }
+                },
+                {
+                  selector: 'edge',
+                  style: {
+                    'width': 2,
+                    'line-color': '#ccc',
+                    'target-arrow-shape': 'triangle',
+                    'target-arrow-color': '#ccc'
+                  }
+                }
+              ],
+              layout: {
+                name: 'cose'
+              }
+            });
+          
+            cy.on('tap', 'node', function(evt) {
+              let node = evt.target;
+              alert('You clicked: ' + node.data('label'));
+            });
+        </script>
+        
         <footer>
             <p>Gabriella Vozar | Dannika Love | Emily Kalie | Rashe Mishra</p>
             <p>
