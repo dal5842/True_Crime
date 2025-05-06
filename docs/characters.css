@@ -77,7 +77,8 @@ body {
 
 /*for paragraphs */
 .container p {
-    line-height: 1.6; 
+    line-height: 1.6;
+    text-align: left; 
 }
 
 
@@ -125,12 +126,28 @@ figcaption a:hover {
   text-decoration: underline;
 }
 
+#chara-diagram {
+  border: 2px solid #333;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  margin: 20px auto;
+  display: block;
+}
 
 footer {
     margin-top: 50px;
     text-align: center;
     font-size: 1em;
     color: #4F0208;
+}
+
+footer {
+  background-color: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(5px);
+  color: white;
+  text-shadow: 1px 1px 3px black;
+  padding: 20px;
+  text-align: center;
 }
 
 @media (max-width: 768px) {

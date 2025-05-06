@@ -37,7 +37,8 @@ body {
 }
 
 body {
-    background: url('Images/Parchmentbg.jpeg') no-repeat center center/cover;
+    /*background: url('Images/Parchmentbg.jpeg') no-repeat center center/cover;*/
+    background: url('https://media1.tenor.com/m/hWq-Ss6fkWMAAAAd/jump-court.gif') no-repeat center center/cover;
     font-family: 'Courier New', monospace;
     color: #222;
     text-align: center;
@@ -75,5 +76,14 @@ footer {
     text-align: center;
     color: #4F0208;
     font-size: 1em;
+}
+
+footer {
+  background-color: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(5px);
+  color: white;
+  text-shadow: 1px 1px 3px black;
+  padding: 20px;
+  text-align: center;
 }
 
