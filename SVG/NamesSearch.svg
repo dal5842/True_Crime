@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+    <svg width="900" height="500" viewBox="0 0 900 500" xmlns="http://www.w3.org/2000/svg">
+        <style>
+            .bar { fill: slateblue; }
+            .label { font: 12px sans-serif; text-anchor: middle; }
+            .axis-label { font: 14px sans-serif; font-weight: bold; }
+            .tick { font: 12px sans-serif; }
+        </style>
+        <g transform="translate(60,20)">
+            <!-- Axes -->
+            <line x1="0" y1="0" x2="0" y2="420" stroke="black"/>
+            <line x1="0" y1="420" x2="800" y2="420" stroke="black"/>
+            
+            <!-- Y-axis ticks -->
+            <g class="tick" text-anchor="end">
+                <text x="-10" y="420">0</text>
+                <text x="-10" y="336">50</text>
+                <text x="-10" y="252">100</text>
+                <text x="-10" y="168">150</text>
+                <text x="-10" y="84">200</text>
+                <text x="-10" y="0">250+</text>
+            </g>
+            
+            <!-- Bars -->
+            <g>
+                <rect class="bar" x="0" y="83" width="50" height="337"/>
+                <text class="label" x="25" y="78">337</text>
+                
+                <rect class="bar" x="70" y="249" width="50" height="171"/>
+                <text class="label" x="95" y="244">90</text>
+                
+                <rect class="bar" x="140" y="320" width="50" height="100"/>
+                <text class="label" x="165" y="315">48</text>
+                
+                <rect class="bar" x="210" y="343" width="50" height="77"/>
+                <text class="label" x="235" y="338">36</text>
+                
+                <rect class="bar" x="280" y="400" width="50" height="20"/>
+                <text class="label" x="305" y="395">16</text>
+                
+                <rect class="bar" x="350" y="377" width="50" height="43"/>
+                <text class="label" x="375" y="372">23</text>
+                
+                <rect class="bar" x="420" y="325" width="50" height="95"/>
+                <text class="label" x="445" y="320">46</text>
+                
+                <rect class="bar" x="490" y="256" width="50" height="164"/>
+                <text class="label" x="515" y="251">86</text>
+                
+                <rect class="bar" x="560" y="407" width="50" height="13"/>
+                <text class="label" x="585" y="402">13</text>
+                
+                <rect class="bar" x="630" y="302" width="50" height="118"/>
+                <text class="label" x="655" y="297">57</text>
+                
+                <rect class="bar" x="700" y="379" width="50" height="41"/>
+                <text class="label" x="725" y="374">22</text>
+                
+                <rect class="bar" x="770" y="302" width="50" height="118"/>
+                <text class="label" x="795" y="297">57</text>
+            </g>
+            
+            <!-- X Axis Labels -->
+            <g class="tick" transform="translate(25, 440)">
+                <text transform="translate(0,0) rotate(-45)">lilly</text>
+                <text transform="translate(70,0) rotate(-45)">rush</text>
+                <text transform="translate(140,0) rotate(-45)">scotty</text>
+                <text transform="translate(210,0) rotate(-45)">valens</text>
+                <text transform="translate(280,0) rotate(-45)">miller</text>
+                <text transform="translate(350,0) rotate(-45)">nick</text>
+                <text transform="translate(420,0) rotate(-45)">vera</text>
+                <text transform="translate(490,0) rotate(-45)">john</text>
+                <text transform="translate(560,0) rotate(-45)">stillman</text>
+                <text transform="translate(630,0) rotate(-45)">will</text>
+                <text transform="translate(700,0) rotate(-45)">jeffries</text>
+                <text transform="translate(770,0) rotate(-45)">chris</text>
+            </g>
+            
+            <!-- Graph Title -->
+            <text x="250" y="-5" class="axis-label">Character Name Frequency from AntConc Analysis</text>
+        </g>
+    </svg>
+</svg>

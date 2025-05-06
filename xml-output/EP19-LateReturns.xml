@@ -1,1000 +1,1001 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../RelaxNG/TrueCrimeRelaxNG.rnc" type="application/relax-ng-compact-syntax"?>
 <transcript>
-   <line>November ,</line>
-   <line>It's fun, right?</line>
-   <line>It's better than watching frat guys
+   <line type="dialogue">November ,</line>
+   <line type="dialogue">It's fun, right?</line>
+   <line type="dialogue">It's better than watching frat guys
 playing beer pong.</line>
-   <line>You get credit for working
+   <line type="dialogue">You get credit for working
 on the campaign?</line>
-   <line>Oh yeah, but I'd do it anyway.</line>
-   <line>Does it bother you that
+   <line type="dialogue">Oh yeah, but I'd do it anyway.</line>
+   <line type="dialogue">Does it bother you that
 he's such a womanizer?</line>
-   <line>He's not gonna do
+   <line type="dialogue">He's not gonna do
 that in the White House.</line>
-   <line>Who's the face?</line>
-   <line>He's David Lake.
+   <line type="dialogue">Who's the face?</line>
+   <line type="dialogue">He's David Lake.
 He runs our campaign office.</line>
-   <line>That his girlfriend?</line>
-   <line>Sister.</line>
-   <line>Vanessa, that drunk they threw out,</line>
-   <line>is he with you?</line>
-   <line>I'm not with him any..
+   <line type="dialogue">That his girlfriend?</line>
+   <line type="dialogue">Sister.</line>
+   <line type="dialogue">Vanessa, that drunk they threw out,</line>
+   <line type="dialogue">is he with you?</line>
+   <line type="dialogue">I'm not with him any..
 - Cuz that was embarrassing.</line>
-   <line>I know, I'm sorry.</line>
-   <line>It wasn't her fault, Abbey.</line>
-   <line>David, we never got to talk.</line>
-   <line>Uh, later. I promise.</line>
-   <line>Well, him, I'd vote for.</line>
-   <line>They're saying
+   <line type="dialogue">I know, I'm sorry.</line>
+   <line type="dialogue">It wasn't her fault, Abbey.</line>
+   <line type="dialogue">David, we never got to talk.</line>
+   <line type="dialogue">Uh, later. I promise.</line>
+   <line type="dialogue">Well, him, I'd vote for.</line>
+   <line type="dialogue">They're saying
 he's the future of the party.</line>
-   <line>It's loud in here.
+   <line type="dialogue">It's loud in here.
 You wanna walk outside?</line>
-   <line>Hey.</line>
-   <line>What took you so long?</line>
-   <line>Had to doll up.</line>
-   <line>Vera got lucky.</line>
-   <line>I'm on the up desk all night,</line>
-   <line>eight minutes to go on the shift
+   <line type="dialogue">Hey.</line>
+   <line type="dialogue">What took you so long?</line>
+   <line type="dialogue">Had to doll up.</line>
+   <line type="dialogue">Vera got lucky.</line>
+   <line type="dialogue">I'm on the up desk all night,</line>
+   <line type="dialogue">eight minutes to go on the shift
 and this guy's gotta buy it.</line>
-   <line>Darren Clemen, two in the head.</line>
-   <line>Up close.
+   <line type="dialogue">Darren Clemen, two in the head.</line>
+   <line type="dialogue">Up close.
 - Any witnesses?</line>
-   <line>They heard it,
+   <line type="dialogue">They heard it,
 but they didn't see it.</line>
-   <line>Working cold jobs, you almost
+   <line type="dialogue">Working cold jobs, you almost
 forget how much blood there is.</line>
-   <line>It does seem extra gory.</line>
-   <line>I'm assuming there's a good reason
+   <line type="dialogue">It does seem extra gory.</line>
+   <line type="dialogue">I'm assuming there's a good reason
 we got dragged down here?</line>
-   <line>Inside.</line>
-   <line>The guy didn't believe in house work.</line>
-   <line>Looks like some kind of shrine.</line>
-   <line>Or a trophy case.</line>
-   <line>About the death of Vanessa Prosser.</line>
-   <line>Who's that?</line>
-   <line>m*rder victim, .</line>
-   <line>Never found her k*ller.</line>
-   <line>Never say never.</line>
-   <line>Vanessa Prosser was
+   <line type="dialogue">Inside.</line>
+   <line type="dialogue">The guy didn't believe in house work.</line>
+   <line type="dialogue">Looks like some kind of shrine.</line>
+   <line type="dialogue">Or a trophy case.</line>
+   <line type="dialogue">About the death of Vanessa Prosser.</line>
+   <line type="dialogue">Who's that?</line>
+   <line type="dialogue">m*rder victim, .</line>
+   <line type="dialogue">Never found her k*ller.</line>
+   <line type="dialogue">Never say never.</line>
+   <line type="dialogue">Vanessa Prosser was
 a college senior working</line>
-   <line>on the local Clinton campaign.</line>
-   <line>Went to election party
+   <line type="dialogue">on the local Clinton campaign.</line>
+   <line type="dialogue">Went to election party
 on November, rd, .</line>
-   <line>Washed up on the bank of
+   <line type="dialogue">Washed up on the bank of
 the Delaware the next morning
 with a broken neck.</line>
-   <line>Republicans thought
+   <line type="dialogue">Republicans thought
 they had a bad night</line>
-   <line>Best guess is she was tossed
+   <line type="dialogue">Best guess is she was tossed
 from the Ben Franklin bridge.</line>
-   <line>It could've been a fall.</line>
-   <line>Bruising under her arms.</line>
-   <line>Dragged and dumped.</line>
-   <line>A letter was found in her pocket.</line>
-   <line>Signature and most of
+   <line type="dialogue">It could've been a fall.</line>
+   <line type="dialogue">Bruising under her arms.</line>
+   <line type="dialogue">Dragged and dumped.</line>
+   <line type="dialogue">A letter was found in her pocket.</line>
+   <line type="dialogue">Signature and most of
 the prints were washed away,</line>
-   <line>but few words are readable.</line>
-   <line>Been afraid..</line>
-   <line>Wanting to..</line>
-   <line>Feelings for you...</line>
-   <line>An admirer.</line>
-   <line>With good penmanship.</line>
-   <line>Lead suspect was Aaron Dutra,
+   <line type="dialogue">but few words are readable.</line>
+   <line type="dialogue">Been afraid..</line>
+   <line type="dialogue">Wanting to..</line>
+   <line type="dialogue">Feelings for you...</line>
+   <line type="dialogue">An admirer.</line>
+   <line type="dialogue">With good penmanship.</line>
+   <line type="dialogue">Lead suspect was Aaron Dutra,
 Vanessa's ex,</line>
-   <line>an ROTC Penn-grad just
+   <line type="dialogue">an ROTC Penn-grad just
 gotten back from the Gulf w*r.</line>
-   <line>He got thrown
+   <line type="dialogue">He got thrown
 out of the party that night.</line>
-   <line>Case against him didn't stick, though.</line>
-   <line>Hmm, among other things,</line>
-   <line>bad penmanship.</line>
-   <line>We think the letter came from
+   <line type="dialogue">Case against him didn't stick, though.</line>
+   <line type="dialogue">Hmm, among other things,</line>
+   <line type="dialogue">bad penmanship.</line>
+   <line type="dialogue">We think the letter came from
 Clemen, this new victim.</line>
-   <line>He had a kind of
+   <line type="dialogue">He had a kind of
 an obssession with her.</line>
-   <line>What else do we know
+   <line type="dialogue">What else do we know
 about this guy?</line>
-   <line>No record, no warrants.
+   <line type="dialogue">No record, no warrants.
 Name's clean.</line>
-   <line>Can't say the same for his house.</line>
-   <line>Neighbor said the wife died
+   <line type="dialogue">Can't say the same for his house.</line>
+   <line type="dialogue">Neighbor said the wife died
 three years ago.</line>
-   <line>He turned into a hermit,
+   <line type="dialogue">He turned into a hermit,
 let the place go.</line>
-   <line>And the relationship between him
+   <line type="dialogue">And the relationship between him
 and the Prosser girl?</line>
-   <line>No connections, yet, but he did
+   <line type="dialogue">No connections, yet, but he did
 have some of her personal items.</line>
-   <line>Receipts, school papers,
+   <line type="dialogue">Receipts, school papers,
 journal entries.</line>
-   <line>Maybe he was stalking her.</line>
-   <line>But how'd he get her stuff?</line>
-   <line>Walter Spar was assigned to this
+   <line type="dialogue">Maybe he was stalking her.</line>
+   <line type="dialogue">But how'd he get her stuff?</line>
+   <line type="dialogue">Walter Spar was assigned to this
 case. Will, do you know where he is?</line>
-   <line>Maybe the shore, I'll find him.</line>
-   <line>Let's see if Vanessa's parents
+   <line type="dialogue">Maybe the shore, I'll find him.</line>
+   <line type="dialogue">Let's see if Vanessa's parents
 know who Clemen was to her.</line>
-   <line>No.
+   <line type="dialogue">No.
 I don't know him.</line>
-   <line>Who is he?</line>
-   <line>His name is Darren Clemen.
+   <line type="dialogue">Who is he?</line>
+   <line type="dialogue">His name is Darren Clemen.
 He was k*lled last night.</line>
-   <line>k*lled?</line>
-   <line>What's this got to do with Vanessa?</line>
-   <line>We were hoping you could tell us.</line>
-   <line>She was living at home, right?</line>
-   <line>Yes, she was trying to save money.</line>
-   <line>She wanted to spend
+   <line type="dialogue">k*lled?</line>
+   <line type="dialogue">What's this got to do with Vanessa?</line>
+   <line type="dialogue">We were hoping you could tell us.</line>
+   <line type="dialogue">She was living at home, right?</line>
+   <line type="dialogue">Yes, she was trying to save money.</line>
+   <line type="dialogue">She wanted to spend
 the summer in Washington.</line>
-   <line>This man had some of
+   <line type="dialogue">This man had some of
 Vanessa's things at his house.</line>
-   <line>Well, I don't understand
+   <line type="dialogue">Well, I don't understand
 how that could be.</line>
-   <line>One theory is Vanessa was
+   <line type="dialogue">One theory is Vanessa was
 involved with this guy.</line>
-   <line>But, he looks like he's twice her age.</line>
-   <line>Though that might explain something.</line>
-   <line>Few weeks before Vanessa died,</line>
-   <line>we were making dinner.</line>
-   <line>George Bush is a w*r hero.</line>
-   <line>He doesn't know
+   <line type="dialogue">But, he looks like he's twice her age.</line>
+   <line type="dialogue">Though that might explain something.</line>
+   <line type="dialogue">Few weeks before Vanessa died,</line>
+   <line type="dialogue">we were making dinner.</line>
+   <line type="dialogue">George Bush is a w*r hero.</line>
+   <line type="dialogue">He doesn't know
 what a grocery scanner is.</line>
-   <line>Well, I, for one,
+   <line type="dialogue">Well, I, for one,
 like that Hillary Clinton.</line>
-   <line>I liked her headbands, and I don't
+   <line type="dialogue">I liked her headbands, and I don't
 know why she had to change it.</line>
-   <line>Dad, you have to vote for Clinton.
+   <line type="dialogue">Dad, you have to vote for Clinton.
 I need a job next year.</line>
-   <line>And never mind
+   <line type="dialogue">And never mind
 the Jennifer Flowers tapes.</line>
-   <line>Jennifer Flowers is a skank.</line>
-   <line>That's one thing we can agree on.</line>
-   <line>Ahem. For Vanessa.</line>
-   <line>Aaron? Still thinks
+   <line type="dialogue">Jennifer Flowers is a skank.</line>
+   <line type="dialogue">That's one thing we can agree on.</line>
+   <line type="dialogue">Ahem. For Vanessa.</line>
+   <line type="dialogue">Aaron? Still thinks
 he's in the game, huh?</line>
-   <line>No, not from Aaron.
+   <line type="dialogue">No, not from Aaron.
 - Oh? Who from?</line>
-   <line>It's just a thank-you
+   <line type="dialogue">It's just a thank-you
 from the campaign.</line>
-   <line>Oh, oh, apply pressure. Here.</line>
-   <line>Direct pressure, come on. Hold it.
+   <line type="dialogue">Oh, oh, apply pressure. Here.</line>
+   <line type="dialogue">Direct pressure, come on. Hold it.
 Grab it, honey.</line>
-   <line>Hurry up, hurry up. Here we go.
+   <line type="dialogue">Hurry up, hurry up. Here we go.
 Keep pressing.</line>
-   <line>And then we got distracted
+   <line type="dialogue">And then we got distracted
 when she cut herself.</line>
-   <line>Her blood didn't clot properly.</line>
-   <line>So you never found out
+   <line type="dialogue">Her blood didn't clot properly.</line>
+   <line type="dialogue">So you never found out
 who sent the flowers?</line>
-   <line>No.</line>
-   <line>This says you didn't realize that
+   <line type="dialogue">No.</line>
+   <line type="dialogue">This says you didn't realize that
 Vanessa was missing till the next day.</line>
-   <line>We figured she'd gone back to her
+   <line type="dialogue">We figured she'd gone back to her
 friend's place on campus, Beth Reardon.</line>
-   <line>She drove that night.</line>
-   <line>You build all these?</line>
-   <line>I just design them.</line>
-   <line>I'm an architect, not the contractor.</line>
-   <line>I've never seen him before.</line>
-   <line>Who is he?</line>
-   <line>Maybe someone Vanessa
+   <line type="dialogue">She drove that night.</line>
+   <line type="dialogue">You build all these?</line>
+   <line type="dialogue">I just design them.</line>
+   <line type="dialogue">I'm an architect, not the contractor.</line>
+   <line type="dialogue">I've never seen him before.</line>
+   <line type="dialogue">Who is he?</line>
+   <line type="dialogue">Maybe someone Vanessa
 was involved with.</line>
-   <line>I doubt that.</line>
-   <line>You have better candidate?</line>
-   <line>I thought she had something going on,</line>
-   <line>but she was being secretive.</line>
-   <line>Anyone else who might know
+   <line type="dialogue">I doubt that.</line>
+   <line type="dialogue">You have better candidate?</line>
+   <line type="dialogue">I thought she had something going on,</line>
+   <line type="dialogue">but she was being secretive.</line>
+   <line type="dialogue">Anyone else who might know
 who Vanessa was seeing?</line>
-   <line>Ask Aaron Dutra.</line>
-   <line>He was all but stalking
+   <line type="dialogue">Ask Aaron Dutra.</line>
+   <line type="dialogue">He was all but stalking
 her at the time.</line>
-   <line>Her old boyfriend?</line>
-   <line>She broke up with him, but he
+   <line type="dialogue">Her old boyfriend?</line>
+   <line type="dialogue">She broke up with him, but he
 wasn't taking no for an answer.</line>
-   <line>You see him at the party that night?</line>
-   <line>He was hard to miss.</line>
-   <line>I couldn't vote for Clinton,
+   <line type="dialogue">You see him at the party that night?</line>
+   <line type="dialogue">He was hard to miss.</line>
+   <line type="dialogue">I couldn't vote for Clinton,
 I was too jealous of the Gore girls.</line>
-   <line>Gore is crazy.
+   <line type="dialogue">Gore is crazy.
 He kept dropping out of the race.</line>
-   <line>I liked Stockdale in the debate.
+   <line type="dialogue">I liked Stockdale in the debate.
 - Vanessa.</line>
-   <line>Why are you here?</line>
-   <line>You were supposed to wait, V.</line>
-   <line>You're drunk.</line>
-   <line>Shut up.</line>
-   <line>Aaron, it's over.
+   <line type="dialogue">Why are you here?</line>
+   <line type="dialogue">You were supposed to wait, V.</line>
+   <line type="dialogue">You're drunk.</line>
+   <line type="dialogue">Shut up.</line>
+   <line type="dialogue">Aaron, it's over.
 I told you this.</line>
-   <line>I saw you with him today.</line>
-   <line>You're following me?</line>
-   <line>I saw him touch you, like you're his..</line>
-   <line>Stop.</line>
-   <line>Where is he? / Aaron.</line>
-   <line>Where is he?
+   <line type="dialogue">I saw you with him today.</line>
+   <line type="dialogue">You're following me?</line>
+   <line type="dialogue">I saw him touch you, like you're his..</line>
+   <line type="dialogue">Stop.</line>
+   <line type="dialogue">Where is he? / Aaron.</line>
+   <line type="dialogue">Where is he?
 I know he's here.</line>
-   <line>Aaron. Sleep it off.</line>
-   <line>Cops had asked me
+   <line type="dialogue">Aaron. Sleep it off.</line>
+   <line type="dialogue">Cops had asked me
 about him the first time around.</line>
-   <line>He was an idiot, but</line>
-   <line>not a k*ller.</line>
-   <line>You and Aaron ever compare notes</line>
-   <line>on who this other guy
+   <line type="dialogue">He was an idiot, but</line>
+   <line type="dialogue">not a k*ller.</line>
+   <line type="dialogue">You and Aaron ever compare notes</line>
+   <line type="dialogue">on who this other guy
 might have been?</line>
-   <line>Aaron and I never compared anything.</line>
-   <line>He got sick after that.</line>
-   <line>Sick?</line>
-   <line>I heard it was Gulf w*r Syndrome.</line>
-   <line>Sounds like Vanessa's ex saw her</line>
-   <line>with the new admirer
+   <line type="dialogue">Aaron and I never compared anything.</line>
+   <line type="dialogue">He got sick after that.</line>
+   <line type="dialogue">Sick?</line>
+   <line type="dialogue">I heard it was Gulf w*r Syndrome.</line>
+   <line type="dialogue">Sounds like Vanessa's ex saw her</line>
+   <line type="dialogue">with the new admirer
 the day she died.</line>
-   <line>You've gone to him?</line>
-   <line>He was too sick to see us today.
+   <line type="dialogue">You've gone to him?</line>
+   <line type="dialogue">He was too sick to see us today.
 We'll go back tomorrow.</line>
-   <line>That was Walter's partner.</line>
-   <line>He remembers the Prosser case?</line>
-   <line>Remembers Darren Clemen, too.</line>
-   <line>Said he started coming around
+   <line type="dialogue">That was Walter's partner.</line>
+   <line type="dialogue">He remembers the Prosser case?</line>
+   <line type="dialogue">Remembers Darren Clemen, too.</line>
+   <line type="dialogue">Said he started coming around
 few years back,</line>
-   <line>had a bunch of theories
+   <line type="dialogue">had a bunch of theories
 on how the girl died.</line>
-   <line>What, he came with here with theories?</line>
-   <line>Thought it was some kind of
+   <line type="dialogue">What, he came with here with theories?</line>
+   <line type="dialogue">Thought it was some kind of
 political conspiracy.</line>
-   <line>So, he was trying to solve her m*rder.</line>
-   <line>Why was he interested in Vanessa?</line>
-   <line>We still don't have a connection.</line>
-   <line>Maybe we do.</line>
-   <line>Remember all the blood
+   <line type="dialogue">So, he was trying to solve her m*rder.</line>
+   <line type="dialogue">Why was he interested in Vanessa?</line>
+   <line type="dialogue">We still don't have a connection.</line>
+   <line type="dialogue">Maybe we do.</line>
+   <line type="dialogue">Remember all the blood
 at the Clemen scene?</line>
-   <line>The autopsy explained it,
+   <line type="dialogue">The autopsy explained it,
 he was a hemophilliac.</line>
-   <line>Like Vanessa.</line>
-   <line>Wait, it's hereditary?</line>
-   <line>Coroner says yes.
+   <line type="dialogue">Like Vanessa.</line>
+   <line type="dialogue">Wait, it's hereditary?</line>
+   <line type="dialogue">Coroner says yes.
 Females are just carriers,</line>
-   <line>but some show symptoms.</line>
-   <line>Blood relation.</line>
-   <line>Vanessa was
+   <line type="dialogue">but some show symptoms.</line>
+   <line type="dialogue">Blood relation.</line>
+   <line type="dialogue">Vanessa was
 Darren Clemen's daughter?</line>
-   <line>Yes, he was Vanessa's father.</line>
-   <line>It wasn't even an affair.
+   <line type="dialogue">Yes, he was Vanessa's father.</line>
+   <line type="dialogue">It wasn't even an affair.
 It was just one night.</line>
-   <line>You were already married?</line>
-   <line>Darren was
+   <line type="dialogue">You were already married?</line>
+   <line type="dialogue">Darren was
 my high school sweetheart.</line>
-   <line>We had our ten year reunion.
+   <line type="dialogue">We had our ten year reunion.
 His pals had a suite upstairs.</line>
-   <line>Old time's sake?</line>
-   <line>Stupid,</line>
-   <line>very stupid.</line>
-   <line>My husband doesn't know
+   <line type="dialogue">Old time's sake?</line>
+   <line type="dialogue">Stupid,</line>
+   <line type="dialogue">very stupid.</line>
+   <line type="dialogue">My husband doesn't know
 and neither did Vanessa.</line>
-   <line>Did Darren keep in touch?</line>
-   <line>No.</line>
-   <line>No, we agreed on that.</line>
-   <line>We had separate lives
+   <line type="dialogue">Did Darren keep in touch?</line>
+   <line type="dialogue">No.</line>
+   <line type="dialogue">No, we agreed on that.</line>
+   <line type="dialogue">We had separate lives
 till three years ago.</line>
-   <line>When he started looking into
+   <line type="dialogue">When he started looking into
 Vanessa's death?</line>
-   <line>His wife had died.
+   <line type="dialogue">His wife had died.
 Said he was trying to fill the void.</line>
-   <line>Any idea who he suspected?</line>
-   <line>No.</line>
-   <line>I let him look through Vanessa's things</line>
-   <line>and then I asked him not to come back.</line>
-   <line>I had just lost my daughter.</line>
-   <line>I couldn't risk losing
+   <line type="dialogue">Any idea who he suspected?</line>
+   <line type="dialogue">No.</line>
+   <line type="dialogue">I let him look through Vanessa's things</line>
+   <line type="dialogue">and then I asked him not to come back.</line>
+   <line type="dialogue">I had just lost my daughter.</line>
+   <line type="dialogue">I couldn't risk losing
 my husband, too.</line>
-   <line>If Clemen was looking into Vanessa's
+   <line type="dialogue">If Clemen was looking into Vanessa's
 m*rder and got too close to the truth,</line>
-   <line>that could explain his death, too.</line>
-   <line>So we're thinking one doer
+   <line type="dialogue">that could explain his death, too.</line>
+   <line type="dialogue">So we're thinking one doer
 for both murders.</line>
-   <line>We gotta find out what Clemen knew.</line>
-   <line>Who he was after.</line>
-   <line>Where you been, Scotty?</line>
-   <line>Charming the pants off for
+   <line type="dialogue">We gotta find out what Clemen knew.</line>
+   <line type="dialogue">Who he was after.</line>
+   <line type="dialogue">Where you been, Scotty?</line>
+   <line type="dialogue">Charming the pants off for
 a -year-old historian
 who works for the DNC.</line>
-   <line>You get the photo?</line>
-   <line>Everyone on the regional
+   <line type="dialogue">You get the photo?</line>
+   <line type="dialogue">Everyone on the regional
 campaign in ' ,</line>
-   <line>taken at the day of the election.</line>
-   <line>Vanessa's ex came to the party
+   <line type="dialogue">taken at the day of the election.</line>
+   <line type="dialogue">Vanessa's ex came to the party
 looking for her new guy.</line>
-   <line>Maybe the new guy's here.</line>
-   <line>Who's Kite with?</line>
-   <line>I don't know.</line>
-   <line>I heard you and him were..
+   <line type="dialogue">Maybe the new guy's here.</line>
+   <line type="dialogue">Who's Kite with?</line>
+   <line type="dialogue">I don't know.</line>
+   <line type="dialogue">I heard you and him were..
 - Yeah, I don't know.</line>
-   <line>Let's go see
+   <line type="dialogue">Let's go see
 if Aaron's feeling better.</line>
-   <line>Whatever it is,
+   <line type="dialogue">Whatever it is,
 I was here watching  TV.</line>
-   <line>It's about Vanessa Prosser.</line>
-   <line>Of course, it is.</line>
-   <line>The night of her m*rder, you showed
+   <line type="dialogue">It's about Vanessa Prosser.</line>
+   <line type="dialogue">Of course, it is.</line>
+   <line type="dialogue">The night of her m*rder, you showed
 up at the election party pretty upset.</line>
-   <line>Look at your records.</line>
-   <line>I've had this conversation
+   <line type="dialogue">Look at your records.</line>
+   <line type="dialogue">I've had this conversation
 a hundred times already.</line>
-   <line>Let's make it hundred and one.</line>
-   <line>It was the turkey talking, burbon.</line>
-   <line>I've been drinking all day.</line>
-   <line>Can you turn off the cooking show?</line>
-   <line>Before I went to the Gulf,
+   <line type="dialogue">Let's make it hundred and one.</line>
+   <line type="dialogue">It was the turkey talking, burbon.</line>
+   <line type="dialogue">I've been drinking all day.</line>
+   <line type="dialogue">Can you turn off the cooking show?</line>
+   <line type="dialogue">Before I went to the Gulf,
 Vanessa and I got engaged.</line>
-   <line>When I got back, she was
+   <line type="dialogue">When I got back, she was
 supposed to be waiting for me.</line>
-   <line>And instead she found
+   <line type="dialogue">And instead she found
 someone new?</line>
-   <line>Could you ID her
+   <line type="dialogue">Could you ID her
 new boyfriend from a picture?</line>
-   <line>Him.
+   <line type="dialogue">Him.
 Glasses, front.</line>
-   <line>You're sure?</line>
-   <line>Thanks.</line>
-   <line>Hi.</line>
-   <line>Thank you very much.</line>
-   <line>I voted, did you? / Yeah.</line>
-   <line>You know, I consider myself
+   <line type="dialogue">You're sure?</line>
+   <line type="dialogue">Thanks.</line>
+   <line type="dialogue">Hi.</line>
+   <line type="dialogue">Thank you very much.</line>
+   <line type="dialogue">I voted, did you? / Yeah.</line>
+   <line type="dialogue">You know, I consider myself
 a reasonably smart guy,</line>
-   <line>I know.</line>
-   <line>What happens if you don't
+   <line type="dialogue">I know.</line>
+   <line type="dialogue">What happens if you don't
 knock out little square all the way?</line>
-   <line>Who knows?</line>
-   <line>David Lake.</line>
-   <line>I know that name.</line>
-   <line>Abbey Lake.</line>
-   <line>Congressman's chief of staff.</line>
-   <line>Detectives Rush and Valens.</line>
-   <line>Sister, not wife.
+   <line type="dialogue">Who knows?</line>
+   <line type="dialogue">David Lake.</line>
+   <line type="dialogue">I know that name.</line>
+   <line type="dialogue">Abbey Lake.</line>
+   <line type="dialogue">Congressman's chief of staff.</line>
+   <line type="dialogue">Detectives Rush and Valens.</line>
+   <line type="dialogue">Sister, not wife.
 Everyone makes that mistake.</line>
-   <line>We're here to talk to David.</line>
-   <line>Oh, sorry, he's in Washington.</line>
-   <line>Maybe I can help?</line>
-   <line>We're looking into an old homicide.</line>
-   <line>Vanessa Prosser?</line>
-   <line>That was awful.</line>
-   <line>She was a really nice girl.</line>
-   <line>We heard she and your brother
+   <line type="dialogue">We're here to talk to David.</line>
+   <line type="dialogue">Oh, sorry, he's in Washington.</line>
+   <line type="dialogue">Maybe I can help?</line>
+   <line type="dialogue">We're looking into an old homicide.</line>
+   <line type="dialogue">Vanessa Prosser?</line>
+   <line type="dialogue">That was awful.</line>
+   <line type="dialogue">She was a really nice girl.</line>
+   <line type="dialogue">We heard she and your brother
 might have been involved.</line>
-   <line>Her and David?</line>
-   <line>No.</line>
-   <line>You sure?</line>
-   <line>A lot of girls in the campaign
+   <line type="dialogue">Her and David?</line>
+   <line type="dialogue">No.</line>
+   <line type="dialogue">You sure?</line>
+   <line type="dialogue">A lot of girls in the campaign
 were charmed by David.</line>
-   <line>It's the story of his life.</line>
-   <line>Occupational hazard.</line>
-   <line>Vanessa was a lot
+   <line type="dialogue">It's the story of his life.</line>
+   <line type="dialogue">Occupational hazard.</line>
+   <line type="dialogue">Vanessa was a lot
 like the other girls.</line>
-   <line>That's all.</line>
-   <line>Ready?</line>
-   <line>Are we in a hurry?</line>
-   <line>We have a conference call
+   <line type="dialogue">That's all.</line>
+   <line type="dialogue">Ready?</line>
+   <line type="dialogue">Are we in a hurry?</line>
+   <line type="dialogue">We have a conference call
 in an hour.</line>
-   <line>That's right.</line>
-   <line>We'll see you at the party?</line>
-   <line>David, I have something I want to ...
+   <line type="dialogue">That's right.</line>
+   <line type="dialogue">We'll see you at the party?</line>
+   <line type="dialogue">David, I have something I want to ...
 - The polls close in four hours.</line>
-   <line>We need you on the phones.</line>
-   <line>Final push.</line>
-   <line>You'll see him tonight, Vanessa.</line>
-   <line>She was sweet,</line>
-   <line>but young, naive.</line>
-   <line>Starstruck?</line>
-   <line>David's only human.
+   <line type="dialogue">We need you on the phones.</line>
+   <line type="dialogue">Final push.</line>
+   <line type="dialogue">You'll see him tonight, Vanessa.</line>
+   <line type="dialogue">She was sweet,</line>
+   <line type="dialogue">but young, naive.</line>
+   <line type="dialogue">Starstruck?</line>
+   <line type="dialogue">David's only human.
 He gets flattered.</line>
-   <line>Part of my job was
+   <line type="dialogue">Part of my job was
 and is keeping him focused.</line>
-   <line>Still, we'd like to talk to your brother.</line>
-   <line>Soon as he's back in town.</line>
-   <line>I'm here at the local
+   <line type="dialogue">Still, we'd like to talk to your brother.</line>
+   <line type="dialogue">Soon as he's back in town.</line>
+   <line type="dialogue">I'm here at the local
 Democratic election party</line>
-   <line>have helped Bill Clinton...</line>
-   <line>election night.</line>
-   <line>Abbey Lake, David's sister.</line>
-   <line>And the future congressman himself.</line>
-   <line>No Vanessa, though.</line>
-   <line>Could be out of frame.</line>
-   <line>Could be dead.</line>
-   <line>We think Lake had a relationship
+   <line type="dialogue">have helped Bill Clinton...</line>
+   <line type="dialogue">election night.</line>
+   <line type="dialogue">Abbey Lake, David's sister.</line>
+   <line type="dialogue">And the future congressman himself.</line>
+   <line type="dialogue">No Vanessa, though.</line>
+   <line type="dialogue">Could be out of frame.</line>
+   <line type="dialogue">Could be dead.</line>
+   <line type="dialogue">We think Lake had a relationship
 with Vanessa?</line>
-   <line>His sister says no.</line>
-   <line>Well, we'll see if his handwriting
+   <line type="dialogue">His sister says no.</line>
+   <line type="dialogue">Well, we'll see if his handwriting
 matches that letter found on her body.</line>
-   <line>Be delicate, Scotty.</line>
-   <line>He runs to his friends
+   <line type="dialogue">Be delicate, Scotty.</line>
+   <line type="dialogue">He runs to his friends
 in the mayor's office,</line>
-   <line>I'm the one who gets the call.</line>
-   <line>What else do we know about him?</line>
-   <line>Been in Washington since ,
+   <line type="dialogue">I'm the one who gets the call.</line>
+   <line type="dialogue">What else do we know about him?</line>
+   <line type="dialogue">Been in Washington since ,
 elected to Congress two years ago.</line>
-   <line>Went to Princeton,
+   <line type="dialogue">Went to Princeton,
 Columbia Law.</line>
-   <line>Raised up north in Redding.</line>
-   <line>Redding?</line>
-   <line>Yeah.</line>
-   <line>My victim made a couple calls to
+   <line type="dialogue">Raised up north in Redding.</line>
+   <line type="dialogue">Redding?</line>
+   <line type="dialogue">Yeah.</line>
+   <line type="dialogue">My victim made a couple calls to
 Redding the day he got shot.</line>
-   <line>Clemen did?</line>
-   <line>Yeah. To a guy named Marvin Dobie.</line>
-   <line>Marvin Dobie?</line>
-   <line>Philadelphia Homicide.</line>
-   <line>Yeah, so?</line>
-   <line>Hey, nice. Custom job.</line>
-   <line>Bamboo rod, tail water reel.</line>
-   <line>Expensive hobby.</line>
-   <line>Convictions for fraud,
+   <line type="dialogue">Clemen did?</line>
+   <line type="dialogue">Yeah. To a guy named Marvin Dobie.</line>
+   <line type="dialogue">Marvin Dobie?</line>
+   <line type="dialogue">Philadelphia Homicide.</line>
+   <line type="dialogue">Yeah, so?</line>
+   <line type="dialogue">Hey, nice. Custom job.</line>
+   <line type="dialogue">Bamboo rod, tail water reel.</line>
+   <line type="dialogue">Expensive hobby.</line>
+   <line type="dialogue">Convictions for fraud,
 forgery, bad checks.</line>
-   <line>Which of those hobbies
+   <line type="dialogue">Which of those hobbies
 got you that rod?</line>
-   <line>What do you want from me?</line>
-   <line>You know a guy named
+   <line type="dialogue">What do you want from me?</line>
+   <line type="dialogue">You know a guy named
 Darren Clemen?</line>
-   <line>Nah.</line>
-   <line>Really?</line>
-   <line>He called you last week.</line>
-   <line>Well, maybe
+   <line type="dialogue">Nah.</line>
+   <line type="dialogue">Really?</line>
+   <line type="dialogue">He called you last week.</line>
+   <line type="dialogue">Well, maybe
 he got a wrong number.</line>
-   <line>Talk to wrong numbers
+   <line type="dialogue">Talk to wrong numbers
 for six minutes?</line>
-   <line>Maybe I got lonely.</line>
-   <line>Clemen got k*lled later that day.</line>
-   <line>You know anything about that?</line>
-   <line>Dead, whoa.</line>
-   <line>Know him now?</line>
-   <line>How about her?
+   <line type="dialogue">Maybe I got lonely.</line>
+   <line type="dialogue">Clemen got k*lled later that day.</line>
+   <line type="dialogue">You know anything about that?</line>
+   <line type="dialogue">Dead, whoa.</line>
+   <line type="dialogue">Know him now?</line>
+   <line type="dialogue">How about her?
 Name's Vanessa Prosser.</line>
-   <line>Sorry, anyone else?</line>
-   <line>How about Congressman
+   <line type="dialogue">Sorry, anyone else?</line>
+   <line type="dialogue">How about Congressman
 David Lake?</line>
-   <line>Yeah, I'll have him,
+   <line type="dialogue">Yeah, I'll have him,
 he's from the neighborhood.</line>
-   <line>You friendly?</line>
-   <line>I wouldn't say that.</line>
-   <line>Look, I gotta get to the scrap yard.</line>
-   <line>This your writing?</line>
-   <line>No, man.
+   <line type="dialogue">You friendly?</line>
+   <line type="dialogue">I wouldn't say that.</line>
+   <line type="dialogue">Look, I gotta get to the scrap yard.</line>
+   <line type="dialogue">This your writing?</line>
+   <line type="dialogue">No, man.
 That's the architect.</line>
-   <line>They all write like that.</line>
-   <line>Old set of blueprints from Dobie.
+   <line type="dialogue">They all write like that.</line>
+   <line type="dialogue">Old set of blueprints from Dobie.
 Check on the print.</line>
-   <line>Here's the letter from Vanessa's
+   <line type="dialogue">Here's the letter from Vanessa's
 pocket. Compare this two.</line>
-   <line>Dobie's architect wrote
+   <line type="dialogue">Dobie's architect wrote
 Vanessa a love letter?</line>
-   <line>They almost match.
+   <line type="dialogue">They almost match.
 - Almost.</line>
-   <line>This is called lettering.</line>
-   <line>You look at any set of plans,
+   <line type="dialogue">This is called lettering.</line>
+   <line type="dialogue">You look at any set of plans,
 it basically looks like this.</line>
-   <line>All architects print this way for clarity.</line>
-   <line>So, it's hard to tell one from the next.</line>
-   <line>And we only got one architect
+   <line type="dialogue">All architects print this way for clarity.</line>
+   <line type="dialogue">So, it's hard to tell one from the next.</line>
+   <line type="dialogue">And we only got one architect
 in this investigation.</line>
-   <line>Beth Reardon.</line>
-   <line>Where did you find this?</line>
-   <line>It was in Vanessa's pocket.</line>
-   <line>It's your writing, isn't it?</line>
-   <line>I guess I was kind of in love with her.</line>
-   <line>It's my fault she died.</line>
-   <line>Why do you say that?</line>
-   <line>We went outside.</line>
-   <line>I knew something was bothering her.</line>
-   <line>Don't worry about Aaron.</line>
-   <line>He'll regret it all in the morning.</line>
-   <line>I'm not.</line>
-   <line>Then what are you worried about?</line>
-   <line>You're not telling me something.</line>
-   <line>You ever wish you could just go backwards</line>
-   <line>and unlearn something?</line>
-   <line>Like?</line>
-   <line>I just want things to be simple.</line>
-   <line>But they're a mess.</line>
-   <line>Tell me what you mean.</line>
-   <line>I can't.</line>
-   <line>Beth. / I'm sorry.</line>
-   <line>I don't know what to say.</line>
-   <line>Don't say anything.</line>
-   <line>Just read.</line>
-   <line>I was awry that night.</line>
-   <line>If I hadn't left, maybe
+   <line type="dialogue">Beth Reardon.</line>
+   <line type="dialogue">Where did you find this?</line>
+   <line type="dialogue">It was in Vanessa's pocket.</line>
+   <line type="dialogue">It's your writing, isn't it?</line>
+   <line type="dialogue">I guess I was kind of in love with her.</line>
+   <line type="dialogue">It's my fault she died.</line>
+   <line type="dialogue">Why do you say that?</line>
+   <line type="dialogue">We went outside.</line>
+   <line type="dialogue">I knew something was bothering her.</line>
+   <line type="dialogue">Don't worry about Aaron.</line>
+   <line type="dialogue">He'll regret it all in the morning.</line>
+   <line type="dialogue">I'm not.</line>
+   <line type="dialogue">Then what are you worried about?</line>
+   <line type="dialogue">You're not telling me something.</line>
+   <line type="dialogue">You ever wish you could just go backwards</line>
+   <line type="dialogue">and unlearn something?</line>
+   <line type="dialogue">Like?</line>
+   <line type="dialogue">I just want things to be simple.</line>
+   <line type="dialogue">But they're a mess.</line>
+   <line type="dialogue">Tell me what you mean.</line>
+   <line type="dialogue">I can't.</line>
+   <line type="dialogue">Beth. / I'm sorry.</line>
+   <line type="dialogue">I don't know what to say.</line>
+   <line type="dialogue">Don't say anything.</line>
+   <line type="dialogue">Just read.</line>
+   <line type="dialogue">I was awry that night.</line>
+   <line type="dialogue">If I hadn't left, maybe
 she'd still be alive.</line>
-   <line>You told the first detectives you were
+   <line type="dialogue">You told the first detectives you were
 at home the rest of the night.</line>
-   <line>Passed out on my bathroom floor.</line>
-   <line>So no alibi, then?</line>
-   <line>That's my alibi.</line>
-   <line>That's where I was.</line>
-   <line>How about this past Thursday night?</line>
-   <line>I was in the ER.
+   <line type="dialogue">Passed out on my bathroom floor.</line>
+   <line type="dialogue">So no alibi, then?</line>
+   <line type="dialogue">That's my alibi.</line>
+   <line type="dialogue">That's where I was.</line>
+   <line type="dialogue">How about this past Thursday night?</line>
+   <line type="dialogue">I was in the ER.
 My son had an asthma attack.</line>
-   <line>Did Vanessa ever mention
+   <line type="dialogue">Did Vanessa ever mention
 the name Marvin Dobie?</line>
-   <line>Ex-con from Redding.</line>
-   <line>No bells?</line>
-   <line>Redding.</line>
-   <line>Um, she took a bus to Redding,
+   <line type="dialogue">Ex-con from Redding.</line>
+   <line type="dialogue">No bells?</line>
+   <line type="dialogue">Redding.</line>
+   <line type="dialogue">Um, she took a bus to Redding,
 a few days before the election.</line>
-   <line>She say why?</line>
-   <line>I heard her on the phone
+   <line type="dialogue">She say why?</line>
+   <line type="dialogue">I heard her on the phone
 checking schedules.</line>
-   <line>When I asked her about about it,</line>
-   <line>she changed the subject.</line>
-   <line>Darren Clemen calls Dobie
+   <line type="dialogue">When I asked her about about it,</line>
+   <line type="dialogue">she changed the subject.</line>
+   <line type="dialogue">Darren Clemen calls Dobie
 in Redding, ends up dead.</line>
-   <line>Vanessa goes to Redding..</line>
-   <line>Probably to contact Dobie.</line>
-   <line>Same ending.</line>
-   <line>All roads lead to Redding.</line>
-   <line>Congressman's hometown.</line>
-   <line>Believe me, I understand
+   <line type="dialogue">Vanessa goes to Redding..</line>
+   <line type="dialogue">Probably to contact Dobie.</line>
+   <line type="dialogue">Same ending.</line>
+   <line type="dialogue">All roads lead to Redding.</line>
+   <line type="dialogue">Congressman's hometown.</line>
+   <line type="dialogue">Believe me, I understand
 the need for low income housing.</line>
-   <line>I come from humble beginnings,
+   <line type="dialogue">I come from humble beginnings,
 and if it were up to me,</line>
-   <line>we'd break ground tomorrow.</line>
-   <line>But we just simply
+   <line type="dialogue">we'd break ground tomorrow.</line>
+   <line type="dialogue">But we just simply
 don't have the resources.</line>
-   <line>Me siento mucho.</line>
-   <line>He just told them he sets down a lot.</line>
-   <line>Gracias, gracias.
+   <line type="dialogue">Me siento mucho.</line>
+   <line type="dialogue">He just told them he sets down a lot.</line>
+   <line type="dialogue">Gracias, gracias.
 Thank you for coming.</line>
-   <line>How are you?</line>
-   <line>Vanessa and I worked
+   <line type="dialogue">How are you?</line>
+   <line type="dialogue">Vanessa and I worked
 on the campaign together.</line>
-   <line>That all you did together?</line>
-   <line>We hear you may have been
+   <line type="dialogue">That all you did together?</line>
+   <line type="dialogue">We hear you may have been
 more than co-workers.</line>
-   <line>Excuse me, just had lasik.</line>
-   <line>Put it off as long as I could.</line>
-   <line>in both eyes.</line>
-   <line>Contacts never seem to fit right.</line>
-   <line>This a fillibuster, Congressman?</line>
-   <line>Okay.</line>
-   <line>Vanessa and I were involved.</line>
-   <line>But you kept it quiet.</line>
-   <line>Well, I didn't want more than
+   <line type="dialogue">Excuse me, just had lasik.</line>
+   <line type="dialogue">Put it off as long as I could.</line>
+   <line type="dialogue">in both eyes.</line>
+   <line type="dialogue">Contacts never seem to fit right.</line>
+   <line type="dialogue">This a fillibuster, Congressman?</line>
+   <line type="dialogue">Okay.</line>
+   <line type="dialogue">Vanessa and I were involved.</line>
+   <line type="dialogue">But you kept it quiet.</line>
+   <line type="dialogue">Well, I didn't want more than
 one people in the campaign to know.</line>
-   <line>And after Vanessa died?</line>
-   <line>My coming forward
+   <line type="dialogue">And after Vanessa died?</line>
+   <line type="dialogue">My coming forward
 wouldn't have helped.</line>
-   <line>Wouldn't helped you.</line>
-   <line>I had no information.</line>
-   <line>And I was concerned about being
+   <line type="dialogue">Wouldn't helped you.</line>
+   <line type="dialogue">I had no information.</line>
+   <line type="dialogue">And I was concerned about being
 associated with an event like that.</line>
-   <line>Even though it was
+   <line type="dialogue">Even though it was
 your girlfriend that got k*lled?</line>
-   <line>She wasn't though.</line>
-   <line>We broke things off that night.</line>
-   <line>You been avoiding me?</line>
-   <line>No, I think you have that reversed.</line>
-   <line>Where's your friend?</line>
-   <line>She went home.</line>
-   <line>And the ex-boyfriend?</line>
-   <line>Don't know.</line>
-   <line>Don't care.</line>
-   <line>V, I've been offered a position</line>
-   <line>in Washington.</line>
-   <line>That's great. / Yeah.</line>
-   <line>That's what you wanted.</line>
-   <line>Thing is,</line>
-   <line>it wouldn't make sense for us
+   <line type="dialogue">She wasn't though.</line>
+   <line type="dialogue">We broke things off that night.</line>
+   <line type="dialogue">You been avoiding me?</line>
+   <line type="dialogue">No, I think you have that reversed.</line>
+   <line type="dialogue">Where's your friend?</line>
+   <line type="dialogue">She went home.</line>
+   <line type="dialogue">And the ex-boyfriend?</line>
+   <line type="dialogue">Don't know.</line>
+   <line type="dialogue">Don't care.</line>
+   <line type="dialogue">V, I've been offered a position</line>
+   <line type="dialogue">in Washington.</line>
+   <line type="dialogue">That's great. / Yeah.</line>
+   <line type="dialogue">That's what you wanted.</line>
+   <line type="dialogue">Thing is,</line>
+   <line type="dialogue">it wouldn't make sense for us
 to make this long distance.</line>
-   <line>I thought the idea was that we were</line>
-   <line>gonna go to Washington together,
+   <line type="dialogue">I thought the idea was that we were</line>
+   <line type="dialogue">gonna go to Washington together,
 not break up.</line>
-   <line>Things have a way of turning
+   <line type="dialogue">Things have a way of turning
 on a dime in this business.</line>
-   <line>Is it because of Abbey?</line>
-   <line>What did Abbey have to do with it?</line>
-   <line>She was always worried about
+   <line type="dialogue">Is it because of Abbey?</line>
+   <line type="dialogue">What did Abbey have to do with it?</line>
+   <line type="dialogue">She was always worried about
 loose ends with the girls I dated.</line>
-   <line>You ever get back to your humble
+   <line type="dialogue">You ever get back to your humble
 beginnings in Redding?</line>
-   <line>Not really, no time.</line>
-   <line>Cuz Vanessa did.</line>
-   <line>Yeah, went to see a guy
+   <line type="dialogue">Not really, no time.</line>
+   <line type="dialogue">Cuz Vanessa did.</line>
+   <line type="dialogue">Yeah, went to see a guy
 named Marvin Dobie.</line>
-   <line>I don't know the name.</line>
-   <line>Says he lived in your neighborhood.</line>
-   <line>I pride myself on my ability to
+   <line type="dialogue">I don't know the name.</line>
+   <line type="dialogue">Says he lived in your neighborhood.</line>
+   <line type="dialogue">I pride myself on my ability to
 remember people.</line>
-   <line>Thanks for being frank with us.</line>
-   <line>If there's one thing I learned
+   <line type="dialogue">Thanks for being frank with us.</line>
+   <line type="dialogue">If there's one thing I learned
 from Bill Clinton,</line>
-   <line>never lie about that sort of thing.</line>
-   <line>Maybe he didn't lie about Vanessa.</line>
-   <line>He lied about Dobie.</line>
-   <line>You found a connection?</line>
-   <line>Yeah, pulled the forms to see
+   <line type="dialogue">never lie about that sort of thing.</line>
+   <line type="dialogue">Maybe he didn't lie about Vanessa.</line>
+   <line type="dialogue">He lied about Dobie.</line>
+   <line type="dialogue">You found a connection?</line>
+   <line type="dialogue">Yeah, pulled the forms to see
 who posted bail</line>
-   <line>on Dobie's arrest. Fraud, ' .</line>
-   <line>by Linda Savis.</line>
-   <line>Who's that?</line>
-   <line>Got her own record for prostitution,
+   <line type="dialogue">on Dobie's arrest. Fraud, ' .</line>
+   <line type="dialogue">by Linda Savis.</line>
+   <line type="dialogue">Who's that?</line>
+   <line type="dialogue">Got her own record for prostitution,
 but only once under that name.</line>
-   <line>In her married year,
+   <line type="dialogue">In her married year,
 she was known as..</line>
-   <line>Linda Lake.</line>
-   <line>Mother of David and Abbey.</line>
-   <line>What did she had to do with Dobie?</line>
-   <line>Shared an address for an year.</line>
-   <line>Probably a boyfriend.</line>
-   <line>So Dobie didn't live in the same
+   <line type="dialogue">Linda Lake.</line>
+   <line type="dialogue">Mother of David and Abbey.</line>
+   <line type="dialogue">What did she had to do with Dobie?</line>
+   <line type="dialogue">Shared an address for an year.</line>
+   <line type="dialogue">Probably a boyfriend.</line>
+   <line type="dialogue">So Dobie didn't live in the same
 neighborhood with David Lake.</line>
-   <line>He lived in the same house.</line>
-   <line>And Lake can't place the name.</line>
-   <line>Which is doubly curious considering
+   <line type="dialogue">He lived in the same house.</line>
+   <line type="dialogue">And Lake can't place the name.</line>
+   <line type="dialogue">Which is doubly curious considering
 the checks he's been writing.</line>
-   <line>Marvin Dobie</line>
-   <line>has been getting payments
+   <line type="dialogue">Marvin Dobie</line>
+   <line type="dialogue">has been getting payments
 from a trust since the late eighties,</line>
-   <line>a trust set up by David Lake.</line>
-   <line>Had the congressman giving
+   <line type="dialogue">a trust set up by David Lake.</line>
+   <line type="dialogue">Had the congressman giving
 Dobie a financial support?</line>
-   <line>But what is Dobie giving him?</line>
-   <line>You said you didn't know
+   <line type="dialogue">But what is Dobie giving him?</line>
+   <line type="dialogue">You said you didn't know
 Darren Clemen.</line>
-   <line>Or Vanessa Prosser.</line>
-   <line>We think you did though and
+   <line type="dialogue">Or Vanessa Prosser.</line>
+   <line type="dialogue">We think you did though and
 now they're both dead.</line>
-   <line>Not cuz of me.</line>
-   <line>Cuz of something you know then?</line>
-   <line>You also lied
+   <line type="dialogue">Not cuz of me.</line>
+   <line type="dialogue">Cuz of something you know then?</line>
+   <line type="dialogue">You also lied
 about Congressman Lake.</line>
-   <line>Not only did you know him,</line>
-   <line>you lived in his house
+   <line type="dialogue">Not only did you know him,</line>
+   <line type="dialogue">you lived in his house
 when he was a teenager.</line>
-   <line>I ain't talking about Lake.</line>
-   <line>Don't want them checks
+   <line type="dialogue">I ain't talking about Lake.</line>
+   <line type="dialogue">Don't want them checks
 to stop coming.</line>
-   <line>Someone's going away
+   <line type="dialogue">Someone's going away
 for this girl's m*rder.</line>
-   <line>Comes down to you or Lake,</line>
-   <line>who do you think gets
+   <line type="dialogue">Comes down to you or Lake,</line>
+   <line type="dialogue">who do you think gets
 the benefit of the doubt?</line>
-   <line>The congressman or
+   <line type="dialogue">The congressman or
 the ex-con?</line>
-   <line>Lake has resources,
+   <line type="dialogue">Lake has resources,
 lawyers, status.</line>
-   <line>What have you got?</line>
-   <line>Self respect.</line>
-   <line>That's more than he can say.</line>
-   <line>You tell me I don't get rung up
+   <line type="dialogue">What have you got?</line>
+   <line type="dialogue">Self respect.</line>
+   <line type="dialogue">That's more than he can say.</line>
+   <line type="dialogue">You tell me I don't get rung up
 on some extortion rap.</line>
-   <line>And I tell you what you wanna know.</line>
-   <line>I think we can sell that to the D.A.</line>
-   <line>Clemen called me up.</line>
-   <line>Said he found my name
+   <line type="dialogue">And I tell you what you wanna know.</line>
+   <line type="dialogue">I think we can sell that to the D.A.</line>
+   <line type="dialogue">Clemen called me up.</line>
+   <line type="dialogue">Said he found my name
 in this girl's stuff.</line>
-   <line>How that happened, I don't know.</line>
-   <line>Okay.</line>
-   <line>Asked what I knew
+   <line type="dialogue">How that happened, I don't know.</line>
+   <line type="dialogue">Okay.</line>
+   <line type="dialogue">Asked what I knew
 about her getting k*lled.</line>
-   <line>What'd you tell him?</line>
-   <line>Nothing to tell.</line>
-   <line>I didn't know she was dead.</line>
-   <line>I met her that one time.
+   <line type="dialogue">What'd you tell him?</line>
+   <line type="dialogue">Nothing to tell.</line>
+   <line type="dialogue">I didn't know she was dead.</line>
+   <line type="dialogue">I met her that one time.
 That's all I knew of her.</line>
-   <line>So Vanessa did visit you in ' .</line>
-   <line>I don't know how she found me.</line>
-   <line>She just showed up at my door,
+   <line type="dialogue">So Vanessa did visit you in ' .</line>
+   <line type="dialogue">I don't know how she found me.</line>
+   <line type="dialogue">She just showed up at my door,
 out of the blue.</line>
-   <line>Why does David Lake
+   <line type="dialogue">Why does David Lake
 send you money?</line>
-   <line>David who, darling?</line>
-   <line>Look, I'm not looking for trouble.
+   <line type="dialogue">David who, darling?</line>
+   <line type="dialogue">Look, I'm not looking for trouble.
 I just..</line>
-   <line>I just wanna know why.</line>
-   <line>I don't know
+   <line type="dialogue">I just wanna know why.</line>
+   <line type="dialogue">I don't know
 what you're talking about.</line>
-   <line>He writes you checks.
+   <line type="dialogue">He writes you checks.
 I've seen them.</line>
-   <line>Are you some kind of a reporter?</line>
-   <line>No.</line>
-   <line>I'm a friend.</line>
-   <line>You go home, little girl.</line>
-   <line>Buy yourself some shoes,
+   <line type="dialogue">Are you some kind of a reporter?</line>
+   <line type="dialogue">No.</line>
+   <line type="dialogue">I'm a friend.</line>
+   <line type="dialogue">You go home, little girl.</line>
+   <line type="dialogue">Buy yourself some shoes,
 take your mind off of things.</line>
-   <line>I don't know what you're doing,</line>
-   <line>but I know enough to call the police.</line>
-   <line>Why don't you just ask David?</line>
-   <line>I did.</line>
-   <line>He won't tell me anything.</line>
-   <line>You aren't just a friend of his,
+   <line type="dialogue">I don't know what you're doing,</line>
+   <line type="dialogue">but I know enough to call the police.</line>
+   <line type="dialogue">Why don't you just ask David?</line>
+   <line type="dialogue">I did.</line>
+   <line type="dialogue">He won't tell me anything.</line>
+   <line type="dialogue">You aren't just a friend of his,
 aren't you?</line>
-   <line>God, I almost feel bad for you.</line>
-   <line>Why did you feel bad for her?</line>
-   <line>She was in over her head.</line>
-   <line>See,</line>
-   <line>David and his sister Abbey,</line>
-   <line>they were more than friends, too.</line>
-   <line>Brother and sister.</line>
-   <line>Yeah.</line>
-   <line>Yeah.</line>
-   <line>Dobie caught them a few times
+   <line type="dialogue">God, I almost feel bad for you.</line>
+   <line type="dialogue">Why did you feel bad for her?</line>
+   <line type="dialogue">She was in over her head.</line>
+   <line type="dialogue">See,</line>
+   <line type="dialogue">David and his sister Abbey,</line>
+   <line type="dialogue">they were more than friends, too.</line>
+   <line type="dialogue">Brother and sister.</line>
+   <line type="dialogue">Yeah.</line>
+   <line type="dialogue">Yeah.</line>
+   <line type="dialogue">Dobie caught them a few times
 while he was living with them.</line>
-   <line>He have proof?</line>
-   <line>What, like pictures?</line>
-   <line>Yeah. / No, no pictures.</line>
-   <line>But David and Abbey were worried
+   <line type="dialogue">He have proof?</line>
+   <line type="dialogue">What, like pictures?</line>
+   <line type="dialogue">Yeah. / No, no pictures.</line>
+   <line type="dialogue">But David and Abbey were worried
 enough to be paying him off
 for past years.</line>
-   <line>Man, I voted for this guy.</line>
-   <line>Dobie told Vanessa Prosser about it.</line>
-   <line>We think she went and
+   <line type="dialogue">Man, I voted for this guy.</line>
+   <line type="dialogue">Dobie told Vanessa Prosser about it.</line>
+   <line type="dialogue">We think she went and
 confronted the happy couple.</line>
-   <line>And got k*lled for it.</line>
-   <line>And last week, Dobie called
+   <line type="dialogue">And got k*lled for it.</line>
+   <line type="dialogue">And last week, Dobie called
 the congressman</line>
-   <line>to report that Darren Clemen
+   <line type="dialogue">to report that Darren Clemen
 was sniffing around.</line>
-   <line>Few hours later, Clemen ends up
+   <line type="dialogue">Few hours later, Clemen ends up
 with two in the head.</line>
-   <line>But Lake was in D.C. that day.</line>
-   <line>Dobie says Abbey took the call.</line>
-   <line>So you think Abbey did both jobs.</line>
-   <line>When it comes to her brother,</line>
-   <line>Abbey takes care of everything.</line>
-   <line>Dobie's got a sheet like a w*r
+   <line type="dialogue">But Lake was in D.C. that day.</line>
+   <line type="dialogue">Dobie says Abbey took the call.</line>
+   <line type="dialogue">So you think Abbey did both jobs.</line>
+   <line type="dialogue">When it comes to her brother,</line>
+   <line type="dialogue">Abbey takes care of everything.</line>
+   <line type="dialogue">Dobie's got a sheet like a w*r
 and peace, Kite.</line>
-   <line>Maybe he can be compelled to testify.</line>
-   <line>Hearsay from a repeat felon
+   <line type="dialogue">Maybe he can be compelled to testify.</line>
+   <line type="dialogue">Hearsay from a repeat felon
 won't buy you much.</line>
-   <line>You wanna get our m*rder?</line>
-   <line>You gotta get her to talk.</line>
-   <line>I didn't k*ll anyone.</line>
-   <line>What would give you
+   <line type="dialogue">You wanna get our m*rder?</line>
+   <line type="dialogue">You gotta get her to talk.</line>
+   <line type="dialogue">I didn't k*ll anyone.</line>
+   <line type="dialogue">What would give you
 an idea like that?</line>
-   <line>Not what,</line>
-   <line>who.</line>
-   <line>Acquaintance of yours.
+   <line type="dialogue">Not what,</line>
+   <line type="dialogue">who.</line>
+   <line type="dialogue">Acquaintance of yours.
 Kind of an in-law actually.</line>
-   <line>Marvin Dobie.</line>
-   <line>What rock did he crawl out
+   <line type="dialogue">Marvin Dobie.</line>
+   <line type="dialogue">What rock did he crawl out
 from under?</line>
-   <line>You should know.</line>
-   <line>You paid for it.</line>
-   <line>Hush money couldn't keep
+   <line type="dialogue">You should know.</line>
+   <line type="dialogue">You paid for it.</line>
+   <line type="dialogue">Hush money couldn't keep
 him quiet though.</line>
-   <line>Your own brother, Abbey?</line>
-   <line>My own brother what?</line>
-   <line>When it gets out David Lake took
+   <line type="dialogue">Your own brother, Abbey?</line>
+   <line type="dialogue">My own brother what?</line>
+   <line type="dialogue">When it gets out David Lake took
 advantage of his sister</line>
-   <line>when they were teenagers.</line>
-   <line>That'll finish him.</line>
-   <line>Do you have any idea
+   <line type="dialogue">when they were teenagers.</line>
+   <line type="dialogue">That'll finish him.</line>
+   <line type="dialogue">Do you have any idea
 how that sounds?</line>
-   <line>I know how it's gonna read.</line>
-   <line>National Enquirer, Star.
+   <line type="dialogue">I know how it's gonna read.</line>
+   <line type="dialogue">National Enquirer, Star.
 - The jit papers, too.</line>
-   <line>Now, they'll stop
+   <line type="dialogue">Now, they'll stop
 the presses for this one.</line>
-   <line>That would be slander,
+   <line type="dialogue">That would be slander,
 we'd sue you.</line>
-   <line>By that time, everyone will know.</line>
-   <line>Canon, ring a bell?</line>
-   <line>That charming brother of
+   <line type="dialogue">By that time, everyone will know.</line>
+   <line type="dialogue">Canon, ring a bell?</line>
+   <line type="dialogue">That charming brother of
 yours won't have a career left.</line>
-   <line>Maybe that's what Abbey wants.</line>
-   <line>To have her favorite guy all to herself.</line>
-   <line>That's why you k*lled Vanessa,
+   <line type="dialogue">Maybe that's what Abbey wants.</line>
+   <line type="dialogue">To have her favorite guy all to herself.</line>
+   <line type="dialogue">That's why you k*lled Vanessa,
 isn't it?</line>
-   <line>What do you say, Abbey?</line>
-   <line>We call up the gossip rags or
+   <line type="dialogue">What do you say, Abbey?</line>
+   <line type="dialogue">We call up the gossip rags or
 you start spilling.</line>
-   <line>Okay.</line>
-   <line>I need assurances.</line>
-   <line>What kind?</line>
-   <line>You keep certain things
+   <line type="dialogue">Okay.</line>
+   <line type="dialogue">I need assurances.</line>
+   <line type="dialogue">What kind?</line>
+   <line type="dialogue">You keep certain things
 out of the press.</line>
-   <line>They'll come out at trial.</line>
-   <line>Not if I plead guilty.</line>
-   <line>David didn't take advantage of me,
+   <line type="dialogue">They'll come out at trial.</line>
+   <line type="dialogue">Not if I plead guilty.</line>
+   <line type="dialogue">David didn't take advantage of me,
 I was older.</line>
-   <line>It was me.</line>
-   <line>And Vanessa found this out?</line>
-   <line>She should've minded her
+   <line type="dialogue">It was me.</line>
+   <line type="dialogue">And Vanessa found this out?</line>
+   <line type="dialogue">She should've minded her
 own business.</line>
-   <line>Adams Morgan.</line>
-   <line>How about Georgetown?</line>
-   <line>It'd be so great if we could work
+   <line type="dialogue">Adams Morgan.</line>
+   <line type="dialogue">How about Georgetown?</line>
+   <line type="dialogue">It'd be so great if we could work
 at the White House.</line>
-   <line>Assuming Clinton wins.</line>
-   <line>We could get an apartment together.</line>
-   <line>Dog?</line>
-   <line>Cat.</line>
-   <line>Both.</line>
-   <line>I wanna go to every museum
+   <line type="dialogue">Assuming Clinton wins.</line>
+   <line type="dialogue">We could get an apartment together.</line>
+   <line type="dialogue">Dog?</line>
+   <line type="dialogue">Cat.</line>
+   <line type="dialogue">Both.</line>
+   <line type="dialogue">I wanna go to every museum
 on the mall.</line>
-   <line>It's easy train trip back to Philly.</line>
-   <line>It would be great, V.</line>
-   <line>Abbey. / Hi.</line>
-   <line>Sorry, it's late, I know.</line>
-   <line>How long have
+   <line type="dialogue">It's easy train trip back to Philly.</line>
+   <line type="dialogue">It would be great, V.</line>
+   <line type="dialogue">Abbey. / Hi.</line>
+   <line type="dialogue">Sorry, it's late, I know.</line>
+   <line type="dialogue">How long have
 you been standing there?</line>
-   <line>What do you mean?</line>
-   <line>I just got here.</line>
-   <line>I need you to sign some checks.</line>
-   <line>now?</line>
-   <line>That's his new number.</line>
-   <line>Forget it, we can't let him
+   <line type="dialogue">What do you mean?</line>
+   <line type="dialogue">I just got here.</line>
+   <line type="dialogue">I need you to sign some checks.</line>
+   <line type="dialogue">now?</line>
+   <line type="dialogue">That's his new number.</line>
+   <line type="dialogue">Forget it, we can't let him
 keep raising the amount.</line>
-   <line>You want a future in the public eye,</line>
-   <line>you pay him.</line>
-   <line>Then we get a girl curious.</line>
-   <line>If I'd been more successful
+   <line type="dialogue">You want a future in the public eye,</line>
+   <line type="dialogue">you pay him.</line>
+   <line type="dialogue">Then we get a girl curious.</line>
+   <line type="dialogue">If I'd been more successful
 at deflecting her,</line>
-   <line>I wouldn't have had to do
+   <line type="dialogue">I wouldn't have had to do
 what I did.</line>
-   <line>Which was?</line>
-   <line>I sent her down the stairs
+   <line type="dialogue">Which was?</line>
+   <line type="dialogue">I sent her down the stairs
 to the hotel parking garage,</line>
-   <line>then dumped her from the bridge.</line>
-   <line>All for David's brilliant career?</line>
-   <line>I owed him</line>
-   <line>for what I did
+   <line type="dialogue">then dumped her from the bridge.</line>
+   <line type="dialogue">All for David's brilliant career?</line>
+   <line type="dialogue">I owed him</line>
+   <line type="dialogue">for what I did
 when we were young.</line>
-   <line>And David agreed to sweep
+   <line type="dialogue">And David agreed to sweep
 the sound of the rug?</line>
-   <line>He doesn't know anything.</line>
-   <line>What about Clemen?</line>
-   <line>Doesn't know about him either.</line>
-   <line>You admit to sh**ting him?</line>
-   <line>Two sh*ts.</line>
-   <line>He was as close as
+   <line type="dialogue">He doesn't know anything.</line>
+   <line type="dialogue">What about Clemen?</line>
+   <line type="dialogue">Doesn't know about him either.</line>
+   <line type="dialogue">You admit to sh**ting him?</line>
+   <line type="dialogue">Two sh*ts.</line>
+   <line type="dialogue">He was as close as
 you are right now.</line>
-   <line>That was your . ?</line>
-   <line>IT was a . .</line>
-   <line>You can find it in my apartment.</line>
-   <line>Hey, we got a g*n.</line>
-   <line>Ballistics will test fire and compare
+   <line type="dialogue">That was your . ?</line>
+   <line type="dialogue">IT was a . .</line>
+   <line type="dialogue">You can find it in my apartment.</line>
+   <line type="dialogue">Hey, we got a g*n.</line>
+   <line type="dialogue">Ballistics will test fire and compare
 but she looks good for it.</line>
-   <line>Well, that'll make the bosses happy.
+   <line type="dialogue">Well, that'll make the bosses happy.
 Better her than the congressman.</line>
-   <line>You were getting
+   <line type="dialogue">You were getting
 nervous upstairs, huh?</line>
-   <line>Can I show you something?</line>
-   <line>He ain't wearing his glasses.</line>
-   <line>So? / So,</line>
-   <line>where'd they go?</line>
-   <line>I lose mine three times a day,
+   <line type="dialogue">Can I show you something?</line>
+   <line type="dialogue">He ain't wearing his glasses.</line>
+   <line type="dialogue">So? / So,</line>
+   <line type="dialogue">where'd they go?</line>
+   <line type="dialogue">I lose mine three times a day,
 Scotty.</line>
-   <line>You're not blind without them.
+   <line type="dialogue">You're not blind without them.
 Lake said he had vision.</line>
-   <line>What's your theory?</line>
-   <line>Maybe lost them in a struggle.</line>
-   <line>Abbey's taking the fall.</line>
-   <line>In her twisted devotion to David,
+   <line type="dialogue">What's your theory?</line>
+   <line type="dialogue">Maybe lost them in a struggle.</line>
+   <line type="dialogue">Abbey's taking the fall.</line>
+   <line type="dialogue">In her twisted devotion to David,
 she figures better to let him go on</line>
-   <line>doing all his good,
+   <line type="dialogue">doing all his good,
 she'll sit in jail.</line>
-   <line>That's a little thin.
+   <line type="dialogue">That's a little thin.
 - It makes sense.</line>
-   <line>Scotty, we got nothing on him.</line>
-   <line>I know he did it.
+   <line type="dialogue">Scotty, we got nothing on him.</line>
+   <line type="dialogue">I know he did it.
 - But we can't make the case.</line>
-   <line>Sooner or later, Scotty,
+   <line type="dialogue">Sooner or later, Scotty,
 one's gonna get by you.</line>
-   <line>Happens to us all.</line>
-   <line>I wanna go see Lake
+   <line type="dialogue">Happens to us all.</line>
+   <line type="dialogue">I wanna go see Lake
 one more time.</line>
-   <line>I don't know who Darren Clemen is.</line>
-   <line>He's Vanessa's real father.</line>
-   <line>He was looking into her death.</line>
-   <line>Which means he was looking into you.</line>
-   <line>You think I k*lled Vanessa?</line>
-   <line>Leaning there.</line>
-   <line>Except, your sister says she did it.</line>
-   <line>She said that?</line>
-   <line>Made a deal.</line>
-   <line>Copped to both murders
+   <line type="dialogue">I don't know who Darren Clemen is.</line>
+   <line type="dialogue">He's Vanessa's real father.</line>
+   <line type="dialogue">He was looking into her death.</line>
+   <line type="dialogue">Which means he was looking into you.</line>
+   <line type="dialogue">You think I k*lled Vanessa?</line>
+   <line type="dialogue">Leaning there.</line>
+   <line type="dialogue">Except, your sister says she did it.</line>
+   <line type="dialogue">She said that?</line>
+   <line type="dialogue">Made a deal.</line>
+   <line type="dialogue">Copped to both murders
 in exchange,</line>
-   <line>we don't leak your dirty little secret.</line>
-   <line>I have to call Abbey.</line>
-   <line>Without your help,
+   <line type="dialogue">we don't leak your dirty little secret.</line>
+   <line type="dialogue">I have to call Abbey.</line>
+   <line type="dialogue">Without your help,
 she's looking at life.</line>
-   <line>How can I help?</line>
-   <line>Tell us what happened to Vanessa.</line>
-   <line>I don't know.</line>
-   <line>You know.</line>
-   <line>Excuse me.</line>
-   <line>I don't have anything more to say.</line>
-   <line>He almost sweat in there.</line>
-   <line>You know that call Stillman
+   <line type="dialogue">How can I help?</line>
+   <line type="dialogue">Tell us what happened to Vanessa.</line>
+   <line type="dialogue">I don't know.</line>
+   <line type="dialogue">You know.</line>
+   <line type="dialogue">Excuse me.</line>
+   <line type="dialogue">I don't have anything more to say.</line>
+   <line type="dialogue">He almost sweat in there.</line>
+   <line type="dialogue">You know that call Stillman
 didn't want to get from the brass?</line>
-   <line>He got it.</line>
-   <line>We have to leave Lake alone.</line>
-   <line>Commissioner's orders.</line>
-   <line>Hey.</line>
-   <line>Heard you went back
+   <line type="dialogue">He got it.</line>
+   <line type="dialogue">We have to leave Lake alone.</line>
+   <line type="dialogue">Commissioner's orders.</line>
+   <line type="dialogue">Hey.</line>
+   <line type="dialogue">Heard you went back
 at the congressman.</line>
-   <line>Yeah. Till the bosses shut us down.</line>
-   <line>Got a pretty good case against the sister.</line>
-   <line>Yeah, it must be nice having
+   <line type="dialogue">Yeah. Till the bosses shut us down.</line>
+   <line type="dialogue">Got a pretty good case against the sister.</line>
+   <line type="dialogue">Yeah, it must be nice having
 a different set of rules.</line>
-   <line>Saw you with that new A.D.A.</line>
-   <line>Julie? / Yeah.</line>
-   <line>Julie.</line>
-   <line>Actually, I'm on my way to meet her now.</line>
-   <line>Have fun.</line>
-   <line>Rush,</line>
-   <line>Rush.</line>
-   <line>I'll cut her loose right now
+   <line type="dialogue">Saw you with that new A.D.A.</line>
+   <line type="dialogue">Julie? / Yeah.</line>
+   <line type="dialogue">Julie.</line>
+   <line type="dialogue">Actually, I'm on my way to meet her now.</line>
+   <line type="dialogue">Have fun.</line>
+   <line type="dialogue">Rush,</line>
+   <line type="dialogue">Rush.</line>
+   <line type="dialogue">I'll cut her loose right now
 if it's just you and me,</line>
-   <line>but I haven't heard that from you.</line>
-   <line>So until you've decided that...
+   <line type="dialogue">but I haven't heard that from you.</line>
+   <line type="dialogue">So until you've decided that...
 - Okay, okay.</line>
-   <line>Okay what?</line>
-   <line>Just you and me.</line>
-   <line>Then, I'll go meet her right now.</line>
-   <line>Be polite for now and tell her
+   <line type="dialogue">Okay what?</line>
+   <line type="dialogue">Just you and me.</line>
+   <line type="dialogue">Then, I'll go meet her right now.</line>
+   <line type="dialogue">Be polite for now and tell her
 that I'm otherwise engaged.</line>
-   <line>Okay.</line>
-   <line>Okay.</line>
-   <line>Congressman.</line>
-   <line>You're not allowed to be here.</line>
-   <line>Off duty.</line>
-   <line>Just two guys talking.</line>
-   <line>I don't think so.</line>
-   <line>Your life's pretty important, huh?</line>
-   <line>Everyone's life is important.</line>
-   <line>Not Vanessa's apparently.</line>
-   <line>Or Abbey's.</line>
-   <line>What kind of man
+   <line type="dialogue">Okay.</line>
+   <line type="dialogue">Okay.</line>
+   <line type="dialogue">Congressman.</line>
+   <line type="dialogue">You're not allowed to be here.</line>
+   <line type="dialogue">Off duty.</line>
+   <line type="dialogue">Just two guys talking.</line>
+   <line type="dialogue">I don't think so.</line>
+   <line type="dialogue">Your life's pretty important, huh?</line>
+   <line type="dialogue">Everyone's life is important.</line>
+   <line type="dialogue">Not Vanessa's apparently.</line>
+   <line type="dialogue">Or Abbey's.</line>
+   <line type="dialogue">What kind of man
 lets his sister take his b*llet?</line>
-   <line>You don't know about Abbey and me.</line>
-   <line>I know more than I want to know.</line>
-   <line>We had a hard upbringing.</line>
-   <line>Yeah, humble beginnings.</line>
-   <line>It was a lot worse than humble.</line>
-   <line>It made us very close.</line>
-   <line>I can't make you understand.</line>
-   <line>I don't need to understand that.</line>
-   <line>I just want the truth about Vanessa,
+   <line type="dialogue">You don't know about Abbey and me.</line>
+   <line type="dialogue">I know more than I want to know.</line>
+   <line type="dialogue">We had a hard upbringing.</line>
+   <line type="dialogue">Yeah, humble beginnings.</line>
+   <line type="dialogue">It was a lot worse than humble.</line>
+   <line type="dialogue">It made us very close.</line>
+   <line type="dialogue">I can't make you understand.</line>
+   <line type="dialogue">I don't need to understand that.</line>
+   <line type="dialogue">I just want the truth about Vanessa,
 how she died.</line>
-   <line>You got a law degree, right.
+   <line type="dialogue">You got a law degree, right.
 You know about Miranda.</line>
-   <line>Yeah. / Well, I haven't Mirandized you,
+   <line type="dialogue">Yeah. / Well, I haven't Mirandized you,
 so anything you tell me right now,</line>
-   <line>I can't use it in court.
+   <line type="dialogue">I can't use it in court.
 You're protected.</line>
-   <line>And we can have a conversation.</line>
-   <line>About what? / The truth.</line>
-   <line>Why would you wanna
+   <line type="dialogue">And we can have a conversation.</line>
+   <line type="dialogue">About what? / The truth.</line>
+   <line type="dialogue">Why would you wanna
 know something</line>
-   <line>you could do nothing about?</line>
-   <line>That's for me to know.</line>
-   <line>What you need to know is
+   <line type="dialogue">you could do nothing about?</line>
+   <line type="dialogue">That's for me to know.</line>
+   <line type="dialogue">What you need to know is
 I ain't leaving till you tell me.</line>
-   <line>I thought that she had left the party.</line>
-   <line>I never expected to see her again.</line>
-   <line>Vanessa,</line>
-   <line>what are you doing here?</line>
-   <line>I went to Redding this weekend.</line>
-   <line>I met Marvin Dobie.</line>
-   <line>Why would you do that?</line>
-   <line>I just wanted to know
+   <line type="dialogue">I thought that she had left the party.</line>
+   <line type="dialogue">I never expected to see her again.</line>
+   <line type="dialogue">Vanessa,</line>
+   <line type="dialogue">what are you doing here?</line>
+   <line type="dialogue">I went to Redding this weekend.</line>
+   <line type="dialogue">I met Marvin Dobie.</line>
+   <line type="dialogue">Why would you do that?</line>
+   <line type="dialogue">I just wanted to know
 what was coming between us.</line>
-   <line>What did he say?</line>
-   <line>It doesn't matter.</line>
-   <line>What did he say?</line>
-   <line>He told me.</line>
-   <line>About you and Abbey.</line>
-   <line>It's all right.</line>
-   <line>Vanessa, we can't.</line>
-   <line>I can't.</line>
-   <line>We can.</line>
-   <line>We can be together.</line>
-   <line>You just have to look forward
+   <line type="dialogue">What did he say?</line>
+   <line type="dialogue">It doesn't matter.</line>
+   <line type="dialogue">What did he say?</line>
+   <line type="dialogue">He told me.</line>
+   <line type="dialogue">About you and Abbey.</line>
+   <line type="dialogue">It's all right.</line>
+   <line type="dialogue">Vanessa, we can't.</line>
+   <line type="dialogue">I can't.</line>
+   <line type="dialogue">We can.</line>
+   <line type="dialogue">We can be together.</line>
+   <line type="dialogue">You just have to look forward
 and not back.</line>
-   <line>I love you.</line>
-   <line>I can't.</line>
-   <line>V.</line>
-   <line>Oh god, Vanessa.</line>
-   <line>Abbey.</line>
-   <line>Abbey, I screwed up.</line>
+   <line type="dialogue">I love you.</line>
+   <line type="dialogue">I can't.</line>
+   <line type="dialogue">V.</line>
+   <line type="dialogue">Oh god, Vanessa.</line>
+   <line type="dialogue">Abbey.</line>
+   <line type="dialogue">Abbey, I screwed up.</line>
    <line type="music">♪ Came in from a rainy Thursday
 on the avenue ♪</line>
    <line type="music">♪ Thought I heard you talking softly. ♪</line>
