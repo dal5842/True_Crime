@@ -6,20 +6,20 @@
         <script src="https://unpkg.com/cytoscape/dist/cytoscape.min.js"></script>
         <style>
             .cy-wrapper {
-                max-width: 1000px;
-                margin: 0 auto;
-                padding: 1rem;
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 1rem;
             }
-            #cy {
-                width: 100%;
-                max-width: 1000px;
-                height: 600px;
-                margin: 0 auto;
-                background-color: white;
-                border: 1px solid #ccc;
+            .cy-wrapper > div[id^="cy"] {
+            width: 100%;
+            max-width: 1000px;
+            height: 600px;
+            margin: 0 auto;
+            background-color: white;
+            border: 1px solid #ccc;
             }
             * {
-                box-sizing: border-box;
+            box-sizing: border-box;
             }
         </style>
         <title>Cytoscape Analysis</title>
@@ -44,7 +44,7 @@
                         <a href="soundtrack.html">Sound Track</a>
                         <a href="Kumu.html">Kumu</a>
                         <a href="Cytoscape.html">Cytoscape</a>
-                        <a href="Methods.html">Methods</a>
+                        <a href="XSLT.html">XSLT Transformations</a>
                     </div>
                 </li>
             </ul>
@@ -52,75 +52,64 @@
         <main>
             <h1>CytoScape Comparisons</h1>
             <div class="cy-wrapper">
-                <div id="cy"></div>
-                <div class="caption">CytoScape Music Network: What can one understand from the array
-                    of verbs pulled from the song of it's respective episode? This CytoScape targets
-                    the frequent verbs within the music lyrics of a song featured in a episode. The
-                    theme of the song directly correlates to it's episode. For example: In Episode 8
-                    of Cold Case: Fly Away, the butterfly motif is central to Toya’s school play
-                    ("The Flight of the Monarch Butterflies") and repeatedly appears in Rosie's
-                    traumatized memory (“Toya had butterfly wings and bruises”). The song "Heaven"
-                    by Bryan Adams has lyrics focused on freedom, transformation, and fragility —
-                    mirroring Toya's innocence and her tragic attempt to escape abuse. We see this
-                    in the network through the verbs "fly","spread","change", and "believe".
-                    Checkout out our "Soundtrack" and "Episode" page to get more insight on these
-                    overlaps!</div>
+                <div id="cy-music-verbs"></div>
+                <div class="caption">CytoScape Music Network: What can one understand from the array of verbs pulled from the song of it's respective episode? This CytoScape targets the frequent verbs within the music lyrics of a song featured in a episode. The theme of the song directly correlates to it's episode. For example: In Episode 8 of Cold Case: Fly Away, the butterfly motif is central to Toya’s school play ("The Flight of the Monarch Butterflies") and repeatedly appears in Rosie's traumatized memory (“Toya had butterfly wings and bruises”). The song "Heaven" by Bryan Adams has lyrics focused on freedom, transformation, and fragility — mirroring Toya's innocence and her tragic attempt to escape abuse. We see this in the network through the verbs "fly","spread","change", and "believe". Checkout out our "Soundtrack" and "Episode" page to get more insight on these overlaps!
+                </div>
             </div>
             <div class="cy-wrapper">
-                <div id="cy-wordfreq"></div>                  
-                <div class="caption">Cytoscape Word Frequency Network:This CytoScape shows word frequency in Episode 2.</div>
+                <div id="cy-word-freq">                   
+                <div class="caption">This CytoScape shows word frequency in Episode 2.</div>
+            </div>
             </div>
             <div class="cy-wrapper">
-                <div id="cy-dialogue"></div>   
-                    <div class="caption">Cytoscape Dialogue Network: This Cytoscape network shows how adjectives, verbs,
-                        pronouns, and entities are connected to the episodes they appear in. Those
-                        episodes were pulled out after processing with xslt. It is built on shared
-                        synsets and co-occurrence, with the size and connections of nodes showing
-                        the importance of each term. More prominent nodes appear more often in the
-                        dataset, highlighting their relevance. The clusters in the network often
-                        relate to specific topics, revealing patterns in language and concepts.
-                        Overall, the network highlights recurring themes and key descriptors in the
-                        text.</div>
+                <div id="cy-dialogue">
+                    <div class="caption">This Cytoscape network shows how adjectives, verbs, pronouns, and entities are connected to the episodes they appear in. Those episodes were pulled out after processing with xslt. It is built on shared synsets and co-occurrence, with the size and connections of nodes showing the importance of each term. More prominent nodes appear more often in the dataset, highlighting their relevance. The clusters in the network often relate to specific topics, revealing patterns in language and concepts. Overall, the network highlights recurring themes and key descriptors in the text.
+                    </div>
+                </div>
             </div>
         </main>
         <script src="music_verbs_elements.js"></script>
         <script>
             const cy = cytoscape({
-                container: document.getElementById('cy'),
-                elements: elements.elements,
-                style:[ {
-                    selector: 'node',
-                    style: {
-                        'label': 'data(label)',
-                        'background-color': '#0074D9',
-                        'color': '#fff',
-                        'text-valign': 'center',
-                        'text-halign': 'center',
-                        'shape': 'ellipse'
-                    }
-                }, {
-                    selector: 'edge',
-                    style: {
-                        'width': 2,
-                        'line-color': '#ccc',
-                        'target-arrow-shape': 'triangle',
-                        'target-arrow-color': '#ccc'
-                    }
-                }],
-                layout: {
-                    name: 'cose'
+              container: document.getElementById('cy-music-verbs'),
+              elements: elements.elements,
+              style: [
+                {
+                  selector: 'node',
+                  style: {
+                    'label': 'data(label)',
+                    'background-color': '#0074D9',
+                    'color': '#fff',
+                    'text-valign': 'center',
+                    'text-halign': 'center',
+                    'shape': 'ellipse'
+                  }
+                },
+                {
+                  selector: 'edge',
+                  style: {
+                    'width': 2,
+                    'line-color': '#ccc',
+                    'target-arrow-shape': 'triangle',
+                    'target-arrow-color': '#ccc'
+                  }
                 }
+              ],
+              layout: {
+                name: 'cose'
+              }
             });
-            
-            cy.on('tap', 'node', function (evt) {
-                let node = evt.target;
-                alert('You clicked: ' + node.data('label'));
+          
+            cy.on('tap', 'node', function(evt) {
+              let node = evt.target;
+              alert('You clicked: ' + node.data('label'));
             });
         </script>
+        
         <script src="word-freq.js"></script>
         <script>
             const cyWordFreq = cytoscape({
-              container: document.getElementById('cy-verbs'),
+              container: document.getElementById('cy-wordfreq'),
               elements: elementsVerbs.elements,
               layout: { name: 'cose' },
               style: [
@@ -147,32 +136,33 @@
               ]
             });
         </script>
+        
         <script src="dialogue.js"></script>
         <script>
             const cyDialogue = cytoscape({
-            container: document.getElementById('cy-characters'),
-            elements: elementsCharacters.elements,
-            layout: { name: 'circle' },
-            style: [
-            {
-            selector: 'node',
-            style: {
-            'label': 'data(label)',
-            'background-color': '#6364ff',
-            'color': '#fff',
-            'text-valign': 'center',
-            'text-halign': 'center',
-            'shape': 'rectangle'
-            }
-            },
-            {
-            selector: 'edge',
-            style: {
-            'width': 1.5,
-            'line-color': '#aaa'
-            }
-            }
-            ]
+              container: document.getElementById('cy-dialogue'),
+              elements: elementsCharacters.elements,
+              layout: { name: 'circle' },
+              style: [
+                {
+                  selector: 'node',
+                  style: {
+                    'label': 'data(label)',
+                    'background-color': '#6364ff',
+                    'color': '#fff',
+                    'text-valign': 'center',
+                    'text-halign': 'center',
+                    'shape': 'rectangle'
+                  }
+                },
+                {
+                  selector: 'edge',
+                  style: {
+                    'width': 1.5,
+                    'line-color': '#aaa'
+                  }
+                }
+              ]
             });
         </script>
         <footer>
@@ -181,16 +171,16 @@
                 <a href="http://dal5842.github.io/True_Crime/">True Crime</a> by <a
                     href="https://github.com/dal5842/True_Crime">Dannika Love, Gabriella Vozar,
                     Emily Kalie, Rashe Mishra</a> is licensed under <a
-                    href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1"
-                    target="_blank" rel="license noopener noreferrer">CC BY-NC-ND 4.0 <img
-                        src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"
-                        alt="CC" /><img
-                        src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"
-                        alt="BY" /><img
-                        src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"
-                        alt="NC" /><img
-                        src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1"
-                        alt="ND" /></a>
+                        href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1"
+                        target="_blank" rel="license noopener noreferrer">CC BY-NC-ND 4.0 <img
+                            src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"
+                            alt="CC" /><img
+                                src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"
+                                alt="BY" /><img
+                                    src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"
+                                    alt="NC" /><img
+                                        src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1"
+                                        alt="ND" /></a>
             </p>
         </footer>
     </body>
