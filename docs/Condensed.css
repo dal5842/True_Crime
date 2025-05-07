@@ -454,3 +454,51 @@ body.cytoscape-page .caption {
     color: #555;
     text-align: center;
 }
+
+/* ========================= */
+/* Methods Page            */
+/* ========================= */
+.methods-page .container {
+    background-color: white;
+    margin: 20px 0;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.methods-page .container h1, .methods-page .container h2 {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.methods-page .container p {
+    font-size: 1.1em;
+    margin-bottom: 15px;
+    color: #555;
+}
+
+.methods-page figure {
+    margin: 20px 0;
+    text-align: center;
+}
+
+.methods-page figcaption {
+    font-size: 0.9em;
+    color: #888;
+}
+
+.methods-page figure img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+}
+
+.methods-page a:hover {
+    text-decoration: underline;
+}
+
+.methods-page hr {
+    border: 1px solid #ddd;
+    margin: 20px 0;
+}
