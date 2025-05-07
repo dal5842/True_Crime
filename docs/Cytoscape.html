@@ -20,7 +20,8 @@
             }
             * {
                 box-sizing: border-box;
-            }</style>
+            }
+        </style>
         <title>Cytoscape Analysis</title>
         <link rel="stylesheet" href="Condensed.css" />
     </head>
@@ -65,14 +66,13 @@
                     Checkout out our "Soundtrack" and "Episode" page to get more insight on these
                     overlaps!</div>
             </div>
-            <div class="image-container">
-                <div class="image-item">
-                    <img src="Images/wordFreq.png" alt="Word Frequency CytoScape" />
-                    <div class="caption">This CytoScape shows word frequency in Episode 2.</div>
-                </div>
-                <div class="image-item">
-                    <img src="Images/dialogues.tsv_1-2.png" alt="Dialogue CytoScape" />
-                    <div class="caption">This Cytoscape network shows how adjectives, verbs,
+            <div class="cy-wrapper">
+                <div id="cy-wordfreq"></div>                  
+                <div class="caption">Cytoscape Word Frequency Network:This CytoScape shows word frequency in Episode 2.</div>
+            </div>
+            <div class="cy-wrapper">
+                <div id="cy-dialogue"></div>   
+                    <div class="caption">Cytoscape Dialogue Network: This Cytoscape network shows how adjectives, verbs,
                         pronouns, and entities are connected to the episodes they appear in. Those
                         episodes were pulled out after processing with xslt. It is built on shared
                         synsets and co-occurrence, with the size and connections of nodes showing
@@ -81,7 +81,6 @@
                         relate to specific topics, revealing patterns in language and concepts.
                         Overall, the network highlights recurring themes and key descriptors in the
                         text.</div>
-                </div>
             </div>
         </main>
         <script src="music_verbs_elements.js"></script>
@@ -116,7 +115,66 @@
             cy.on('tap', 'node', function (evt) {
                 let node = evt.target;
                 alert('You clicked: ' + node.data('label'));
-            });</script>
+            });
+        </script>
+        <script src="word-freq.js"></script>
+        <script>
+            const cyWordFreq = cytoscape({
+              container: document.getElementById('cy-verbs'),
+              elements: elementsVerbs.elements,
+              layout: { name: 'cose' },
+              style: [
+                {
+                  selector: 'node',
+                  style: {
+                    'label': 'data(label)',
+                    'background-color': '#1db954',
+                    'color': '#fff',
+                    'text-valign': 'center',
+                    'text-halign': 'center',
+                    'shape': 'ellipse'
+                  }
+                },
+                {
+                  selector: 'edge',
+                  style: {
+                    'width': 2,
+                    'line-color': '#bbb',
+                    'target-arrow-shape': 'triangle',
+                    'target-arrow-color': '#bbb'
+                  }
+                }
+              ]
+            });
+        </script>
+        <script src="dialogue.js"></script>
+        <script>
+            const cyDialogue = cytoscape({
+            container: document.getElementById('cy-characters'),
+            elements: elementsCharacters.elements,
+            layout: { name: 'circle' },
+            style: [
+            {
+            selector: 'node',
+            style: {
+            'label': 'data(label)',
+            'background-color': '#6364ff',
+            'color': '#fff',
+            'text-valign': 'center',
+            'text-halign': 'center',
+            'shape': 'rectangle'
+            }
+            },
+            {
+            selector: 'edge',
+            style: {
+            'width': 1.5,
+            'line-color': '#aaa'
+            }
+            }
+            ]
+            });
+        </script>
         <footer>
             <p>Gabriella Vozar | Dannika Love | Emily Kalie | Rashe Mishra</p>
             <p>
