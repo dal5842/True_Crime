@@ -21,6 +21,15 @@
             * {
             box-sizing: border-box;
             }
+            .caption {
+            font-size: 0.95rem;
+            background-color: white;
+            margin-top: 1rem;
+            margin-bottom: 1rem;
+            text-align: center;
+            font-weight: bold;
+            line-height: 1.5;
+            }
         </style>
         <title>Cytoscape Analysis</title>
         <link rel="stylesheet" href="Condensed.css" />
@@ -53,19 +62,13 @@
             <h1>CytoScape Comparisons</h1>
             <div class="cy-wrapper">
                 <div id="cy-music-verbs"></div>
-                <div class="caption">CytoScape Music Network: What can one understand from the array of verbs pulled from the song of it's respective episode? This CytoScape targets the frequent verbs within the music lyrics of a song featured in a episode. The theme of the song directly correlates to it's episode. For example: In Episode 8 of Cold Case: Fly Away, the butterfly motif is central to Toya’s school play ("The Flight of the Monarch Butterflies") and repeatedly appears in Rosie's traumatized memory (“Toya had butterfly wings and bruises”). The song "Heaven" by Bryan Adams has lyrics focused on freedom, transformation, and fragility — mirroring Toya's innocence and her tragic attempt to escape abuse. We see this in the network through the verbs "fly","spread","change", and "believe". Checkout out our "Soundtrack" and "Episode" page to get more insight on these overlaps!
-                </div>
+                    <div class="caption">CytoScape Music Network: What can one understand from the array of verbs pulled from the song of it's respective episode? This CytoScape targets the frequent verbs within the music lyrics of a song featured in a episode. The theme of the song directly correlates to it's episode. For example: In Episode 8 of Cold Case: Fly Away, the butterfly motif is central to Toya’s school play ("The Flight of the Monarch Butterflies") and repeatedly appears in Rosie's traumatized memory (“Toya had butterfly wings and bruises”). The song "Heaven" by Bryan Adams has lyrics focused on freedom, transformation, and fragility — mirroring Toya's innocence and her tragic attempt to escape abuse. We see this in the network through the verbs "fly","spread","change", and "believe". Checkout out our "Soundtrack" and "Episode" page to get more insight on these overlaps!
+                    </div>
             </div>
             <div class="cy-wrapper">
-                <div id="cy-word-freq">                   
-                <div class="caption">This CytoScape shows word frequency in Episode 2.</div>
-            </div>
-            </div>
-            <div class="cy-wrapper">
-                <div id="cy-dialogue">
+                <div id="cy-dialogue"></div>  
                     <div class="caption">This Cytoscape network shows how adjectives, verbs, pronouns, and entities are connected to the episodes they appear in. Those episodes were pulled out after processing with xslt. It is built on shared synsets and co-occurrence, with the size and connections of nodes showing the importance of each term. More prominent nodes appear more often in the dataset, highlighting their relevance. The clusters in the network often relate to specific topics, revealing patterns in language and concepts. Overall, the network highlights recurring themes and key descriptors in the text.
                     </div>
-                </div>
             </div>
         </main>
         <script src="music_verbs_elements.js"></script>
@@ -105,38 +108,6 @@
               alert('You clicked: ' + node.data('label'));
             });
         </script>
-        
-        <script src="word-freq.js"></script>
-        <script>
-            const cyWordFreq = cytoscape({
-              container: document.getElementById('cy-wordfreq'),
-              elements: elementsVerbs.elements,
-              layout: { name: 'cose' },
-              style: [
-                {
-                  selector: 'node',
-                  style: {
-                    'label': 'data(label)',
-                    'background-color': '#1db954',
-                    'color': '#fff',
-                    'text-valign': 'center',
-                    'text-halign': 'center',
-                    'shape': 'ellipse'
-                  }
-                },
-                {
-                  selector: 'edge',
-                  style: {
-                    'width': 2,
-                    'line-color': '#bbb',
-                    'target-arrow-shape': 'triangle',
-                    'target-arrow-color': '#bbb'
-                  }
-                }
-              ]
-            });
-        </script>
-        
         <script src="dialogue.js"></script>
         <script>
             const cyDialogue = cytoscape({
